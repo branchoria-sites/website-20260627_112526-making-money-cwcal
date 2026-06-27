@@ -1,0 +1,4107 @@
+{
+  "version": 1,
+  "page_count": 211,
+  "total_page_seconds": 642.5124,
+  "average_page_seconds": 3.0451,
+  "phase_totals_seconds": {
+    "internal_links": 270.9765,
+    "monetization": 189.837,
+    "content_assembly": 85.1601,
+    "media_svg": 73.856,
+    "quality_write": 7.5284,
+    "youtube": 6.4775,
+    "content_cleanup_final": 4.733,
+    "preparation": 3.8291,
+    "content_cleanup_initial": 0.1158
+  },
+  "slowest_pages": [
+    {
+      "base_name": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_compatibility_querie_7aaab5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.6902,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2189,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 1.158,
+        "youtube": 0.0169,
+        "content_assembly": 0.4933,
+        "monetization": 6.7521,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_rain_jacket_field_te_9967ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.5375,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2392,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.3892,
+        "youtube": 0.0103,
+        "content_assembly": 0.3532,
+        "monetization": 7.4794,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_kitchen_appliance_re_419365_blender_noise_tests_3be578",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.6074,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.3252,
+        "content_cleanup_final": 0.0331,
+        "media_svg": 0.4038,
+        "youtube": 0.0104,
+        "content_assembly": 0.3666,
+        "monetization": 6.42,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_hiking_boot_fit_note_0dd1bf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.6054,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1975,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.4053,
+        "youtube": 0.0137,
+        "content_assembly": 0.366,
+        "monetization": 6.562,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_authority_blog_7d2a98",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 8.1684,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.314,
+        "content_cleanup_final": 0.0439,
+        "media_svg": 0.1198,
+        "youtube": 0.0278,
+        "content_assembly": 0.5277,
+        "monetization": 6.0607,
+        "quality_write": 0.0503
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_price_history_altern_e8d036_price_alert_often_di_5ec9a2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.1515,
+      "phases": {
+        "preparation": 0.0196,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3396,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.3262,
+        "youtube": 0.009,
+        "content_assembly": 0.3926,
+        "monetization": 6.0111,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_side_by_side_testing_eb91dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.8612,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2403,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.3269,
+        "youtube": 0.011,
+        "content_assembly": 0.3516,
+        "monetization": 5.867,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2614,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1528,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.3341,
+        "youtube": 0.0097,
+        "content_assembly": 0.3597,
+        "monetization": 5.3372,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_constraint_query_tra_27ed05",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2598,
+      "phases": {
+        "preparation": 0.0,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6858,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.8137,
+        "youtube": 0.0105,
+        "content_assembly": 0.3554,
+        "monetization": 4.3418,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_kitchen_appliance_re_419365_coffee_machine_clean_cde4bf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.0234,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1899,
+        "content_cleanup_final": 0.0197,
+        "media_svg": 0.3544,
+        "youtube": 0.0077,
+        "content_assembly": 0.3772,
+        "monetization": 5.0328,
+        "quality_write": 0.025
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_disclosure_342140_plain_language_discl_abee9d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.456,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3882,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.3719,
+        "youtube": 0.0198,
+        "content_assembly": 0.4789,
+        "monetization": 4.1261,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_email_list_affiliate_327e06_buyer_checklists_dfa1ea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9195,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3578,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.3832,
+        "youtube": 0.0111,
+        "content_assembly": 0.4878,
+        "monetization": 3.61,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_baby_travel_gear_f24893_travel_cot_safety_ev_256d92",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9119,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4382,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.3447,
+        "youtube": 0.0112,
+        "content_assembly": 0.3982,
+        "monetization": 3.6535,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_video_reviews_affili_42f434",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8668,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2744,
+        "content_cleanup_final": 0.0375,
+        "media_svg": 0.1151,
+        "youtube": 0.0275,
+        "content_assembly": 0.5039,
+        "monetization": 3.8349,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_who_should_not_buy_53dcfe_review_rules_trust_w_af3d40",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8201,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1548,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.3194,
+        "youtube": 0.0109,
+        "content_assembly": 0.3491,
+        "monetization": 3.917,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_price_history_altern_e8d036_wait_recommendations_e3e0d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.814,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2157,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.3172,
+        "youtube": 0.0117,
+        "content_assembly": 0.3572,
+        "monetization": 3.8486,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_disclosure_342140_before_click_disclos_ee9ffd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.7395,
+      "phases": {
+        "preparation": 0.0223,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2346,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.3671,
+        "youtube": 0.0142,
+        "content_assembly": 0.3774,
+        "monetization": 3.6677,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6896,
+      "phases": {
+        "preparation": 0.0206,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.5682,
+        "content_cleanup_final": 0.051,
+        "media_svg": 0.1453,
+        "youtube": 1.663,
+        "content_assembly": 0.5177,
+        "monetization": 1.6749,
+        "quality_write": 0.0479
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_pack_comfort_tests_464614",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6697,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1813,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.3346,
+        "youtube": 0.0099,
+        "content_assembly": 0.3374,
+        "monetization": 3.7434,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_amazon_associates_be_44a913_cookie_window_expens_1de445",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6024,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1465,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.3258,
+        "youtube": 0.0119,
+        "content_assembly": 0.3466,
+        "monetization": 3.7078,
+        "quality_write": 0.0317
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "making_money_from_cr_f649af",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6896,
+      "phases": {
+        "preparation": 0.0206,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.5682,
+        "content_cleanup_final": 0.051,
+        "media_svg": 0.1453,
+        "youtube": 1.663,
+        "content_assembly": 0.5177,
+        "monetization": 1.6749,
+        "quality_write": 0.0479
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_traffic_sources_c48968",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8587,
+      "phases": {
+        "preparation": 0.024,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.3725,
+        "content_cleanup_final": 0.0605,
+        "media_svg": 0.1446,
+        "youtube": 1.0859,
+        "content_assembly": 0.5545,
+        "monetization": 1.5636,
+        "quality_write": 0.052
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_comparison_sites_786008",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0617,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2864,
+        "content_cleanup_final": 0.0363,
+        "media_svg": 0.1289,
+        "youtube": 0.0124,
+        "content_assembly": 0.4775,
+        "monetization": 0.0506,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9109,
+      "phases": {
+        "preparation": 0.0212,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1531,
+        "content_cleanup_final": 0.0304,
+        "media_svg": 0.1506,
+        "youtube": 0.0143,
+        "content_assembly": 0.4594,
+        "monetization": 0.04,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9527,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.2132,
+        "content_cleanup_final": 0.0432,
+        "media_svg": 0.293,
+        "youtube": 1.1097,
+        "content_assembly": 0.513,
+        "monetization": 1.7111,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_commission_models_51e452",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0666,
+      "phases": {
+        "preparation": 0.0233,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2359,
+        "content_cleanup_final": 0.0336,
+        "media_svg": 0.1187,
+        "youtube": 0.0175,
+        "content_assembly": 0.5143,
+        "monetization": 0.0767,
+        "quality_write": 0.046
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0471,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2193,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.1697,
+        "youtube": 0.0152,
+        "content_assembly": 0.5055,
+        "monetization": 0.0471,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_community_traffic_f6e02d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2939,
+      "phases": {
+        "preparation": 0.0233,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3766,
+        "content_cleanup_final": 0.0731,
+        "media_svg": 0.1177,
+        "youtube": 0.0197,
+        "content_assembly": 0.5798,
+        "monetization": 0.0475,
+        "quality_write": 0.0553
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_first_hand_testing_7d677b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.134,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3839,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.1123,
+        "youtube": 0.0126,
+        "content_assembly": 0.4791,
+        "monetization": 0.0415,
+        "quality_write": 0.0466
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1909,
+      "phases": {
+        "preparation": 0.0281,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.3786,
+        "content_cleanup_final": 0.0442,
+        "media_svg": 0.1221,
+        "youtube": 0.0221,
+        "content_assembly": 0.5051,
+        "monetization": 0.04,
+        "quality_write": 0.0498
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_who_should_not_buy_53dcfe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0403,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2446,
+        "content_cleanup_final": 0.0375,
+        "media_svg": 0.1355,
+        "youtube": 0.0156,
+        "content_assembly": 0.4905,
+        "monetization": 0.0443,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_home_espresso_niche_b223c9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1823,
+      "phases": {
+        "preparation": 0.0213,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.3184,
+        "content_cleanup_final": 0.0441,
+        "media_svg": 0.16,
+        "youtube": 0.0186,
+        "content_assembly": 0.5023,
+        "monetization": 0.0679,
+        "quality_write": 0.0491
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_content_mi_86bb15",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0355,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2154,
+        "content_cleanup_final": 0.0372,
+        "media_svg": 0.187,
+        "youtube": 0.0109,
+        "content_assembly": 0.4826,
+        "monetization": 0.0452,
+        "quality_write": 0.0565
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_software_affiliates_fc6ab1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2265,
+      "phases": {
+        "preparation": 0.0235,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3478,
+        "content_cleanup_final": 0.0585,
+        "media_svg": 0.1328,
+        "youtube": 0.0183,
+        "content_assembly": 0.5485,
+        "monetization": 0.0453,
+        "quality_write": 0.051
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_disclosure_342140",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.965,
+      "phases": {
+        "preparation": 0.0217,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2196,
+        "content_cleanup_final": 0.0302,
+        "media_svg": 0.132,
+        "youtube": 0.0131,
+        "content_assembly": 0.4625,
+        "monetization": 0.043,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_amazon_associates_be_44a913",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9691,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2108,
+        "content_cleanup_final": 0.0327,
+        "media_svg": 0.113,
+        "youtube": 0.0205,
+        "content_assembly": 0.4755,
+        "monetization": 0.0478,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_credible_review_site_c23c10",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1461,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.3097,
+        "content_cleanup_final": 0.043,
+        "media_svg": 0.1309,
+        "youtube": 0.015,
+        "content_assembly": 0.5256,
+        "monetization": 0.0458,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_email_list_affiliate_327e06",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0415,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2808,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 0.1109,
+        "youtube": 0.0129,
+        "content_assembly": 0.4802,
+        "monetization": 0.0451,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9519,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2086,
+        "content_cleanup_final": 0.0311,
+        "media_svg": 0.1158,
+        "youtube": 0.0117,
+        "content_assembly": 0.4708,
+        "monetization": 0.045,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3391,
+      "phases": {
+        "preparation": 0.0234,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2866,
+        "content_cleanup_final": 0.0318,
+        "media_svg": 0.1387,
+        "youtube": 0.0201,
+        "content_assembly": 0.7169,
+        "monetization": 0.0579,
+        "quality_write": 0.0631
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4478,
+      "phases": {
+        "preparation": 0.023,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6086,
+        "content_cleanup_final": 0.043,
+        "media_svg": 0.1259,
+        "youtube": 0.0243,
+        "content_assembly": 0.5312,
+        "monetization": 0.043,
+        "quality_write": 0.048
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_income_math_conversi_0810b0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.075,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3032,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.1301,
+        "youtube": 0.0151,
+        "content_assembly": 0.4821,
+        "monetization": 0.0447,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7945,
+      "phases": {
+        "preparation": 0.0237,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4729,
+        "content_cleanup_final": 0.0371,
+        "media_svg": 0.1663,
+        "youtube": 0.014,
+        "content_assembly": 0.5357,
+        "monetization": 1.5019,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_kitchen_appliance_re_419365",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1182,
+      "phases": {
+        "preparation": 0.0206,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.2654,
+        "content_cleanup_final": 0.0519,
+        "media_svg": 0.1366,
+        "youtube": 0.0164,
+        "content_assembly": 0.515,
+        "monetization": 0.0591,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3573,
+      "phases": {
+        "preparation": 0.0,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3317,
+        "content_cleanup_final": 0.0434,
+        "media_svg": 0.3476,
+        "youtube": 0.0131,
+        "content_assembly": 0.5291,
+        "monetization": 0.0426,
+        "quality_write": 0.049
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_price_history_altern_e8d036",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2004,
+      "phases": {
+        "preparation": 0.0241,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3392,
+        "content_cleanup_final": 0.0392,
+        "media_svg": 0.1631,
+        "youtube": 0.0143,
+        "content_assembly": 0.5345,
+        "monetization": 0.044,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5175,
+      "phases": {
+        "preparation": 0.0242,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2763,
+        "content_cleanup_final": 0.0443,
+        "media_svg": 0.1314,
+        "youtube": 0.0211,
+        "content_assembly": 0.5586,
+        "monetization": 1.4113,
+        "quality_write": 0.0497
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_small_business_softw_03dae8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9459,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1994,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.164,
+        "youtube": 0.011,
+        "content_assembly": 0.4292,
+        "monetization": 0.0506,
+        "quality_write": 0.0467
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9971,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2233,
+        "content_cleanup_final": 0.03,
+        "media_svg": 0.1176,
+        "youtube": 0.0167,
+        "content_assembly": 0.4804,
+        "monetization": 0.0587,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_authority_blog_7d2a98",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 8.1684,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.314,
+        "content_cleanup_final": 0.0439,
+        "media_svg": 0.1198,
+        "youtube": 0.0278,
+        "content_assembly": 0.5277,
+        "monetization": 6.0607,
+        "quality_write": 0.0503
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_commission_models_51e452_cookie_windows_330e2f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.907,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1148,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.3221,
+        "youtube": 0.013,
+        "content_assembly": 0.3459,
+        "monetization": 0.0449,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_commission_models_51e452_fixed_bounties_432c34",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3876,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2186,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.5848,
+        "youtube": 0.0137,
+        "content_assembly": 0.4572,
+        "monetization": 0.0493,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_who_should_not_buy_53dcfe_running_costs_e5b355",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.345,
+      "phases": {
+        "preparation": 0.0289,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 1.5689,
+        "content_cleanup_final": 0.0142,
+        "media_svg": 0.3112,
+        "youtube": 0.011,
+        "content_assembly": 0.3354,
+        "monetization": 0.044,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_video_reviews_affili_42f434",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8668,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2744,
+        "content_cleanup_final": 0.0375,
+        "media_svg": 0.1151,
+        "youtube": 0.0275,
+        "content_assembly": 0.5039,
+        "monetization": 3.8349,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_commission_models_51e452_qualified_leads_f4bdc7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9519,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1686,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.3282,
+        "youtube": 0.0098,
+        "content_assembly": 0.3403,
+        "monetization": 0.0421,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_traffic_sources_c48968_price_drop_alerts_472392",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4736,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.162,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.5438,
+        "youtube": 0.0114,
+        "content_assembly": 0.6047,
+        "monetization": 0.0742,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_break_even_cpc_fd5b9e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6726,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7455,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.3784,
+        "youtube": 0.0124,
+        "content_assembly": 0.4184,
+        "monetization": 0.0465,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_terms_risk_77de2b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5952,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7025,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.3748,
+        "youtube": 0.0112,
+        "content_assembly": 0.399,
+        "monetization": 0.0411,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_community_traffic_f6e02d_standalone_answers_7c3b3a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0043,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2126,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.3282,
+        "youtube": 0.0113,
+        "content_assembly": 0.3471,
+        "monetization": 0.0404,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_who_should_not_buy_53dcfe_missing_features_666c7c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8343,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.2945,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.3123,
+        "youtube": 0.0117,
+        "content_assembly": 0.3534,
+        "monetization": 1.7911,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_who_should_not_buy_53dcfe_workload_bad_fit_272c2c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5325,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1791,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.3269,
+        "youtube": 0.0111,
+        "content_assembly": 0.3402,
+        "monetization": 1.6101,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_survey_data_ac209c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0329,
+      "phases": {
+        "preparation": 0.0152,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1865,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.336,
+        "youtube": 0.012,
+        "content_assembly": 0.3824,
+        "monetization": 0.045,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_best_for_modifier_7351bf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0181,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2057,
+        "content_cleanup_final": 0.0139,
+        "media_svg": 0.3141,
+        "youtube": 0.0095,
+        "content_assembly": 0.3595,
+        "monetization": 0.0663,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_small_business_softw_03dae8_saas_plan_costs_b69c44",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0015,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2043,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.3413,
+        "youtube": 0.011,
+        "content_assembly": 0.3408,
+        "monetization": 0.0408,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_software_affiliates_fc6ab1_b2b_buyer_intent_b8cf9d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0125,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2085,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.3166,
+        "youtube": 0.01,
+        "content_assembly": 0.3536,
+        "monetization": 0.0496,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_traffic_sources_c48968_affiliate_disclosure_8ecefe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1088,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1854,
+        "content_cleanup_final": 0.03,
+        "media_svg": 0.3852,
+        "youtube": 0.0138,
+        "content_assembly": 0.3948,
+        "monetization": 0.0469,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_traffic_sources_c48968_affiliate_email_lead_255f10",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1906,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3075,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3545,
+        "youtube": 0.0117,
+        "content_assembly": 0.3981,
+        "monetization": 0.0495,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_traffic_sources_c48968_pinterest_visual_aff_fa68e3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2162,
+      "phases": {
+        "preparation": 0.0209,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3726,
+        "content_cleanup_final": 0.0208,
+        "media_svg": 0.3124,
+        "youtube": 0.0099,
+        "content_assembly": 0.3802,
+        "monetization": 0.0579,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_traffic_sources_c48968_community_research_r_6485f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1277,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3431,
+        "content_cleanup_final": 0.0122,
+        "media_svg": 0.3468,
+        "youtube": 0.0114,
+        "content_assembly": 0.4462,
+        "monetization": 1.919,
+        "quality_write": 0.0296
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_traffic_sources_c48968_reddit_affiliate_tra_c5f15b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6026,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3241,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.3691,
+        "youtube": 0.0113,
+        "content_assembly": 0.3585,
+        "monetization": 2.4625,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6797,
+      "phases": {
+        "preparation": 0.0366,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.714,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.3698,
+        "youtube": 0.0111,
+        "content_assembly": 0.426,
+        "monetization": 0.0638,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_wirecutter_model_9c7db6_living_review_pages_bf4ebd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9058,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4387,
+        "content_cleanup_final": 0.0127,
+        "media_svg": 0.4586,
+        "youtube": 0.0125,
+        "content_assembly": 0.4893,
+        "monetization": 2.4408,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_baby_travel_gear_f24893_car_seat_sleep_limit_9c65b3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4995,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.5529,
+        "content_cleanup_final": 0.0397,
+        "media_svg": 0.3657,
+        "youtube": 0.0118,
+        "content_assembly": 0.4192,
+        "monetization": 0.0538,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_baby_travel_gear_f24893_parent_testing_pushc_26f021",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3257,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4209,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.3435,
+        "youtube": 0.01,
+        "content_assembly": 0.4127,
+        "monetization": 0.0653,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_baby_travel_gear_f24893_stroller_adapter_com_169325",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.288,
+      "phases": {
+        "preparation": 0.0217,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3913,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.3628,
+        "youtube": 0.0107,
+        "content_assembly": 0.3799,
+        "monetization": 0.0612,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_baby_travel_gear_f24893_vehicle_fit_car_seat_d675ee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.292,
+      "phases": {
+        "preparation": 0.0237,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3514,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.3752,
+        "youtube": 0.0129,
+        "content_assembly": 0.4211,
+        "monetization": 0.0529,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_commission_models_51e452_amazon_payout_rules_b16184",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2695,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3827,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.3595,
+        "youtube": 0.012,
+        "content_assembly": 0.389,
+        "monetization": 0.0514,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_commission_models_51e452_recurring_retention_27bd5c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3378,
+      "phases": {
+        "preparation": 0.1042,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3491,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.3457,
+        "youtube": 0.011,
+        "content_assembly": 0.435,
+        "monetization": 0.0443,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_baby_travel_gear_f24893_travel_cot_safety_ev_256d92",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9119,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4382,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.3447,
+        "youtube": 0.0112,
+        "content_assembly": 0.3982,
+        "monetization": 3.6535,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0344,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2678,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.3214,
+        "youtube": 0.0128,
+        "content_assembly": 0.3623,
+        "monetization": 1.0047,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_community_traffic_f6e02d_community_affiliate_dc0161",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6109,
+      "phases": {
+        "preparation": 0.0444,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.382,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 0.351,
+        "youtube": 0.0151,
+        "content_assembly": 0.398,
+        "monetization": 2.3488,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_comparison_sites_786008_best_overall_ranking_0dc98d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2914,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2608,
+        "content_cleanup_final": 0.015,
+        "media_svg": 0.3421,
+        "youtube": 0.0125,
+        "content_assembly": 0.3435,
+        "monetization": 2.2616,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_comparison_sites_786008_hidden_fees_price_co_57e41c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2281,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.339,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.368,
+        "youtube": 0.0116,
+        "content_assembly": 0.3747,
+        "monetization": 0.0658,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_comparison_sites_786008_feature_tables_buyer_bee084",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1725,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3824,
+        "content_cleanup_final": 0.0269,
+        "media_svg": 0.3702,
+        "youtube": 0.0121,
+        "content_assembly": 0.4054,
+        "monetization": 0.9199,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3018,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.465,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.3768,
+        "youtube": 0.0108,
+        "content_assembly": 0.3397,
+        "monetization": 0.0405,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4645,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3579,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.4653,
+        "youtube": 0.012,
+        "content_assembly": 0.4519,
+        "monetization": 1.0992,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_restrictions_72888e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3739,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4856,
+        "content_cleanup_final": 0.0165,
+        "media_svg": 0.3251,
+        "youtube": 0.0128,
+        "content_assembly": 0.4089,
+        "monetization": 0.0637,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_first_hand_testing_7d677b_who_should_not_buy_53dcfe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5266,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4263,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.4169,
+        "youtube": 0.0128,
+        "content_assembly": 0.4869,
+        "monetization": 0.0957,
+        "quality_write": 0.0513
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_home_espresso_niche_b223c9_bambino_vs_gaggia_7a0ab0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.823,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3915,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.4155,
+        "youtube": 0.0176,
+        "content_assembly": 0.5144,
+        "monetization": 1.4193,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_email_list_affiliate_327e06_buyer_checklists_dfa1ea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9195,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3578,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.3832,
+        "youtube": 0.0111,
+        "content_assembly": 0.4878,
+        "monetization": 3.61,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_wirecutter_model_9c7db6_editorial_commerce_s_7fccf2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4537,
+      "phases": {
+        "preparation": 0.023,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 1.5563,
+        "content_cleanup_final": 0.0208,
+        "media_svg": 0.3838,
+        "youtube": 0.0142,
+        "content_assembly": 0.3903,
+        "monetization": 1.0302,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_best_pick_e97927",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2383,
+      "phases": {
+        "preparation": 0.0228,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 1.2809,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.3388,
+        "youtube": 0.0127,
+        "content_assembly": 0.3683,
+        "monetization": 2.1658,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_deal_filt_a53366",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9594,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2739,
+        "content_cleanup_final": 0.0126,
+        "media_svg": 0.3188,
+        "youtube": 0.0097,
+        "content_assembly": 0.3296,
+        "monetization": 0.9701,
+        "quality_write": 0.028
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_disclosur_48d0ed",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1491,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2952,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.3261,
+        "youtube": 0.0118,
+        "content_assembly": 0.3501,
+        "monetization": 1.0931,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_subscript_416427",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0922,
+      "phases": {
+        "preparation": 0.0153,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.2798,
+        "content_cleanup_final": 0.0112,
+        "media_svg": 0.3411,
+        "youtube": 0.0126,
+        "content_assembly": 0.3619,
+        "monetization": 0.0415,
+        "quality_write": 0.0285
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_content_mi_86bb15_best_for_roundups_663a85",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6428,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3304,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.8229,
+        "youtube": 0.0123,
+        "content_assembly": 0.3708,
+        "monetization": 0.0496,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_content_mi_86bb15_decision_matrices_879bf0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5756,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 1.3036,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 0.7652,
+        "youtube": 0.0133,
+        "content_assembly": 0.3804,
+        "monetization": 0.0511,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_commission_models_51e452_percentage_order_val_978aac",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0735,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2046,
+        "content_cleanup_final": 0.0168,
+        "media_svg": 0.3436,
+        "youtube": 0.0087,
+        "content_assembly": 0.3941,
+        "monetization": 0.0507,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_community_traffic_f6e02d_buyer_objections_thr_8b7ea0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0995,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2475,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.3689,
+        "youtube": 0.0133,
+        "content_assembly": 0.3568,
+        "monetization": 0.0473,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_community_traffic_f6e02d_community_rule_check_95071e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1845,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3424,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.3366,
+        "youtube": 0.0114,
+        "content_assembly": 0.3771,
+        "monetization": 0.0441,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_community_traffic_f6e02d_self_promotion_ratio_b04d87",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1658,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2788,
+        "content_cleanup_final": 0.0281,
+        "media_svg": 0.3381,
+        "youtube": 0.0118,
+        "content_assembly": 0.403,
+        "monetization": 0.052,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_community_traffic_f6e02d_thread_research_affi_915eca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0654,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1956,
+        "content_cleanup_final": 0.0125,
+        "media_svg": 0.3155,
+        "youtube": 0.0099,
+        "content_assembly": 0.4315,
+        "monetization": 0.0466,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_last_click_coupon_at_e9d535",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1869,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3036,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.3267,
+        "youtube": 0.0099,
+        "content_assembly": 0.4169,
+        "monetization": 0.0491,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_seasonal_deal_freshn_399116",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2729,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.294,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.3994,
+        "youtube": 0.0129,
+        "content_assembly": 0.4446,
+        "monetization": 0.0542,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_thin_affiliate_coupo_c19595",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2536,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.351,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.3422,
+        "youtube": 0.01,
+        "content_assembly": 0.4072,
+        "monetization": 0.056,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_verified_coupon_code_d56f0d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3233,
+      "phases": {
+        "preparation": 0.0254,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.388,
+        "content_cleanup_final": 0.0108,
+        "media_svg": 0.3918,
+        "youtube": 0.0106,
+        "content_assembly": 0.4163,
+        "monetization": 0.0479,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_email_list_affiliate_327e06_price_drop_alerts_472392",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3044,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.388,
+        "content_cleanup_final": 0.0584,
+        "media_svg": 0.364,
+        "youtube": 0.0091,
+        "content_assembly": 0.3807,
+        "monetization": 0.0537,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_first_hand_testing_7d677b_manufacturer_claims_889fd0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2383,
+      "phases": {
+        "preparation": 0.0212,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3449,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 0.3539,
+        "youtube": 0.012,
+        "content_assembly": 0.3903,
+        "monetization": 0.0528,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_amazon_rate_traps_1cfdae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6067,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.311,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.3487,
+        "youtube": 0.0289,
+        "content_assembly": 0.621,
+        "monetization": 1.2184,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_objection_queries_02468d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0554,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4353,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 1.1298,
+        "youtube": 0.0148,
+        "content_assembly": 0.3588,
+        "monetization": 0.0628,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9309,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1679,
+        "content_cleanup_final": 0.015,
+        "media_svg": 0.3211,
+        "youtube": 0.0115,
+        "content_assembly": 0.3437,
+        "monetization": 1.0176,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_authority_blog_7d2a98_best_for_roundups_663a85",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5538,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7101,
+        "content_cleanup_final": 0.0335,
+        "media_svg": 0.344,
+        "youtube": 0.0105,
+        "content_assembly": 0.3694,
+        "monetization": 3.0288,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_first_hand_testing_7d677b_awkward_ownership_mo_e52987",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0899,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1668,
+        "content_cleanup_final": 0.0147,
+        "media_svg": 0.3089,
+        "youtube": 0.0107,
+        "content_assembly": 0.338,
+        "monetization": 1.2027,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_first_hand_testing_7d677b_credible_how_we_test_3e30da",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1243,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2432,
+        "content_cleanup_final": 0.0406,
+        "media_svg": 0.3528,
+        "youtube": 0.014,
+        "content_assembly": 0.3647,
+        "monetization": 0.0616,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_first_hand_testing_7d677b_original_product_pho_1d51f7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.092,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2866,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.3407,
+        "youtube": 0.0103,
+        "content_assembly": 0.3395,
+        "monetization": 0.0481,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_first_hand_testing_7d677b_tested_product_alter_2a63a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0872,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2674,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.3528,
+        "youtube": 0.0125,
+        "content_assembly": 0.3441,
+        "monetization": 0.0457,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_generic_best_lists_3a0b6c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0055,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2043,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.3339,
+        "youtube": 0.0115,
+        "content_assembly": 0.349,
+        "monetization": 1.0434,
+        "quality_write": 0.0289
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_authority_blog_7d2a98_advice_to_purchase_e8ee12",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5628,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.218,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.3276,
+        "youtube": 0.0134,
+        "content_assembly": 0.3457,
+        "monetization": 3.5926,
+        "quality_write": 0.029
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_pack_comfort_tests_464614",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6697,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1813,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.3346,
+        "youtube": 0.0099,
+        "content_assembly": 0.3374,
+        "monetization": 3.7434,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_authority_blog_7d2a98_first_hand_testing_7d677b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4113,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1969,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.3282,
+        "youtube": 0.0107,
+        "content_assembly": 0.3533,
+        "monetization": 2.452,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_affiliate_revenue_es_8f5f2b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8675,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1525,
+        "content_cleanup_final": 0.0148,
+        "media_svg": 0.3205,
+        "youtube": 0.0101,
+        "content_assembly": 0.3468,
+        "monetization": 0.9764,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_buyer_intent_keyword_b9ff6a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0858,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1505,
+        "content_cleanup_final": 0.0145,
+        "media_svg": 0.3236,
+        "youtube": 0.0104,
+        "content_assembly": 0.344,
+        "monetization": 1.1948,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_high_ticket_first_ha_d89c78",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0558,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1879,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.3336,
+        "youtube": 0.0119,
+        "content_assembly": 0.3736,
+        "monetization": 0.0741,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_video_reviews_affili_42f434_real_product_demos_67115c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.965,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1774,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.3216,
+        "youtube": 0.0099,
+        "content_assembly": 0.3483,
+        "monetization": 0.0442,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_serp_commercial_sign_d8a353",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9555,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1494,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.3313,
+        "youtube": 0.0149,
+        "content_assembly": 0.3382,
+        "monetization": 1.0592,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_thin_affiliate_credi_c141e3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1355,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1434,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.315,
+        "youtube": 0.0092,
+        "content_assembly": 0.3691,
+        "monetization": 1.2295,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_who_should_not_buy_53dcfe_cheaper_overkill_alt_c3cc3d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9656,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1531,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.3151,
+        "youtube": 0.011,
+        "content_assembly": 0.3671,
+        "monetization": 0.0545,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_who_should_not_buy_53dcfe_risky_category_bad_f_1f328c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9126,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1244,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.3174,
+        "youtube": 0.0116,
+        "content_assembly": 0.353,
+        "monetization": 0.0403,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_content_mi_86bb15_thin_affiliate_risk_cb9c37",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3562,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1577,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.7449,
+        "youtube": 0.0109,
+        "content_assembly": 0.3465,
+        "monetization": 0.0462,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_product_data_7acb6a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9775,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.125,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.3136,
+        "youtube": 0.0118,
+        "content_assembly": 0.4019,
+        "monetization": 0.0584,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_who_should_not_buy_53dcfe_review_rules_trust_w_af3d40",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8201,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1548,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.3194,
+        "youtube": 0.0109,
+        "content_assembly": 0.3491,
+        "monetization": 3.917,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_amazon_associates_be_44a913_commission_category_794bb3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9733,
+      "phases": {
+        "preparation": 0.0235,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1609,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.324,
+        "youtube": 0.0104,
+        "content_assembly": 0.3621,
+        "monetization": 0.0433,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_email_list_affiliate_327e06_editorial_affiliate_f2ef2b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8918,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.106,
+        "content_cleanup_final": 0.0168,
+        "media_svg": 0.3251,
+        "youtube": 0.0136,
+        "content_assembly": 0.3435,
+        "monetization": 0.0408,
+        "quality_write": 0.0293
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_email_list_affiliate_327e06_over_promotion_risk_fb6369",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9257,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.127,
+        "content_cleanup_final": 0.0131,
+        "media_svg": 0.3242,
+        "youtube": 0.0095,
+        "content_assembly": 0.3455,
+        "monetization": 0.0594,
+        "quality_write": 0.0297
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_sponsored_link_tags_fd8a7c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9194,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1209,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.3184,
+        "youtube": 0.0119,
+        "content_assembly": 0.3473,
+        "monetization": 0.0517,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_email_list_affiliate_327e06_search_shocks_owned_2e6b1f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8538,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1411,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.3348,
+        "youtube": 0.0108,
+        "content_assembly": 0.3401,
+        "monetization": 0.9625,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buying_guide_update_9caa2d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9579,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1617,
+        "content_cleanup_final": 0.0165,
+        "media_svg": 0.3275,
+        "youtube": 0.0101,
+        "content_assembly": 0.3447,
+        "monetization": 0.0505,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_low_cost_pages_that_475781",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8983,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1243,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.3118,
+        "youtube": 0.0125,
+        "content_assembly": 0.3416,
+        "monetization": 0.0449,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_grinder_fir_749130",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9468,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1081,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.3263,
+        "youtube": 0.011,
+        "content_assembly": 0.3848,
+        "monetization": 0.0542,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_thin_affiliate_high_376376",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9776,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1926,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 0.3265,
+        "youtube": 0.0111,
+        "content_assembly": 0.3782,
+        "monetization": 2.9946,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_maintenance_c23b14",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9872,
+      "phases": {
+        "preparation": 0.0196,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1764,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.323,
+        "youtube": 0.0113,
+        "content_assembly": 0.3553,
+        "monetization": 0.0526,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_accessories_88b69b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0172,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.185,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.3276,
+        "youtube": 0.0126,
+        "content_assembly": 0.3507,
+        "monetization": 3.0692,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_home_espresso_niche_b223c9_thin_espresso_review_681deb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2125,
+      "phases": {
+        "preparation": 0.0152,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2557,
+        "content_cleanup_final": 0.0197,
+        "media_svg": 0.3995,
+        "youtube": 0.0157,
+        "content_assembly": 0.4151,
+        "monetization": 0.059,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_setup_under_7651cf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2731,
+      "phases": {
+        "preparation": 0.0152,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2984,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.4014,
+        "youtube": 0.0124,
+        "content_assembly": 0.4421,
+        "monetization": 0.0524,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_income_math_conversi_0810b0_merchant_conversion_034cea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2299,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3567,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.3731,
+        "youtube": 0.0107,
+        "content_assembly": 0.3712,
+        "monetization": 0.0494,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_pain_point_keywords_35769e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7067,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3695,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.829,
+        "youtube": 0.0118,
+        "content_assembly": 0.3757,
+        "monetization": 0.0669,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1419,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3227,
+        "content_cleanup_final": 0.0158,
+        "media_svg": 0.3347,
+        "youtube": 0.0108,
+        "content_assembly": 0.374,
+        "monetization": 1.0354,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_two_step_conversion_621408",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0044,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.204,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.3244,
+        "youtube": 0.0118,
+        "content_assembly": 0.3539,
+        "monetization": 1.0435,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_price_history_altern_e8d036_deal_thresholds_buy_66ec7b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9876,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1648,
+        "content_cleanup_final": 0.0124,
+        "media_svg": 0.3172,
+        "youtube": 0.0101,
+        "content_assembly": 0.3373,
+        "monetization": 1.1002,
+        "quality_write": 0.0297
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_kitchen_appliance_re_419365_blender_noise_tests_3be578",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.6074,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.3252,
+        "content_cleanup_final": 0.0331,
+        "media_svg": 0.4038,
+        "youtube": 0.0104,
+        "content_assembly": 0.3666,
+        "monetization": 6.42,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_small_business_softw_03dae8_crm_setup_timelines_c2ea80",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0402,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2126,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.3213,
+        "youtube": 0.0082,
+        "content_assembly": 0.3786,
+        "monetization": 0.0449,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_software_affiliates_fc6ab1_ai_b2b_software_disc_743695",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1365,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1582,
+        "content_cleanup_final": 0.0277,
+        "media_svg": 0.3486,
+        "youtube": 0.0151,
+        "content_assembly": 0.4819,
+        "monetization": 0.0495,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_payout_duration_997c1e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.08,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1591,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.3855,
+        "youtube": 0.0157,
+        "content_assembly": 0.4038,
+        "monetization": 0.0451,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_price_history_altern_e8d036_older_models_better_306b47",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5331,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1744,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.3133,
+        "youtube": 0.0111,
+        "content_assembly": 0.3544,
+        "monetization": 3.6046,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_software_affiliates_fc6ab1_software_switching_c_847980",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4432,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2209,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 0.4102,
+        "youtube": 0.0124,
+        "content_assembly": 0.6547,
+        "monetization": 0.0604,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_software_affiliates_fc6ab1_trial_vs_paid_credit_b96d8d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4695,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3008,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 0.5198,
+        "youtube": 0.0162,
+        "content_assembly": 0.4861,
+        "monetization": 0.0628,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_link_intent_4666cb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6117,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5223,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.4861,
+        "youtube": 0.0178,
+        "content_assembly": 0.4404,
+        "monetization": 0.0581,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_content_mi_86bb15_air_fryer_content_cl_217897",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.897,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 1.4966,
+        "content_cleanup_final": 0.016,
+        "media_svg": 0.7357,
+        "youtube": 0.0144,
+        "content_assembly": 0.5248,
+        "monetization": 0.0649,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_content_mi_86bb15_early_research_trust_bf4e98",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0305,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5426,
+        "content_cleanup_final": 0.0256,
+        "media_svg": 0.8924,
+        "youtube": 0.0217,
+        "content_assembly": 0.4595,
+        "monetization": 0.0501,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_content_mi_86bb15_post_purchase_suppor_a8fda6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8583,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.356,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 1.0003,
+        "youtube": 0.0139,
+        "content_assembly": 0.3891,
+        "monetization": 0.0491,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_disclosure_342140_commission_ranking_t_f23a18",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1838,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3097,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.3385,
+        "youtube": 0.0143,
+        "content_assembly": 0.3952,
+        "monetization": 0.0474,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_disclosure_342140_disclosure_templates_aa3b03",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1203,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2797,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.3397,
+        "youtube": 0.0115,
+        "content_assembly": 0.3727,
+        "monetization": 0.0481,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_disclosure_342140_roundup_ad_labelling_1c2ab2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5224,
+      "phases": {
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4147,
+        "content_cleanup_final": 0.0257,
+        "media_svg": 0.4496,
+        "youtube": 0.0159,
+        "content_assembly": 0.5084,
+        "monetization": 0.0549,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_disclosure_342140_before_click_disclos_ee9ffd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.7395,
+      "phases": {
+        "preparation": 0.0223,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2346,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.3671,
+        "youtube": 0.0142,
+        "content_assembly": 0.3774,
+        "monetization": 3.6677,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_2020_rate_cut_2e0a8a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0871,
+      "phases": {
+        "preparation": 0.0294,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2763,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.3294,
+        "youtube": 0.0114,
+        "content_assembly": 0.3459,
+        "monetization": 0.0415,
+        "quality_write": 0.0292
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_disclosure_342140_plain_language_discl_abee9d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.456,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3882,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.3719,
+        "youtube": 0.0198,
+        "content_assembly": 0.4789,
+        "monetization": 4.1261,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_affiliate_disclosure_342140_snippet_affiliate_di_a21349",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5607,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3561,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 0.335,
+        "youtube": 0.0127,
+        "content_assembly": 0.3622,
+        "monetization": 2.4127,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_disclosure_ru_5ffe72",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9263,
+      "phases": {
+        "preparation": 0.0153,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1965,
+        "content_cleanup_final": 0.0118,
+        "media_svg": 0.3303,
+        "youtube": 0.0097,
+        "content_assembly": 0.3332,
+        "monetization": 0.9997,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_credible_review_site_c23c10_affiliate_disclosure_8b10cd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9065,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1175,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.3295,
+        "youtube": 0.0114,
+        "content_assembly": 0.3376,
+        "monetization": 0.0455,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_amazon_associates_be_44a913_three_qualifying_sal_f5496c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.262,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1606,
+        "content_cleanup_final": 0.0158,
+        "media_svg": 0.3251,
+        "youtube": 0.0091,
+        "content_assembly": 0.3469,
+        "monetization": 1.3577,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_amazon_associates_be_44a913_cookie_window_expens_1de445",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6024,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1465,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.3258,
+        "youtube": 0.0119,
+        "content_assembly": 0.3466,
+        "monetization": 3.7078,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_credible_review_site_c23c10_buyer_use_case_crite_361fd4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9704,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1282,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.3199,
+        "youtube": 0.0102,
+        "content_assembly": 0.3995,
+        "monetization": 0.0485,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_credible_review_site_c23c10_free_samples_vs_boug_d472da",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9968,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1506,
+        "content_cleanup_final": 0.0133,
+        "media_svg": 0.3813,
+        "youtube": 0.0121,
+        "content_assembly": 0.3493,
+        "monetization": 0.0439,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_credible_review_site_c23c10_long_term_review_upd_414a05",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1134,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2456,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.3393,
+        "youtube": 0.0084,
+        "content_assembly": 0.4024,
+        "monetization": 0.0451,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_credible_review_site_c23c10_meaningful_product_c_36e448",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0957,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1949,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.338,
+        "youtube": 0.0119,
+        "content_assembly": 0.4091,
+        "monetization": 0.0618,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_credible_review_site_c23c10_risky_purchase_evide_dd9037",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.126,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2657,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.3723,
+        "youtube": 0.0117,
+        "content_assembly": 0.3701,
+        "monetization": 0.0413,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_copied_product_feeds_6ed996",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0744,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2521,
+        "content_cleanup_final": 0.0165,
+        "media_svg": 0.3436,
+        "youtube": 0.011,
+        "content_assembly": 0.3558,
+        "monetization": 0.0441,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_email_list_affiliate_327e06_affiliate_email_segm_4b785a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2065,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3026,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.348,
+        "youtube": 0.0105,
+        "content_assembly": 0.358,
+        "monetization": 1.1166,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_defensible_affiliate_b87f7a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.074,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2571,
+        "content_cleanup_final": 0.0208,
+        "media_svg": 0.3322,
+        "youtube": 0.0105,
+        "content_assembly": 0.3702,
+        "monetization": 1.0343,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_hosted_coupon_sectio_fa45d9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0004,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1579,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.3227,
+        "youtube": 0.009,
+        "content_assembly": 0.3804,
+        "monetization": 0.0483,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buyer_intent_page_fo_e14a37",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5768,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7158,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.3336,
+        "youtube": 0.014,
+        "content_assembly": 0.4007,
+        "monetization": 0.0445,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_comparison_tables_bu_b4cacc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5262,
+      "phases": {
+        "preparation": 0.0956,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5994,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.348,
+        "youtube": 0.0091,
+        "content_assembly": 0.3778,
+        "monetization": 0.047,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_scaled_affiliate_pag_12808f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0693,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4724,
+        "content_cleanup_final": 0.0503,
+        "media_svg": 0.5346,
+        "youtube": 0.0165,
+        "content_assembly": 0.4041,
+        "monetization": 2.5306,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_evidence_placement_r_1c4466",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0633,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2065,
+        "content_cleanup_final": 0.0163,
+        "media_svg": 0.3137,
+        "youtube": 0.0119,
+        "content_assembly": 0.4052,
+        "monetization": 0.0548,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_honest_affiliate_pro_90208e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9828,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1331,
+        "content_cleanup_final": 0.015,
+        "media_svg": 0.3596,
+        "youtube": 0.0105,
+        "content_assembly": 0.3773,
+        "monetization": 0.042,
+        "quality_write": 0.0288
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_retailer_gaps_affili_83bfa9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2522,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3604,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.4093,
+        "youtube": 0.0134,
+        "content_assembly": 0.355,
+        "monetization": 0.0428,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_commission_maths_hig_a03aa2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8774,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3838,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.3333,
+        "youtube": 0.0122,
+        "content_assembly": 0.3472,
+        "monetization": 0.7343,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_premium_review_trust_8335b4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0403,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2115,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.3261,
+        "youtube": 0.0099,
+        "content_assembly": 0.3788,
+        "monetization": 0.0493,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_checkout_friction_ex_d96bf6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3987,
+      "phases": {
+        "preparation": 0.0212,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3365,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.4175,
+        "youtube": 0.0113,
+        "content_assembly": 0.3804,
+        "monetization": 2.178,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_durability_claims_re_426574",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9966,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1807,
+        "content_cleanup_final": 0.0147,
+        "media_svg": 0.3363,
+        "youtube": 0.0107,
+        "content_assembly": 0.3577,
+        "monetization": 0.0476,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_hiking_boot_fit_note_0dd1bf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.6054,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1975,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.4053,
+        "youtube": 0.0137,
+        "content_assembly": 0.366,
+        "monetization": 6.562,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_side_by_side_testing_eb91dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.8612,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2403,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.3269,
+        "youtube": 0.011,
+        "content_assembly": 0.3516,
+        "monetization": 5.867,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_rain_jacket_field_te_9967ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.5375,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2392,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.3892,
+        "youtube": 0.0103,
+        "content_assembly": 0.3532,
+        "monetization": 7.4794,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_income_math_conversi_0810b0_affiliate_ctr_benchm_d4881d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9982,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1763,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.3327,
+        "youtube": 0.0104,
+        "content_assembly": 0.3531,
+        "monetization": 0.0553,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_trail_test_disclosur_9f2710",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.389,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1969,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.3352,
+        "youtube": 0.0105,
+        "content_assembly": 0.3521,
+        "monetization": 1.4332,
+        "quality_write": 0.0286
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_income_math_conversi_0810b0_affiliate_income_sce_194e90",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0507,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2329,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.3348,
+        "youtube": 0.0099,
+        "content_assembly": 0.342,
+        "monetization": 1.0634,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_income_math_conversi_0810b0_high_payout_affiliat_02cc1d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9679,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1359,
+        "content_cleanup_final": 0.0132,
+        "media_svg": 0.3196,
+        "youtube": 0.0107,
+        "content_assembly": 0.3484,
+        "monetization": 0.0937,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_income_math_conversi_0810b0_earnings_per_click_s_b71160",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4478,
+      "phases": {
+        "preparation": 0.0222,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1546,
+        "content_cleanup_final": 0.0145,
+        "media_svg": 0.3145,
+        "youtube": 0.0109,
+        "content_assembly": 0.3451,
+        "monetization": 2.5538,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_kitchen_appliance_re_419365_air_fryer_capacity_f_363e8a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9568,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1667,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.3248,
+        "youtube": 0.0101,
+        "content_assembly": 0.345,
+        "monetization": 0.0438,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_income_math_conversi_0810b0_low_commission_traff_6f927a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3718,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1923,
+        "content_cleanup_final": 0.0136,
+        "media_svg": 0.3217,
+        "youtube": 0.0095,
+        "content_assembly": 0.3421,
+        "monetization": 2.4466,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_cleanabili_b2d106",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9926,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1301,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.3296,
+        "youtube": 0.0099,
+        "content_assembly": 0.3819,
+        "monetization": 0.077,
+        "quality_write": 0.0296
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_replacemen_2bb5a8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0003,
+      "phases": {
+        "preparation": 0.015,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2047,
+        "content_cleanup_final": 0.0168,
+        "media_svg": 0.3152,
+        "youtube": 0.0101,
+        "content_assembly": 0.3606,
+        "monetization": 0.0472,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_comparison_buying_qu_bd96df",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4722,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2123,
+        "content_cleanup_final": 0.0158,
+        "media_svg": 0.7358,
+        "youtube": 0.0125,
+        "content_assembly": 0.4069,
+        "monetization": 0.0556,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_kitchen_appliance_re_419365_countertop_dishwashe_4d92a7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2254,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1595,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.318,
+        "youtube": 0.0126,
+        "content_assembly": 0.3691,
+        "monetization": 2.3017,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_kitchen_appliance_re_419365_coffee_machine_clean_cde4bf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.0234,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1899,
+        "content_cleanup_final": 0.0197,
+        "media_svg": 0.3544,
+        "youtube": 0.0077,
+        "content_assembly": 0.3772,
+        "monetization": 5.0328,
+        "quality_write": 0.025
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_editorial_filter_pag_3f4d4e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5265,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3195,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.7576,
+        "youtube": 0.0114,
+        "content_assembly": 0.3444,
+        "monetization": 0.0426,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_constraint_query_tra_27ed05",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2598,
+      "phases": {
+        "preparation": 0.0,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6858,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.8137,
+        "youtube": 0.0105,
+        "content_assembly": 0.3554,
+        "monetization": 4.3418,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2311,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1514,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.3458,
+        "youtube": 0.0221,
+        "content_assembly": 0.4094,
+        "monetization": 1.239,
+        "quality_write": 0.0284
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_compatibility_querie_7aaab5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.6902,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2189,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 1.158,
+        "youtube": 0.0169,
+        "content_assembly": 0.4933,
+        "monetization": 6.7521,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_authority_blog_7d2a98_topical_depth_catego_294b60",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0677,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2212,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.3327,
+        "youtube": 0.0128,
+        "content_assembly": 0.3878,
+        "monetization": 0.0446,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_rejected_commissions_2b4e6b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0312,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.194,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.3623,
+        "youtube": 0.0121,
+        "content_assembly": 0.3575,
+        "monetization": 0.0395,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_subid_tracking_profi_c897cd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0712,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2375,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.3422,
+        "youtube": 0.0108,
+        "content_assembly": 0.3554,
+        "monetization": 0.0502,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_price_history_altern_e8d036_black_friday_year_ro_1554b8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0548,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.206,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.3394,
+        "youtube": 0.0089,
+        "content_assembly": 0.3709,
+        "monetization": 0.0585,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2614,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1528,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.3341,
+        "youtube": 0.0097,
+        "content_assembly": 0.3597,
+        "monetization": 5.3372,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_price_history_altern_e8d036_cheaper_substitute_t_68cea6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2974,
+      "phases": {
+        "preparation": 0.0198,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4131,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.3187,
+        "youtube": 0.0128,
+        "content_assembly": 0.4071,
+        "monetization": 0.0675,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0799,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2173,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.3419,
+        "youtube": 0.0087,
+        "content_assembly": 0.381,
+        "monetization": 0.0513,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_small_business_softw_03dae8_saas_data_export_che_74ff1c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1185,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3053,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.3422,
+        "youtube": 0.0107,
+        "content_assembly": 0.3449,
+        "monetization": 0.0468,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_price_history_altern_e8d036_wait_recommendations_e3e0d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.814,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2157,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.3172,
+        "youtube": 0.0117,
+        "content_assembly": 0.3572,
+        "monetization": 3.8486,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_price_history_altern_e8d036_price_alert_often_di_5ec9a2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.1515,
+      "phases": {
+        "preparation": 0.0196,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3396,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.3262,
+        "youtube": 0.009,
+        "content_assembly": 0.3926,
+        "monetization": 6.0111,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_small_business_softw_03dae8_software_bad_fit_war_e10788",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0069,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1882,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.3237,
+        "youtube": 0.0111,
+        "content_assembly": 0.3647,
+        "monetization": 0.0494,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_small_business_softw_03dae8_software_integration_be0708",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1241,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2659,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.3497,
+        "youtube": 0.0106,
+        "content_assembly": 0.3706,
+        "monetization": 0.0524,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_best_roundup_criteri_781923",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1038,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2475,
+        "content_cleanup_final": 0.0197,
+        "media_svg": 0.3295,
+        "youtube": 0.0132,
+        "content_assembly": 0.3831,
+        "monetization": 0.0582,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_copied_merchant_desc_eef415",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0965,
+      "phases": {
+        "preparation": 0.0205,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2214,
+        "content_cleanup_final": 0.0148,
+        "media_svg": 0.3394,
+        "youtube": 0.0123,
+        "content_assembly": 0.3791,
+        "monetization": 0.0699,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_hidden_review_tradeo_801e61",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3227,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3816,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.406,
+        "youtube": 0.0141,
+        "content_assembly": 0.4043,
+        "monetization": 0.0506,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_original_product_tes_dbe18f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3272,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4105,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.3708,
+        "youtube": 0.0144,
+        "content_assembly": 0.384,
+        "monetization": 0.0718,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_google_thin_affiliat_7e98e7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.328,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3986,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.336,
+        "youtube": 0.0148,
+        "content_assembly": 0.4454,
+        "monetization": 1.0582,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_running_costs_review_dd637e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.186,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3732,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.3517,
+        "youtube": 0.0121,
+        "content_assembly": 0.3394,
+        "monetization": 0.0448,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_video_reviews_affili_42f434_short_form_product_c_593e4c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2025,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4035,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.3172,
+        "youtube": 0.0101,
+        "content_assembly": 0.3572,
+        "monetization": 0.0464,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_video_reviews_affili_42f434_side_by_side_video_t_69e73c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.246,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3731,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.3178,
+        "youtube": 0.0136,
+        "content_assembly": 0.4194,
+        "monetization": 0.0499,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_video_reviews_affili_42f434_video_review_website_d93947",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.023,
+      "phases": {
+        "preparation": 0.0156,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2558,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.3111,
+        "youtube": 0.0087,
+        "content_assembly": 0.3404,
+        "monetization": 0.044,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1401,
+      "phases": {
+        "preparation": 0.0208,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.2484,
+        "content_cleanup_final": 0.0257,
+        "media_svg": 0.3155,
+        "youtube": 0.0134,
+        "content_assembly": 0.4142,
+        "monetization": 0.0575,
+        "quality_write": 0.0433
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 211,
+    "reused_pages": 0,
+    "rebuilt_pages": 211,
+    "error_pages": 0,
+    "page_work_wall_seconds": 222.0559,
+    "rebuilt_pages_per_minute": 57.0127,
+    "queued_rebuild_pages_per_minute": 57.0127,
+    "apparent_page_work_speedup": 2.8935,
+    "process_worker_diagnostics": {
+      "completed_pages": 211,
+      "successful_pages": 211,
+      "failed_pages": 0,
+      "worker_summary": {
+        "10216": {
+          "pages": 69,
+          "successes": 69,
+          "failures": 0,
+          "total_worker_seconds": 219.2306,
+          "max_worker_seconds": 9.724,
+          "last_base_name": "making_money_from_cr_f649af_video_reviews_affili_42f434_video_review_website_d93947"
+        },
+        "27780": {
+          "pages": 71,
+          "successes": 71,
+          "failures": 0,
+          "total_worker_seconds": 215.7087,
+          "max_worker_seconds": 8.6483,
+          "last_base_name": "making_money_from_cr_f649af_video_reviews_affili_42f434_side_by_side_video_t_69e73c"
+        },
+        "31960": {
+          "pages": 71,
+          "successes": 71,
+          "failures": 0,
+          "total_worker_seconds": 215.6677,
+          "max_worker_seconds": 9.5751,
+          "last_base_name": "making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_compatibility_querie_7aaab5",
+          "level": 3,
+          "success": true,
+          "worker_pid": 10216,
+          "worker_duration_seconds": 9.724,
+          "total_seconds": 9.6902,
+          "worker_started_at_utc": "2026-06-27T10:19:12.456240Z",
+          "worker_finished_at_utc": "2026-06-27T10:19:22.146458Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_rain_jacket_field_te_9967ce",
+          "level": 3,
+          "success": true,
+          "worker_pid": 31960,
+          "worker_duration_seconds": 9.5751,
+          "total_seconds": 9.5375,
+          "worker_started_at_utc": "2026-06-27T10:18:51.995525Z",
+          "worker_finished_at_utc": "2026-06-27T10:19:01.533092Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "making_money_from_cr_f649af_kitchen_appliance_re_419365_blender_noise_tests_3be578",
+          "level": 3,
+          "success": true,
+          "worker_pid": 27780,
+          "worker_duration_seconds": 8.6483,
+          "total_seconds": 8.6074,
+          "worker_started_at_utc": "2026-06-27T10:18:05.983669Z",
+          "worker_finished_at_utc": "2026-06-27T10:18:14.591145Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_hiking_boot_fit_note_0dd1bf",
+          "level": 3,
+          "success": true,
+          "worker_pid": 10216,
+          "worker_duration_seconds": 8.6398,
+          "total_seconds": 8.6054,
+          "worker_started_at_utc": "2026-06-27T10:18:51.847298Z",
+          "worker_finished_at_utc": "2026-06-27T10:19:00.452703Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "making_money_from_cr_f649af_niche_authority_blog_7d2a98",
+          "level": 2,
+          "success": true,
+          "worker_pid": 10216,
+          "worker_duration_seconds": 8.2071,
+          "total_seconds": 8.1684,
+          "worker_started_at_utc": "2026-06-27T10:16:26.274239Z",
+          "worker_finished_at_utc": "2026-06-27T10:16:34.442867Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "making_money_from_cr_f649af_price_history_altern_e8d036_price_alert_often_di_5ec9a2",
+          "level": 3,
+          "success": true,
+          "worker_pid": 10216,
+          "worker_duration_seconds": 8.1881,
+          "total_seconds": 8.1515,
+          "worker_started_at_utc": "2026-06-27T10:19:26.350578Z",
+          "worker_finished_at_utc": "2026-06-27T10:19:34.502101Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_side_by_side_testing_eb91dc",
+          "level": 3,
+          "success": true,
+          "worker_pid": 27780,
+          "worker_duration_seconds": 7.8978,
+          "total_seconds": 7.8612,
+          "worker_started_at_utc": "2026-06-27T10:18:52.909092Z",
+          "worker_finished_at_utc": "2026-06-27T10:19:00.770287Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044",
+          "level": 3,
+          "success": true,
+          "worker_pid": 27780,
+          "worker_duration_seconds": 7.3003,
+          "total_seconds": 7.2614,
+          "worker_started_at_utc": "2026-06-27T10:19:20.924852Z",
+          "worker_finished_at_utc": "2026-06-27T10:19:28.186277Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_constraint_query_tra_27ed05",
+          "level": 3,
+          "success": true,
+          "worker_pid": 27780,
+          "worker_duration_seconds": 7.2965,
+          "total_seconds": 7.2598,
+          "worker_started_at_utc": "2026-06-27T10:19:13.627231Z",
+          "worker_finished_at_utc": "2026-06-27T10:19:20.887041Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "making_money_from_cr_f649af_kitchen_appliance_re_419365_coffee_machine_clean_cde4bf",
+          "level": 3,
+          "success": true,
+          "worker_pid": 31960,
+          "worker_duration_seconds": 7.0359,
+          "total_seconds": 7.0234,
+          "worker_started_at_utc": "2026-06-27T10:19:09.065205Z",
+          "worker_finished_at_utc": "2026-06-27T10:19:16.088623Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

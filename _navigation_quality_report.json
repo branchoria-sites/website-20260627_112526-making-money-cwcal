@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-27T10:20:19.240671Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1637,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "average_inline_inbound_links_per_visible_page": 7.76,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "making_money_from_cr_f649af_credible_review_site_c23c10",
+        "title": "Reviews",
+        "permalink": "/reviews/",
+        "inline_inbound_count": 100
+      },
+      {
+        "basename": "making_money_from_cr_f649af_credible_review_site_c23c10_long_term_review_upd_414a05",
+        "title": "Long Term",
+        "permalink": "/long-term/",
+        "inline_inbound_count": 78
+      },
+      {
+        "basename": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_evidence_placement_r_1c4466",
+        "title": "Evidence",
+        "permalink": "/evidence/",
+        "inline_inbound_count": 76
+      },
+      {
+        "basename": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_thin_affiliate_credi_c141e3",
+        "title": "Credibility",
+        "permalink": "/credibility/",
+        "inline_inbound_count": 74
+      },
+      {
+        "basename": "making_money_from_cr_f649af_first_hand_testing_7d677b",
+        "title": "Testing",
+        "permalink": "/testing/",
+        "inline_inbound_count": 72
+      },
+      {
+        "basename": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "title": "Traffic",
+        "permalink": "/traffic/",
+        "inline_inbound_count": 64
+      },
+      {
+        "basename": "making_money_from_cr_f649af_commission_models_51e452",
+        "title": "Commissions",
+        "permalink": "/commissions/",
+        "inline_inbound_count": 60
+      },
+      {
+        "basename": "making_money_from_cr_f649af_affiliate_content_mi_86bb15",
+        "title": "Content Mix",
+        "permalink": "/content-mix/",
+        "inline_inbound_count": 57
+      },
+      {
+        "basename": "making_money_from_cr_f649af_software_affiliates_fc6ab1",
+        "title": "Software",
+        "permalink": "/software/",
+        "inline_inbound_count": 57
+      },
+      {
+        "basename": "making_money_from_cr_f649af_first_hand_testing_7d677b_tested_product_alter_2a63a9",
+        "title": "Alternatives",
+        "permalink": "/alternatives/",
+        "inline_inbound_count": 54
+      },
+      {
+        "basename": "making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2",
+        "title": "Disclosure",
+        "permalink": "/disclosure-967c81/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_hidden_review_tradeo_801e61",
+        "title": "Trade Offs",
+        "permalink": "/trade-offs/",
+        "inline_inbound_count": 40
+      },
+      {
+        "basename": "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_accessories_88b69b",
+        "title": "Accessories",
+        "permalink": "/accessories/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "making_money_from_cr_f649af_affiliate_disclosure_342140_commission_ranking_t_f23a18",
+        "title": "Rankings",
+        "permalink": "/rankings/",
+        "inline_inbound_count": 36
+      },
+      {
+        "basename": "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_maintenance_c23b14",
+        "title": "Maintenance",
+        "permalink": "/maintenance/",
+        "inline_inbound_count": 31
+      },
+      {
+        "basename": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buying_guide_update_9caa2d",
+        "title": "Updates",
+        "permalink": "/updates/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "making_money_from_cr_f649af_affiliate_disclosure_342140_plain_language_discl_abee9d",
+        "title": "Wording",
+        "permalink": "/wording/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_comparison_tables_bu_b4cacc",
+        "title": "Tables",
+        "permalink": "/tables/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "making_money_from_cr_f649af_niche_authority_blog_7d2a98",
+        "title": "Authority",
+        "permalink": "/authority/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "making_money_from_cr_f649af_email_list_affiliate_327e06",
+        "title": "Email",
+        "permalink": "/email/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "making_money_from_cr_f649af_credible_review_site_c23c10_buyer_use_case_crite_361fd4",
+        "title": "Criteria",
+        "permalink": "/criteria/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "making_money_from_cr_f649af_video_reviews_affili_42f434",
+        "title": "Video",
+        "permalink": "/video/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "making_money_from_cr_f649af_kitchen_appliance_re_419365",
+        "title": "Appliances",
+        "permalink": "/appliances/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_durability_claims_re_426574",
+        "title": "Durability",
+        "permalink": "/durability/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "making_money_from_cr_f649af_home_espresso_niche_b223c9",
+        "title": "Espresso",
+        "permalink": "/espresso/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "making_money_from_cr_f649af_amazon_associates_be_44a913",
+        "title": "Amazon",
+        "permalink": "/amazon/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_subscript_416427",
+        "title": "Subscriptions",
+        "permalink": "/subscriptions/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_restrictions_72888e",
+        "title": "Restrictions",
+        "permalink": "/restrictions/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_affiliate_revenue_es_8f5f2b",
+        "title": "Revenue Math",
+        "permalink": "/revenue-math/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "making_money_from_cr_f649af_affiliate_disclosure_342140_before_click_disclos_ee9ffd",
+        "title": "Placement",
+        "permalink": "/placement/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "making_money_from_cr_f649af_income_math_conversi_0810b0_affiliate_income_sce_194e90",
+        "title": "Scenarios",
+        "permalink": "/scenarios/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "making_money_from_cr_f649af_income_math_conversi_0810b0_earnings_per_click_s_b71160",
+        "title": "Earnings Per Click",
+        "permalink": "/earnings-per-click/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "making_money_from_cr_f649af_community_traffic_f6e02d",
+        "title": "Communities",
+        "permalink": "/communities/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "making_money_from_cr_f649af_small_business_softw_03dae8_software_integration_be0708",
+        "title": "Integrations",
+        "permalink": "/integrations/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "making_money_from_cr_f649af_software_affiliates_fc6ab1_b2b_buyer_intent_b8cf9d",
+        "title": "Buyer Intent",
+        "permalink": "/buyer-intent/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329",
+        "title": "Thin Pages",
+        "permalink": "/thin-pages/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374",
+        "title": "Coverage",
+        "permalink": "/coverage/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "making_money_from_cr_f649af_first_hand_testing_7d677b_manufacturer_claims_889fd0",
+        "title": "Claims Test",
+        "permalink": "/claims-test/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "making_money_from_cr_f649af_income_math_conversi_0810b0_merchant_conversion_034cea",
+        "title": "Merchant CR",
+        "permalink": "/merchant-cr/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4",
+        "title": "Long Tail",
+        "permalink": "/long-tail/",
+        "inline_inbound_count": 10
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_affiliate_content_mi_86bb15",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_342140",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_amazon_associates_be_44a913",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_commission_models_51e452",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_community_traffic_f6e02d",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_credible_review_site_c23c10",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_email_list_affiliate_327e06",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_first_hand_testing_7d677b",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_home_espresso_niche_b223c9",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_income_math_conversi_0810b0",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_kitchen_appliance_re_419365",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_niche_authority_blog_7d2a98",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_price_history_altern_e8d036",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_small_business_softw_03dae8",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_software_affiliates_fc6ab1",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_video_reviews_affili_42f434",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_who_should_not_buy_53dcfe",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_affiliate_content_mi_86bb15",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_342140",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_amazon_associates_be_44a913",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_commission_models_51e452",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_community_traffic_f6e02d",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_credible_review_site_c23c10",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_email_list_affiliate_327e06",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_first_hand_testing_7d677b",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_home_espresso_niche_b223c9",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_income_math_conversi_0810b0",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_kitchen_appliance_re_419365",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_niche_authority_blog_7d2a98",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_price_history_altern_e8d036",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_small_business_softw_03dae8",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_software_affiliates_fc6ab1",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_video_reviews_affili_42f434",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_who_should_not_buy_53dcfe",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_traffic_sources_c48968_affiliate_disclosure_8ecefe",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_traffic_sources_c48968_affiliate_email_lead_255f10",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_traffic_sources_c48968_community_research_r_6485f8",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_traffic_sources_c48968_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_traffic_sources_c48968_pinterest_visual_aff_fa68e3",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_traffic_sources_c48968_price_drop_alerts_472392",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af_traffic_sources_c48968_reddit_affiliate_tra_c5f15b",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_affiliate_content_mi_86bb15",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_342140",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_amazon_associates_be_44a913",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_commission_models_51e452",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_community_traffic_f6e02d",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_credible_review_site_c23c10",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_email_list_affiliate_327e06",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_first_hand_testing_7d677b",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_home_espresso_niche_b223c9",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_income_math_conversi_0810b0",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_kitchen_appliance_re_419365",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_niche_authority_blog_7d2a98",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_price_history_altern_e8d036",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_small_business_softw_03dae8",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_software_affiliates_fc6ab1",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_video_reviews_affili_42f434",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_who_should_not_buy_53dcfe",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893_car_seat_sleep_limit_9c65b3",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893_parent_testing_pushc_26f021",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893_stroller_adapter_com_169325",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893_travel_cot_safety_ev_256d92",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893_vehicle_fit_car_seat_d675ee",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_affiliate_content_mi_86bb15",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_342140",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_amazon_associates_be_44a913",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_commission_models_51e452",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_community_traffic_f6e02d",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_credible_review_site_c23c10",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_email_list_affiliate_327e06",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_first_hand_testing_7d677b",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_home_espresso_niche_b223c9",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_income_math_conversi_0810b0",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_kitchen_appliance_re_419365",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_niche_authority_blog_7d2a98",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_price_history_altern_e8d036",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_small_business_softw_03dae8",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_software_affiliates_fc6ab1",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_video_reviews_affili_42f434",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_who_should_not_buy_53dcfe",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008_best_overall_ranking_0dc98d",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008_feature_tables_buyer_bee084",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008_hidden_fees_price_co_57e41c",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_sites_786008",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_affiliate_content_mi_86bb15",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_342140",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_amazon_associates_be_44a913",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_commission_models_51e452",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_community_traffic_f6e02d",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_credible_review_site_c23c10",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_email_list_affiliate_327e06",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_first_hand_testing_7d677b",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_home_espresso_niche_b223c9",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_income_math_conversi_0810b0",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_kitchen_appliance_re_419365",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_long_tail_buying_que_1f52a4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_niche_authority_blog_7d2a98",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_niche_buyer_intent_9e67b9",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_price_history_altern_e8d036",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_small_business_softw_03dae8",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_software_affiliates_fc6ab1",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_thin_affiliate_pages_1ea329",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_traffic_sources_c48968",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_video_reviews_affili_42f434",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_who_should_not_buy_53dcfe",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_wirecutter_model_9c7db6_editorial_commerce_s_7fccf2",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_wirecutter_model_9c7db6_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_wirecutter_model_9c7db6_living_review_pages_bf4ebd",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_best_pick_e97927",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_deal_filt_a53366",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_disclosur_48d0ed",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_subscript_416427",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_wirecutter_model_9c7db6",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_affiliate_content_mi_86bb15",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_342140",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_amazon_associates_be_44a913",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_baby_travel_gear_f24893",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_community_traffic_f6e02d",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_comparison_sites_786008",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_credible_review_site_c23c10",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_email_list_affiliate_327e06",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_first_hand_testing_7d677b",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_google_spam_policy_r_5dda1d",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_helpful_affiliate_se_8a8777",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_high_ticket_low_cost_44dde4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_hiking_gear_field_te_d631b1",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_home_espresso_niche_b223c9",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commission_models_51e452",
+        "to": "making_money_from_cr_f649af_income_math_conversi_0810b0",
+        "type": "sibling"
+      }
+    ]
+  }
+}

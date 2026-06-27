@@ -1,0 +1,2832 @@
+{
+  "generated_at": "2026-06-27T11:20:22",
+  "passed": true,
+  "baseline": {
+    "article_pages": 226,
+    "amazon_specific_pages": 197,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 196,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "making_money_from_cr_f649af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_before_click_disclos_ee9ffd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_commission_ranking_t_f23a18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_disclosure_templates_aa3b03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_plain_language_discl_abee9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_roundup_ad_labelling_1c2ab2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_snippet_affiliate_di_a21349": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_2020_rate_cut_2e0a8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_disclosure_ru_5ffe72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_product_data_7acb6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_commission_category_794bb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_cookie_window_expens_1de445": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_three_qualifying_sal_f5496c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_car_seat_sleep_limit_9c65b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_parent_testing_pushc_26f021": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_stroller_adapter_com_169325": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_travel_cot_safety_ev_256d92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_vehicle_fit_car_seat_d675ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_amazon_payout_rules_b16184": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_cookie_windows_330e2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_fixed_bounties_432c34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_percentage_order_val_978aac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_qualified_leads_f4bdc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_recurring_retention_27bd5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_buyer_objections_thr_8b7ea0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_community_affiliate_dc0161": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_community_rule_check_95071e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_self_promotion_ratio_b04d87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_standalone_answers_7c3b3a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_thread_research_affi_915eca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_best_overall_ranking_0dc98d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_feature_tables_buyer_bee084": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_hidden_fees_price_co_57e41c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_affiliate_disclosure_8b10cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_buyer_use_case_crite_361fd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_free_samples_vs_boug_d472da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_long_term_review_upd_414a05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_meaningful_product_c_36e448": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_risky_purchase_evide_dd9037": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_restrictions_72888e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_survey_data_ac209c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_last_click_coupon_at_e9d535": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_seasonal_deal_freshn_399116": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_thin_affiliate_coupo_c19595": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_verified_coupon_code_d56f0d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_affiliate_email_segm_4b785a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_buyer_checklists_dfa1ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_editorial_affiliate_f2ef2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_over_promotion_risk_fb6369": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_price_drop_alerts_472392": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_search_shocks_owned_2e6b1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_awkward_ownership_mo_e52987": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_credible_how_we_test_3e30da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_manufacturer_claims_889fd0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_original_product_pho_1d51f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_tested_product_alter_2a63a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_who_should_not_buy_53dcfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_copied_product_feeds_6ed996": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_defensible_affiliate_b87f7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_generic_best_lists_3a0b6c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_hosted_coupon_sectio_fa45d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_scaled_affiliate_pag_12808f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_sponsored_link_tags_fd8a7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buyer_intent_page_fo_e14a37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buying_guide_update_9caa2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_comparison_tables_bu_b4cacc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_evidence_placement_r_1c4466": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_honest_affiliate_pro_90208e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_retailer_gaps_affili_83bfa9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_amazon_rate_traps_1cfdae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_checkout_friction_ex_d96bf6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_commission_maths_hig_a03aa2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_low_cost_pages_that_475781": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_premium_review_trust_8335b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_thin_affiliate_high_376376": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_durability_claims_re_426574": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_hiking_boot_fit_note_0dd1bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_pack_comfort_tests_464614": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_rain_jacket_field_te_9967ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_side_by_side_testing_eb91dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_trail_test_disclosur_9f2710": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_bambino_vs_gaggia_7a0ab0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_accessories_88b69b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_grinder_fir_749130": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_maintenance_c23b14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_setup_under_7651cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_thin_espresso_review_681deb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_affiliate_ctr_benchm_d4881d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_affiliate_income_sce_194e90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_earnings_per_click_s_b71160": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_high_payout_affiliat_02cc1d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_low_commission_traff_6f927a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_merchant_conversion_034cea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_air_fryer_capacity_f_363e8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_cleanabili_b2d106": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_replacemen_2bb5a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_blender_noise_tests_3be578": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_coffee_machine_clean_cde4bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_countertop_dishwashe_4d92a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_advice_to_purchase_e8ee12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_best_for_roundups_663a85": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_first_hand_testing_7d677b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_topical_depth_catego_294b60": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_affiliate_revenue_es_8f5f2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_best_for_modifier_7351bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_buyer_intent_keyword_b9ff6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_high_ticket_first_ha_d89c78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_serp_commercial_sign_d8a353": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_thin_affiliate_credi_c141e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_break_even_cpc_fd5b9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_rejected_commissions_2b4e6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_subid_tracking_profi_c897cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_two_step_conversion_621408": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_black_friday_year_ro_1554b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_cheaper_substitute_t_68cea6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_deal_thresholds_buy_66ec7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_older_models_better_306b47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_price_alert_often_di_5ec9a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_wait_recommendations_e3e0d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_crm_setup_timelines_c2ea80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_saas_data_export_che_74ff1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_saas_plan_costs_b69c44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_software_bad_fit_war_e10788": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_software_integration_be0708": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_ai_b2b_software_disc_743695": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_b2b_buyer_intent_b8cf9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_payout_duration_997c1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_terms_risk_77de2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_software_switching_c_847980": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_trial_vs_paid_credit_b96d8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_best_roundup_criteri_781923": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_copied_merchant_desc_eef415": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_google_thin_affiliat_7e98e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_hidden_review_tradeo_801e61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_original_product_tes_dbe18f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_running_costs_review_dd637e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_affiliate_disclosure_8ecefe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_affiliate_email_lead_255f10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_community_research_r_6485f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_pinterest_visual_aff_fa68e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_price_drop_alerts_472392": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_reddit_affiliate_tra_c5f15b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_real_product_demos_67115c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_short_form_product_c_593e4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_side_by_side_video_t_69e73c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_video_review_website_d93947": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_link_intent_4666cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_cheaper_overkill_alt_c3cc3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_missing_features_666c7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_review_rules_trust_w_af3d40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_risky_category_bad_f_1f328c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_running_costs_e5b355": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_workload_bad_fit_272c2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_editorial_commerce_s_7fccf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_living_review_pages_bf4ebd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_best_pick_e97927": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_deal_filt_a53366": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_disclosur_48d0ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_subscript_416427": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 210,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "making_money_from_cr_f649af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_content_mi_86bb15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_content_mi_86bb15_air_fryer_content_cl_217897": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_content_mi_86bb15_best_for_roundups_663a85": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_content_mi_86bb15_decision_matrices_879bf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_content_mi_86bb15_early_research_trust_bf4e98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_content_mi_86bb15_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_content_mi_86bb15_post_purchase_suppor_a8fda6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_content_mi_86bb15_thin_affiliate_risk_cb9c37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_before_click_disclos_ee9ffd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_commission_ranking_t_f23a18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_disclosure_templates_aa3b03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_plain_language_discl_abee9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_roundup_ad_labelling_1c2ab2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_affiliate_disclosure_342140_snippet_affiliate_di_a21349": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_2020_rate_cut_2e0a8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_disclosure_ru_5ffe72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_product_data_7acb6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_commission_category_794bb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_cookie_window_expens_1de445": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_amazon_associates_be_44a913_three_qualifying_sal_f5496c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_car_seat_sleep_limit_9c65b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_parent_testing_pushc_26f021": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_stroller_adapter_com_169325": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_travel_cot_safety_ev_256d92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_baby_travel_gear_f24893_vehicle_fit_car_seat_d675ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_amazon_payout_rules_b16184": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_cookie_windows_330e2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_fixed_bounties_432c34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_percentage_order_val_978aac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_qualified_leads_f4bdc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_commission_models_51e452_recurring_retention_27bd5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_buyer_objections_thr_8b7ea0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_community_affiliate_dc0161": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_community_rule_check_95071e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_self_promotion_ratio_b04d87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_standalone_answers_7c3b3a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_community_traffic_f6e02d_thread_research_affi_915eca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_best_overall_ranking_0dc98d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_feature_tables_buyer_bee084": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_hidden_fees_price_co_57e41c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_affiliate_disclosure_8b10cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_buyer_use_case_crite_361fd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_free_samples_vs_boug_d472da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_long_term_review_upd_414a05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_meaningful_product_c_36e448": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_credible_review_site_c23c10_risky_purchase_evide_dd9037": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_restrictions_72888e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_survey_data_ac209c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_last_click_coupon_at_e9d535": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_seasonal_deal_freshn_399116": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_thin_affiliate_coupo_c19595": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_verified_coupon_code_d56f0d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_affiliate_email_segm_4b785a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_buyer_checklists_dfa1ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_editorial_affiliate_f2ef2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_over_promotion_risk_fb6369": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_price_drop_alerts_472392": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_email_list_affiliate_327e06_search_shocks_owned_2e6b1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_awkward_ownership_mo_e52987": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_credible_how_we_test_3e30da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_manufacturer_claims_889fd0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_original_product_pho_1d51f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_tested_product_alter_2a63a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_first_hand_testing_7d677b_who_should_not_buy_53dcfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_copied_product_feeds_6ed996": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_defensible_affiliate_b87f7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_generic_best_lists_3a0b6c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_hosted_coupon_sectio_fa45d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_scaled_affiliate_pag_12808f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_google_spam_policy_r_5dda1d_sponsored_link_tags_fd8a7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buyer_intent_page_fo_e14a37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buying_guide_update_9caa2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_comparison_tables_bu_b4cacc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_evidence_placement_r_1c4466": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_honest_affiliate_pro_90208e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_helpful_affiliate_se_8a8777_retailer_gaps_affili_83bfa9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_amazon_rate_traps_1cfdae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_checkout_friction_ex_d96bf6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_commission_maths_hig_a03aa2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_low_cost_pages_that_475781": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_premium_review_trust_8335b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_high_ticket_low_cost_44dde4_thin_affiliate_high_376376": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_durability_claims_re_426574": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_hiking_boot_fit_note_0dd1bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_pack_comfort_tests_464614": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_rain_jacket_field_te_9967ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_side_by_side_testing_eb91dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_hiking_gear_field_te_d631b1_trail_test_disclosur_9f2710": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_bambino_vs_gaggia_7a0ab0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_accessories_88b69b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_grinder_fir_749130": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_maintenance_c23b14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_setup_under_7651cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_home_espresso_niche_b223c9_thin_espresso_review_681deb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_affiliate_ctr_benchm_d4881d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_affiliate_income_sce_194e90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_earnings_per_click_s_b71160": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_high_payout_affiliat_02cc1d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_low_commission_traff_6f927a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_income_math_conversi_0810b0_merchant_conversion_034cea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_air_fryer_capacity_f_363e8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_cleanabili_b2d106": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_replacemen_2bb5a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_blender_noise_tests_3be578": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_coffee_machine_clean_cde4bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_countertop_dishwashe_4d92a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_kitchen_appliance_re_419365_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_long_tail_buying_que_1f52a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_comparison_buying_qu_bd96df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_compatibility_querie_7aaab5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_constraint_query_tra_27ed05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_editorial_filter_pag_3f4d4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_objection_queries_02468d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_long_tail_buying_que_1f52a4_pain_point_keywords_35769e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_advice_to_purchase_e8ee12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_best_for_roundups_663a85": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_first_hand_testing_7d677b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_authority_blog_7d2a98_topical_depth_catego_294b60": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_affiliate_revenue_es_8f5f2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_best_for_modifier_7351bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_buyer_intent_keyword_b9ff6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_high_ticket_first_ha_d89c78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_serp_commercial_sign_d8a353": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_niche_buyer_intent_9e67b9_thin_affiliate_credi_c141e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_break_even_cpc_fd5b9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_rejected_commissions_2b4e6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_subid_tracking_profi_c897cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_two_step_conversion_621408": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_black_friday_year_ro_1554b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_cheaper_substitute_t_68cea6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_deal_thresholds_buy_66ec7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_older_models_better_306b47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_price_alert_often_di_5ec9a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_price_history_altern_e8d036_wait_recommendations_e3e0d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_crm_setup_timelines_c2ea80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_saas_data_export_che_74ff1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_saas_plan_costs_b69c44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_software_bad_fit_war_e10788": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_small_business_softw_03dae8_software_integration_be0708": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_ai_b2b_software_disc_743695": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_b2b_buyer_intent_b8cf9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_payout_duration_997c1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_terms_risk_77de2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_software_switching_c_847980": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_software_affiliates_fc6ab1_trial_vs_paid_credit_b96d8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_best_roundup_criteri_781923": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_copied_merchant_desc_eef415": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_google_thin_affiliat_7e98e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_hidden_review_tradeo_801e61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_original_product_tes_dbe18f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_thin_affiliate_pages_1ea329_running_costs_review_dd637e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_affiliate_disclosure_8ecefe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_affiliate_email_lead_255f10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_community_research_r_6485f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_pinterest_visual_aff_fa68e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_price_drop_alerts_472392": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_traffic_sources_c48968_reddit_affiliate_tra_c5f15b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_real_product_demos_67115c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_short_form_product_c_593e4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_side_by_side_video_t_69e73c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_video_review_website_d93947": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_link_intent_4666cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_cheaper_overkill_alt_c3cc3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_missing_features_666c7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_review_rules_trust_w_af3d40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_risky_category_bad_f_1f328c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_running_costs_e5b355": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_who_should_not_buy_53dcfe_workload_bad_fit_272c2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_editorial_commerce_s_7fccf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_living_review_pages_bf4ebd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_best_pick_e97927": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_deal_filt_a53366": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_disclosur_48d0ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_subscript_416427": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 226,
+  "regressions": []
+}
