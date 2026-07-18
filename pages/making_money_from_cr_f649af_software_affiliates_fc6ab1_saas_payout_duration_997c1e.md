@@ -280,7 +280,7 @@ image: /assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_saa
 
 ## Introduction
 
-Recurring SaaS [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}) are one of the main reasons [software]({{ 'software/' | relative_url }})-focused affiliate websites can generate more durable income than sites promoting one-off purchases. However, the phrase "recurring commission" often hides important limitations. Some programmes pay for as long as the customer remains subscribed, others stop after 12 months, while some only pay on the first subscription term or exclude renewals after upgrades, refunds, or account changes. Understanding these differences is essential because the real value of a referral depends far more on payout duration and customer retention than on the headline commission percentage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
+Recurring SaaS [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}) are one of the main reasons [software]({{ 'software/' | relative_url }})-focused affiliate websites can generate more durable income than sites promoting one-off purchases. However, the phrase "recurring commission" often hides important limitations. Some programmes pay for as long as the customer remains subscribed, others stop after 12 months, while some only pay on the first subscription term or exclude renewals after upgrades, refunds, or account changes. Understanding these differences is essential because the real value of a referral depends far more on payout duration and customer retention than on the headline commission percentage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_payout_duration_997c1e-Illustration-1-dark.svg" | relative_url }}" alt="Payout Duration illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_payout_duration_997c1e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_payout_duration_997c1e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -301,7 +301,7 @@ In practice, recurring SaaS programmes generally fall into three broad models:
 
 </div>
 
-This distinction changes the economics dramatically. A 30% commission lasting only one year may produce less total income than a 20% lifetime commission if customers typically remain subscribed for several years. Conversely, a fixed-term programme can outperform a lifetime programme when customer churn is naturally high. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
+This distinction changes the economics dramatically. A 30% commission lasting only one year may produce less total income than a 20% lifetime commission if customers typically remain subscribed for several years. Conversely, a fixed-term programme can outperform a lifetime programme when customer churn is naturally high.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
 
 The result is that comparing programmes purely by commission percentage often produces misleading conclusions.
 
@@ -332,7 +332,7 @@ This means the real value of an affiliate programme depends on several variables
 
 </div>
 
-No single figure tells the whole story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afftank.com/blog/affiliate-networks-launch-ai-saas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afftank.com">[AffTank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afftank.com</span><span class="citation-popover-title">affiliate networks launch ai saas</span><span class="citation-popover-snippet">9 Best Affiliate Networks to Launch AI &amp; SaaS Programs 202624 Feb 2026 — Recurring commissions for subscription lifetime; Limited...</span></span></span>
+No single figure tells the whole story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afftank.com/blog/affiliate-networks-launch-ai-saas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afftank.com">[AffTank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afftank.com</span><span class="citation-popover-title">affiliate networks launch ai saas</span><span class="citation-popover-snippet">9 Best Affiliate Networks to Launch AI &amp; SaaS Programs 202624 Feb 2026 — Recurring commissions for subscription lifetime; Limited...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N8fjmAzocsA" title="Launch affiliate Program For Your Business on Affonso and rewardful Affiliate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N8fjmAzocsA" target="_blank" rel="noopener noreferrer">Launch affiliate Program For Your Business on Affonso and rewardful Affiliate</a></p><p class="youtube-embed-meta">Channel: Paddedvibez Media</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N8fjmAzocsA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N8fjmAzocsA">Open on YouTube</a></p></div></div></div>
@@ -345,7 +345,7 @@ A software company may technically advertise "lifetime" commissions, but if the 
 
 Likewise, software serving enterprise customers often experiences lower churn because businesses become dependent on the platform after onboarding. A customer relationship management system, accounting platform, or marketing automation tool can remain embedded in a company's operations for years, making recurring commissions much more valuable than those from software that users frequently replace.
 
-This is why experienced affiliates evaluate product retention alongside commission terms. A lower-paying programme with excellent customer retention can outperform a higher-paying programme attached to software with frequent cancellations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.affililist.com/blog/lucrative-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affililist.com">[AffiliList]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affililist.com</span><span class="citation-popover-title">lucrative affiliate programs</span><span class="citation-popover-snippet">Learn how to earn high-ticket recurring commissions, evaluate cookie duration, and...Read more...</span></span></span>
+This is why experienced affiliates evaluate product retention alongside commission terms. A lower-paying programme with excellent customer retention can outperform a higher-paying programme attached to software with frequent cancellations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.affililist.com/blog/lucrative-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affililist.com">[AffiliList]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affililist.com</span><span class="citation-popover-title">lucrative affiliate programs</span><span class="citation-popover-snippet">Learn how to earn high-ticket recurring commissions, evaluate cookie duration, and...Read more...</span></span></span>
 
 ## Refunds, exclusions and events that stop commissions
 
@@ -369,7 +369,7 @@ Common exclusions include:
 
 Some programmes also limit commissions after account restructuring, mergers between customer accounts, or conversion into enterprise contracts handled directly by a sales team.
 
-These conditions explain why published commission examples should be viewed as maximum potential rather than guaranteed income. The effective payout period is usually shorter than the theoretical maximum because a proportion of referrals never complete the full commission cycle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1606.01428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Exploring Risk and Fraud Scenarios in Affiliate Marketing Technologies from the Advertisers perspectiveJune 4, 2016...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
+These conditions explain why published commission examples should be viewed as maximum potential rather than guaranteed income. The effective payout period is usually shorter than the theoretical maximum because a proportion of referrals never complete the full commission cycle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1606.01428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Exploring Risk and Fraud Scenarios in Affiliate Marketing Technologies from the Advertisers perspectiveJune 4, 2016...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_payout_duration_997c1e-Illustration-2-dark.svg" | relative_url }}" alt="Payout Duration illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_payout_duration_997c1e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_payout_duration_997c1e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -388,7 +388,7 @@ For example, a programme may offer:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * a 90-day tracking cookie
-* 30% recurring commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
+* 30% recurring commission<span class="citation-chip-wrap"><a class="citation-chip" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
 * payments for only the first 12 months
 
 </div>
@@ -399,12 +399,12 @@ Another programme may use:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * a 30-day cookie
-* 20% recurring commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
+* 20% recurring commission<span class="citation-chip-wrap"><a class="citation-chip" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
 * payments for the customer's entire subscription lifetime
 
 </div>
 
-Long cookies help capture delayed purchasing decisions, while long payout windows determine [long-term]({{ 'long-term/' | relative_url }}) earnings. They solve different problems and should not be compared directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
+Long cookies help capture delayed purchasing decisions, while long payout windows determine [long-term]({{ 'long-term/' | relative_url }}) earnings. They solve different problems and should not be compared directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iS5whSpwbis" title="How Small YouTube Channels Can Make $50/Day In 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iS5whSpwbis" target="_blank" rel="noopener noreferrer">How Small YouTube Channels Can Make $50/Day In 2026</a></p><p class="youtube-embed-meta">Channel: Build Your Tribe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iS5whSpwbis" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iS5whSpwbis">Open on YouTube</a></p></div></div></div>
@@ -423,7 +423,7 @@ For example:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * £50 monthly subscription
-* 25% recurring commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
+* 25% recurring commission<span class="citation-chip-wrap"><a class="citation-chip" href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arvow.com">[arvow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arvow.com</span><span class="citation-popover-title">best saas affiliate programs</span><span class="citation-popover-snippet">HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</span></span></span>
 * average customer lifetime of 18 months
 
 </div>
@@ -464,197 +464,197 @@ Recurring SaaS commissions should be viewed as a stream of income that gradually
 
 Every referred customer begins generating monthly revenue, but that revenue eventually ends because of churn, cancellations, account changes or programme limits. As a result, mature affiliate websites typically contain overlapping generations of referrals: older customers gradually disappear while newer referrals replace them.
 
-The strongest software affiliate businesses therefore depend less on finding the highest advertised commission percentage and more on recommending products that customers genuinely continue paying for over time. Durable subscriptions, transparent programme rules and realistic commission windows usually create more predictable long-term revenue than eye-catching "lifetime" marketing claims alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afftank.com/blog/affiliate-networks-launch-ai-saas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afftank.com">[AffTank+2Supademo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afftank.com</span><span class="citation-popover-title">affiliate networks launch ai saas</span><span class="citation-popover-snippet">9 Best Affiliate Networks to Launch AI &amp; SaaS Programs 202624 Feb 2026 — Recurring commissions for subscription lifetime; Limited...</span></span></span>
+The strongest software affiliate businesses therefore depend less on finding the highest advertised commission percentage and more on recommending products that customers genuinely continue paying for over time. Durable subscriptions, transparent programme rules and realistic commission windows usually create more predictable long-term revenue than eye-catching "lifetime" marketing claims alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afftank.com/blog/affiliate-networks-launch-ai-saas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afftank.com">[AffTank+2Supademo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afftank.com</span><span class="citation-popover-title">affiliate networks launch ai saas</span><span class="citation-popover-snippet">9 Best Affiliate Networks to Launch AI &amp; SaaS Programs 202624 Feb 2026 — Recurring commissions for subscription lifetime; Limited...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Long Do Saa S Commissions Really Last?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Long Do Saa S Commissions Really Last?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
-        </h4>
-        <p class="fr-book-author">By Evgenii Prussakov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
+</h4>
+<p class="fr-book-author">By Evgenii Prussakov</p>
         
-        <p class="fr-book-desc">Directly explains affiliate economics, commissions, relationships, and long-term revenue strategies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains affiliate economics, commissions, relationships, and long-term revenue strategies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
-        </h4>
-        <p class="fr-book-author">By April Dunford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
+</h4>
+<p class="fr-book-author">By April Dunford</p>
         
-        <p class="fr-book-desc">Explains positioning and differentiation, aligning with evidence-based software reviews that AI and buyers value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains positioning and differentiation, aligning with evidence-based software reviews that AI and buyers value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Sheridan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
+</h4>
+<p class="fr-book-author">By Marcus Sheridan</p>
         
-        <p class="fr-book-desc">Focuses on creating trustworthy, question-led content that matches modern AI-assisted buying journeys.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on creating trustworthy, question-led content that matches modern AI-assisted buying journeys.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9-4bBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Traction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction">Traction</a>
-        </h4>
-        <p class="fr-book-author">By Justin Mares, Gabriel Weinberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9-4bBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Traction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction">Traction</a>
+</h4>
+<p class="fr-book-author">By Justin Mares, Gabriel Weinberg</p>
         
-        <p class="fr-book-desc">Provides context for customer acquisition channels, including partnerships and affiliate-style growth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for customer acquisition channels, including partnerships and affiliate-style growth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b0ee76e0b81d3bc1f511.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b0ee76e0b81d3bc1f511.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display"><img src="{{ '/assets/images/marketplace-covers/f218f705ef7c014f23ec.jpg' | relative_url }}" alt="Listing image for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display"><img src="{{ '/assets/images/marketplace-covers/f218f705ef7c014f23ec.jpg' | relative_url }}" alt="Listing image for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm"><img src="{{ '/assets/images/marketplace-covers/d09e7e7a40c101faf0a9.jpg' | relative_url }}" alt="Listing image for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm"><img src="{{ '/assets/images/marketplace-covers/d09e7e7a40c101faf0a9.jpg' | relative_url }}" alt="Listing image for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="payout-duration-how-long-do-saa-s-commissions-really-last-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -670,7 +670,7 @@ The strongest software affiliate businesses therefore depend less on finding the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -690,7 +690,7 @@ The strongest software affiliate businesses therefore depend less on finding the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -722,7 +722,7 @@ The strongest software affiliate businesses therefore depend less on finding the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -774,7 +774,7 @@ The strongest software affiliate businesses therefore depend less on finding the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -819,7 +819,7 @@ The strongest software affiliate businesses therefore depend less on finding the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -860,89 +860,89 @@ The strongest software affiliate businesses therefore depend less on finding the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arvow.com  
    Title: best saas affiliate programs  
-   Link: <a href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://arvow.com/blog/best-saas-affiliate-programs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</p></details>
+   Link:<a href="https://arvow.com/blog/best-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://arvow.com/blog/best-saas-affiliate-programs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot — Best Brand-Trust for Marketing/Sales Audiences. Commission: 30% recurring OR up to $1,000 flat per Hub · Duration: 12 months...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: afftank.com  
    Title: affiliate networks launch ai saas  
-   Link: <a href="https://afftank.com/blog/affiliate-networks-launch-ai-saas" target="_blank" rel="noopener noreferrer nofollow">https://afftank.com/blog/affiliate-networks-launch-ai-saas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Best Affiliate Networks to Launch AI &amp; SaaS Programs 202624 Feb 2026 — Recurring commissions for subscription lifetime; Limited...</p></details>
+   Link:<a href="https://afftank.com/blog/affiliate-networks-launch-ai-saas" target="_blank" rel="noopener noreferrer nofollow">https://afftank.com/blog/affiliate-networks-launch-ai-saas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Best Affiliate Networks to Launch AI &amp; SaaS Programs 202624 Feb 2026 — Recurring commissions for subscription lifetime; Limited...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: supademo.com  
    Title: saas affiliate programs  
-   Link: <a href="https://supademo.com/blog/saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://supademo.com/blog/saas-affiliate-programs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Best SaaS Affiliate Programs in 2026 (High Recurring...3 Mar 2026 — Affiliate program details: Commission: Up to 60% recurring for 12...</p></details>
+   Link:<a href="https://supademo.com/blog/saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://supademo.com/blog/saas-affiliate-programs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Best SaaS Affiliate Programs in 2026 (High Recurring...3 Mar 2026 — Affiliate program details: Commission: Up to 60% recurring for 12...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: affililist.com  
    Title: lucrative affiliate programs  
-   Link: <a href="https://www.affililist.com/blog/lucrative-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.affililist.com/blog/lucrative-affiliate-programs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how to earn [high-ticket](&amp;#123;&amp;#123; &#x27;high-ticket/&#x27; | relative_url &amp;#125;&amp;#125;) recurring commissions, evaluate cookie duration, and...Read more...</p></details>
+   Link:<a href="https://www.affililist.com/blog/lucrative-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.affililist.com/blog/lucrative-affiliate-programs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how to earn [high-ticket](&amp;#123;&amp;#123; &#x27;high-ticket/&#x27; | relative_url &amp;#125;&amp;#125;) recurring commissions, evaluate cookie duration, and...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1606.01428" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1606.01428</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Risk and Fraud [Scenarios](&amp;#123;&amp;#123; &#x27;scenarios/&#x27; | relative_url &amp;#125;&amp;#125;) in Affiliate Marketing Technologies from the Advertisers perspectiveJune 4, 2016...</p></details>
+   Link:<a href="https://arxiv.org/abs/1606.01428" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1606.01428</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Risk and Fraud [Scenarios](&amp;#123;&amp;#123; &#x27;scenarios/&#x27; | relative_url &amp;#125;&amp;#125;) in Affiliate Marketing Technologies from the Advertisers perspectiveJune 4, 2016...</p></details>
    Published: June 4, 2016  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: funnelish.com  
-   Link: <a href="https://funnelish.com/blog/best-recurring-affiliate-program" target="_blank" rel="noopener noreferrer nofollow">https://funnelish.com/blog/best-recurring-affiliate-program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Best Recurring Affiliate Programs to Build Passive Wealth27 Apr 2026 — Bronze Tier (starting out): You earn a massive 40% recurring com...</p></details>
+   Link:<a href="https://funnelish.com/blog/best-recurring-affiliate-program" target="_blank" rel="noopener noreferrer nofollow">https://funnelish.com/blog/best-recurring-affiliate-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Best Recurring Affiliate Programs to Build Passive Wealth27 Apr 2026 — Bronze Tier (starting out): You earn a massive 40% recurring com...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jotform.com  
    Title: best saas affiliate program  
-   Link: <a href="https://www.jotform.com/blog/best-saas-affiliate-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.jotform.com/blog/best-saas-affiliate-program/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6 best SaaS affiliate programs in 2026 (compared)2 Apr 2026 — The HubSpot Affiliate Program is one of the most generous in the B2B SaaS s...</p></details>
+   Link:<a href="https://www.jotform.com/blog/best-saas-affiliate-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.jotform.com/blog/best-saas-affiliate-program/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 best SaaS affiliate programs in 2026 (compared)2 Apr 2026 — The HubSpot Affiliate Program is one of the most generous in the B2B SaaS s...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: activecampaign.com  
    Title: saas affiliate programs  
-   Link: <a href="https://www.activecampaign.com/blog/saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.activecampaign.com/blog/saas-affiliate-programs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15+ Top-Paying SaaS Affiliate Programs [2024]11 Dec 2023 — Affiliates enjoy a generous 25% recurring commission for up to 12 months per r...</p></details>
+   Link:<a href="https://www.activecampaign.com/blog/saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.activecampaign.com/blog/saas-affiliate-programs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15+ Top-Paying SaaS Affiliate Programs [2024]11 Dec 2023 — Affiliates enjoy a generous 25% recurring commission for up to 12 months per r...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Launch affiliate Program For Your Business on Affonso and rewardful Affiliate  
-   Link: <a href="https://www.youtube.com/watch?v=N8fjmAzocsA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N8fjmAzocsA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PayKickstart Affiliate Program [2026] | Earn Money from paykickstart.com...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=N8fjmAzocsA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N8fjmAzocsA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PayKickstart Affiliate Program [2026] | Earn Money from paykickstart.com...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: triplewhale.com  
    Title: top saas affiliate programs  
-   Link: <a href="https://www.triplewhale.com/blog/top-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.triplewhale.com/blog/top-saas-affiliate-programs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissions: 30% recurring commission (up to 1 year), tiered payouts. Cookie lifespan: 180 days; Sign-up...Read more...</p></details>
+   Link:<a href="https://www.triplewhale.com/blog/top-saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.triplewhale.com/blog/top-saas-affiliate-programs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissions: 30% recurring commission (up to 1 year), tiered payouts. Cookie lifespan: 180 days; Sign-up...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=c8eJMcSK-Gc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c8eJMcSK-Gc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Launch a SaaS Affiliate Program | Full Rewardful Demo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c8eJMcSK-Gc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c8eJMcSK-Gc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Launch a SaaS Affiliate Program | Full Rewardful Demo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Blogging/comments/1u3tcep/saas_affiliate_programs_with_recurring/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Blogging/comments/1u3tcep/saas_affiliate_programs_with_recurring/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SaaS affiliate programs with recurring commissions are...SaaS affiliate programs with recurring commissions pay differently: $10-20/mont...</p></details>
+   Link:<a href="https://www.reddit.com/r/Blogging/comments/1u3tcep/saas_affiliate_programs_with_recurring/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Blogging/comments/1u3tcep/saas_affiliate_programs_with_recurring/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SaaS affiliate programs with recurring commissions are...SaaS affiliate programs with recurring commissions pay differently: $10-20/mont...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How to Launch a Saa S Affiliate Program | Full Rewardful Demo  
-   Link: <a href="https://www.youtube.com/watch?v=6IRnhjJ5vdU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6IRnhjJ5vdU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Small YouTube Channels Can Make $50/Day In 2026...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6IRnhjJ5vdU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6IRnhjJ5vdU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Small YouTube Channels Can Make $50/Day In 2026...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iS5whSpwbis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iS5whSpwbis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>790 Subscribers. $12,000 Earned. Here&#x27;s Exactly How...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iS5whSpwbis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iS5whSpwbis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>790 Subscribers. $12,000 Earned. Here&#x27;s Exactly How...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: 790 Subscribers. $12,000 Earned. Here's Exactly How  
-   Link: <a href="https://www.youtube.com/watch?v=aXT8PXDhZVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aXT8PXDhZVM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=aXT8PXDhZVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aXT8PXDhZVM</a>  

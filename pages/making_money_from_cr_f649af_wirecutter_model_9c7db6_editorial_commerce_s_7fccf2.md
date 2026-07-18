@@ -280,7 +280,7 @@ image: /assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_editor
 
 ## Introduction
 
-Affiliate review sites make money when readers buy products through tracked links, creating an unavoidable tension: every recommendation has the potential to generate revenue. The central question is therefore not whether a financial conflict exists—it does—but whether the publisher has built credible safeguards that prevent commercial incentives from influencing editorial judgement. [Wirecutter]({{ 'wirecutter/' | relative_url }}) has become one of the best-known examples because it argues that editors choose products first and that affiliate monetisation is added only after those decisions are complete. That separation is not simply a public relations message; it is a governance model designed to preserve reader trust while allowing [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}) to fund expensive product journalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">product review verticals strategist wirecutter</span><span class="citation-popover-snippet">Under ReviewOct 16, 2023 — At Wirecutter, editorial independence is paramount: “We don&#x27;t want any of our writers and editors making any d...</span></span></span>
+Affiliate review sites make money when readers buy products through tracked links, creating an unavoidable tension: every recommendation has the potential to generate revenue. The central question is therefore not whether a financial conflict exists—it does—but whether the publisher has built credible safeguards that prevent commercial incentives from influencing editorial judgement. [Wirecutter]({{ 'wirecutter/' | relative_url }}) has become one of the best-known examples because it argues that editors choose products first and that affiliate monetisation is added only after those decisions are complete. That separation is not simply a public relations message; it is a governance model designed to preserve reader trust while allowing [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}) to fund expensive product journalism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">product review verticals strategist wirecutter</span><span class="citation-popover-snippet">Under ReviewOct 16, 2023 — At Wirecutter, editorial independence is paramount: “We don&#x27;t want any of our writers and editors making any d...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_editorial_commerce_s_7fccf2-Illustration-1-dark.svg" | relative_url }}" alt="Separation illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_editorial_commerce_s_7fccf2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_editorial_commerce_s_7fccf2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -304,7 +304,7 @@ Common pressure points include:
 
 These risks are often described as conflicts of interest rather than [evidence]({{ 'evidence/' | relative_url }}) of misconduct. A publisher can genuinely believe it is acting independently while still allowing commercial information to influence editorial judgement unconsciously. That possibility explains why serious review organisations focus on organisational structure rather than relying solely on individual integrity.
 
-Wirecutter executives have repeatedly described this distinction. According to the publication's leadership, writers and editors should not even know whether a commercial relationship exists with a retailer while making recommendations, reducing the chance that financial considerations shape editorial choices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">product review verticals strategist wirecutter</span><span class="citation-popover-snippet">Under ReviewOct 16, 2023 — At Wirecutter, editorial independence is paramount: “We don&#x27;t want any of our writers and editors making any d...</span></span></span>
+Wirecutter executives have repeatedly described this distinction. According to the publication's leadership, writers and editors should not even know whether a commercial relationship exists with a retailer while making recommendations, reducing the chance that financial considerations shape editorial choices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">product review verticals strategist wirecutter</span><span class="citation-popover-snippet">Under ReviewOct 16, 2023 — At Wirecutter, editorial independence is paramount: “We don&#x27;t want any of our writers and editors making any d...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a9CT_Vd_118" title="Affiliate Site Case Study - Is Wirecutter The Perfect Affiliate Site?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a9CT_Vd_118" target="_blank" rel="noopener noreferrer">Affiliate Site Case Study - Is Wirecutter The Perfect Affiliate Site?</a></p><p class="youtube-embed-meta">Channel: The Affiliate School &middot; Views: 2.0K &middot; Uploaded: January 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a9CT_Vd_118" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a9CT_Vd_118">Open on YouTube</a></p></div></div></div>
@@ -341,7 +341,7 @@ A separate commerce or business team then handles activities such as:
 
 The critical point is the order of operations. Editorial decisions come first. Commercial implementation follows afterwards.
 
-Wirecutter has publicly described this workflow as one in which product selections are made independently before affiliate links or commercial partnerships are added. Senior management has characterised the process as a strict separation between editorial and commercial functions to prevent even subconscious influence over recommendations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thedrum.com/opinion/cha" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedrum.com">[The Drum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedrum.com</span><span class="citation-popover-snippet">The DrumDanielle Betras of Wirecutter on why commerce journalism...Apr 30, 2026 — Product picks are made independently; only then does t...</span></span></span>
+Wirecutter has publicly described this workflow as one in which product selections are made independently before affiliate links or commercial partnerships are added. Senior management has characterised the process as a strict separation between editorial and commercial functions to prevent even subconscious influence over recommendations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thedrum.com/opinion/cha" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedrum.com">[The Drum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedrum.com</span><span class="citation-popover-snippet">The DrumDanielle Betras of Wirecutter on why commerce journalism...Apr 30, 2026 — Product picks are made independently; only then does t...</span></span></span>
 
 This governance model also answers a practical question readers increasingly ask: "Would this recommendation still appear if it earned no commission?" A credible separation policy aims to make the answer "yes".
 
@@ -365,7 +365,7 @@ A simple affiliate disclosure stating that [commissions]({{ 'commissions/' | rel
 
 </div>
 
-Wirecutter has increasingly explained these processes publicly, including that editorial picks are based on product quality while commercial teams manage affiliate implementation separately. Making those internal rules visible allows readers to judge whether the publication's governance deserves trust rather than asking them to accept broad claims of independence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.affiversemedia.com/wirecutter-just-made-the-case-for-radical-transparency-most-publishers-wont-follow-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiversemedia.com">[Affiverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiversemedia.com</span><span class="citation-popover-title">Affiverse Wirecutter Just Made the Case for Radical Transparency</span><span class="citation-popover-snippet">11 Mar 2026 — It is a clean, plainly written explanation of how affiliate revenue works at the publication: editors pick products based s...</span></span></span>
+Wirecutter has increasingly explained these processes publicly, including that editorial picks are based on product quality while commercial teams manage affiliate implementation separately. Making those internal rules visible allows readers to judge whether the publication's governance deserves trust rather than asking them to accept broad claims of independence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.affiversemedia.com/wirecutter-just-made-the-case-for-radical-transparency-most-publishers-wont-follow-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiversemedia.com">[Affiverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiversemedia.com</span><span class="citation-popover-title">Affiverse Wirecutter Just Made the Case for Radical Transparency</span><span class="citation-popover-snippet">11 Mar 2026 — It is a clean, plainly written explanation of how affiliate revenue works at the publication: editors pick products based s...</span></span></span>
 
 Transparency also creates accountability. Once policies are public, readers can identify inconsistencies between stated principles and observed behaviour.
 
@@ -395,7 +395,7 @@ Affiliate commissions can be earned repeatedly from readers who return because p
 
 A publisher that consistently recommends the best product—even when it produces lower short-term revenue—can strengthen its reputation over years. By contrast, steering readers towards higher-paying products that disappoint customers may increase immediate commissions while steadily eroding credibility.
 
-Recent changes to search quality expectations have also reinforced this incentive. Publishers that invest in genuine editorial processes, permanent staff and documented testing have generally been more resilient than operations built around thin affiliate content, illustrating that commercial success increasingly depends on demonstrating authentic editorial value rather than simply inserting affiliate links. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/business/media/google-search-change-product-recommendation-websites-02394b79" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Google Tweak Creates Crisis for Product-Review Sites</span><span class="citation-popover-snippet">Websites like CNN Underscored, Forbes Vetted, and others have experienced dramatic drops in traffic following Google&#x27;s implementation of...</span></span></span>
+Recent changes to search quality expectations have also reinforced this incentive. Publishers that invest in genuine editorial processes, permanent staff and documented testing have generally been more resilient than operations built around thin affiliate content, illustrating that commercial success increasingly depends on demonstrating authentic editorial value rather than simply inserting affiliate links.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/business/media/google-search-change-product-recommendation-websites-02394b79" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Google Tweak Creates Crisis for Product-Review Sites</span><span class="citation-popover-snippet">Websites like CNN Underscored, Forbes Vetted, and others have experienced dramatic drops in traffic following Google&#x27;s implementation of...</span></span></span>
 
 For affiliate websites, editorial and commerce separation is therefore more than an ethical aspiration. It is a governance choice that aligns the publication's financial future with the reader's interest. When recommendations remain independent of commission decisions, affiliate revenue becomes the consequence of trusted journalism rather than its driving force.
 
@@ -404,178 +404,178 @@ For affiliate websites, editorial and commerce separation is therefore more than
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Affiliate Reviews Stay Editorially Honest?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Affiliate Reviews Stay Editorially Honest?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Explores how commercial incentives can shape editorial decisions and why trust safeguards matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how commercial incentives can shape editorial decisions and why trust safeguards matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
-        </h4>
-        <p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
+</h4>
+<p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
         
-        <p class="fr-book-desc">Provides foundational principles for maintaining editorial independence and serving readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational principles for maintaining editorial independence and serving readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Explains why recommendations spread, providing useful context for ethical commerce content and product publishing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why recommendations spread, providing useful context for ethical commerce content and product publishing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Helps readers understand persuasive techniques that intersect with affiliate marketing and product recommendations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand persuasive techniques that intersect with affiliate marketing and product recommendations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options"><img src="{{ '/assets/images/marketplace-covers/39f1c1791fd8ad2996ba.jpg' | relative_url }}" alt="Listing image for Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options"><img src="{{ '/assets/images/marketplace-covers/39f1c1791fd8ad2996ba.jpg' | relative_url }}" alt="Listing image for Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk"><img src="{{ '/assets/images/marketplace-covers/c49e531cf1863fd785b7.jpg' | relative_url }}" alt="Listing image for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk"><img src="{{ '/assets/images/marketplace-covers/c49e531cf1863fd785b7.jpg' | relative_url }}" alt="Listing image for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand"><img src="{{ '/assets/images/marketplace-covers/9bf609a895f258eb28eb.jpg' | relative_url }}" alt="Listing image for Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand"><img src="{{ '/assets/images/marketplace-covers/9bf609a895f258eb28eb.jpg' | relative_url }}" alt="Listing image for Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="separation-can-affiliate-reviews-stay-editorially-honest-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ For affiliate websites, editorial and commerce separation is therefore more than
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ For affiliate websites, editorial and commerce separation is therefore more than
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ For affiliate websites, editorial and commerce separation is therefore more than
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ For affiliate websites, editorial and commerce separation is therefore more than
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ For affiliate websites, editorial and commerce separation is therefore more than
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,94 +781,94 @@ For affiliate websites, editorial and commerce separation is therefore more than
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cjr.org  
    Title: product review verticals strategist wirecutter  
-   Link: <a href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Under ReviewOct 16, 2023 — At Wirecutter, editorial independence is paramount: “We don&#x27;t want any of our writers and editors making any d...</p></details>
+   Link:<a href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Under ReviewOct 16, 2023 — At Wirecutter, editorial independence is paramount: “We don&#x27;t want any of our writers and editors making any d...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cjr.org  
-   Link: <a href="https://www.cjr.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewThe Trump administration is helping a white, male editor sue the New York Times for discrimination. By Jem Bart...</p></details>
+   Link:<a href="https://www.cjr.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewThe Trump administration is helping a white, male editor sue the New York Times for discrimination. By Jem Bart...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cjr.org  
-   Link: <a href="https://www.cjr.org/special_report/digital-age-the-new-york-times-slippery-path-news-advertising.php/" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/special_report/digital-age-the-new-york-times-slippery-path-news-advertising.php/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the digital age, The New York Times treads an...28 Jun 2017 — The arrangement is problematic because of the way Wirecutter works...</p></details>
+   Link:<a href="https://www.cjr.org/special_report/digital-age-the-new-york-times-slippery-path-news-advertising.php/" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/special_report/digital-age-the-new-york-times-slippery-path-news-advertising.php/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the digital age, The New York Times treads an...28 Jun 2017 — The arrangement is problematic because of the way Wirecutter works...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thedrum.com  
-   Link: <a href="https://www.thedrum.com/opinion/cha" target="_blank" rel="noopener noreferrer nofollow">https://www.thedrum.com/opinion/cha</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The DrumDanielle Betras of Wirecutter on why commerce journalism...Apr 30, 2026 — Product picks are made independently; only then does t...</p></details>
+   Link:<a href="https://www.thedrum.com/opinion/cha" target="_blank" rel="noopener noreferrer nofollow">https://www.thedrum.com/opinion/cha</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DrumDanielle Betras of Wirecutter on why commerce journalism...Apr 30, 2026 — Product picks are made independently; only then does t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: affiversemedia.com  
    Title: Affiverse Wirecutter Just Made the Case for Radical Transparency  
-   Link: <a href="https://www.affiversemedia.com/wirecutter-just-made-the-case-for-radical-transparency-most-publishers-wont-follow-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/wirecutter-just-made-the-case-for-radical-transparency-most-publishers-wont-follow-it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2026 — It is a clean, plainly written explanation of how affiliate revenue works at the publication: editors pick products based s...</p></details>
+   Link:<a href="https://www.affiversemedia.com/wirecutter-just-made-the-case-for-radical-transparency-most-publishers-wont-follow-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/wirecutter-just-made-the-case-for-radical-transparency-most-publishers-wont-follow-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2026 — It is a clean, plainly written explanation of how affiliate revenue works at the publication: editors pick products based s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wsj.com  
    Title: The Wall Street Journal Google Tweak Creates Crisis for Product-Review Sites  
-   Link: <a href="https://www.wsj.com/business/media/google-search-change-product-recommendation-websites-02394b79" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/media/google-search-change-product-recommendation-websites-02394b79</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Websites like CNN Underscored, Forbes Vetted, and others have experienced dramatic drops in [traffic](&amp;#123;&amp;#123; &#x27;traffic/&#x27; | relative_url &amp;#125;&amp;#125;) following Google&#x27;s implementation of...</p></details>
+   Link:<a href="https://www.wsj.com/business/media/google-search-change-product-recommendation-websites-02394b79" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/media/google-search-change-product-recommendation-websites-02394b79</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Websites like CNN Underscored, Forbes Vetted, and others have experienced dramatic drops in [traffic](&amp;#123;&amp;#123; &#x27;traffic/&#x27; | relative_url &amp;#125;&amp;#125;) following Google&#x27;s implementation of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/news/publisher-center/thread/281234003/googlle-news-publishers-promoting-affiliate-products-allowed-like-nyt-wirecutter?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/news/publisher-center/thread/281234003/googlle-news-publishers-promoting-affiliate-products-allowed-like-nyt-wirecutter?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>news publishers promoting affiliate products...Jun 22, 2024 — We don&#x27;t allow content that conceals or misrepresents sponsored content as...</p></details>
+   Link:<a href="https://support.google.com/news/publisher-center/thread/281234003/googlle-news-publishers-promoting-affiliate-products-allowed-like-nyt-wirecutter?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/news/publisher-center/thread/281234003/googlle-news-publishers-promoting-affiliate-products-allowed-like-nyt-wirecutter?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>news publishers promoting affiliate products...Jun 22, 2024 — We don&#x27;t allow content that conceals or misrepresents sponsored content as...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: asbpe.org  
-   Link: <a href="https://asbpe.org/code-of-journalism-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://asbpe.org/code-of-journalism-ethics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASBPE Code of Journalism EthicsContextual links within editorial content should not be sold. If an editor allows a link, it generally sho...</p></details>
+   Link:<a href="https://asbpe.org/code-of-journalism-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://asbpe.org/code-of-journalism-ethics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASBPE Code of Journalism EthicsContextual links within editorial content should not be sold. If an editor allows a link, it generally sho...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ideastream.org  
-   Link: <a href="https://www.ideastream.org/editorial-ethics-and-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.ideastream.org/editorial-ethics-and-guidelines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Editorial Ethics and GuidelinesWe will operate ethically, with independence and impartiality. Content creators devote resources and skill...</p></details>
+   Link:<a href="https://www.ideastream.org/editorial-ethics-and-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.ideastream.org/editorial-ethics-and-guidelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Editorial Ethics and GuidelinesWe will operate ethically, with independence and impartiality. Content creators devote resources and skill...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: apmreports.org  
-   Link: <a href="https://www.apmreports.org/news-ethics-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.apmreports.org/news-ethics-guidelines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News Ethics GuidelinesThe agendas of people or companies that financially support our organizations do not influence the journalism we pr...</p></details>
+   Link:<a href="https://www.apmreports.org/news-ethics-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.apmreports.org/news-ethics-guidelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News Ethics GuidelinesThe agendas of people or companies that financially support our organizations do not influence the journalism we pr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: michaelschmitt.co.uk  
-   Link: <a href="https://michaelschmitt.co.uk/ethics-of-monetising-reach-and-integrity-2/" target="_blank" rel="noopener noreferrer nofollow">https://michaelschmitt.co.uk/ethics-of-monetising-reach-and-integrity-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ethics of monetising reach while staying editorially cleanDiversify revenue streams-[subscriptions](&amp;#123;&amp;#123; &#x27;subscriptions/&#x27; | relative_url &amp;#125;&amp;#125;), memberships, events, affiliate pro...</p></details>
+   Link:<a href="https://michaelschmitt.co.uk/ethics-of-monetising-reach-and-integrity-2/" target="_blank" rel="noopener noreferrer nofollow">https://michaelschmitt.co.uk/ethics-of-monetising-reach-and-integrity-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ethics of monetising reach while staying editorially cleanDiversify revenue streams-[subscriptions](&amp;#123;&amp;#123; &#x27;subscriptions/&#x27; | relative_url &amp;#125;&amp;#125;), memberships, events, affiliate pro...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: brookekroeger.com  
-   Link: <a href="https://brookekroeger.com/columbia-journalism-review-what-do-journalists-owe-their-sources-and-their-audiences-by-julie-gerstein-and-margaret-sullivan/" target="_blank" rel="noopener noreferrer nofollow">https://brookekroeger.com/columbia-journalism-review-what-do-journalists-owe-their-sources-and-their-audiences-by-julie-gerstein-and-margaret-sullivan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism Review: &quot;What Do Journalists Owe...25 Jul 2025 — Columbia Journalism Review: “What Do Journalists Owe Their Sources—...</p></details>
+   Link:<a href="https://brookekroeger.com/columbia-journalism-review-what-do-journalists-owe-their-sources-and-their-audiences-by-julie-gerstein-and-margaret-sullivan/" target="_blank" rel="noopener noreferrer nofollow">https://brookekroeger.com/columbia-journalism-review-what-do-journalists-owe-their-sources-and-their-audiences-by-julie-gerstein-and-margaret-sullivan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism Review: &quot;What Do Journalists Owe...25 Jul 2025 — Columbia Journalism Review: “What Do Journalists Owe Their Sources—...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: job-boards.greenhouse.io  
-   Link: <a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4695487005" target="_blank" rel="noopener noreferrer nofollow">https://job-boards.greenhouse.io/thenewyorktimes/jobs/4695487005</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>greenhouse.ioDirector, Licensing, NYT WirecutterPartner closely with Wirecutter editorial leadership and Standards &amp; Ethics to ensure all...</p></details>
+   Link:<a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4695487005" target="_blank" rel="noopener noreferrer nofollow">https://job-boards.greenhouse.io/thenewyorktimes/jobs/4695487005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>greenhouse.ioDirector, Licensing, NYT WirecutterPartner closely with Wirecutter editorial leadership and Standards &amp; Ethics to ensure all...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: advertisinglaw.fkks.com  
-   Link: <a href="https://advertisinglaw.fkks.com/post/102f2b9/use-of-affiliate-links-does-not-necessarily-transform-editorial-content-into-adve" target="_blank" rel="noopener noreferrer nofollow">https://advertisinglaw.fkks.com/post/102f2b9/use-of-affiliate-links-does-not-necessarily-transform-editorial-content-into-adve</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Affiliate Links Does Not Necessarily Transform Editorial...Sep 19, 2018 — It argued that the decision as to which products to include...</p></details>
+   Link:<a href="https://advertisinglaw.fkks.com/post/102f2b9/use-of-affiliate-links-does-not-necessarily-transform-editorial-content-into-adve" target="_blank" rel="noopener noreferrer nofollow">https://advertisinglaw.fkks.com/post/102f2b9/use-of-affiliate-links-does-not-necessarily-transform-editorial-content-into-adve</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Affiliate Links Does Not Necessarily Transform Editorial...Sep 19, 2018 — It argued that the decision as to which products to include...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: prweek.com  
-   Link: <a href="https://www.prweek.com/article/1231527/analysis-media-relations-policies-mistakes-need-correction-a-recent-survey-reporters-columbia-journalism-review-found-room-improvement-news-outlets" target="_blank" rel="noopener noreferrer nofollow">https://www.prweek.com/article/1231527/analysis-media-relations-policies-mistakes-need-correction-a-recent-survey-reporters-columbia-journalism-review-found-room-improvement-news-outlets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Policies on mistakes in need of correction/...ANALYSIS: Media Relations - Policies on mistakes in need of correction/A recent survey of...</p></details>
+   Link:<a href="https://www.prweek.com/article/1231527/analysis-media-relations-policies-mistakes-need-correction-a-recent-survey-reporters-columbia-journalism-review-found-room-improvement-news-outlets" target="_blank" rel="noopener noreferrer nofollow">https://www.prweek.com/article/1231527/analysis-media-relations-policies-mistakes-need-correction-a-recent-survey-reporters-columbia-journalism-review-found-room-improvement-news-outlets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Policies on mistakes in need of correction/...ANALYSIS: Media Relations - Policies on mistakes in need of correction/A recent survey of...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: voices.media  
    Title: columbia journalism reviews mathew ingram publishers get wrong trust  
-   Link: <a href="https://voices.media/columbia-journalism-reviews-mathew-ingram-publishers-get-wrong-trust/" target="_blank" rel="noopener noreferrer nofollow">https://voices.media/columbia-journalism-reviews-mathew-ingram-publishers-get-wrong-trust/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism Review&#x27;s Mathew Ingram on what...10 Sept 2018 — Mathew Ingram, media writer for the Columbia Journalism Review, expl...</p></details>
+   Link:<a href="https://voices.media/columbia-journalism-reviews-mathew-ingram-publishers-get-wrong-trust/" target="_blank" rel="noopener noreferrer nofollow">https://voices.media/columbia-journalism-reviews-mathew-ingram-publishers-get-wrong-trust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism Review&#x27;s Mathew Ingram on what...10 Sept 2018 — Mathew Ingram, media writer for the Columbia Journalism Review, expl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: growth-memo.com  
    Title: did the wirecutter migrate because of affiliate commissions  
-   Link: <a href="https://www.growth-memo.com/p/did-the-wirecutter-migrate-because-of-affiliate-commissions" target="_blank" rel="noopener noreferrer nofollow">https://www.growth-memo.com/p/did-the-wirecutter-migrate-because-of-affiliate-commissions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?Jun 25, 2020 — The Wirecutter recently went from wirecutter.com to nytimes.com/wirecutter. Was the motivator lower affiliate commissions?...</p></details>
+   Link:<a href="https://www.growth-memo.com/p/did-the-wirecutter-migrate-because-of-affiliate-commissions" target="_blank" rel="noopener noreferrer nofollow">https://www.growth-memo.com/p/did-the-wirecutter-migrate-because-of-affiliate-commissions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Jun 25, 2020 — The Wirecutter recently went from wirecutter.com to nytimes.com/wirecutter. Was the motivator lower affiliate commissions?...</p></details>

@@ -451,17 +451,17 @@ Price history and cheaper alternative pages answer a question many affiliate sit
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_price_history_altern_e8d036-overview.webp" | relative_url }}" alt="Overview image for Price Help" loading="eager" decoding="sync" fetchpriority="high">
-For an affiliate website, that restraint can be an asset. Google has long warned against “thin affiliate” pages that add little beyond merchant information, while its product review guidance favours pages with original research, comparisons and useful buying context. Price-history charts, [deal thresholds]({{ 'deal-thresholds/' | relative_url }}), older-model comparisons and honest “wait” recommendations are concrete ways to add value beyond a rewritten product listing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
+For an affiliate website, that restraint can be an asset. Google has long warned against “thin affiliate” pages that add little beyond merchant information, while its product review guidance favours pages with original research, comparisons and useful buying context. Price-history charts, [deal thresholds]({{ 'deal-thresholds/' | relative_url }}), older-model comparisons and honest “wait” recommendations are concrete ways to add value beyond a rewritten product listing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
 
 ## Why price history belongs on affiliate pages
 
 A normal product review tells the reader whether something is good. A price-history page tells them whether it is good value today. That difference matters because online prices move constantly, “sale” labels can be misleading, and shoppers often have no easy memory of last month’s or last year’s price.
 
-The strongest [evidence]({{ 'evidence/' | relative_url }}) comes from deal-tracking investigations. Which? tracked 175 products from eight major UK retailers around [Black Friday]({{ 'black-friday/' | relative_url }}) 2024 and found that 83% were cheaper or the same price at least once outside the four-week Black Friday sales period. It also reported that 42% were cheaper at least once outside that period, and that waiting after the event did not necessarily mean missing out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-title">Which?Are the Black Friday sales worth the hype?</span><span class="citation-popover-snippet">Which?Are the Black Friday sales worth the hype?</span></span></span>
+The strongest [evidence]({{ 'evidence/' | relative_url }}) comes from deal-tracking investigations. Which? tracked 175 products from eight major UK retailers around [Black Friday]({{ 'black-friday/' | relative_url }}) 2024 and found that 83% were cheaper or the same price at least once outside the four-week Black Friday sales period. It also reported that 42% were cheaper at least once outside that period, and that waiting after the event did not necessarily mean missing out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-title">Which?Are the Black Friday sales worth the hype?</span><span class="citation-popover-snippet">Which?Are the Black Friday sales worth the hype?</span></span></span>
 
-That finding gives affiliate publishers a clear editorial opportunity. A page that says “this is a good product, but not a rare deal” is more useful than a page that simply repeats “20% off”. ITV’s [coverage]({{ 'coverage/' | relative_url }}) of the same Which? research gave a concrete example: a Samsung Jet Bot Robot Vacuum Cleaner was £350 on Black Friday but had been £299 for 29 days earlier in the year. That is exactly the kind of product-specific evidence that can turn a thin affiliate review into a buyer-help page. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itv.com/news/2025-11-25/most-black-friday-deals-cheaper-or-the-same-price-at-other-times-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itv.com">[ITVX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itv.com</span><span class="citation-popover-title">XMost Black Friday deals cheaper or the same price at other</span><span class="citation-popover-snippet">XMost Black Friday deals cheaper or the same price at other</span></span></span>
+That finding gives affiliate publishers a clear editorial opportunity. A page that says “this is a good product, but not a rare deal” is more useful than a page that simply repeats “20% off”. ITV’s [coverage]({{ 'coverage/' | relative_url }}) of the same Which? research gave a concrete example: a Samsung Jet Bot Robot Vacuum Cleaner was £350 on Black Friday but had been £299 for 29 days earlier in the year. That is exactly the kind of product-specific evidence that can turn a thin affiliate review into a buyer-help page.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itv.com/news/2025-11-25/most-black-friday-deals-cheaper-or-the-same-price-at-other-times-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itv.com">[ITVX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itv.com</span><span class="citation-popover-title">XMost Black Friday deals cheaper or the same price at other</span><span class="citation-popover-snippet">XMost Black Friday deals cheaper or the same price at other</span></span></span>
 
-Price-history information also changes behaviour. Research summarised by Harvard Business Review found that when shoppers can see historical prices, they are more likely to buy when the current price is lower than past prices and less likely to buy when it is higher. In plain terms, history gives the reader a reference point: “Is this really a bargain, or just today’s marketing?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2023/01/research-how-price-changes-influence-consumers-buying-decisions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review How Price Changes Influence Consumers&#x27; Buying Decisions</span><span class="citation-popover-snippet">Harvard Business Review How Price Changes Influence Consumers&#x27; Buying Decisions</span></span></span>
+Price-history information also changes behaviour. Research summarised by Harvard Business Review found that when shoppers can see historical prices, they are more likely to buy when the current price is lower than past prices and less likely to buy when it is higher. In plain terms, history gives the reader a reference point: “Is this really a bargain, or just today’s marketing?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hbr.org/2023/01/research-how-price-changes-influence-consumers-buying-decisions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">Harvard Business Review How Price Changes Influence Consumers&#x27; Buying Decisions</span><span class="citation-popover-snippet">Harvard Business Review How Price Changes Influence Consumers&#x27; Buying Decisions</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_price_history_altern_e8d036-Illustration-1-dark.svg" | relative_url }}" alt="Price Help illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_price_history_altern_e8d036-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_price_history_altern_e8d036-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -469,7 +469,7 @@ Price-history information also changes behaviour. Research summarised by Harvard
 
 A useful price-help page should not merely embed an affiliate button and a current price. It should interpret the price. The reader wants to know whether the present offer is unusually low, normal, or artificially exciting.
 
-PriceSpy’s own explanation of its price-history feature is a good model for the kind of reader value involved: it says price history shows when and how often shops change prices, whether there is a campaign price, and whether the reader should buy immediately or set a price alert. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pricespy.co.uk/price-history--ecYSSD4hIAACEAXXWu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pricespy.co.uk">[PriceSpy UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pricespy.co.uk</span><span class="citation-popover-title">Price Spy UKPrice history</span><span class="citation-popover-snippet">Price Spy UKPrice history</span></span></span> CamelCamelCamel performs a similar role for Amazon, offering price history charts, price watches and email alerts when prices drop. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: camelcamelcamel.com">[camelcamelcamel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">camelcamelcamel.com</span><span class="citation-popover-snippet">Open source on camelcamelcamel.com.</span></span></span>
+PriceSpy’s own explanation of its price-history feature is a good model for the kind of reader value involved: it says price history shows when and how often shops change prices, whether there is a campaign price, and whether the reader should buy immediately or set a price alert.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pricespy.co.uk/price-history--ecYSSD4hIAACEAXXWu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pricespy.co.uk">[PriceSpy UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pricespy.co.uk</span><span class="citation-popover-title">Price Spy UKPrice history</span><span class="citation-popover-snippet">Price Spy UKPrice history</span></span></span> CamelCamelCamel performs a similar role for Amazon, offering price history charts, price watches and email alerts when prices drop.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: camelcamelcamel.com">[camelcamelcamel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">camelcamelcamel.com</span><span class="citation-popover-snippet">Open source on camelcamelcamel.com.</span></span></span>
 
 For an affiliate site, the editorial layer sits above those tools. The page can explain:
 
@@ -485,7 +485,7 @@ For an affiliate site, the editorial layer sits above those tools. The page can 
 
 That final judgement is where the affiliate publisher adds something a raw chart does not. A chart shows movement; the page explains what that movement means for a person deciding today.
 
-Amazon’s own move into built-in price history shows how mainstream this expectation has become. In 2026, reports noted that Amazon had expanded price-history visibility to show up to a year of product price changes in the US, UK and India, alongside existing third-party tools such as CamelCamelCamel and Keepa. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/922302/amazon-price-tracker-year" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Open source on theverge.com.</span></span></span> For affiliate publishers, that raises the bar: if large retailers are starting to show price history themselves, independent sites need to provide interpretation, not just screenshots of price changes.
+Amazon’s own move into built-in price history shows how mainstream this expectation has become. In 2026, reports noted that Amazon had expanded price-history visibility to show up to a year of product price changes in the US, UK and India, alongside existing third-party tools such as CamelCamelCamel and Keepa.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/tech/922302/amazon-price-tracker-year" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Open source on theverge.com.</span></span></span> For affiliate publishers, that raises the bar: if large retailers are starting to show price history themselves, independent sites need to provide interpretation, not just screenshots of price changes.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_VxhRZealls" title="How to Write A Killer Product Review For More Affiliate Sales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_VxhRZealls" target="_blank" rel="noopener noreferrer">How to Write A Killer Product Review For More Affiliate Sales</a></p><p class="youtube-embed-meta">Channel: The Affiliate Hub</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_VxhRZealls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_VxhRZealls">Open on YouTube</a></p></div></div></div>
@@ -496,7 +496,7 @@ A cheaper alternative page is not the same as a “budget picks” list stuffed 
 
 That might mean comparing a current model with last year’s version, a premium appliance with a simpler one, or a subscription tool with a cheaper plan. The useful question is not “Which product pays the highest commission?” but “Where does the extra money stop buying meaningful benefit?”
 
-This matters because comparison is part of how people reduce purchase risk. Nielsen Norman Group advises that comparison tables work best when readers are comparing a small number of options, and that larger sets should be narrowed with filters or other mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group Comparison Tables for Products, Services, and Features</span><span class="citation-popover-snippet">Nielsen Norman Group Comparison Tables for Products, Services, and Features</span></span></span> In [affiliate content]({{ 'content-mix/' | relative_url }}), that suggests a practical format: compare the main recommendation, the cheaper current rival, and the older model side by side, rather than overwhelming the reader with ten similar products.
+This matters because comparison is part of how people reduce purchase risk. Nielsen Norman Group advises that comparison tables work best when readers are comparing a small number of options, and that larger sets should be narrowed with filters or other mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group Comparison Tables for Products, Services, and Features</span><span class="citation-popover-snippet">Nielsen Norman Group Comparison Tables for Products, Services, and Features</span></span></span> In [affiliate content]({{ 'content-mix/' | relative_url }}), that suggests a practical format: compare the main recommendation, the cheaper current rival, and the older model side by side, rather than overwhelming the reader with ten similar products.
 
 A strong cheaper-alternative section should usually cover four things:
 
@@ -518,9 +518,9 @@ This is especially important in product categories where the newest model is not
 
 There is an obvious conflict. If an affiliate site tells a reader to wait, buy elsewhere, or choose a cheaper model, it may lose a higher commission today. That is why many thin affiliate pages avoid price-history language and push urgency instead.
 
-But that short-term thinking can weaken the site. Google’s Search Console guidance lists thin affiliate pages as a common example of thin content with little or no added value, and Google’s product-review guidance says people value reviews that share in-depth research rather than simply summarising products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Manual actions report</span><span class="citation-popover-snippet">Google HelpManual actions report - Search Console HelpHere are a few common examples of pages that often have thin content with little or...</span></span></span> A page that includes price history, cheaper substitutes and “do not buy at this price” advice is visibly less like a doorway to a merchant and more like an independent buying resource.
+But that short-term thinking can weaken the site. Google’s Search Console guidance lists thin affiliate pages as a common example of thin content with little or no added value, and Google’s product-review guidance says people value reviews that share in-depth research rather than simply summarising products.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Manual actions report</span><span class="citation-popover-snippet">Google HelpManual actions report - Search Console HelpHere are a few common examples of pages that often have thin content with little or...</span></span></span> A page that includes price history, cheaper substitutes and “do not buy at this price” advice is visibly less like a doorway to a merchant and more like an independent buying resource.
 
-There is also a trust argument. The FTC’s endorsement guidance says that material connections, including affiliate relationships, need clear disclosure because they can affect how readers interpret recommendations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span></span></span> Research into affiliate disclosures on YouTube and Pinterest found that only about 10% of affiliate marketing content in the studied sample contained any disclosure, and that users often failed to understand short, unclear disclosures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+There is also a trust argument. The FTC’s endorsement guidance says that material connections, including affiliate relationships, need clear disclosure because they can affect how readers interpret recommendations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span></span></span> Research into affiliate disclosures on YouTube and Pinterest found that only about 10% of affiliate marketing content in the studied sample contained any disclosure, and that users often failed to understand short, unclear disclosures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 A price-help page cannot fix poor disclosure by itself, but it can make the recommendation feel less one-sided. When the page openly says “we may earn a commission, but this is not a good price yet”, the editorial behaviour matches the disclosure. That consistency is more persuasive than a legal line at the top of a page followed by aggressive sales copy.
 
@@ -545,7 +545,7 @@ The core components are:
 
 The most useful pages also separate “cheap” from “good value”. A product that is £30 less but fails sooner, lacks [spare parts]({{ 'spare-parts/' | relative_url }}), has poor warranty support or misses a crucial feature may not be the better buy. Conversely, a cheaper older model may be excellent value if the new version adds only cosmetic changes.
 
-For affiliate publishers, the best evidence is often a small dataset they maintain themselves: weekly price checks, screenshots or logged price points across multiple retailers. Public tools can help, but original tracking gives the page a reason to exist. PriceSpy says it gathers prices from online shops and shows shipping costs, stock status and price history; an independent affiliate site can add narrower expertise by interpreting those movements for one niche, such as air fryers, running watches, office chairs or coffee grinders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pricespy.co.uk/information/about-pricespy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pricespy.co.uk">[PriceSpy UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pricespy.co.uk</span><span class="citation-popover-title">about pricespy</span><span class="citation-popover-snippet">about pricespy</span></span></span>
+For affiliate publishers, the best evidence is often a small dataset they maintain themselves: weekly price checks, screenshots or logged price points across multiple retailers. Public tools can help, but original tracking gives the page a reason to exist. PriceSpy says it gathers prices from online shops and shows shipping costs, stock status and price history; an independent affiliate site can add narrower expertise by interpreting those movements for one niche, such as air fryers, running watches, office chairs or coffee grinders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pricespy.co.uk/information/about-pricespy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pricespy.co.uk">[PriceSpy UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pricespy.co.uk</span><span class="citation-popover-title">about pricespy</span><span class="citation-popover-snippet">about pricespy</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AIdAFxkJZZA" title="How to Make a Price Comparison Website from Scratch | Earn Affiliate Money on Auto Pilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AIdAFxkJZZA" target="_blank" rel="noopener noreferrer">How to Make a Price Comparison Website from Scratch | Earn Affiliate Money on Auto Pilot</a></p><p class="youtube-embed-meta">Channel: Mr Web</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AIdAFxkJZZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AIdAFxkJZZA">Open on YouTube</a></p></div></div></div>
@@ -556,7 +556,7 @@ Price-history and cheaper-alternative pages are most valuable in categories wher
 
 Good fits include consumer electronics, kitchen appliances, home office equipment, fitness devices, baby gear, software subscriptions, garden tools and travel gear. These categories often have seasonal sales, older models, close substitutes and enough search demand for “is it worth it?” or “best cheaper alternative” pages.
 
-The format is also useful around major shopping events. Black Friday, Prime Day and January sales generate urgency, but the evidence from Which? shows that many deals are not uniquely cheap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-title">Which?Are the Black Friday sales worth the hype?</span><span class="citation-popover-snippet">Which?Are the Black Friday sales worth the hype?</span></span></span> A site that calmly says “this deal is average; wait for £X” may stand out precisely because it is not echoing the sales event.
+The format is also useful around major shopping events. Black Friday, Prime Day and January sales generate urgency, but the evidence from Which? shows that many deals are not uniquely cheap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-title">Which?Are the Black Friday sales worth the hype?</span><span class="citation-popover-snippet">Which?Are the Black Friday sales worth the hype?</span></span></span> A site that calmly says “this deal is average; wait for £X” may stand out precisely because it is not echoing the sales event.
 
 There is one caveat: the page must stay current. A price-history article from two years ago can mislead if the product has been discontinued, replaced or affected by supply changes. For products with fast-moving prices, the page should show a “last checked” date and avoid evergreen claims such as “best price ever” unless the data really supports it.
 
@@ -575,178 +575,178 @@ The commercial upside is indirect but real. A reader who saves £50 because a si
 <img src="{{ "/assets/images/making_money_from_cr_f649af_price_history_altern_e8d036-Illustration-3-dark.svg" | relative_url }}" alt="Price Help illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_price_history_altern_e8d036-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_price_history_altern_e8d036-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should Affiliate Sites Recommend Waiting or Buying Cheaper?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should Affiliate Sites Recommend Waiting or Buying Cheaper?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
-        </h4>
-        <p class="fr-book-author">By Martin Lindstrom</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains why consumers buy and why resisting sales pressure can improve decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
+</h4>
+<p class="fr-book-author">By Martin Lindstrom</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains why consumers buy and why resisting sales pressure can improve decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4O30oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
-        </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4O30oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
+</h4>
+<p class="fr-book-author">By Russell Brunson</p>
         
-        <p class="fr-book-desc">Covers funnels, traffic, and conversion strategies that complement affiliate websites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers funnels, traffic, and conversion strategies that complement affiliate websites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
-        </h4>
-        <p class="fr-book-author">By Morgan Housel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
+</h4>
+<p class="fr-book-author">By Morgan Housel</p>
         
-        <p class="fr-book-desc">Helps readers think rationally about buying decisions, value, and avoiding emotional purchases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers think rationally about buying decisions, value, and avoiding emotional purchases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Helps explain scarcity, urgency, and other retail tactics behind buying decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain scarcity, urgency, and other retail tactics behind buying decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dotcom+Secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dotcom Secrets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dotcom+Secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dotcom Secrets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt"><img src="{{ '/assets/images/marketplace-covers/06699a88fc7dd3dbd76a.jpg' | relative_url }}" alt="Listing image for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt"><img src="{{ '/assets/images/marketplace-covers/06699a88fc7dd3dbd76a.jpg' | relative_url }}" alt="Listing image for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder"><img src="{{ '/assets/images/marketplace-covers/53909cd5b8e3aa325b12.jpg' | relative_url }}" alt="Listing image for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder"><img src="{{ '/assets/images/marketplace-covers/53909cd5b8e3aa325b12.jpg' | relative_url }}" alt="Listing image for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black"><img src="{{ '/assets/images/marketplace-covers/3d8db228c8da923f9e46.jpg' | relative_url }}" alt="Listing image for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black"><img src="{{ '/assets/images/marketplace-covers/3d8db228c8da923f9e46.jpg' | relative_url }}" alt="Listing image for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="price-help-should-affiliate-sites-recommend-waiting-or-buying-cheaper-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -762,7 +762,7 @@ The commercial upside is indirect but real. A reader who saves £50 because a si
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -782,7 +782,7 @@ The commercial upside is indirect but real. A reader who saves £50 because a si
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -814,7 +814,7 @@ The commercial upside is indirect but real. A reader who saves £50 because a si
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -866,7 +866,7 @@ The commercial upside is indirect but real. A reader who saves £50 because a si
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -911,7 +911,7 @@ The commercial upside is indirect but real. A reader who saves £50 because a si
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -952,193 +952,193 @@ The commercial upside is indirect but real. A reader who saves £50 because a si
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: support.google.com  
    Title: Help Manual actions report  
-   Link: <a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpManual actions report - Search Console HelpHere are a few common examples of pages that often have thin content with little or...</p></details>
+   Link:<a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpManual actions report - Search Console HelpHere are a few common examples of pages that often have thin content with little or...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: developers.google.com  
    Title: product [reviews](&#123;&#123; 'reviews/' | relative_url &#125;&#125;) update  
-   Link: <a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</p></details>
    Published: April 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: itv.com  
    Title: XMost Black Friday deals cheaper or the same price at other  
-   Link: <a href="https://www.itv.com/news/2025-11-25/most-black-friday-deals-cheaper-or-the-same-price-at-other-times-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/2025-11-25/most-black-friday-deals-cheaper-or-the-same-price-at-other-times-study-finds</a>  
+   Link:<a href="https://www.itv.com/news/2025-11-25/most-black-friday-deals-cheaper-or-the-same-price-at-other-times-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/2025-11-25/most-black-friday-deals-cheaper-or-the-same-price-at-other-times-study-finds</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: camelcamelcamel.com  
-   Link: <a href="https://camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow">https://camelcamelcamel.com/</a>  
+   Link:<a href="https://camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow">https://camelcamelcamel.com/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: camelcamelcamel.com  
-   Link: <a href="https://camelcamelcamel.com/tools" target="_blank" rel="noopener noreferrer nofollow">https://camelcamelcamel.com/tools</a>  
+   Link:<a href="https://camelcamelcamel.com/tools" target="_blank" rel="noopener noreferrer nofollow">https://camelcamelcamel.com/tools</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AIdAFxkJZZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AIdAFxkJZZA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=AIdAFxkJZZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AIdAFxkJZZA</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: de.camelcamelcamel.com  
-   Link: <a href="https://de.camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow">https://de.camelcamelcamel.com/</a>  
+   Link:<a href="https://de.camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow">https://de.camelcamelcamel.com/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=se.prisjakt.pricespy" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=se.prisjakt.pricespy</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=se.prisjakt.pricespy" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=se.prisjakt.pricespy</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2410.17507v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.17507v1</a>  
+   Link:<a href="https://arxiv.org/html/2410.17507v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.17507v1</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sellercentral.amazon.de  
-   Link: <a href="https://sellercentral.amazon.de/seller-forums/discussions/t/2a8a5141-151e-4206-b904-9b8a0290ac69?mons_sel_locale=fr_FR&amp;tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://sellercentral.amazon.de/seller-forums/discussions/t/2a8a5141-151e-4206-b904-9b8a0290ac69?mons_sel_locale=fr_FR&amp;tag=searcht-20</a>  
+   Link:<a href="https://sellercentral.amazon.de/seller-forums/discussions/t/2a8a5141-151e-4206-b904-9b8a0290ac69?mons_sel_locale=fr_FR&amp;tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://sellercentral.amazon.de/seller-forums/discussions/t/2a8a5141-151e-4206-b904-9b8a0290ac69?mons_sel_locale=fr_FR&amp;tag=searcht-20</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Top Amazon Price Tracker Tools | Keepa, Camel Camel Camel, Honey & More  
-   Link: <a href="https://www.youtube.com/watch?v=bvuh244bI6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bvuh244bI6s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Best Amazon Price Trackers (Rated &amp; Reviewed) Keepa, Honey, CamelCamelCamel, AliPrice...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bvuh244bI6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bvuh244bI6s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Best Amazon Price Trackers (Rated &amp; Reviewed) Keepa, Honey, CamelCamelCamel, AliPrice...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HtsqUJqA6RI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HtsqUJqA6RI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Track Prices on Amazon | The Best Price Tracking Tools and Extensions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HtsqUJqA6RI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HtsqUJqA6RI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Track Prices on Amazon | The Best Price Tracking Tools and Extensions...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: How to Track Prices on Amazon | The Best Price Tracking Tools and Extensions  
-   Link: <a href="https://www.youtube.com/watch?v=i0u3G8c4vCk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i0u3G8c4vCk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write A Killer Product Review For More Affiliate Sales...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i0u3G8c4vCk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i0u3G8c4vCk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write A Killer Product Review For More Affiliate Sales...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: How to Write A Killer Product Review For More Affiliate Sales  
-   Link: <a href="https://www.youtube.com/watch?v=_VxhRZealls" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_VxhRZealls</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to write a high converting product review [SEO Optimized] - TUTORIAL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_VxhRZealls" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_VxhRZealls</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to write a high converting product review [SEO Optimized] - TUTORIAL...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: How to write a high converting product review [SEO Optimized]  
-   Link: <a href="https://www.youtube.com/watch?v=XIEHGAfhlkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XIEHGAfhlkU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Helpful content&quot; product reviews affiliate marketing Best Product Review Sites Dustin Howes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XIEHGAfhlkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XIEHGAfhlkU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Helpful content&quot; product reviews affiliate marketing Best Product Review Sites Dustin Howes...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: which.co.uk  
    Title: Which?Are the Black Friday sales worth the hype?  
-   Link: <a href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj</a>  
+   Link:<a href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: which.co.uk  
-   Link: <a href="https://www.which.co.uk/policy-and-insight/article/dont-believe-the-hype-most-black-friday-deals-the-same-price-or-cheaper-at-other-times-of-the-year-which-finds-a3TbD5x5KADs" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/policy-and-insight/article/dont-believe-the-hype-most-black-friday-deals-the-same-price-or-cheaper-at-other-times-of-the-year-which-finds-a3TbD5x5KADs</a>  
+   Link:<a href="https://www.which.co.uk/policy-and-insight/article/dont-believe-the-hype-most-black-friday-deals-the-same-price-or-cheaper-at-other-times-of-the-year-which-finds-a3TbD5x5KADs" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/policy-and-insight/article/dont-believe-the-hype-most-black-friday-deals-the-same-price-or-cheaper-at-other-times-of-the-year-which-finds-a3TbD5x5KADs</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hbr.org  
    Title: Harvard Business Review How Price Changes Influence Consumers' Buying Decisions  
-   Link: <a href="https://hbr.org/2023/01/research-how-price-changes-influence-consumers-buying-decisions" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2023/01/research-how-price-changes-influence-consumers-buying-decisions</a>  
+   Link:<a href="https://hbr.org/2023/01/research-how-price-changes-influence-consumers-buying-decisions" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2023/01/research-how-price-changes-influence-consumers-buying-decisions</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pricespy.co.uk  
    Title: Price Spy UKPrice history  
-   Link: <a href="https://pricespy.co.uk/price-history--ecYSSD4hIAACEAXXWu" target="_blank" rel="noopener noreferrer nofollow">https://pricespy.co.uk/price-history--ecYSSD4hIAACEAXXWu</a>  
+   Link:<a href="https://pricespy.co.uk/price-history--ecYSSD4hIAACEAXXWu" target="_blank" rel="noopener noreferrer nofollow">https://pricespy.co.uk/price-history--ecYSSD4hIAACEAXXWu</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/tech/922302/amazon-price-tracker-year" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/922302/amazon-price-tracker-year</a>  
+   Link:<a href="https://www.theverge.com/tech/922302/amazon-price-tracker-year" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/922302/amazon-price-tracker-year</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group Comparison Tables for Products, Services, and Features  
-   Link: <a href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/comparison-tables/</a>  
+   Link:<a href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/comparison-tables/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pricespy.co.uk  
    Title: about pricespy  
-   Link: <a href="https://pricespy.co.uk/information/about-pricespy" target="_blank" rel="noopener noreferrer nofollow">https://pricespy.co.uk/information/about-pricespy</a>  
+   Link:<a href="https://pricespy.co.uk/information/about-pricespy" target="_blank" rel="noopener noreferrer nofollow">https://pricespy.co.uk/information/about-pricespy</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nngroup.com  
    Title: ecommerce product pages  
-   Link: <a href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/ecommerce-product-pages/</a>  
+   Link:<a href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/ecommerce-product-pages/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pricespy.co.uk  
-   Link: <a href="https://pricespy.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://pricespy.co.uk/</a>  
+   Link:<a href="https://pricespy.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://pricespy.co.uk/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: semrush.com  
    Title: thin content  
-   Link: <a href="https://www.semrush.com/blog/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.semrush.com/blog/thin-content/</a>  
+   Link:<a href="https://www.semrush.com/blog/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.semrush.com/blog/thin-content/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: which.co.uk  
    Title: cheapest price on [comparison sites](&#123;&#123; 'comparisons/' | relative_url &#125;&#125;) varies by up to 210 a5v Ud4D0QASm  
-   Link: <a href="https://www.which.co.uk/news/article/cheapest-price-on-comparison-sites-varies-by-up-to-210-a5vUd4D0QASm" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/news/article/cheapest-price-on-comparison-sites-varies-by-up-to-210-a5vUd4D0QASm</a>  
+   Link:<a href="https://www.which.co.uk/news/article/cheapest-price-on-comparison-sites-varies-by-up-to-210-a5vUd4D0QASm" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/news/article/cheapest-price-on-comparison-sites-varies-by-up-to-210-a5vUd4D0QASm</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: omr.com  
-   Link: <a href="https://omr.com/en/reviews/product/trustpilot/alternatives" target="_blank" rel="noopener noreferrer nofollow">https://omr.com/en/reviews/product/trustpilot/alternatives</a>  
+   Link:<a href="https://omr.com/en/reviews/product/trustpilot/alternatives" target="_blank" rel="noopener noreferrer nofollow">https://omr.com/en/reviews/product/trustpilot/alternatives</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pricecomparisonsoftware.co.uk  
-   Link: <a href="https://www.pricecomparisonsoftware.co.uk/affiliate_price_comparison.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pricecomparisonsoftware.co.uk/affiliate_price_comparison.html</a>  
+   Link:<a href="https://www.pricecomparisonsoftware.co.uk/affiliate_price_comparison.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pricecomparisonsoftware.co.uk/affiliate_price_comparison.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Frugal/comments/1tajp5r/always_check_camelmart_a_price_tracker_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Frugal/comments/1tajp5r/always_check_camelmart_a_price_tracker_by/</a>  
+   Link:<a href="https://www.reddit.com/r/Frugal/comments/1tajp5r/always_check_camelmart_a_price_tracker_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Frugal/comments/1tajp5r/always_check_camelmart_a_price_tracker_by/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rtenews/posts/as-black-friday-and-cyber-monday-draw-nearer-new-research-has-shown-that-nearly-/1230465949106107/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rtenews/posts/as-black-friday-and-cyber-monday-draw-nearer-new-research-has-shown-that-nearly-/1230465949106107/</a>  
+   Link:<a href="https://www.facebook.com/rtenews/posts/as-black-friday-and-cyber-monday-draw-nearer-new-research-has-shown-that-nearly-/1230465949106107/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rtenews/posts/as-black-friday-and-cyber-monday-draw-nearer-new-research-has-shown-that-nearly-/1230465949106107/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs</a>  
+   Link:<a href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380881736_E-Commerce_Price_Tracker" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380881736_E-Commerce_Price_Tracker</a>  
+   Link:<a href="https://www.researchgate.net/publication/380881736_E-Commerce_Price_Tracker" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380881736_E-Commerce_Price_Tracker</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: motioninvest.com  
-   Link: <a href="https://www.motioninvest.com/googles-product-reviews-update-a-full-analysis-for-affiliate-marketers" target="_blank" rel="noopener noreferrer nofollow">https://www.motioninvest.com/googles-product-reviews-update-a-full-analysis-for-affiliate-marketers</a>  
+   Link:<a href="https://www.motioninvest.com/googles-product-reviews-update-a-full-analysis-for-affiliate-marketers" target="_blank" rel="noopener noreferrer nofollow">https://www.motioninvest.com/googles-product-reviews-update-a-full-analysis-for-affiliate-marketers</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: elegantthemes.com  
-   Link: <a href="https://www.elegantthemes.com/policy/disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.elegantthemes.com/policy/disclosure/</a>  
+   Link:<a href="https://www.elegantthemes.com/policy/disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.elegantthemes.com/policy/disclosure/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/how-do-you-know-product-comparison-reviewis-credible-true-brian-busch" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-do-you-know-product-comparison-reviewis-credible-true-brian-busch</a>  
+   Link:<a href="https://www.linkedin.com/pulse/how-do-you-know-product-comparison-reviewis-credible-true-brian-busch" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-do-you-know-product-comparison-reviewis-credible-true-brian-busch</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/melbourne/comments/169n335/i_built_a_price_comparison_and_tracking_tool_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/melbourne/comments/169n335/i_built_a_price_comparison_and_tracking_tool_to/</a>  
+   Link:<a href="https://www.reddit.com/r/melbourne/comments/169n335/i_built_a_price_comparison_and_tracking_tool_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/melbourne/comments/169n335/i_built_a_price_comparison_and_tracking_tool_to/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/325833363_Influence_of_Consumer_Reviews_on_Online_Purchasing_Decisions_in_Older_and_Younger_Adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325833363_Influence_of_Consumer_Reviews_on_Online_Purchasing_Decisions_in_Older_and_Younger_Adults</a>  
+   Link:<a href="https://www.researchgate.net/publication/325833363_Influence_of_Consumer_Reviews_on_Online_Purchasing_Decisions_in_Older_and_Younger_Adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325833363_Influence_of_Consumer_Reviews_on_Online_Purchasing_Decisions_in_Older_and_Younger_Adults</a>  

@@ -284,7 +284,7 @@ A feature table should make a buying decision easier, not create another researc
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_feature_tables_buyer_bee084-Illustration-1-dark.svg" | relative_url }}" alt="Feature Tables illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_feature_tables_buyer_bee084-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_feature_tables_buyer_bee084-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate websites, this matters commercially as well as editorially. Readers who understand the important [trade-offs]({{ 'trade-offs/' | relative_url }}) are more likely to trust the recommendation and click through with confidence. Long, cluttered tables, by contrast, often bury meaningful differences beneath dozens of near-identical rows. User experience research shows that comparison tables work best when people are evaluating a small number of [alternatives]({{ 'alternatives/' | relative_url }}) across attributes that actually influence the decision, rather than scanning exhaustive inventories of features. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group Comparison Tables for Products, Services, and Features</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — They can be used to compare sim...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
+For affiliate websites, this matters commercially as well as editorially. Readers who understand the important [trade-offs]({{ 'trade-offs/' | relative_url }}) are more likely to trust the recommendation and click through with confidence. Long, cluttered tables, by contrast, often bury meaningful differences beneath dozens of near-identical rows. User experience research shows that comparison tables work best when people are evaluating a small number of [alternatives]({{ 'alternatives/' | relative_url }}) across attributes that actually influence the decision, rather than scanning exhaustive inventories of features.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group Comparison Tables for Products, Services, and Features</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — They can be used to compare sim...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
 
 ## Why most feature tables become too long
 
@@ -304,7 +304,7 @@ Manufacturers publish extensive specification sheets because they must describe 
 
 Everything else is secondary.
 
-Nielsen Norman Group notes that comparison [tables]({{ 'tables/' | relative_url }}) are designed for decisions involving several meaningful attributes across a relatively small set of alternatives. When the table grows beyond that purpose, readers struggle to identify what actually matters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group Comparison Tables for Products, Services, and Features</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — They can be used to compare sim...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
+Nielsen Norman Group notes that comparison [tables]({{ 'tables/' | relative_url }}) are designed for decisions involving several meaningful attributes across a relatively small set of alternatives. When the table grows beyond that purpose, readers struggle to identify what actually matters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group Comparison Tables for Products, Services, and Features</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — They can be used to compare sim...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
 
 A useful comparison therefore removes information rather than accumulating it.
 
@@ -416,7 +416,7 @@ Openly presenting drawbacks often increases confidence because the table resembl
 
 A table that looks excellent on a desktop monitor can become almost unusable on a phone.
 
-Government Digital Service guidance recommends keeping tables to a manageable size and avoiding oversized layouts that require excessive scrolling. Large tables are often better divided into smaller ones where possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guidance.publishing.service.gov.uk/formatting-content/text-formatting/tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guidance.publishing.service.gov.uk">[guidance.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guidance.publishing.service.gov.uk</span><span class="citation-popover-snippet">Tables - GOV.UK content and publishing guidanceUse tables to present data or information that can be organised in a structured way, like...</span></span></span>
+Government Digital Service guidance recommends keeping tables to a manageable size and avoiding oversized layouts that require excessive scrolling. Large tables are often better divided into smaller ones where possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://guidance.publishing.service.gov.uk/formatting-content/text-formatting/tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guidance.publishing.service.gov.uk">[guidance.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guidance.publishing.service.gov.uk</span><span class="citation-popover-snippet">Tables - GOV.UK content and publishing guidanceUse tables to present data or information that can be organised in a structured way, like...</span></span></span>
 
 For affiliate comparison pages, practical mobile improvements include:
 
@@ -431,7 +431,7 @@ For affiliate comparison pages, practical mobile improvements include:
 
 </div>
 
-Nielsen Norman Group also recommends preserving context through techniques such as fixed headers and ensuring only meaningful information is displayed, since mobile screens make unnecessary complexity even harder to process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/mobile-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group Mobile Tables: Comparisons and Other Data Tables</span><span class="citation-popover-snippet">Nielsen Norman GroupMobile Tables: Comparisons and Other Data TablesSeptember 17, 2017 — 17 Sept 2017 — Locking headers and allowing user...</span><span class="citation-popover-meta">Published: September 17, 2017</span></span></span>
+Nielsen Norman Group also recommends preserving context through techniques such as fixed headers and ensuring only meaningful information is displayed, since mobile screens make unnecessary complexity even harder to process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/mobile-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group Mobile Tables: Comparisons and Other Data Tables</span><span class="citation-popover-snippet">Nielsen Norman GroupMobile Tables: Comparisons and Other Data TablesSeptember 17, 2017 — 17 Sept 2017 — Locking headers and allowing user...</span><span class="citation-popover-meta">Published: September 17, 2017</span></span></span>
 
 The objective is not simply responsiveness but readability.
 
@@ -441,7 +441,7 @@ The objective is not simply responsiveness but readability.
 
 Not every comparison benefits from a feature table.
 
-Research from Nielsen Norman Group suggests tables are most valuable when readers are comparing a small number of similar alternatives across several meaningful [criteria]({{ 'criteria/' | relative_url }}). They are less effective for inexpensive products, items chosen mainly for appearance, or situations where products are not direct substitutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group Comparison Tables for Products, Services, and Features</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — They can be used to compare sim...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
+Research from Nielsen Norman Group suggests tables are most valuable when readers are comparing a small number of similar alternatives across several meaningful [criteria]({{ 'criteria/' | relative_url }}). They are less effective for inexpensive products, items chosen mainly for appearance, or situations where products are not direct substitutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group Comparison Tables for Products, Services, and Features</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — They can be used to compare sim...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
 
 If two products differ dramatically in purpose, a narrative comparison may communicate the trade-offs better than forcing them into identical rows.
 
@@ -462,162 +462,162 @@ The strongest affiliate comparison tables earn trust not by displaying the great
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Most Feature Tables Are Too Long. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Most Feature Tables Are Too Long. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
-        </h4>
-        <p class="fr-book-author">By Steve Krug</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
+</h4>
+<p class="fr-book-author">By Steve Krug</p>
         
-        <p class="fr-book-desc">Explains how to simplify interfaces and reduce decision friction, directly supporting concise comparison table design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to simplify interfaces and reduce decision friction, directly supporting concise comparison table design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
-        </h4>
-        <p class="fr-book-author">By Don Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
+</h4>
+<p class="fr-book-author">By Don Norman</p>
         
-        <p class="fr-book-desc">Covers human-centered design principles that help readers prioritize meaningful information over clutter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers human-centered design principles that help readers prioritize meaningful information over clutter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Evil by Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=46Wl1G9yJUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Evil by Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Evil by Design">Evil by Design</a>
-        </h4>
-        <p class="fr-book-author">By Chris Nodder</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Evil by Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=46Wl1G9yJUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Evil by Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Evil by Design">Evil by Design</a>
+</h4>
+<p class="fr-book-author">By Chris Nodder</p>
         
-        <p class="fr-book-desc">Demonstrates how presentation influences user decisions, relevant to effective comparison layouts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how presentation influences user decisions, relevant to effective comparison layouts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Websites Win on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aqXctAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Making Websites Win" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Websites Win">Making Websites Win</a>
-        </h4>
-        <p class="fr-book-author">By Karl Blanks, Ben Jesson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Websites Win on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aqXctAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Making Websites Win" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Websites Win">Making Websites Win</a>
+</h4>
+<p class="fr-book-author">By Karl Blanks, Ben Jesson</p>
         
-        <p class="fr-book-desc">Focuses on improving website decisions through clearer content and conversion-focused design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on improving website decisions through clearer content and conversion-focused design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Evil+by+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Evil by Design</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Evil+by+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Evil by Design</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor"><img src="{{ '/assets/images/marketplace-covers/139970051cf0b0d40665.jpg' | relative_url }}" alt="Listing image for Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor"><img src="{{ '/assets/images/marketplace-covers/139970051cf0b0d40665.jpg' | relative_url }}" alt="Listing image for Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor"><img src="{{ '/assets/images/marketplace-covers/6760001fd496b407c5c1.jpg' | relative_url }}" alt="Listing image for Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor"><img src="{{ '/assets/images/marketplace-covers/6760001fd496b407c5c1.jpg' | relative_url }}" alt="Listing image for Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="feature-tables-why-most-feature-tables-are-too-long-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -633,7 +633,7 @@ The strongest affiliate comparison tables earn trust not by displaying the great
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -653,7 +653,7 @@ The strongest affiliate comparison tables earn trust not by displaying the great
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -685,7 +685,7 @@ The strongest affiliate comparison tables earn trust not by displaying the great
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -737,7 +737,7 @@ The strongest affiliate comparison tables earn trust not by displaying the great
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -782,7 +782,7 @@ The strongest affiliate comparison tables earn trust not by displaying the great
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -823,85 +823,85 @@ The strongest affiliate comparison tables earn trust not by displaying the great
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: guidance.publishing.service.gov.uk  
-   Link: <a href="https://guidance.publishing.service.gov.uk/formatting-content/text-formatting/tables/" target="_blank" rel="noopener noreferrer nofollow">https://guidance.publishing.service.gov.uk/formatting-content/text-formatting/tables/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tables - GOV.UK content and publishing guidanceUse tables to present data or information that can be organised in a structured way, like...</p></details>
+   Link:<a href="https://guidance.publishing.service.gov.uk/formatting-content/text-formatting/tables/" target="_blank" rel="noopener noreferrer nofollow">https://guidance.publishing.service.gov.uk/formatting-content/text-formatting/tables/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tables - GOV.UK content and publishing guidanceUse tables to present data or information that can be organised in a structured way, like...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: analysisfunction.civilservice.gov.uk  
    Title: Data visualisation: tables  
-   Link: <a href="https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-tables/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-tables/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Analysis Function19 May 2022 — This guidance provides advice on how to present and publish demonstration tables in HTML and do...</p></details>
+   Link:<a href="https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-tables/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-tables/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Analysis Function19 May 2022 — This guidance provides advice on how to present and publish demonstration tables in HTML and do...</p></details>
    Published: May 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group Comparison Tables for Products, Services, and Features  
-   Link: <a href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/comparison-tables/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — They can be used to compare sim...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/comparison-tables/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — They can be used to compare sim...</p></details>
    Published: February 9, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group3 Rules for Better Comparison Tables ([Video](&#123;&#123; 'video/' | relative_url &#125;&#125;))  
-   Link: <a href="https://www.nngroup.com/videos/ux-rules-comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/ux-rules-comparison-tables/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NN/GSuccessful comparison tables help people make decisions quickly. Simplicity, consistency, and informational are qualities of good com...</p></details>
+   Link:<a href="https://www.nngroup.com/videos/ux-rules-comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/ux-rules-comparison-tables/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NN/GSuccessful comparison tables help people make decisions quickly. Simplicity, consistency, and informational are qualities of good com...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group Mobile Tables: Comparisons and Other Data Tables  
-   Link: <a href="https://www.nngroup.com/articles/mobile-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/mobile-tables/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupMobile Tables: Comparisons and Other Data TablesSeptember 17, 2017 — 17 Sept 2017 — Locking headers and allowing user...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/mobile-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/mobile-tables/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupMobile Tables: Comparisons and Other Data TablesSeptember 17, 2017 — 17 Sept 2017 — Locking headers and allowing user...</p></details>
    Published: September 17, 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nngroup.com  
-   Link: <a href="https://www.nngroup.com/videos/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/comparison-tables/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison Tables: 5 Scenarios When Not to Use Them (Video)Consistency in content, scannability, and a simple layout are some of the most...</p></details>
+   Link:<a href="https://www.nngroup.com/videos/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/comparison-tables/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison Tables: 5 Scenarios When Not to Use Them (Video)Consistency in content, scannability, and a simple layout are some of the most...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=POsaV2YzRr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=POsaV2YzRr8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison Tables: 5 Scenarios When Not to Use ThemComparison tables are most effective when they&#x27;re used in the right context. Prevent u...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=POsaV2YzRr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=POsaV2YzRr8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison Tables: 5 Scenarios When Not to Use ThemComparison tables are most effective when they&#x27;re used in the right context. Prevent u...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weareyellowball.com  
    Title: how to design comparison tables that convert  
-   Link: <a href="https://weareyellowball.com/guides/how-to-design-comparison-tables-that-convert/" target="_blank" rel="noopener noreferrer nofollow">https://weareyellowball.com/guides/how-to-design-comparison-tables-that-convert/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Dec 2025 — Create responsive, scannable comparison tables with clear differences, sticky headers, and smart design that drives better...</p></details>
+   Link:<a href="https://weareyellowball.com/guides/how-to-design-comparison-tables-that-convert/" target="_blank" rel="noopener noreferrer nofollow">https://weareyellowball.com/guides/how-to-design-comparison-tables-that-convert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Dec 2025 — Create responsive, scannable comparison tables with clear differences, sticky headers, and smart design that drives better...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: foolproof.co.uk  
    Title: making product comparison work on mobile  
-   Link: <a href="https://foolproof.co.uk/journal/making-product-comparison-work-on-mobile" target="_blank" rel="noopener noreferrer nofollow">https://foolproof.co.uk/journal/making-product-comparison-work-on-mobile</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Mar 2014 — We discuss the design patterns most frequently used for product comparison and provides design suggestions to impr...</p></details>
+   Link:<a href="https://foolproof.co.uk/journal/making-product-comparison-work-on-mobile" target="_blank" rel="noopener noreferrer nofollow">https://foolproof.co.uk/journal/making-product-comparison-work-on-mobile</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Mar 2014 — We discuss the design patterns most frequently used for product comparison and provides design suggestions to impr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2DPuRixwi9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2DPuRixwi9g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Add Product Compare in WooCommerce (FREE) | Step-by-Step Tutorial...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2DPuRixwi9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2DPuRixwi9g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Add Product Compare in WooCommerce (FREE) | Step-by-Step Tutorial...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to Create an Affiliate Product Comparison Table in Word Press (Easy)  
-   Link: <a href="https://www.youtube.com/watch?v=HeV5cnVWwps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HeV5cnVWwps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to create product showcase table/product comparison table in WordPress by Kadence blocks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HeV5cnVWwps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HeV5cnVWwps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to create product showcase table/product comparison table in WordPress by Kadence blocks...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How to Add Product Compare in Woo Commerce (FREE) | Step-by-Step Tutorial  
-   Link: <a href="https://www.youtube.com/watch?v=M5QD6fo0wnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5QD6fo0wnM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Add an Affiliate Product Table in WordPress &amp; Blogger | (Free &amp; Responsive)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M5QD6fo0wnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5QD6fo0wnM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Add an Affiliate Product Table in WordPress &amp; Blogger | (Free &amp; Responsive)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Best Table Plugins for Word Press — Data, Design & Conversions  
-   Link: <a href="https://www.youtube.com/watch?v=z47k3zvE5S0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z47k3zvE5S0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create an Affiliate Product Comparison Table in WordPress (Easy)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z47k3zvE5S0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z47k3zvE5S0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create an Affiliate Product Comparison Table in WordPress (Easy)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=F9XCkWzMqGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9XCkWzMqGk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=F9XCkWzMqGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9XCkWzMqGk</a>  

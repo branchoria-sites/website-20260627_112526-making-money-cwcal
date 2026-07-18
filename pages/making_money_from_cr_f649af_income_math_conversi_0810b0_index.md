@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-income/
 description: Focused pages that expand on Income Math.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_income_math_conversi_0810b0
 parent_title: Income Math
@@ -16,7 +16,7 @@ parent_permalink: /income-math/
 
 # Explore Topics in Income Math
 
-The following pages expand on the main **[Income Math]({{ '/income-math/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Income Math]({{ '/income-math/' | relative_url }})** page and cover its key branches in.
 
 - [CTR Benchmarks]({{ '/ctr-benchmarks/' | relative_url }})
 - [Scenarios]({{ '/scenarios/' | relative_url }})

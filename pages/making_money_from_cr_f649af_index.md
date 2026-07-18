@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-index/
 description: Focused pages that expand on Making Money From.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af
 parent_title: Making Money From
@@ -16,7 +16,7 @@ parent_permalink: /making-money-from/
 
 # Explore Topics in Making Money From
 
-The following pages expand on the main **[Making Money From]({{ '/making-money-from/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Making Money From]({{ '/making-money-from/' | relative_url }})** page and cover its key branches in.
 
 - [Content Mix]({{ '/content-mix/' | relative_url }})
 - [Disclosures]({{ '/disclosures/' | relative_url }})

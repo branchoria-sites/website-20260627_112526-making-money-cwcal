@@ -280,7 +280,7 @@ image: /assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_chea
 
 ## Introduction
 
-A strong affiliate website does not try to sell every visitor the most expensive product. Instead, it helps readers recognise when a premium recommendation is more than they actually need. That approach builds [credibility]({{ 'credibility/' | relative_url }}) because it shows the review is solving the reader's problem rather than maximising commission. Google's guidance for high-quality product [reviews]({{ 'reviews/' | relative_url }}) explicitly encourages meaningful comparisons with competing products and explanations of how different options suit different users, rather than presenting one universal winner. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.practicalecommerce.com/how-affiliates-address-googles-product-review-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: practicalecommerce.com">[Practical Ecommerce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">practicalecommerce.com</span><span class="citation-popover-title">how affiliates address googles product review updates</span><span class="citation-popover-snippet">Provide free samples or access...Read more...</span></span></span>
+A strong affiliate website does not try to sell every visitor the most expensive product. Instead, it helps readers recognise when a premium recommendation is more than they actually need. That approach builds [credibility]({{ 'credibility/' | relative_url }}) because it shows the review is solving the reader's problem rather than maximising commission. Google's guidance for high-quality product [reviews]({{ 'reviews/' | relative_url }}) explicitly encourages meaningful comparisons with competing products and explanations of how different options suit different users, rather than presenting one universal winner.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.practicalecommerce.com/how-affiliates-address-googles-product-review-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: practicalecommerce.com">[Practical Ecommerce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">practicalecommerce.com</span><span class="citation-popover-title">how affiliates address googles product review updates</span><span class="citation-popover-snippet">Provide free samples or access...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_cheaper_overkill_alt_c3cc3d-Illustration-1-dark.svg" | relative_url }}" alt="Overkill Picks illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_cheaper_overkill_alt_c3cc3d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_cheaper_overkill_alt_c3cc3d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -387,9 +387,9 @@ Many affiliate sites quietly avoid low-priced recommendations because commission
 
 Readers increasingly recognise this behaviour.
 
-Google's product review guidance encourages reviewers to explain differences between products, discuss limitations and provide evidence-based comparisons rather than simply promoting one option. Pages that include realistic [alternatives]({{ 'alternatives/' | relative_url }}) generally align better with that philosophy than pages that recommend the same premium choice to every visitor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.motioninvest.com/googles-product-reviews-update-a-full-analysis-for-affiliate-marketers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: motioninvest.com">[motioninvest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">motioninvest.com</span><span class="citation-popover-title">3) Compare the Product to Other Options.Read more</span><span class="citation-popover-snippet">Google&#x27;s Product Reviews Update: A Full Analysis...It was designed to reward product review content that provides “insightful analysis a...</span></span></span>
+Google's product review guidance encourages reviewers to explain differences between products, discuss limitations and provide evidence-based comparisons rather than simply promoting one option. Pages that include realistic [alternatives]({{ 'alternatives/' | relative_url }}) generally align better with that philosophy than pages that recommend the same premium choice to every visitor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.motioninvest.com/googles-product-reviews-update-a-full-analysis-for-affiliate-marketers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: motioninvest.com">[motioninvest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">motioninvest.com</span><span class="citation-popover-title">3) Compare the Product to Other Options.Read more</span><span class="citation-popover-snippet">Google&#x27;s Product Reviews Update: A Full Analysis...It was designed to reward product review content that provides “insightful analysis a...</span></span></span>
 
-Trust is also reinforced through honest endorsements. Regulatory guidance from the US Federal Trade Commission states that endorsements should reflect genuine opinions and honest experiences rather than marketing claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — An endorsement must reflect the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Trust is also reinforced through honest endorsements. Regulatory guidance from the US Federal Trade Commission states that endorsements should reflect genuine opinions and honest experiences rather than marketing claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — An endorsement must reflect the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 When readers repeatedly discover that your cheaper recommendation genuinely fits their needs, they become more confident that future premium recommendations are equally sincere.
 
@@ -440,194 +440,194 @@ That shift in perspective has lasting value. Someone who spends £150 instead of
 For affiliate publishers, that reputation becomes a competitive advantage. Individual commissions may occasionally be smaller, but long-term loyalty, repeat traffic and credibility are often worth far more than persuading every visitor to buy the highest-priced product.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the Top Pick Is Too Much. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the Top Pick Is Too Much. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Supports writing honest comparisons and buyer-focused recommendations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports writing honest comparisons and buyer-focused recommendations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Copywriter&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q0JZm4Qu8R0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Copywriter&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Copywriter&#x27;s Handbook">The Copywriter&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Robert W. Bly</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Covers persuasive copy while emphasizing benefits over feature dumping.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Copywriter&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q0JZm4Qu8R0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Copywriter&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Copywriter&#x27;s Handbook">The Copywriter&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Robert W. Bly</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Covers persuasive copy while emphasizing benefits over feature dumping.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Donald Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
+</h4>
+<p class="fr-book-author">By Donald Miller</p>
         
-        <p class="fr-book-desc">Encourages solving customer problems rather than pushing premium products.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages solving customer problems rather than pushing premium products.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Helps explain ethical persuasion, trust, and matching recommendations to buyer needs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain ethical persuasion, trust, and matching recommendations to buyer needs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Copywriter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Copywriter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Copywriter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Copywriter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Excel 18V Cordless 4 Piece Power Tool Kit 2 x 4.0Ah Battery Charger Bag EXL5233"><img src="{{ '/assets/images/marketplace-covers/7a6d0556d5a26ea88f5d.jpg' | relative_url }}" alt="Listing image for Excel 18V Cordless 4 Piece Power Tool Kit 2 x 4.0Ah Battery Charger Bag EXL5233" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer">Excel 18V Cordless 4 Piece Power Tool Kit 2 x 4.0Ah Battery Charger Bag EXL5233</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power tool kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: power tool kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Excel 18V Cordless 4 Piece Power Tool Kit 2 x 4.0Ah Battery Charger Bag EXL5233"><img src="{{ '/assets/images/marketplace-covers/7a6d0556d5a26ea88f5d.jpg' | relative_url }}" alt="Listing image for Excel 18V Cordless 4 Piece Power Tool Kit 2 x 4.0Ah Battery Charger Bag EXL5233" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer">Excel 18V Cordless 4 Piece Power Tool Kit 2 x 4.0Ah Battery Charger Bag EXL5233</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power tool kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: power tool kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Excel 18V 8 Piece Power Tool Kit 3 x 4.0Ah Battery &amp; Charger in Trolley Toolbox"><img src="{{ '/assets/images/marketplace-covers/317ed4e16efb4fc9ccbd.jpg' | relative_url }}" alt="Listing image for Excel 18V 8 Piece Power Tool Kit 3 x 4.0Ah Battery &amp; Charger in Trolley Toolbox" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer">Excel 18V 8 Piece Power Tool Kit 3 x 4.0Ah Battery &amp; Charger in Trolley Toolbox</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power tool kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: power tool kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Excel 18V 8 Piece Power Tool Kit 3 x 4.0Ah Battery &amp; Charger in Trolley Toolbox"><img src="{{ '/assets/images/marketplace-covers/317ed4e16efb4fc9ccbd.jpg' | relative_url }}" alt="Listing image for Excel 18V 8 Piece Power Tool Kit 3 x 4.0Ah Battery &amp; Charger in Trolley Toolbox" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer">Excel 18V 8 Piece Power Tool Kit 3 x 4.0Ah Battery &amp; Charger in Trolley Toolbox</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power tool kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: power tool kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Excel 18V 9 Piece Power Tool Kit 3 x 4.0Ah Batteries &amp; Charger &amp; Trolley Toolbox"><img src="{{ '/assets/images/marketplace-covers/8a699d9ececc76ab7e92.jpg' | relative_url }}" alt="Listing image for Excel 18V 9 Piece Power Tool Kit 3 x 4.0Ah Batteries &amp; Charger &amp; Trolley Toolbox" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer">Excel 18V 9 Piece Power Tool Kit 3 x 4.0Ah Batteries &amp; Charger &amp; Trolley Toolbox</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power tool kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: power tool kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Excel 18V 9 Piece Power Tool Kit 3 x 4.0Ah Batteries &amp; Charger &amp; Trolley Toolbox"><img src="{{ '/assets/images/marketplace-covers/8a699d9ececc76ab7e92.jpg' | relative_url }}" alt="Listing image for Excel 18V 9 Piece Power Tool Kit 3 x 4.0Ah Batteries &amp; Charger &amp; Trolley Toolbox" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer">Excel 18V 9 Piece Power Tool Kit 3 x 4.0Ah Batteries &amp; Charger &amp; Trolley Toolbox</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power tool kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: power tool kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Excel 18V Cordless 8 Piece Power Tool Kit 3 x 4.0Ah Battery Charger Bag EXL8995"><img src="{{ '/assets/images/marketplace-covers/b0d1bc81e500ee43e43d.jpg' | relative_url }}" alt="Listing image for Excel 18V Cordless 8 Piece Power Tool Kit 3 x 4.0Ah Battery Charger Bag EXL8995" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer">Excel 18V Cordless 8 Piece Power Tool Kit 3 x 4.0Ah Battery Charger Bag EXL8995</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power tool kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: power tool kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Excel 18V Cordless 8 Piece Power Tool Kit 3 x 4.0Ah Battery Charger Bag EXL8995"><img src="{{ '/assets/images/marketplace-covers/b0d1bc81e500ee43e43d.jpg' | relative_url }}" alt="Listing image for Excel 18V Cordless 8 Piece Power Tool Kit 3 x 4.0Ah Battery Charger Bag EXL8995" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer">Excel 18V Cordless 8 Piece Power Tool Kit 3 x 4.0Ah Battery Charger Bag EXL8995</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power tool kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: power tool kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+tool+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power tool kit" data-ebay-reference="overkill-picks-when-the-top-pick-is-too-much-making-money-from-power-tool-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -643,7 +643,7 @@ For affiliate publishers, that reputation becomes a competitive advantage. Indiv
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -663,7 +663,7 @@ For affiliate publishers, that reputation becomes a competitive advantage. Indiv
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -695,7 +695,7 @@ For affiliate publishers, that reputation becomes a competitive advantage. Indiv
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -747,7 +747,7 @@ For affiliate publishers, that reputation becomes a competitive advantage. Indiv
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -792,7 +792,7 @@ For affiliate publishers, that reputation becomes a competitive advantage. Indiv
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -833,89 +833,89 @@ For affiliate publishers, that reputation becomes a competitive advantage. Indiv
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: motioninvest.com  
    Title: 3) Compare the Product to Other Options.Read more  
-   Link: <a href="https://www.motioninvest.com/googles-product-reviews-update-a-full-analysis-for-affiliate-marketers" target="_blank" rel="noopener noreferrer nofollow">https://www.motioninvest.com/googles-product-reviews-update-a-full-analysis-for-affiliate-marketers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Product Reviews Update: A Full Analysis...It was designed to reward product review content that provides “insightful analysis a...</p></details>
+   Link:<a href="https://www.motioninvest.com/googles-product-reviews-update-a-full-analysis-for-affiliate-marketers" target="_blank" rel="noopener noreferrer nofollow">https://www.motioninvest.com/googles-product-reviews-update-a-full-analysis-for-affiliate-marketers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Product Reviews Update: A Full Analysis...It was designed to reward product review content that provides “insightful analysis a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/merchants/answer/14620705?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/14620705?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Product reviews are shown in ads and...</p></details>
+   Link:<a href="https://support.google.com/merchants/answer/14620705?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/14620705?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Product reviews are shown in ads and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: practicalecommerce.com  
    Title: how affiliates address googles product review [updates](&#123;&#123; 'updates/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.practicalecommerce.com/how-affiliates-address-googles-product-review-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.practicalecommerce.com/how-affiliates-address-googles-product-review-updates</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Provide free samples or access...Read more...</p></details>
+   Link:<a href="https://www.practicalecommerce.com/how-affiliates-address-googles-product-review-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.practicalecommerce.com/how-affiliates-address-googles-product-review-updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Provide free samples or access...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — An endorsement must reflect the...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — An endorsement must reflect the...</p></details>
    Published: September 7, 2017  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsThe FTC&#x27;s Rule on the Use of Consumer Reviews and Testimonials addresses the persistent problem of...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsThe FTC&#x27;s Rule on the Use of Consumer Reviews and Testimonials addresses the persistent problem of...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Consumer Reviews and Testimonials Rule: Questions...8 Nov 2024 — Yes, so long as the reviews the disclosures are clear and conspicuous...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Consumer Reviews and Testimonials Rule: Questions...8 Nov 2024 — Yes, so long as the reviews the disclosures are clear and conspicuous...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wiserreview.com  
-   Link: <a href="https://wiserreview.com/blog/product-reviews-pro-alternatives/" target="_blank" rel="noopener noreferrer nofollow">https://wiserreview.com/blog/product-reviews-pro-alternatives/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Best Product Reviews Pro Alternatives toolsAffordable alternative to Product Reviews Pro. WiserReview helps you collect, manage, and d...</p></details>
+   Link:<a href="https://wiserreview.com/blog/product-reviews-pro-alternatives/" target="_blank" rel="noopener noreferrer nofollow">https://wiserreview.com/blog/product-reviews-pro-alternatives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Best Product Reviews Pro Alternatives toolsAffordable alternative to Product Reviews Pro. WiserReview helps you collect, manage, and d...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/germany/comments/1r8u49o/any_alternatives_to_google_reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/germany/comments/1r8u49o/any_alternatives_to_google_reviews/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Any alternatives to google reviews?: r/germanyIt looks like google automatically removes any bad or even average reviews of resturants a...</p></details>
+   Link:<a href="https://www.reddit.com/r/germany/comments/1r8u49o/any_alternatives_to_google_reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/germany/comments/1r8u49o/any_alternatives_to_google_reviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Any alternatives to google reviews?: r/germanyIt looks like google automatically removes any bad or even average reviews of resturants a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tryjackal.com  
-   Link: <a href="https://www.tryjackal.com/research" target="_blank" rel="noopener noreferrer nofollow">https://www.tryjackal.com/research</a>  
+   Link:<a href="https://www.tryjackal.com/research" target="_blank" rel="noopener noreferrer nofollow">https://www.tryjackal.com/research</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/nielsen-norman-group_why-you-should-test-with-users-activity-7364804347819425793-RMT8" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nielsen-norman-group_why-you-should-test-with-users-activity-7364804347819425793-RMT8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Conduct Usability [Testing](&amp;#123;&amp;#123; &#x27;testing/&#x27; | relative_url &amp;#125;&amp;#125;) for UX DesignUser testing remains one of the most effective ways to uncover gaps and validate design dec...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/nielsen-norman-group_why-you-should-test-with-users-activity-7364804347819425793-RMT8" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nielsen-norman-group_why-you-should-test-with-users-activity-7364804347819425793-RMT8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Conduct Usability [Testing](&amp;#123;&amp;#123; &#x27;testing/&#x27; | relative_url &amp;#125;&amp;#125;) for UX DesignUser testing remains one of the most effective ways to uncover gaps and validate design dec...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tapitag.co  
-   Link: <a href="https://tapitag.co/en-de/blogs/tapitag-blogs/what-is-the-best-alternative-to-buying-google-reviews?srsltid=AfmBOoqcIW-z9RuNNBs6938O5h8AsFWHEJy86r84ErjxEinHGkJU1vr5" target="_blank" rel="noopener noreferrer nofollow">https://tapitag.co/en-de/blogs/tapitag-blogs/what-is-the-best-alternative-to-buying-google-reviews?srsltid=AfmBOoqcIW-z9RuNNBs6938O5h8AsFWHEJy86r84ErjxEinHGkJU1vr5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the Best Alternative to Buying Google Reviews?Discover why TAPiTAG&#x27;s NFC and QR code-powered tags are the honest solution for cap...</p></details>
+   Link:<a href="https://tapitag.co/en-de/blogs/tapitag-blogs/what-is-the-best-alternative-to-buying-google-reviews?srsltid=AfmBOoqcIW-z9RuNNBs6938O5h8AsFWHEJy86r84ErjxEinHGkJU1vr5" target="_blank" rel="noopener noreferrer nofollow">https://tapitag.co/en-de/blogs/tapitag-blogs/what-is-the-best-alternative-to-buying-google-reviews?srsltid=AfmBOoqcIW-z9RuNNBs6938O5h8AsFWHEJy86r84ErjxEinHGkJU1vr5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the Best Alternative to Buying Google Reviews?Discover why TAPiTAG&#x27;s NFC and QR code-powered tags are the honest solution for cap...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sellbrite.com  
-   Link: <a href="https://www.sellbrite.com/blog/google-shopping-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.sellbrite.com/blog/google-shopping-reviews/</a>  
+   Link:<a href="https://www.sellbrite.com/blog/google-shopping-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.sellbrite.com/blog/google-shopping-reviews/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hoganlovells.com  
    Title: ftc publishes updated endorsement guides and proposed rule banning fake reviews  
-   Link: <a href="https://www.hoganlovells.com/en/publications/ftc-publishes-updated-endorsement-guides-and-proposed-rule-banning-fake-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/ftc-publishes-updated-endorsement-guides-and-proposed-rule-banning-fake-reviews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC publishes updated Endorsement Guides and...10 Jul 2023 — The Guides provide an example that if an advertiser retweets a positive rev...</p></details>
+   Link:<a href="https://www.hoganlovells.com/en/publications/ftc-publishes-updated-endorsement-guides-and-proposed-rule-banning-fake-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/ftc-publishes-updated-endorsement-guides-and-proposed-rule-banning-fake-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC publishes updated Endorsement Guides and...10 Jul 2023 — The Guides provide an example that if an advertiser retweets a positive rev...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: techrev.us  
    Title: Clarity is what makes users trust your product. And trust is what makes them  
-   Link: <a href="https://www.techrev.us/blog/top-10-proven-ui-ux-design-best-practices-to-win-users-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.techrev.us/blog/top-10-proven-ui-ux-design-best-practices-to-win-users-in-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Proven UI/UX Design Best Practices to Win Users...2 days ago — Nielsen Norman Group, You don&#x27;t need a massive research budget...</p></details>
+   Link:<a href="https://www.techrev.us/blog/top-10-proven-ui-ux-design-best-practices-to-win-users-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.techrev.us/blog/top-10-proven-ui-ux-design-best-practices-to-win-users-in-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Proven UI/UX Design Best Practices to Win Users...2 days ago — Nielsen Norman Group, You don&#x27;t need a massive research budget...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wardandsmith.com  
    Title: the ad vantage point navigating the ftc endorsement guides part iii  
-   Link: <a href="https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The #AD Vantage Point: Navigating the FTC Endorsement...24 Jan 2024 — As a reminder, the FTC Endorsement Guides describe how the FTC eva...</p></details>
+   Link:<a href="https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The #AD Vantage Point: Navigating the FTC Endorsement...24 Jan 2024 — As a reminder, the FTC Endorsement Guides describe how the FTC eva...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: 4tu.nl  
-   Link: <a href="https://www.4tu.nl/du/about-us/downloads/recommendations-vankuijk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.4tu.nl/du/about-us/downloads/recommendations-vankuijk.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When conducting user research for a new product, start by using the product yourself.Read more...</p></details>
+   Link:<a href="https://www.4tu.nl/du/about-us/downloads/recommendations-vankuijk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.4tu.nl/du/about-us/downloads/recommendations-vankuijk.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When conducting user research for a new product, start by using the product yourself.Read more...</p></details>

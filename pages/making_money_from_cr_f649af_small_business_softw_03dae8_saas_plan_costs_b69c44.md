@@ -282,7 +282,7 @@ The strongest plan comparisons explain how pricing changes as a business grows. 
 
 ## Feature Gates That Change the Real Price
 
-Many SaaS products use tiered pricing because different customers need different capabilities. That is not inherently misleading, but it does mean that the advertised starting price often represents only a narrow use case rather than a realistic [long-term]({{ 'long-term/' | relative_url }}) cost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tabs.com/blog/pricing-tiers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tabs.com">[tabs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tabs.com</span><span class="citation-popover-title">pricing tiers</span><span class="citation-popover-snippet">The Ultimate Guide to Pricing Tiers for SaaS Companies26 Feb 2025 — Master pricing tiers for SaaS success with this comprehensive guide...</span></span></span>
+Many SaaS products use tiered pricing because different customers need different capabilities. That is not inherently misleading, but it does mean that the advertised starting price often represents only a narrow use case rather than a realistic [long-term]({{ 'long-term/' | relative_url }}) cost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tabs.com/blog/pricing-tiers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tabs.com">[tabs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tabs.com</span><span class="citation-popover-title">pricing tiers</span><span class="citation-popover-snippet">The Ultimate Guide to Pricing Tiers for SaaS Companies26 Feb 2025 — Master pricing tiers for SaaS success with this comprehensive guide...</span></span></span>
 
 The most significant feature gates include:
 
@@ -302,7 +302,7 @@ The most significant feature gates include:
 
 These are often unnecessary during a free trial but become important once a business depends on the software.
 
-For example, a CRM may allow unlimited contacts on an entry-level plan but reserve sales automation, lead scoring or advanced reporting for higher tiers. Likewise, a project management platform may include unlimited tasks but restrict timeline views, workload management or administrative controls. The software itself has not become more expensive—the business has simply reached the point where the lower tier no longer supports daily operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ventureharbour.com/saas-pricing-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ventureharbour.com">[Venture Harbour]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ventureharbour.com</span><span class="citation-popover-title">saas pricing guide</span><span class="citation-popover-snippet">Venture HarbourSaaS Pricing Models &amp; Strategies: Complete Guide (2026)May 2, 2021 — 18 Apr 2026 — The feature-based pricing model: A tier...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
+For example, a CRM may allow unlimited contacts on an entry-level plan but reserve sales automation, lead scoring or advanced reporting for higher tiers. Likewise, a project management platform may include unlimited tasks but restrict timeline views, workload management or administrative controls. The software itself has not become more expensive—the business has simply reached the point where the lower tier no longer supports daily operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ventureharbour.com/saas-pricing-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ventureharbour.com">[Venture Harbour]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ventureharbour.com</span><span class="citation-popover-title">saas pricing guide</span><span class="citation-popover-snippet">Venture HarbourSaaS Pricing Models &amp; Strategies: Complete Guide (2026)May 2, 2021 — 18 Apr 2026 — The feature-based pricing model: A tier...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
 
 For [affiliate content]({{ 'content-mix/' | relative_url }}), listing feature differences is not enough. Explain what each gated feature actually changes for a two-person agency, local retailer, consultant or growing ecommerce business.
 
@@ -321,7 +321,7 @@ These restrictions affect businesses differently.
 
 A freelance consultant might never exceed user limits but may need premium scheduling integrations. A retailer could quickly outgrow inventory or transaction allowances. An agency may need advanced permissions long before it reaches storage limits.
 
-Automation deserves particular attention because it can dramatically change productivity. Platforms such as Zapier price plans around task usage, with higher task volumes and advanced workflow capabilities requiring more expensive subscriptions. Businesses that initially automate only a few repetitive jobs can discover that growing workflow volumes push them into higher pricing tiers or pay-as-you-go charges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zapier.com/pricing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zapier.com">[Zapier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zapier.com</span><span class="citation-popover-snippet">Plans &amp; PricingWhether you need simple integrations or complex workflows, Zapier offers secure and reliable automation as you scale...</span></span></span>
+Automation deserves particular attention because it can dramatically change productivity. Platforms such as Zapier price plans around task usage, with higher task volumes and advanced workflow capabilities requiring more expensive subscriptions. Businesses that initially automate only a few repetitive jobs can discover that growing workflow volumes push them into higher pricing tiers or pay-as-you-go charges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zapier.com/pricing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zapier.com">[Zapier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zapier.com</span><span class="citation-popover-snippet">Plans &amp; PricingWhether you need simple integrations or complex workflows, Zapier offers secure and reliable automation as you scale...</span></span></span>
 
 This is why realistic comparisons should estimate expected usage rather than comparing entry-level prices alone.
 
@@ -345,7 +345,7 @@ Small businesses commonly underestimate:
 
 </div>
 
-These costs form part of the software's total cost of ownership rather than its advertised monthly subscription. Businesses focusing only on the first invoice may underestimate what the software costs over one or two years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2n.pl/blog/saas-costs-uncover-the-hidden-fees-of-your-software" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2n.pl">[2N]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2n.pl</span><span class="citation-popover-title">Saa S Costs: Uncover the Hidden Fees of Your Software</span><span class="citation-popover-snippet">SaaS Costs: Uncover the Hidden Fees of Your Software - 2N26 Jan 2026 — The real SaaS cost is more than the subscription. Uncover hidden...</span></span></span>
+These costs form part of the software's total cost of ownership rather than its advertised monthly subscription. Businesses focusing only on the first invoice may underestimate what the software costs over one or two years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.2n.pl/blog/saas-costs-uncover-the-hidden-fees-of-your-software" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2n.pl">[2N]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2n.pl</span><span class="citation-popover-title">Saa S Costs: Uncover the Hidden Fees of Your Software</span><span class="citation-popover-snippet">SaaS Costs: Uncover the Hidden Fees of Your Software - 2N26 Jan 2026 — The real SaaS cost is more than the subscription. Uncover hidden...</span></span></span>
 
 Affiliate content becomes considerably more useful when it highlights these practical costs before readers commit.
 
@@ -435,194 +435,194 @@ This style of comparison reflects how software is actually purchased and used, m
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Cheap Software Plans Get Expensive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Cheap Software Plans Get Expensive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Profit first on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14624477-M.jpg" alt="Cover for Profit first" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Profit first">Profit first</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Profit first on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14624477-M.jpg" alt="Cover for Profit first" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Profit first">Profit first</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Encourages careful evaluation of recurring software costs and return on investment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful evaluation of recurring software costs and return on investment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lean Analytics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mIk6x8WNQAwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lean Analytics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lean Analytics">Lean Analytics</a>
-        </h4>
-        <p class="fr-book-author">By Alistair Croll, Benjamin Yoskovitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lean Analytics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mIk6x8WNQAwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lean Analytics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lean Analytics">Lean Analytics</a>
+</h4>
+<p class="fr-book-author">By Alistair Croll, Benjamin Yoskovitz</p>
         
-        <p class="fr-book-desc">Explains metrics and growth considerations that influence software plan selection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains metrics and growth considerations that influence software plan selection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+E-Myth+Revisited+by+Michael+E.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The E-Myth Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HHJVIpbpSgsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The E-Myth Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+E-Myth+Revisited+by+Michael+E.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The E-Myth Revisited">The E-Myth Revisited</a>
-        </h4>
-        <p class="fr-book-author">By Michael E. Gerber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+E-Myth+Revisited+by+Michael+E.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The E-Myth Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HHJVIpbpSgsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The E-Myth Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+E-Myth+Revisited+by+Michael+E.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The E-Myth Revisited">The E-Myth Revisited</a>
+</h4>
+<p class="fr-book-author">By Michael E. Gerber</p>
         
-        <p class="fr-book-desc">Provides business context for evaluating the true value of operational software investments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+E-Myth+Revisited+by+Michael+E.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides business context for evaluating the true value of operational software investments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+E-Myth+Revisited+by+Michael+E.+Gerber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Subscribed+Tien+Tzuo+with+Gabe+Weisert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Subscribed on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Subscribed+Tien+Tzuo+with+Gabe+Weisert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Subscribed">Subscribed</a>
-        </h4>
-        <p class="fr-book-author">By Tien Tzuo with Gabe Weisert</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Subscribed+Tien+Tzuo+with+Gabe+Weisert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Subscribed on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Subscribed+Tien+Tzuo+with+Gabe+Weisert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Subscribed">Subscribed</a>
+</h4>
+<p class="fr-book-author">By Tien Tzuo with Gabe Weisert</p>
         
-        <p class="fr-book-desc">Helps readers understand subscription pricing, tiers, and long-term SaaS economics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Subscribed+Tien+Tzuo+with+Gabe+Weisert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand subscription pricing, tiers, and long-term SaaS economics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Subscribed+Tien+Tzuo+with+Gabe+Weisert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Profit first</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lean+Analytics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lean Analytics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+E+Myth+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The E Myth Revisited</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Profit first</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lean+Analytics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lean Analytics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+E+Myth+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The E Myth Revisited</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivation Business Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a738a179b3b29621c43a.jpg' | relative_url }}" alt="Listing image for Motivation Business Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivation Business Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivation Business Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a738a179b3b29621c43a.jpg' | relative_url }}" alt="Listing image for Motivation Business Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivation Business Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Motivation Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d3521ce73baa7710ac2.jpg' | relative_url }}" alt="Listing image for Business Motivation Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Business Motivation Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Motivation Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d3521ce73baa7710ac2.jpg' | relative_url }}" alt="Listing image for Business Motivation Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Business Motivation Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962"><img src="{{ '/assets/images/marketplace-covers/0f437e3c3d91e391868f.jpg' | relative_url }}" alt="Listing image for SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962"><img src="{{ '/assets/images/marketplace-covers/0f437e3c3d91e391868f.jpg' | relative_url }}" alt="Listing image for SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3b191bdc67a9e4a2cc6e.jpg' | relative_url }}" alt="Listing image for Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3b191bdc67a9e4a2cc6e.jpg' | relative_url }}" alt="Listing image for Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="plan-costs-when-cheap-software-plans-get-expensive-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -638,7 +638,7 @@ This style of comparison reflects how software is actually purchased and used, m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -658,7 +658,7 @@ This style of comparison reflects how software is actually purchased and used, m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -690,7 +690,7 @@ This style of comparison reflects how software is actually purchased and used, m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -742,7 +742,7 @@ This style of comparison reflects how software is actually purchased and used, m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -787,7 +787,7 @@ This style of comparison reflects how software is actually purchased and used, m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -828,82 +828,82 @@ This style of comparison reflects how software is actually purchased and used, m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tabs.com  
    Title: pricing tiers  
-   Link: <a href="https://www.tabs.com/blog/pricing-tiers" target="_blank" rel="noopener noreferrer nofollow">https://www.tabs.com/blog/pricing-tiers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Guide to Pricing Tiers for SaaS Companies26 Feb 2025 — Master pricing tiers for SaaS success with this comprehensive guide...</p></details>
+   Link:<a href="https://www.tabs.com/blog/pricing-tiers" target="_blank" rel="noopener noreferrer nofollow">https://www.tabs.com/blog/pricing-tiers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Guide to Pricing Tiers for SaaS Companies26 Feb 2025 — Master pricing tiers for SaaS success with this comprehensive guide...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: zapier.com  
-   Link: <a href="https://zapier.com/pricing" target="_blank" rel="noopener noreferrer nofollow">https://zapier.com/pricing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plans &amp; PricingWhether you need simple integrations or complex workflows, Zapier offers secure and reliable automation as you scale...</p></details>
+   Link:<a href="https://zapier.com/pricing" target="_blank" rel="noopener noreferrer nofollow">https://zapier.com/pricing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plans &amp; PricingWhether you need simple integrations or complex workflows, Zapier offers secure and reliable automation as you scale...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ventureharbour.com  
    Title: saas pricing guide  
-   Link: <a href="https://ventureharbour.com/saas-pricing-guide/" target="_blank" rel="noopener noreferrer nofollow">https://ventureharbour.com/saas-pricing-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Venture HarbourSaaS Pricing Models &amp; Strategies: Complete Guide (2026)May 2, 2021 — 18 Apr 2026 — The feature-based pricing model: A tier...</p></details>
+   Link:<a href="https://ventureharbour.com/saas-pricing-guide/" target="_blank" rel="noopener noreferrer nofollow">https://ventureharbour.com/saas-pricing-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Venture HarbourSaaS Pricing Models &amp; Strategies: Complete Guide (2026)May 2, 2021 — 18 Apr 2026 — The feature-based pricing model: A tier...</p></details>
    Published: May 2, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: capterra.com  
-   Link: <a href="https://www.capterra.com/p/130182/Zapier/" target="_blank" rel="noopener noreferrer nofollow">https://www.capterra.com/p/130182/Zapier/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Software Pricing, [Alternatives](&amp;#123;&amp;#123; &#x27;alternatives/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; More 202615 Jun 2026 — With the help of Capterra, learn about Zapier Software - reviews, pricing plans...</p></details>
+   Link:<a href="https://www.capterra.com/p/130182/Zapier/" target="_blank" rel="noopener noreferrer nofollow">https://www.capterra.com/p/130182/Zapier/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Software Pricing, [Alternatives](&amp;#123;&amp;#123; &#x27;alternatives/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; More 202615 Jun 2026 — With the help of Capterra, learn about Zapier Software - reviews, pricing plans...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: 2n.pl  
    Title: Saa S Costs: Uncover the Hidden Fees of Your Software  
-   Link: <a href="https://www.2n.pl/blog/saas-costs-uncover-the-hidden-fees-of-your-software" target="_blank" rel="noopener noreferrer nofollow">https://www.2n.pl/blog/saas-costs-uncover-the-hidden-fees-of-your-software</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SaaS Costs: Uncover the Hidden Fees of Your Software - 2N26 Jan 2026 — The real SaaS cost is more than the subscription. Uncover hidden...</p></details>
+   Link:<a href="https://www.2n.pl/blog/saas-costs-uncover-the-hidden-fees-of-your-software" target="_blank" rel="noopener noreferrer nofollow">https://www.2n.pl/blog/saas-costs-uncover-the-hidden-fees-of-your-software</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SaaS Costs: Uncover the Hidden Fees of Your Software - 2N26 Jan 2026 — The real SaaS cost is more than the subscription. Uncover hidden...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: maxio.com  
-   Link: <a href="https://www.maxio.com/blog/tiered-pricing-examples-for-saas-businesses" target="_blank" rel="noopener noreferrer nofollow">https://www.maxio.com/blog/tiered-pricing-examples-for-saas-businesses</a>  
+   Link:<a href="https://www.maxio.com/blog/tiered-pricing-examples-for-saas-businesses" target="_blank" rel="noopener noreferrer nofollow">https://www.maxio.com/blog/tiered-pricing-examples-for-saas-businesses</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: billingplatform.com  
-   Link: <a href="https://billingplatform.com/blog/an-overview-of-saas-pricing-models" target="_blank" rel="noopener noreferrer nofollow">https://billingplatform.com/blog/an-overview-of-saas-pricing-models</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Overview Of SaaS Pricing Models3 support pricing tiers starting at $5/agent; Professional at $19 per agent/per month, and Enterprise a...</p></details>
+   Link:<a href="https://billingplatform.com/blog/an-overview-of-saas-pricing-models" target="_blank" rel="noopener noreferrer nofollow">https://billingplatform.com/blog/an-overview-of-saas-pricing-models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Overview Of SaaS Pricing Models3 support pricing tiers starting at $5/agent; Professional at $19 per agent/per month, and Enterprise a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: stigg.io  
    Title: 7 great saas pricing page examples and why they work  
-   Link: <a href="https://www.stigg.io/blog-posts/7-great-saas-pricing-page-examples-and-why-they-work" target="_blank" rel="noopener noreferrer nofollow">https://www.stigg.io/blog-posts/7-great-saas-pricing-page-examples-and-why-they-work</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25 SaaS pricing page examples that make complex...10 Mar 2026 — How do top SaaS companies structure pricing pages for multiple tiers, us...</p></details>
+   Link:<a href="https://www.stigg.io/blog-posts/7-great-saas-pricing-page-examples-and-why-they-work" target="_blank" rel="noopener noreferrer nofollow">https://www.stigg.io/blog-posts/7-great-saas-pricing-page-examples-and-why-they-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 SaaS pricing page examples that make complex...10 Mar 2026 — How do top SaaS companies structure pricing pages for multiple tiers, us...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: flexprice.io  
    Title: subscription pricing model examples  
-   Link: <a href="https://flexprice.io/blog/subscription-pricing-model-examples" target="_blank" rel="noopener noreferrer nofollow">https://flexprice.io/blog/subscription-pricing-model-examples</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>from 10 SaaS...25 Apr 2026 — Top 10 real SaaS subscription pricing examples for 2026: Slack, Notion, Vapi, Segwise, Simplismart, and man...</p></details>
+   Link:<a href="https://flexprice.io/blog/subscription-pricing-model-examples" target="_blank" rel="noopener noreferrer nofollow">https://flexprice.io/blog/subscription-pricing-model-examples</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from 10 SaaS...25 Apr 2026 — Top 10 real SaaS subscription pricing examples for 2026: Slack, Notion, Vapi, Segwise, Simplismart, and man...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Saa S Pricing Strategy Mistake Costing You 6 Figures | Mike Moll  
-   Link: <a href="https://www.youtube.com/watch?v=Q3yDTRD_bAo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q3yDTRD_bAo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pricing Shift That&#x27;s Breaking SaaS | Get Paid with Manny Medina...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q3yDTRD_bAo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q3yDTRD_bAo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pricing Shift That&#x27;s Breaking SaaS | Get Paid with Manny Medina...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Your Pricing is WRONG (even Sam Altman Made This Mistake)  
-   Link: <a href="https://www.youtube.com/watch?v=isIvsXrk-ow" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=isIvsXrk-ow</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SaaS Pricing Strategy Mistake Costing You 6 Figures | Mike Moll...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=isIvsXrk-ow" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=isIvsXrk-ow</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SaaS Pricing Strategy Mistake Costing You 6 Figures | Mike Moll...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vK02Q9rnjy0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vK02Q9rnjy0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Pricing Model Might Be Killing Your SaaS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vK02Q9rnjy0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vK02Q9rnjy0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Pricing Model Might Be Killing Your SaaS...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Your Pricing Model Might Be Killing Your Saa S  
-   Link: <a href="https://www.youtube.com/watch?v=tTEUxRAEpgY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tTEUxRAEpgY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Pricing is WRONG (even Sam Altman Made This Mistake)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tTEUxRAEpgY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tTEUxRAEpgY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Pricing is WRONG (even Sam Altman Made This Mistake)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Pricing Shift That's Breaking Saa S | Get Paid with Manny Medina  
-   Link: <a href="https://www.youtube.com/watch?v=mfTB9v2KIHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mfTB9v2KIHo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=mfTB9v2KIHo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mfTB9v2KIHo</a>  

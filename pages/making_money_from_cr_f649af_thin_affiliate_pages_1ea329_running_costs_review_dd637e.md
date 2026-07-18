@@ -284,7 +284,7 @@ Many affiliate reviews fail because they stop at the purchase price. Yet for cou
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_running_costs_review_dd637e-Illustration-1-dark.svg" | relative_url }}" alt="Running Costs illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_running_costs_review_dd637e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_running_costs_review_dd637e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate publishers, this is an opportunity to add genuine value rather than repeating merchant specifications. Search engines increasingly reward content that demonstrates first-hand knowledge, original analysis and information that helps readers make better decisions instead of simply encouraging a purchase. Explaining ownership costs is precisely the kind of judgement that manufacturer product pages and thin affiliate sites often omit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+For affiliate publishers, this is an opportunity to add genuine value rather than repeating merchant specifications. Search engines increasingly reward content that demonstrates first-hand knowledge, original analysis and information that helps readers make better decisions instead of simply encouraging a purchase. Explaining ownership costs is precisely the kind of judgement that manufacturer product pages and thin affiliate sites often omit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
 ## The Costs Merchant Pages Leave Out
 
@@ -333,7 +333,7 @@ A useful affiliate review does not simply state that replacement parts exist. It
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * Expected replacement intervals under normal use.
-* Typical annual ownership cost. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloud.google.com">[cloud.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloud.google.com</span><span class="citation-popover-title">101 real world generative ai use cases from industry leaders</span><span class="citation-popover-snippet">google.comReal-world gen AI use cases from the world&#x27;s leading...22 Apr 2026 — These technologies reduced total cost of ownership by 50%...</span></span></span>
+* Typical annual ownership cost.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloud.google.com">[cloud.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloud.google.com</span><span class="citation-popover-title">101 real world generative ai use cases from industry leaders</span><span class="citation-popover-snippet">google.comReal-world gen AI use cases from the world&#x27;s leading...22 Apr 2026 — These technologies reduced total cost of ownership by 50%...</span></span></span>
 * Whether compatible third-party parts perform adequately.
 * Whether official consumables are unusually expensive.
 * Whether replacements are easy for the average owner to install.
@@ -380,7 +380,7 @@ Instead of listing only wattage, explain the likely annual electricity cost for 
 
 Where appropriate, compare products performing the same task. One appliance may save enough electricity over several years to offset its higher purchase price.
 
-Research into subscription-based business models highlights how ownership is increasingly shifting from one-off purchases towards recurring service relationships, making lifetime cost analysis more important for consumers than initial pricing alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emerald.com/josm/article/35/6/185/1218610/Moving-to-subscriptions-service-growth-through" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingMoving to subscriptions: service growth through business...by B Nansubuga · 2024 · Cited by 33 — Customers, in turn, b...</span></span></span>
+Research into subscription-based business models highlights how ownership is increasingly shifting from one-off purchases towards recurring service relationships, making lifetime cost analysis more important for consumers than initial pricing alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emerald.com/josm/article/35/6/185/1218610/Moving-to-subscriptions-service-growth-through" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingMoving to subscriptions: service growth through business...by B Nansubuga · 2024 · Cited by 33 — Customers, in turn, b...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nAnT8hE8ANM" title="Write Product Reviews That Rank #1 In 2026 (in one click using ai)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nAnT8hE8ANM" target="_blank" rel="noopener noreferrer">Write Product Reviews That Rank #1 In 2026 (in one click using ai)</a></p><p class="youtube-embed-meta">Channel: Digital Creator Avi &middot; Views: 490 &middot; Uploaded: March 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nAnT8hE8ANM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nAnT8hE8ANM">Open on YouTube</a></p></div></div></div>
@@ -434,197 +434,197 @@ This kind of analysis transforms an affiliate page from a sales summary into a b
 
 Merchant pages are designed to sell products, not to explain whether those products remain economical after hundreds of hours of use. Thin affiliate pages often repeat the same specifications and introductory descriptions without examining ownership.
 
-Adding well-researched maintenance schedules, replacement part costs, subscription requirements and realistic long-term operating expenses introduces information that readers cannot easily obtain from retailer listings alone. It demonstrates independent evaluation, provides practical decision-making value and aligns closely with the characteristics Google identifies as helpful, people-first content built around original insight and genuine user benefit rather than recycled commercial information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+Adding well-researched maintenance schedules, replacement part costs, subscription requirements and realistic long-term operating expenses introduces information that readers cannot easily obtain from retailer listings alone. It demonstrates independent evaluation, provides practical decision-making value and aligns closely with the characteristics Google identifies as helpful, people-first content built around original insight and genuine user benefit rather than recycled commercial information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Costs Merchant Pages Leave Out. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Costs Merchant Pages Leave Out. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-        </h4>
-        <p class="fr-book-author">By Eric Ries</p>
-        <p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages evidence-based decision making and measuring real costs instead of relying on assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+</h4>
+<p class="fr-book-author">By Eric Ries</p>
+<p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
+<p class="fr-book-desc">Encourages evidence-based decision making and measuring real costs instead of relying on assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The personal MBA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9263905-M.jpg" alt="Cover for The personal MBA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The personal MBA">The personal MBA</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The personal MBA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9263905-M.jpg" alt="Cover for The personal MBA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The personal MBA">The personal MBA</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Covers value creation, cost analysis, and practical economic thinking useful when comparing ownership costs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers value creation, cost analysis, and practical economic thinking useful when comparing ownership costs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buy+ology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buy ology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11396183-M.jpg" alt="Cover for Buy ology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buy+ology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buy ology">Buy ology</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Buy+ology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buy ology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11396183-M.jpg" alt="Cover for Buy ology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Buy+ology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buy ology">Buy ology</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides insight into how consumers evaluate products and marketing claims beyond headline pricing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buy+ology&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into how consumers evaluate products and marketing claims beyond headline pricing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Buy+ology&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
-        </h4>
-        <p class="fr-book-author">By Martin Lindstrom</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Provides insight into how consumers evaluate products and marketing claims beyond headline pricing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
+</h4>
+<p class="fr-book-author">By Martin Lindstrom</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Provides insight into how consumers evaluate products and marketing claims beyond headline pricing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The personal MBA</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buy+ology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buy ology</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The personal MBA</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Buy+ology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buy ology</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS"><img src="{{ '/assets/images/marketplace-covers/e1a1e311f6b02d7eb5cc.jpg' | relative_url }}" alt="Listing image for REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer">REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for replacement parts">Search <span data-ebay-domain-label>eBay.co.uk</span>: replacement parts</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS"><img src="{{ '/assets/images/marketplace-covers/e1a1e311f6b02d7eb5cc.jpg' | relative_url }}" alt="Listing image for REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer">REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for replacement parts">Search<span data-ebay-domain-label>eBay.co.uk</span>: replacement parts</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS"><img src="{{ '/assets/images/marketplace-covers/dab9a19c42906b546572.jpg' | relative_url }}" alt="Listing image for REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer">REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for replacement parts">Search <span data-ebay-domain-label>eBay.co.uk</span>: replacement parts</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS"><img src="{{ '/assets/images/marketplace-covers/dab9a19c42906b546572.jpg' | relative_url }}" alt="Listing image for REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer">REPLACEMENT VERTICAL BLINDS BOTTOM WEIGHTS SPARES PART BLIND PARTS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for replacement parts">Search<span data-ebay-domain-label>eBay.co.uk</span>: replacement parts</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Replacement 89mm (3.5&quot;) Vertical Blind Bottom Weights – Repair Kit Spare Parts"><img src="{{ '/assets/images/marketplace-covers/f956f21fd5977599be86.jpg' | relative_url }}" alt="Listing image for Replacement 89mm (3.5&quot;) Vertical Blind Bottom Weights – Repair Kit Spare Parts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer">Replacement 89mm (3.5&quot;) Vertical Blind Bottom Weights – Repair Kit Spare Parts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for replacement parts">Search <span data-ebay-domain-label>eBay.co.uk</span>: replacement parts</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Replacement 89mm (3.5&quot;) Vertical Blind Bottom Weights – Repair Kit Spare Parts"><img src="{{ '/assets/images/marketplace-covers/f956f21fd5977599be86.jpg' | relative_url }}" alt="Listing image for Replacement 89mm (3.5&quot;) Vertical Blind Bottom Weights – Repair Kit Spare Parts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer">Replacement 89mm (3.5&quot;) Vertical Blind Bottom Weights – Repair Kit Spare Parts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for replacement parts">Search<span data-ebay-domain-label>eBay.co.uk</span>: replacement parts</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VERTICAL BLIND WEIGHTS 3.5&quot; 89mm &amp; 5&quot; 127mm REPLACEMENT SPARE BLIND PARTS REPAIR"><img src="{{ '/assets/images/marketplace-covers/ea993e2b468939e604c5.jpg' | relative_url }}" alt="Listing image for VERTICAL BLIND WEIGHTS 3.5&quot; 89mm &amp; 5&quot; 127mm REPLACEMENT SPARE BLIND PARTS REPAIR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer">VERTICAL BLIND WEIGHTS 3.5&quot; 89mm &amp; 5&quot; 127mm REPLACEMENT SPARE BLIND PARTS REPAIR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for replacement parts">Search <span data-ebay-domain-label>eBay.co.uk</span>: replacement parts</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VERTICAL BLIND WEIGHTS 3.5&quot; 89mm &amp; 5&quot; 127mm REPLACEMENT SPARE BLIND PARTS REPAIR"><img src="{{ '/assets/images/marketplace-covers/ea993e2b468939e604c5.jpg' | relative_url }}" alt="Listing image for VERTICAL BLIND WEIGHTS 3.5&quot; 89mm &amp; 5&quot; 127mm REPLACEMENT SPARE BLIND PARTS REPAIR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer">VERTICAL BLIND WEIGHTS 3.5&quot; 89mm &amp; 5&quot; 127mm REPLACEMENT SPARE BLIND PARTS REPAIR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for replacement parts">Search<span data-ebay-domain-label>eBay.co.uk</span>: replacement parts</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=replacement+parts&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="replacement parts" data-ebay-reference="running-costs-a070aa-the-costs-merchant-pages-leave-out-making-money-from-replacement-parts" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -640,7 +640,7 @@ Adding well-researched maintenance schedules, replacement part costs, subscripti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -660,7 +660,7 @@ Adding well-researched maintenance schedules, replacement part costs, subscripti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -692,7 +692,7 @@ Adding well-researched maintenance schedules, replacement part costs, subscripti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -744,7 +744,7 @@ Adding well-researched maintenance schedules, replacement part costs, subscripti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -789,7 +789,7 @@ Adding well-researched maintenance schedules, replacement part costs, subscripti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -830,74 +830,74 @@ Adding well-researched maintenance schedules, replacement part costs, subscripti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/josm/article/35/6/185/1218610/Moving-to-subscriptions-service-growth-through" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/josm/article/35/6/185/1218610/Moving-to-subscriptions-service-growth-through</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald PublishingMoving to subscriptions: service growth through business...by B Nansubuga · 2024 · Cited by 33 — Customers, in turn, b...</p></details>
+   Link:<a href="https://www.emerald.com/josm/article/35/6/185/1218610/Moving-to-subscriptions-service-growth-through" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/josm/article/35/6/185/1218610/Moving-to-subscriptions-service-growth-through</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald PublishingMoving to subscriptions: service growth through business...by B Nansubuga · 2024 · Cited by 33 — Customers, in turn, b...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/ijieom/article/6/3/256/1235942/Subscription-based-business-models-in-the-context" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijieom/article/6/3/256/1235942/Subscription-based-business-models-in-the-context</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald PublishingSubscription-based business models in the context of tech firmsThis study analyzes how tech firms can implement the mod...</p></details>
+   Link:<a href="https://www.emerald.com/ijieom/article/6/3/256/1235942/Subscription-based-business-models-in-the-context" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijieom/article/6/3/256/1235942/Subscription-based-business-models-in-the-context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald PublishingSubscription-based business models in the context of tech firmsThis study analyzes how tech firms can implement the mod...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cloud.google.com  
    Title: 101 real world generative ai use cases from industry leaders  
-   Link: <a href="https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comReal-world gen AI use cases from the world&#x27;s leading...22 Apr 2026 — These technologies reduced total cost of ownership by 50%...</p></details>
+   Link:<a href="https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.comReal-world gen AI use cases from the world&#x27;s leading...22 Apr 2026 — These technologies reduced total cost of ownership by 50%...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thirdmarblemarketing.com  
-   Link: <a href="https://www.thirdmarblemarketing.com/googles-algorithm-and-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://www.thirdmarblemarketing.com/googles-algorithm-and-helpful-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Algorithm and Helpful ContentDiscover how our SEO packages can help you navigate Google&#x27;s evolving search algorithm &amp; create hig...</p></details>
+   Link:<a href="https://www.thirdmarblemarketing.com/googles-algorithm-and-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://www.thirdmarblemarketing.com/googles-algorithm-and-helpful-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Algorithm and Helpful ContentDiscover how our SEO packages can help you navigate Google&#x27;s evolving search algorithm &amp; create hig...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: 376355423 Growth of Subscription Based Services  
-   Link: <a href="https://www.researchgate.net/publication/376355423_Growth_of_Subscription-Based_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376355423_Growth_of_Subscription-Based_Services</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Growth of Subscription-Based Services9 Dec 2023 — PDF | In recent times, subscription-based services have gained significant tracti...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376355423_Growth_of_Subscription-Based_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376355423_Growth_of_Subscription-Based_Services</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Growth of Subscription-Based Services9 Dec 2023 — PDF | In recent times, subscription-based services have gained significant tracti...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Winners and Losers of Google's Helpful Content Update + 2 Weird Niche Sites  
-   Link: <a href="https://www.youtube.com/watch?v=BWvWvOmKtdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BWvWvOmKtdQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful Content Update - some early findings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BWvWvOmKtdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BWvWvOmKtdQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful Content Update - some early findings...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nAnT8hE8ANM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nAnT8hE8ANM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Winners and Losers of Google&#x27;s Helpful Content Update + 2 Weird Niche Sites...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nAnT8hE8ANM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nAnT8hE8ANM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winners and Losers of Google&#x27;s Helpful Content Update + 2 Weird Niche Sites...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: detailed.com  
    Title: google control  
-   Link: <a href="https://detailed.com/google-control/" target="_blank" rel="noopener noreferrer nofollow">https://detailed.com/google-control/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combined, Semrush estimates they pick up around 3.5 billion clicks from Google each...Read more...</p></details>
+   Link:<a href="https://detailed.com/google-control/" target="_blank" rel="noopener noreferrer nofollow">https://detailed.com/google-control/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Combined, Semrush estimates they pick up around 3.5 billion clicks from Google each...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Google Just Crushed Major Publishers  
-   Link: <a href="https://www.youtube.com/watch?v=qvU52p3Omhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qvU52p3Omhc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Write Product [Reviews](&amp;#123;&amp;#123; &#x27;reviews/&#x27; | relative_url &amp;#125;&amp;#125;) That Rank #1 In 2026...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qvU52p3Omhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qvU52p3Omhc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Write Product [Reviews](&amp;#123;&amp;#123; &#x27;reviews/&#x27; | relative_url &amp;#125;&amp;#125;) That Rank #1 In 2026...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BtXXLoagXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BtXXLoagXUU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Just Crushed Major Publishers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BtXXLoagXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BtXXLoagXUU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Just Crushed Major Publishers...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2071-1050/17/17/7784" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/17/17/7784</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Based on a systematic review of peer-reviewed...Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/2071-1050/17/17/7784" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/17/17/7784</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Based on a systematic review of peer-reviewed...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Helpful Content Update  
-   Link: <a href="https://www.youtube.com/watch?v=NFViiTOM5c0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NFViiTOM5c0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=NFViiTOM5c0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NFViiTOM5c0</a>  

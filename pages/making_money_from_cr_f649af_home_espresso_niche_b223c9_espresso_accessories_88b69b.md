@@ -306,7 +306,7 @@ A dedicated espresso scale typically offers:
 
 </div>
 
-Premium models add Bluetooth connectivity and flow-rate monitoring, but the core benefit comes simply from measuring accurately. Even experienced reviewers note that expensive scales mainly improve workflow rather than cup quality itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/best-espresso-tools-7514843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">The guide covers essential tools, definitions, and techniques necessary for brewing quality espresso. Recommended equipment includes the...</span></span></span>
+Premium models add Bluetooth connectivity and flow-rate monitoring, but the core benefit comes simply from measuring accurately. Even experienced reviewers note that expensive scales mainly improve workflow rather than cup quality itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/best-espresso-tools-7514843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">The guide covers essential tools, definitions, and techniques necessary for brewing quality espresso. Recommended equipment includes the...</span></span></span>
 
 For [affiliate content]({{ 'content-mix/' | relative_url }}), this creates natural comparison opportunities:
 
@@ -326,7 +326,7 @@ Many consumer machines include lightweight plastic tampers that fit poorly insid
 
 Modern spring-loaded or self-levelling tampers also reduce user error by helping maintain a flat coffee bed, making them attractive to beginners.
 
-Compatibility is critical. A 58.5 mm tamper does not suit every 58 mm basket, while many Sage/Breville machines use 54 mm baskets instead. Accurate compatibility charts often provide more value than generic product round-ups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/tips-tricks-improve-espresso-machine-performance-5186069" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">One key upgrade is replacing the standard portafilter basket with a precision filter basket like those from IMS or VST, which promotes ev...</span></span></span>
+Compatibility is critical. A 58.5 mm tamper does not suit every 58 mm basket, while many Sage/Breville machines use 54 mm baskets instead. Accurate compatibility charts often provide more value than generic product round-ups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/tips-tricks-improve-espresso-machine-performance-5186069" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">One key upgrade is replacing the standard portafilter basket with a precision filter basket like those from IMS or VST, which promotes ev...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UqXfMhzr5-c" title="Maximalist vs. Minimalist Puck Prep: Easy Workflow For Better Espresso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UqXfMhzr5-c" target="_blank" rel="noopener noreferrer">Maximalist vs. Minimalist Puck Prep: Easy Workflow For Better Espresso</a></p><p class="youtube-embed-meta">Channel: Clive Coffee</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UqXfMhzr5-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UqXfMhzr5-c">Open on YouTube</a></p></div></div></div>
@@ -351,7 +351,7 @@ Typical search intent includes:
 
 </div>
 
-Specialist reviewers consistently recommend these baskets as one of the most cost-effective machine upgrades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/tips-tricks-improve-espresso-machine-performance-5186069" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats+2Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">One key upgrade is replacing the standard portafilter basket with a precision filter basket like those from IMS or VST, which promotes ev...</span></span></span>
+Specialist reviewers consistently recommend these baskets as one of the most cost-effective machine upgrades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/tips-tricks-improve-espresso-machine-performance-5186069" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats+2Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">One key upgrade is replacing the standard portafilter basket with a precision filter basket like those from IMS or VST, which promotes ev...</span></span></span>
 
 ## Accessories that solve everyday frustrations
 
@@ -389,7 +389,7 @@ This is a relatively inexpensive accessory that appeals strongly to owners frust
 
 The Weiss Distribution Technique (WDT) uses fine needles to break apart clumps before tamping.
 
-Research-grade [evidence]({{ 'evidence/' | relative_url }}) comparing every distribution method remains limited, but experienced reviewers and specialist coffee retailers consistently report that WDT helps reduce channelling when grinders produce clumpy grounds, particularly on domestic equipment. Thin needles generally perform better than thicker improvised tools. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/the-not-so-crazy-accessories-home-baristas-buy?srsltid=AfmBOoo0r-l_3o24w_EJkDo90hMjFCYqWCxJgNVqMdphyA1KUfuzKO44" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee+2sevensisterscoffee.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeMust-Have Espresso Accessories for Home BaristasDiscover the espresso accessories worth buying: precision tampers, scales, VS...</span></span></span>
+Research-grade [evidence]({{ 'evidence/' | relative_url }}) comparing every distribution method remains limited, but experienced reviewers and specialist coffee retailers consistently report that WDT helps reduce channelling when grinders produce clumpy grounds, particularly on domestic equipment. Thin needles generally perform better than thicker improvised tools.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/the-not-so-crazy-accessories-home-baristas-buy?srsltid=AfmBOoo0r-l_3o24w_EJkDo90hMjFCYqWCxJgNVqMdphyA1KUfuzKO44" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee+2sevensisterscoffee.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeMust-Have Espresso Accessories for Home BaristasDiscover the espresso accessories worth buying: precision tampers, scales, VS...</span></span></span>
 
 For affiliate publishers, WDT tools naturally support comparison articles covering:
 
@@ -409,7 +409,7 @@ Bottomless portafilters occupy an unusual position.
 
 They rarely improve espresso directly. Instead, they expose preparation mistakes by making uneven extraction immediately visible. Users can observe spraying, channelling and off-centre flow that would remain hidden with a standard spouted portafilter.
 
-That educational benefit explains why experienced home baristas often recommend them despite their learning curve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://barista-and-espresso.com/blogs/kopguide/barista-tillbehor-for-espresso-vad-behover-du" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barista-and-espresso.com">[Barista och Espresso]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barista-and-espresso.com</span><span class="citation-popover-title">barista tillbehor for espresso vad behover du</span><span class="citation-popover-snippet">Barista och EspressoBarista accessories for espresso – What do you need?14 Nov 2025 — Complete guide to espresso accessories 2025. Learn...</span></span></span>
+That educational benefit explains why experienced home baristas often recommend them despite their learning curve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://barista-and-espresso.com/blogs/kopguide/barista-tillbehor-for-espresso-vad-behover-du" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barista-and-espresso.com">[Barista och Espresso]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barista-and-espresso.com</span><span class="citation-popover-title">barista tillbehor for espresso vad behover du</span><span class="citation-popover-snippet">Barista och EspressoBarista accessories for espresso – What do you need?14 Nov 2025 — Complete guide to espresso accessories 2025. Learn...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x4KswKAfZME" title="Espresso Tools You Actually Need (And What to Skip)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x4KswKAfZME" target="_blank" rel="noopener noreferrer">Espresso Tools You Actually Need (And What to Skip)</a></p><p class="youtube-embed-meta">Channel: Jess - Gadgets, Gear, Coffee</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x4KswKAfZME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x4KswKAfZME">Open on YouTube</a></p></div></div></div>
@@ -444,7 +444,7 @@ High-intent examples include:
 
 * "Best espresso scale under £50"
 * "Best tamper for Sage Bambino"
-* "IMS basket worth buying" <span class="citation-chip-wrap"><a class="citation-chip" href="https://clivecoffee.com/blogs/learn/the-not-so-crazy-accessories-home-baristas-buy?srsltid=AfmBOoo0r-l_3o24w_EJkDo90hMjFCYqWCxJgNVqMdphyA1KUfuzKO44" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[clivecoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeMust-Have Espresso Accessories for Home BaristasDiscover the espresso accessories worth buying: precision tampers, scales, VS...</span></span></span>
+* "IMS basket worth buying"<span class="citation-chip-wrap"><a class="citation-chip" href="https://clivecoffee.com/blogs/learn/the-not-so-crazy-accessories-home-baristas-buy?srsltid=AfmBOoo0r-l_3o24w_EJkDo90hMjFCYqWCxJgNVqMdphyA1KUfuzKO44" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[clivecoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeMust-Have Espresso Accessories for Home BaristasDiscover the espresso accessories worth buying: precision tampers, scales, VS...</span></span></span>
 * "Which milk jug size should I buy?"
 * "Bottomless portafilter for Gaggia Classic"
 * "WDT tool vs distributor"
@@ -480,194 +480,194 @@ This style of [testing]({{ 'testing/' | relative_url }}) also differentiates an 
 In practice, the strongest accessory content focuses on helping readers spend less wisely rather than persuading them to buy more. That combination of practical advice, honest [trade-offs]({{ 'trade-offs/' | relative_url }}) and compatibility guidance creates long-lived pages that continue attracting buyers long after the initial espresso machine purchase.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Espresso Accessories Are Actually Worth Buying?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Espresso Accessories Are Actually Worth Buying?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
-        </h4>
-        <p class="fr-book-author">By James Hoffmann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
+</h4>
+<p class="fr-book-author">By James Hoffmann</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Coffee industry, Coffee, Café, Commerce, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Coffee industry, Coffee, Café, Commerce, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
-        </h4>
-        <p class="fr-book-author">By Scott Rao</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
+</h4>
+<p class="fr-book-author">By Scott Rao</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Tea, Coffee, Espresso.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Tea, Coffee, Espresso.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
-        </h4>
-        <p class="fr-book-author">By Anette Moldvaer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
+</h4>
+<p class="fr-book-author">By Anette Moldvaer</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Coffee, Cooking (coffee), Coffee brewing, Espresso.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Coffee, Cooking (coffee), Coffee brewing, Espresso.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Make the Best Coffee at Home on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Make the Best Coffee at Home">How to Make the Best Coffee at Home</a>
-        </h4>
-        <p class="fr-book-author">By James Hoffmann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Make the Best Coffee at Home on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Make the Best Coffee at Home">How to Make the Best Coffee at Home</a>
+</h4>
+<p class="fr-book-author">By James Hoffmann</p>
         
-        <p class="fr-book-desc">Explains the tools, workflow and equipment upgrades that genuinely improve home espresso consistency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the tools, workflow and equipment upgrades that genuinely improve home espresso consistency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Coffee+Obsession&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coffee Obsession</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Coffee+Obsession&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coffee Obsession</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 51mm/54mm/58mm Coffee Tamper Calibrated Espresso Tamper with Spring Loaded UK"><img src="{{ '/assets/images/marketplace-covers/ebce32cfa3f0ec88b4d3.jpg' | relative_url }}" alt="Listing image for 51mm/54mm/58mm Coffee Tamper Calibrated Espresso Tamper with Spring Loaded UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer">51mm/54mm/58mm Coffee Tamper Calibrated Espresso Tamper with Spring Loaded UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso tamper">Search <span data-ebay-domain-label>eBay.co.uk</span>: espresso tamper</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 51mm/54mm/58mm Coffee Tamper Calibrated Espresso Tamper with Spring Loaded UK"><img src="{{ '/assets/images/marketplace-covers/ebce32cfa3f0ec88b4d3.jpg' | relative_url }}" alt="Listing image for 51mm/54mm/58mm Coffee Tamper Calibrated Espresso Tamper with Spring Loaded UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer">51mm/54mm/58mm Coffee Tamper Calibrated Espresso Tamper with Spring Loaded UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso tamper">Search<span data-ebay-domain-label>eBay.co.uk</span>: espresso tamper</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coffee Tamper 51mm/53.5mm Flat Base Espresso Coffee Tamper Wood Handle Barista"><img src="{{ '/assets/images/marketplace-covers/2fc09de750cdce5a5aaf.jpg' | relative_url }}" alt="Listing image for Coffee Tamper 51mm/53.5mm Flat Base Espresso Coffee Tamper Wood Handle Barista" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer">Coffee Tamper 51mm/53.5mm Flat Base Espresso Coffee Tamper Wood Handle Barista</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso tamper">Search <span data-ebay-domain-label>eBay.co.uk</span>: espresso tamper</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coffee Tamper 51mm/53.5mm Flat Base Espresso Coffee Tamper Wood Handle Barista"><img src="{{ '/assets/images/marketplace-covers/2fc09de750cdce5a5aaf.jpg' | relative_url }}" alt="Listing image for Coffee Tamper 51mm/53.5mm Flat Base Espresso Coffee Tamper Wood Handle Barista" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer">Coffee Tamper 51mm/53.5mm Flat Base Espresso Coffee Tamper Wood Handle Barista</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso tamper">Search<span data-ebay-domain-label>eBay.co.uk</span>: espresso tamper</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm"><img src="{{ '/assets/images/marketplace-covers/3ba2cfa46c4d2fe53064.jpg' | relative_url }}" alt="Listing image for 51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer">51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso tamper">Search <span data-ebay-domain-label>eBay.co.uk</span>: espresso tamper</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm"><img src="{{ '/assets/images/marketplace-covers/3ba2cfa46c4d2fe53064.jpg' | relative_url }}" alt="Listing image for 51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer">51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso tamper">Search<span data-ebay-domain-label>eBay.co.uk</span>: espresso tamper</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm"><img src="{{ '/assets/images/marketplace-covers/f6313d864aa6bbf56687.jpg' | relative_url }}" alt="Listing image for 51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer">51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso tamper">Search <span data-ebay-domain-label>eBay.co.uk</span>: espresso tamper</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm"><img src="{{ '/assets/images/marketplace-covers/f6313d864aa6bbf56687.jpg' | relative_url }}" alt="Listing image for 51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer">51/53/58Mm Espresso Tamper Powder Machine Aluminum Coffee Tampers for 51Mm 53Mm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso tamper">Search<span data-ebay-domain-label>eBay.co.uk</span>: espresso tamper</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+tamper&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso tamper" data-ebay-reference="accessories-which-espresso-accessories-are-actually-worth-buying-making-money-from-espresso-tamper" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -683,7 +683,7 @@ In practice, the strongest accessory content focuses on helping readers spend le
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -703,7 +703,7 @@ In practice, the strongest accessory content focuses on helping readers spend le
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -735,7 +735,7 @@ In practice, the strongest accessory content focuses on helping readers spend le
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -787,7 +787,7 @@ In practice, the strongest accessory content focuses on helping readers spend le
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -832,7 +832,7 @@ In practice, the strongest accessory content focuses on helping readers spend le
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -873,86 +873,86 @@ In practice, the strongest accessory content focuses on helping readers spend le
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: seriouseats.com  
-   Link: <a href="https://www.seriouseats.com/best-espresso-tools-7514843" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/best-espresso-tools-7514843</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The guide covers essential tools, definitions, and techniques necessary for brewing quality espresso. Recommended equipment includes the...</p></details>
+   Link:<a href="https://www.seriouseats.com/best-espresso-tools-7514843" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/best-espresso-tools-7514843</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The guide covers essential tools, definitions, and techniques necessary for brewing quality espresso. Recommended equipment includes the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: seriouseats.com  
-   Link: <a href="https://www.seriouseats.com/tips-tricks-improve-espresso-machine-performance-5186069" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/tips-tricks-improve-espresso-machine-performance-5186069</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One key upgrade is replacing the standard portafilter basket with a precision filter basket like those from IMS or VST, which promotes ev...</p></details>
+   Link:<a href="https://www.seriouseats.com/tips-tricks-improve-espresso-machine-performance-5186069" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/tips-tricks-improve-espresso-machine-performance-5186069</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One key upgrade is replacing the standard portafilter basket with a precision filter basket like those from IMS or VST, which promotes ev...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: barista-and-espresso.com  
    Title: barista tillbehor for espresso vad behover du  
-   Link: <a href="https://barista-and-espresso.com/blogs/kopguide/barista-tillbehor-for-espresso-vad-behover-du" target="_blank" rel="noopener noreferrer nofollow">https://barista-and-espresso.com/blogs/kopguide/barista-tillbehor-for-espresso-vad-behover-du</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Barista och EspressoBarista accessories for espresso – What do you need?14 Nov 2025 — Complete guide to espresso accessories 2025. Learn...</p></details>
+   Link:<a href="https://barista-and-espresso.com/blogs/kopguide/barista-tillbehor-for-espresso-vad-behover-du" target="_blank" rel="noopener noreferrer nofollow">https://barista-and-espresso.com/blogs/kopguide/barista-tillbehor-for-espresso-vad-behover-du</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barista och EspressoBarista accessories for espresso – What do you need?14 Nov 2025 — Complete guide to espresso accessories 2025. Learn...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: clivecoffee.com  
-   Link: <a href="https://clivecoffee.com/blogs/learn/the-not-so-crazy-accessories-home-baristas-buy?srsltid=AfmBOoo0r-l_3o24w_EJkDo90hMjFCYqWCxJgNVqMdphyA1KUfuzKO44" target="_blank" rel="noopener noreferrer nofollow">https://clivecoffee.com/blogs/learn/the-not-so-crazy-accessories-home-baristas-buy?srsltid=AfmBOoo0r-l_3o24w_EJkDo90hMjFCYqWCxJgNVqMdphyA1KUfuzKO44</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clive CoffeeMust-Have Espresso Accessories for Home BaristasDiscover the espresso accessories worth buying: precision tampers, scales, VS...</p></details>
+   Link:<a href="https://clivecoffee.com/blogs/learn/the-not-so-crazy-accessories-home-baristas-buy?srsltid=AfmBOoo0r-l_3o24w_EJkDo90hMjFCYqWCxJgNVqMdphyA1KUfuzKO44" target="_blank" rel="noopener noreferrer nofollow">https://clivecoffee.com/blogs/learn/the-not-so-crazy-accessories-home-baristas-buy?srsltid=AfmBOoo0r-l_3o24w_EJkDo90hMjFCYqWCxJgNVqMdphyA1KUfuzKO44</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clive CoffeeMust-Have Espresso Accessories for Home BaristasDiscover the espresso accessories worth buying: precision tampers, scales, VS...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sevensisterscoffee.co.uk  
-   Link: <a href="https://sevensisterscoffee.co.uk/puck-prep-guide-wdt-distribution/" target="_blank" rel="noopener noreferrer nofollow">https://sevensisterscoffee.co.uk/puck-prep-guide-wdt-distribution/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Puck Prep Guide WDT Distribution: Master Espresso at Home24 Nov 2025 — The ultimate goal of your toolkit is to create a repeatable system...</p></details>
+   Link:<a href="https://sevensisterscoffee.co.uk/puck-prep-guide-wdt-distribution/" target="_blank" rel="noopener noreferrer nofollow">https://sevensisterscoffee.co.uk/puck-prep-guide-wdt-distribution/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Puck Prep Guide WDT Distribution: Master Espresso at Home24 Nov 2025 — The ultimate goal of your toolkit is to create a repeatable system...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: meticulist.net  
-   Link: <a href="https://www.meticulist.net/buying-coffee-equipment-the-accessories" target="_blank" rel="noopener noreferrer nofollow">https://www.meticulist.net/buying-coffee-equipment-the-accessories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Buying Coffee Equipment: The AccessoriesIn this post, I&#x27;m going to cover all of the accessories I have and regularly use in my coffee kit...</p></details>
+   Link:<a href="https://www.meticulist.net/buying-coffee-equipment-the-accessories" target="_blank" rel="noopener noreferrer nofollow">https://www.meticulist.net/buying-coffee-equipment-the-accessories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Buying Coffee Equipment: The AccessoriesIn this post, I&#x27;m going to cover all of the accessories I have and regularly use in my coffee kit...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYF0Oi7iCkj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYF0Oi7iCkj/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A lot of people just getting into espresso...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYF0Oi7iCkj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYF0Oi7iCkj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A lot of people just getting into espresso...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: coffeeparts.com.au  
    Title: Coffee Machine Accessories  
-   Link: <a href="https://www.coffeeparts.com.au/accessories?srsltid=AfmBOoqLytPPdYuBvg9Dhr9mobx0SUt6DKoAbtmLrVD2N6JdkuNQilHj" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeeparts.com.au/accessories?srsltid=AfmBOoqLytPPdYuBvg9Dhr9mobx0SUt6DKoAbtmLrVD2N6JdkuNQilHj</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Buy OnlineCoffee machine accessories are the tools that complete an espresso workflow: tampers, baskets, portafilters, distributors, jugs...</p></details>
+   Link:<a href="https://www.coffeeparts.com.au/accessories?srsltid=AfmBOoqLytPPdYuBvg9Dhr9mobx0SUt6DKoAbtmLrVD2N6JdkuNQilHj" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeeparts.com.au/accessories?srsltid=AfmBOoqLytPPdYuBvg9Dhr9mobx0SUt6DKoAbtmLrVD2N6JdkuNQilHj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Buy OnlineCoffee machine accessories are the tools that complete an espresso workflow: tampers, baskets, portafilters, distributors, jugs...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x4KswKAfZME&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x4KswKAfZME&amp;vl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ools, tampers, dosing accessories, and more. I&#x27;ll...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x4KswKAfZME&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x4KswKAfZME&amp;vl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ools, tampers, dosing accessories, and more. I&#x27;ll...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: How to pick the right coffee scale for home use  
-   Link: <a href="https://www.youtube.com/watch?v=tXvZBN20sU8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tXvZBN20sU8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best espresso accessories upgrades james hoffmann lance hedrick How I Make Espresso: Tools and Techniques James Hoffmann...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tXvZBN20sU8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tXvZBN20sU8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best espresso accessories upgrades james hoffmann lance hedrick How I Make Espresso: Tools and Techniques James Hoffmann...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Espresso Gadgets, Tools & Upgrades  
-   Link: <a href="https://www.youtube.com/watch?v=aM_n1lV96js" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aM_n1lV96js</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Espresso Tools You Need, and 6 You Really Don’t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aM_n1lV96js" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aM_n1lV96js</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Espresso Tools You Need, and 6 You Really Don’t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: We Spent $1,850 On Coffee Scales. What’s Actually Good?  
-   Link: <a href="https://www.youtube.com/watch?v=HVec3aAlWkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HVec3aAlWkg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to pick the right coffee scale for home use...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HVec3aAlWkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HVec3aAlWkg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to pick the right coffee scale for home use...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: THE ULTIMATE TAMPER: Which Tamper Style is Best?  
-   Link: <a href="https://www.youtube.com/watch?v=tifwe68kUv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tifwe68kUv8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Spent $1,850 On Coffee Scales. What’s Actually Good?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tifwe68kUv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tifwe68kUv8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Spent $1,850 On Coffee Scales. What’s Actually Good?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: 7 Espresso Tools You Need, and 6 You Really Don’t!  
-   Link: <a href="https://www.youtube.com/watch?v=vas8nCitp-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vas8nCitp-s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ULTIMATE TAMPER: Which Tamper Style is Best?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vas8nCitp-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vas8nCitp-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE ULTIMATE TAMPER: Which Tamper Style is Best?...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UqXfMhzr5-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UqXfMhzr5-c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Puck prep...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UqXfMhzr5-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UqXfMhzr5-c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Puck prep...</p></details>

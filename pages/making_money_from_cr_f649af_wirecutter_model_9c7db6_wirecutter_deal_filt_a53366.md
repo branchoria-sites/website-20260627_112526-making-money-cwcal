@@ -280,7 +280,7 @@ image: /assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecu
 
 ## Introduction
 
-[Wirecutter]({{ 'wirecutter/' | relative_url }})'s [Black Friday]({{ 'black-friday/' | relative_url }}) coverage illustrates an often-overlooked reality of affiliate publishing: the hardest work is not inserting affiliate links but deciding when **not** to recommend a deal. During major shopping events, readers arrive with unusually high buying intent, yet they also face misleading discounts, recycled promotions and confusing price claims. Wirecutter's editorial approach has therefore treated deal coverage as a filtering exercise rather than a catalogue of sales, arguing that trust depends on publishing fewer, better-supported recommendations instead of chasing every commission opportunity. This approach offers an important lesson for anyone building an affiliate website: seasonal revenue depends as much on editorial restraint as on search traffic or conversion rates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/the-daily-2024-11-29-episode-summary-from-wirecutter-don-t-get-swindled-on-black-friday" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-snippet">From Wirecutter: Don&#x27;t Get Swindled on Black Friday29 Nov 2024 — The discussion delves into revealing retail pricing tactics lik...</span></span></span>
+[Wirecutter]({{ 'wirecutter/' | relative_url }})'s [Black Friday]({{ 'black-friday/' | relative_url }}) coverage illustrates an often-overlooked reality of affiliate publishing: the hardest work is not inserting affiliate links but deciding when **not** to recommend a deal. During major shopping events, readers arrive with unusually high buying intent, yet they also face misleading discounts, recycled promotions and confusing price claims. Wirecutter's editorial approach has therefore treated deal coverage as a filtering exercise rather than a catalogue of sales, arguing that trust depends on publishing fewer, better-supported recommendations instead of chasing every commission opportunity. This approach offers an important lesson for anyone building an affiliate website: seasonal revenue depends as much on editorial restraint as on search traffic or conversion rates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/the-daily-2024-11-29-episode-summary-from-wirecutter-don-t-get-swindled-on-black-friday" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-snippet">From Wirecutter: Don&#x27;t Get Swindled on Black Friday29 Nov 2024 — The discussion delves into revealing retail pricing tactics lik...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_deal_filt_a53366-Illustration-1-dark.svg" | relative_url }}" alt="Deal Filtering illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_deal_filt_a53366-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_deal_filt_a53366-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ An evergreen buying guide answers a relatively stable question such as "Which co
 
 That difference changes the editorial challenge. A review can spend months [testing]({{ 'testing/' | relative_url }}) products, but a deal page must combine previous testing with continuous monitoring of changing prices, retailer promotions and stock availability. A product may remain an excellent recommendation while its advertised discount fluctuates throughout the event.
 
-Wirecutter's holiday [coverage]({{ 'coverage/' | relative_url }}) reflects this distinction. Rather than treating every sale as news, it starts with products that have already passed its review process and then asks whether the current price represents unusually good value. This means the editorial judgement was largely made before the shopping event began; Black Friday simply creates a new question about timing rather than quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/the-daily-2024-11-29-episode-summary-from-wirecutter-don-t-get-swindled-on-black-friday" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-snippet">From Wirecutter: Don&#x27;t Get Swindled on Black Friday29 Nov 2024 — The discussion delves into revealing retail pricing tactics lik...</span></span></span>
+Wirecutter's holiday [coverage]({{ 'coverage/' | relative_url }}) reflects this distinction. Rather than treating every sale as news, it starts with products that have already passed its review process and then asks whether the current price represents unusually good value. This means the editorial judgement was largely made before the shopping event began; Black Friday simply creates a new question about timing rather than quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/the-daily-2024-11-29-episode-summary-from-wirecutter-don-t-get-swindled-on-black-friday" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-snippet">From Wirecutter: Don&#x27;t Get Swindled on Black Friday29 Nov 2024 — The discussion delves into revealing retail pricing tactics lik...</span></span></span>
 
 For affiliate publishers, this reverses a common seasonal temptation. Instead of beginning with "What is discounted today?", Wirecutter effectively begins with "What would we already recommend?" Only then does price determine whether something deserves a place on a deals page.
 
@@ -302,7 +302,7 @@ The visible deal page is only the final output of a much larger filtering proces
 
 A headline claiming "40% off" says little about whether a deal is genuinely exceptional. Retailers sometimes compare against a manufacturer's suggested retail price rather than the price shoppers usually pay.
 
-Wirecutter has repeatedly explained that it evaluates a product's **street price**—the price it normally sells for—rather than relying on advertised percentage reductions. During Black Friday reporting, its editors have warned readers that inflated reference prices and permanently discounted products can create the illusion of exceptional savings where little actually exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/the-daily-2024-11-29-episode-summary-from-wirecutter-don-t-get-swindled-on-black-friday" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-snippet">From Wirecutter: Don&#x27;t Get Swindled on Black Friday29 Nov 2024 — The discussion delves into revealing retail pricing tactics lik...</span></span></span>
+Wirecutter has repeatedly explained that it evaluates a product's **street price**—the price it normally sells for—rather than relying on advertised percentage reductions. During Black Friday reporting, its editors have warned readers that inflated reference prices and permanently discounted products can create the illusion of exceptional savings where little actually exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shortform.com/podcast/episode/the-daily-2024-11-29-episode-summary-from-wirecutter-don-t-get-swindled-on-black-friday" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shortform.com">[Shortform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shortform.com</span><span class="citation-popover-snippet">From Wirecutter: Don&#x27;t Get Swindled on Black Friday29 Nov 2024 — The discussion delves into revealing retail pricing tactics lik...</span></span></span>
 
 This distinction matters because affiliate publishers earn [commissions]({{ 'commissions/' | relative_url }}) on purchases, not on the quality of discounts. Choosing to ignore inflated "fake bargains" therefore represents an editorial decision that can reduce short-term revenue while strengthening long-term credibility.
 
@@ -370,7 +370,7 @@ Seasonal shopping pages often receive exceptionally valuable [traffic]({{ 'traff
 
 Wirecutter instead demonstrates another strategy: concentrate buying intent onto a relatively small number of highly defensible recommendations. This approach may reduce the total number of affiliate links, but it can increase reader confidence that every featured deal has survived meaningful editorial scrutiny.
 
-The wider review-journalism model reinforces this logic. Wirecutter has long stated that editorial staff are separated from affiliate commission decisions so that recommendations are based on testing rather than payout differences, helping preserve confidence in periods when commercial incentives are strongest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wirecutter_%28website%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wirecutter (website</span><span class="citation-popover-snippet">Wirecutter (website</span></span></span>
+The wider review-journalism model reinforces this logic. Wirecutter has long stated that editorial staff are separated from affiliate commission decisions so that recommendations are based on testing rather than payout differences, helping preserve confidence in periods when commercial incentives are strongest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wirecutter_%28website%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wirecutter (website</span><span class="citation-popover-snippet">Wirecutter (website</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R3RY1PyXDTs" title="How Black Friday Became America’s BIGGEST Retail SCAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R3RY1PyXDTs" target="_blank" rel="noopener noreferrer">How Black Friday Became America’s BIGGEST Retail SCAM</a></p><p class="youtube-embed-meta">Channel: messyintheusa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R3RY1PyXDTs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R3RY1PyXDTs">Open on YouTube</a></p></div></div></div>
@@ -403,162 +403,162 @@ Wirecutter's Black Friday coverage shows that profitable affiliate publishing is
 The hidden labour lies in rejecting mediocre discounts, verifying genuine value, updating rapidly changing information and treating deal pages as editorial products rather than collections of retailer links. For affiliate websites seeking long-term [authority]({{ 'authority/' | relative_url }}), that filtering work is not an overhead—it is part of the product readers are ultimately rewarding.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Hidden Labor Behind Trusted Deals. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Hidden Labor Behind Trusted Deals. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Everything Store: Jeff Bezos and the Age of Amazon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yG3PAK6ZOucC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Everything Store: Jeff Bezos and the Age of Amazon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Everything Store: Jeff Bezos and the Age of Amazon">The Everything Store: Jeff Bezos and the Age of Amazon</a>
-        </h4>
-        <p class="fr-book-author">By Brad Stone</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Everything Store: Jeff Bezos and the Age of Amazon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yG3PAK6ZOucC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Everything Store: Jeff Bezos and the Age of Amazon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Everything Store: Jeff Bezos and the Age of Amazon">The Everything Store: Jeff Bezos and the Age of Amazon</a>
+</h4>
+<p class="fr-book-author">By Brad Stone</p>
         
-        <p class="fr-book-desc">Provides useful context for modern online retail, shopping behavior, and the environment in which affiliate deal content operates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides useful context for modern online retail, shopping behavior, and the environment in which affiliate deal content operates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Helps explain why certain deals, products, and recommendations spread while others do not.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why certain deals, products, and recommendations spread while others do not.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Donald Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
+</h4>
+<p class="fr-book-author">By Donald Miller</p>
         
-        <p class="fr-book-desc">Supports creating clearer, more trustworthy shopping content that prioritizes reader needs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports creating clearer, more trustworthy shopping content that prioritizes reader needs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains the persuasion principles that trustworthy deal pages must balance against editorial integrity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the persuasion principles that trustworthy deal pages must balance against editorial integrity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Everything Store: Jeff Bezos and the Age of Amazon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Everything Store: Jeff Bezos and the Age of Amazon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 2025 summer new men&#x27;s T-shirt is a casual fashionable sporty breathable soft"><img src="{{ '/assets/images/marketplace-covers/58231199f39ed10b8ac3.jpg' | relative_url }}" alt="Listing image for The 2025 summer new men&#x27;s T-shirt is a casual fashionable sporty breathable soft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The 2025 summer new men&#x27;s T-shirt is a casual fashionable sporty breathable soft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for shopping t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: shopping t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 2025 summer new men&#x27;s T-shirt is a casual fashionable sporty breathable soft"><img src="{{ '/assets/images/marketplace-covers/58231199f39ed10b8ac3.jpg' | relative_url }}" alt="Listing image for The 2025 summer new men&#x27;s T-shirt is a casual fashionable sporty breathable soft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The 2025 summer new men&#x27;s T-shirt is a casual fashionable sporty breathable soft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for shopping t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: shopping t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Banksy Spaceman With Shopping Bags Men&#x27;s Vest Tank Top - Graffiti T-Shirt"><img src="{{ '/assets/images/marketplace-covers/ff1257fc23c7cf40cc44.jpg' | relative_url }}" alt="Listing image for Banksy Spaceman With Shopping Bags Men&#x27;s Vest Tank Top - Graffiti T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Banksy Spaceman With Shopping Bags Men&#x27;s Vest Tank Top - Graffiti T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for shopping t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: shopping t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Banksy Spaceman With Shopping Bags Men&#x27;s Vest Tank Top - Graffiti T-Shirt"><img src="{{ '/assets/images/marketplace-covers/ff1257fc23c7cf40cc44.jpg' | relative_url }}" alt="Listing image for Banksy Spaceman With Shopping Bags Men&#x27;s Vest Tank Top - Graffiti T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Banksy Spaceman With Shopping Bags Men&#x27;s Vest Tank Top - Graffiti T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for shopping t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: shopping t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=shopping+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="shopping t shirt" data-ebay-reference="deal-filtering-the-hidden-labor-behind-trusted-deals-making-money-from-shopping-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ The hidden labour lies in rejecting mediocre discounts, verifying genuine value,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ The hidden labour lies in rejecting mediocre discounts, verifying genuine value,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ The hidden labour lies in rejecting mediocre discounts, verifying genuine value,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ The hidden labour lies in rejecting mediocre discounts, verifying genuine value,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ The hidden labour lies in rejecting mediocre discounts, verifying genuine value,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,68 +764,68 @@ The hidden labour lies in rejecting mediocre discounts, verifying genuine value,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: shortform.com  
-   Link: <a href="https://www.shortform.com/podcast/episode/the-daily-2024-11-29-episode-summary-from-wirecutter-don-t-get-swindled-on-black-friday" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/the-daily-2024-11-29-episode-summary-from-wirecutter-don-t-get-swindled-on-black-friday</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Wirecutter: Don&#x27;t Get Swindled on Black Friday29 Nov 2024 — The discussion delves into revealing retail pricing tactics lik...</p></details>
+   Link:<a href="https://www.shortform.com/podcast/episode/the-daily-2024-11-29-episode-summary-from-wirecutter-don-t-get-swindled-on-black-friday" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/the-daily-2024-11-29-episode-summary-from-wirecutter-don-t-get-swindled-on-black-friday</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Wirecutter: Don&#x27;t Get Swindled on Black Friday29 Nov 2024 — The discussion delves into revealing retail pricing tactics lik...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Wirecutter (website)  
-   Link: <a href="https://en.wikipedia.org/wiki/Wirecutter_%28website%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wirecutter_%28website%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wirecutter_%28website%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wirecutter_%28website%29</a>  
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/113185219/Literacy_and_Pedagogy_in_an_Age_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/113185219/Literacy_and_Pedagogy_in_an_Age_of_Misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Literacy and Pedagogy in an Age of MisinformationThis collection of full-length essays and interviews explores networked literacies...</p></details>
+   Link:<a href="https://www.academia.edu/113185219/Literacy_and_Pedagogy_in_an_Age_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/113185219/Literacy_and_Pedagogy_in_an_Age_of_Misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Literacy and Pedagogy in an Age of MisinformationThis collection of full-length essays and interviews explores networked literacies...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: writersandeditors.com  
-   Link: <a href="https://www.writersandeditors.com/mastering_multimedia_57543.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.writersandeditors.com/mastering_multimedia_57543.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering multimediaImproving your interviewing, writing, and speaking skills;. mastering multimedia (including transcription tools), com...</p></details>
+   Link:<a href="https://www.writersandeditors.com/mastering_multimedia_57543.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.writersandeditors.com/mastering_multimedia_57543.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering multimediaImproving your interviewing, writing, and speaking skills;. mastering multimedia (including transcription tools), com...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/daylightreporters/posts/media-loses-giant-as-newswatch-co-founder-yakubu-mohammed-dies-at-75-/1472081091583763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/daylightreporters/posts/media-loses-giant-as-newswatch-co-founder-yakubu-mohammed-dies-at-75-/1472081091583763/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>‎Media Loses Giant As Newswatch Co-founder, Yakubu...CJR&#x27;s methodology includes only layoffs verified by their editors, and will be upda...</p></details>
+   Link:<a href="https://www.facebook.com/daylightreporters/posts/media-loses-giant-as-newswatch-co-founder-yakubu-mohammed-dies-at-75-/1472081091583763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/daylightreporters/posts/media-loses-giant-as-newswatch-co-founder-yakubu-mohammed-dies-at-75-/1472081091583763/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>‎Media Loses Giant As Newswatch Co-founder, Yakubu...CJR&#x27;s methodology includes only layoffs verified by their editors, and will be upda...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dokumen.pub  
    Title: the business of being a writer 9780226393339  
-   Link: <a href="https://dokumen.pub/the-business-of-being-a-writer-9780226393339.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-business-of-being-a-writer-9780226393339.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This guide does offer guidance on how to get a book published, a trusted filter for publishers...</p></details>
+   Link:<a href="https://dokumen.pub/the-business-of-being-a-writer-9780226393339.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-business-of-being-a-writer-9780226393339.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This guide does offer guidance on how to get a book published, a trusted filter for publishers...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Stop Wasting Money on Black Friday  
-   Link: <a href="https://www.youtube.com/watch?v=h_RZGlQiYXM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h_RZGlQiYXM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Black Friday&#x27;s BEST Deals - Price Tracked and Tested![https://www.youtube.com/watch?v=IBDMsAQ8nE8...&quot;](https://www.youtube.com/watch?v=IBDMsAQ8nE8...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h_RZGlQiYXM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h_RZGlQiYXM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Black Friday&#x27;s BEST Deals - Price Tracked and Tested![https://www.youtube.com/watch?v=IBDMsAQ8nE8...&quot;](https://www.youtube.com/watch?v=IBDMsAQ8nE8...&quot;)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: getfancy.ai  
    Title: Being Seen vs  
-   Link: <a href="https://www.getfancy.ai/article-vertical-ecommerce-dtc" target="_blank" rel="noopener noreferrer nofollow">https://www.getfancy.ai/article-vertical-ecommerce-dtc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Being Selected: How AI Decides Which...16 Jun 2026 — AI referrals converted 31% more than other sources overall, 54% more on Thanksgivin...</p></details>
+   Link:<a href="https://www.getfancy.ai/article-vertical-ecommerce-dtc" target="_blank" rel="noopener noreferrer nofollow">https://www.getfancy.ai/article-vertical-ecommerce-dtc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Being Selected: How AI Decides Which...16 Jun 2026 — AI referrals converted 31% more than other sources overall, 54% more on Thanksgivin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Qm_i9-YJ39g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qm_i9-YJ39g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Black Friday Became America&#x27;s BIGGEST Retail SCAM...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qm_i9-YJ39g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qm_i9-YJ39g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Black Friday Became America&#x27;s BIGGEST Retail SCAM...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Don't Get Swindled on Black Friday  
-   Link: <a href="https://www.youtube.com/watch?v=W_iqKhCKx2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W_iqKhCKx2g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Wasting Money on Black Friday...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W_iqKhCKx2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W_iqKhCKx2g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Wasting Money on Black Friday...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How Black Friday Became America's BIGGEST Retail SCAM  
-   Link: <a href="https://www.youtube.com/watch?v=R3RY1PyXDTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R3RY1PyXDTs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=R3RY1PyXDTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R3RY1PyXDTs</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IBDMsAQ8nE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IBDMsAQ8nE8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I EXPOSED 2025&#x27;s FAKE Black Friday Deals…...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IBDMsAQ8nE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IBDMsAQ8nE8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I EXPOSED 2025&#x27;s FAKE Black Friday Deals…...</p></details>

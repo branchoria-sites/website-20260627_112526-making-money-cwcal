@@ -284,7 +284,7 @@ A low purchase price can be misleading. Some products are inexpensive to buy but
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_running_costs_e5b355-Illustration-1-dark.svg" | relative_url }}" alt="Running Costs illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_running_costs_e5b355-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_running_costs_e5b355-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Readers benefit when reviews discuss the total cost of ownership rather than the checkout price alone. This approach helps prevent buyer disappointment, demonstrates genuine product knowledge, and aligns with Google's guidance that high-quality reviews should explain drawbacks, compare alternatives, and evaluate products from the user's perspective rather than simply repeating marketing claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canon-europe.com/printers/tco-calculator/methodology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canon-europe.com">[Canon Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canon-europe.com</span><span class="citation-popover-snippet">Canon EuropeTotal Cost Of Ownership Calculator MethodologyThe total cost of ownership (TCO) is based on the initial purchase cost of hard...</span></span></span>
+Readers benefit when reviews discuss the total cost of ownership rather than the checkout price alone. This approach helps prevent buyer disappointment, demonstrates genuine product knowledge, and aligns with Google's guidance that high-quality reviews should explain drawbacks, compare alternatives, and evaluate products from the user's perspective rather than simply repeating marketing claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canon-europe.com/printers/tco-calculator/methodology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canon-europe.com">[Canon Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canon-europe.com</span><span class="citation-popover-snippet">Canon EuropeTotal Cost Of Ownership Calculator MethodologyThe total cost of ownership (TCO) is based on the initial purchase cost of hard...</span></span></span>
 
 ## Consumables Can Turn a Bargain into an Expensive Purchase
 
@@ -307,7 +307,7 @@ Common examples include:
 
 The important question is not "How much does it cost today?" but "What will it cost over the next two or three years?"
 
-Printer manufacturers illustrate this particularly well. Industry guidance and manufacturer cost calculators routinely separate hardware costs from ink, toner, [maintenance]({{ 'maintenance/' | relative_url }}) components and other consumables because those recurring expenses often dominate lifetime ownership costs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canon-europe.com/printers/tco-calculator/methodology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canon-europe.com">[Canon Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canon-europe.com</span><span class="citation-popover-snippet">Canon EuropeTotal Cost Of Ownership Calculator MethodologyThe total cost of ownership (TCO) is based on the initial purchase cost of hard...</span></span></span>
+Printer manufacturers illustrate this particularly well. Industry guidance and manufacturer cost calculators routinely separate hardware costs from ink, toner, [maintenance]({{ 'maintenance/' | relative_url }}) components and other consumables because those recurring expenses often dominate lifetime ownership costs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canon-europe.com/printers/tco-calculator/methodology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canon-europe.com">[Canon Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canon-europe.com</span><span class="citation-popover-snippet">Canon EuropeTotal Cost Of Ownership Calculator MethodologyThe total cost of ownership (TCO) is based on the initial purchase cost of hard...</span></span></span>
 
 For affiliate content, this becomes a practical recommendation:
 
@@ -324,7 +324,7 @@ Many modern products have shifted from one-off purchases to recurring payments.
 
 Examples include:
 
-* Printer ink subscription programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerreports.org/electronics-computers/printers/are-printer-ink-subscriptions-worth-it-a4050339657/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerreports.org">[consumerreports.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerreports.org</span><span class="citation-popover-snippet">Consumer ReportsAre Printer Ink Subscriptions Worth It?Consumer Reports explains what you need to know about printer ink subscription pla...</span></span></span>
+* Printer ink subscription programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerreports.org/electronics-computers/printers/are-printer-ink-subscriptions-worth-it-a4050339657/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerreports.org">[consumerreports.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerreports.org</span><span class="citation-popover-snippet">Consumer ReportsAre Printer Ink Subscriptions Worth It?Consumer Reports explains what you need to know about printer ink subscription pla...</span></span></span>
 * Cloud storage tied to cameras or security devices.
 * Premium [software]({{ 'software/' | relative_url }}) features locked behind monthly fees.
 
@@ -340,7 +340,7 @@ Subscriptions are not automatically bad. Some genuinely reduce costs for predict
 
 However, the suitability depends heavily on usage.
 
-A printer ink subscription may be economical for someone regularly printing colour photographs because pricing is often based on pages rather than ink volume. Conversely, someone who prints only occasional text documents may spend considerably more than if they simply bought cartridges when required. Consumer testing has repeatedly found that usage patterns determine whether subscription models represent good value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.consumerreports.org/electronics-computers/printers/are-printer-ink-subscriptions-worth-it-a4050339657/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerreports.org">[Consumer Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerreports.org</span><span class="citation-popover-snippet">Consumer ReportsAre Printer Ink Subscriptions Worth It?Consumer Reports explains what you need to know about printer ink subscription pla...</span></span></span>
+A printer ink subscription may be economical for someone regularly printing colour photographs because pricing is often based on pages rather than ink volume. Conversely, someone who prints only occasional text documents may spend considerably more than if they simply bought cartridges when required. Consumer testing has repeatedly found that usage patterns determine whether subscription models represent good value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.consumerreports.org/electronics-computers/printers/are-printer-ink-subscriptions-worth-it-a4050339657/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerreports.org">[Consumer Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerreports.org</span><span class="citation-popover-snippet">Consumer ReportsAre Printer Ink Subscriptions Worth It?Consumer Reports explains what you need to know about printer ink subscription pla...</span></span></span>
 
 This creates an obvious "not for you" opportunity:
 
@@ -381,7 +381,7 @@ Once a buyer owns several compatible accessories, switching brands becomes more 
 
 Coffee machines provide a familiar example. A machine sold cheaply may only accept one manufacturer's capsules. Even if each capsule costs only slightly more than compatible alternatives, daily use can create a substantial annual difference.
 
-Similarly, some printers are designed around manufacturer-approved cartridges or subscription ecosystems, reducing flexibility for owners who might otherwise prefer cheaper third-party supplies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/reviews/printers-and-ink/article/hp-instant-ink-vs-other-types-of-printer-ink-a1EAq9e4KUGK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-snippet">Which?1 Jun 2026 — HP Instant Ink will save you from having to regularly buy new printer cartridges. Instead, you pay a fixed monthly fee...</span></span></span>
+Similarly, some printers are designed around manufacturer-approved cartridges or subscription ecosystems, reducing flexibility for owners who might otherwise prefer cheaper third-party supplies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/reviews/printers-and-ink/article/hp-instant-ink-vs-other-types-of-printer-ink-a1EAq9e4KUGK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-snippet">Which?1 Jun 2026 — HP Instant Ink will save you from having to regularly buy new printer cartridges. Instead, you pay a fixed monthly fee...</span></span></span>
 
 Affiliate reviews should explain these ecosystem effects without exaggeration.
 
@@ -458,194 +458,194 @@ Including running costs in affiliate reviews demonstrates that the recommendatio
 In the long run, those explanations strengthen [credibility]({{ 'credibility/' | relative_url }}) because they help readers avoid false bargains rather than simply encouraging the cheapest or highest-commission purchase.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Cheap Product That Costs More Later. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Cheap Product That Costs More Later. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Covers writing persuasive, useful content that earns reader trust through clarity and honesty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers writing persuasive, useful content that earns reader trust through clarity and honesty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
-        </h4>
-        <p class="fr-book-author">By Martin Lindstrom</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains why consumers are drawn to seemingly cheap products despite higher long-term costs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
+</h4>
+<p class="fr-book-author">By Martin Lindstrom</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains why consumers are drawn to seemingly cheap products despite higher long-term costs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Total+Money+Makeover+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Total Money Makeover on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Total+Money+Makeover+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Total Money Makeover">The Total Money Makeover</a>
-        </h4>
-        <p class="fr-book-author">By Dave Ramsey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Total+Money+Makeover+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Total Money Makeover on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Total+Money+Makeover+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Total Money Makeover">The Total Money Makeover</a>
+</h4>
+<p class="fr-book-author">By Dave Ramsey</p>
         
-        <p class="fr-book-desc">Helps readers evaluate long-term costs and avoid purchases that undermine financial goals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Total+Money+Makeover+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate long-term costs and avoid purchases that undermine financial goals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Total+Money+Makeover+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Millionaire+Next+Door+Thomas+J.+Stanley+and+William+D.+Danko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Millionaire Next Door on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Millionaire+Next+Door+Thomas+J.+Stanley+and+William+D.+Danko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Millionaire Next Door">The Millionaire Next Door</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Stanley and William D. Danko</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Millionaire+Next+Door+Thomas+J.+Stanley+and+William+D.+Danko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Millionaire Next Door on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Millionaire+Next+Door+Thomas+J.+Stanley+and+William+D.+Danko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Millionaire Next Door">The Millionaire Next Door</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Stanley and William D. Danko</p>
         
-        <p class="fr-book-desc">Reinforces value-focused purchasing and thinking beyond upfront price.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Millionaire+Next+Door+Thomas+J.+Stanley+and+William+D.+Danko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces value-focused purchasing and thinking beyond upfront price.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Millionaire+Next+Door+Thomas+J.+Stanley+and+William+D.+Danko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Total+Money+Makeover&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Total Money Makeover</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Total+Money+Makeover&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Total Money Makeover</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b717c57f4f0c6262ef10.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b717c57f4f0c6262ef10.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b0ee76e0b81d3bc1f511.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b0ee76e0b81d3bc1f511.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm"><img src="{{ '/assets/images/marketplace-covers/d09e7e7a40c101faf0a9.jpg' | relative_url }}" alt="Listing image for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm"><img src="{{ '/assets/images/marketplace-covers/d09e7e7a40c101faf0a9.jpg' | relative_url }}" alt="Listing image for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="running-costs-the-cheap-product-that-costs-more-later-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ In the long run, those explanations strengthen [credibility]({{ 'credibility/' |
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ In the long run, those explanations strengthen [credibility]({{ 'credibility/' |
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ In the long run, those explanations strengthen [credibility]({{ 'credibility/' |
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -765,7 +765,7 @@ In the long run, those explanations strengthen [credibility]({{ 'credibility/' |
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -810,7 +810,7 @@ In the long run, those explanations strengthen [credibility]({{ 'credibility/' |
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -851,68 +851,68 @@ In the long run, those explanations strengthen [credibility]({{ 'credibility/' |
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canon-europe.com  
-   Link: <a href="https://www.canon-europe.com/printers/tco-calculator/methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.canon-europe.com/printers/tco-calculator/methodology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canon EuropeTotal Cost Of Ownership Calculator MethodologyThe total cost of ownership (TCO) is based on the initial purchase cost of hard...</p></details>
+   Link:<a href="https://www.canon-europe.com/printers/tco-calculator/methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.canon-europe.com/printers/tco-calculator/methodology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canon EuropeTotal Cost Of Ownership Calculator MethodologyThe total cost of ownership (TCO) is based on the initial purchase cost of hard...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: which.co.uk  
-   Link: <a href="https://www.which.co.uk/reviews/printers-and-ink/article/hp-instant-ink-vs-other-types-of-printer-ink-a1EAq9e4KUGK" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/reviews/printers-and-ink/article/hp-instant-ink-vs-other-types-of-printer-ink-a1EAq9e4KUGK</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Which?1 Jun 2026 — HP Instant Ink will save you from having to regularly buy new printer cartridges. Instead, you pay a fixed monthly fee...</p></details>
+   Link:<a href="https://www.which.co.uk/reviews/printers-and-ink/article/hp-instant-ink-vs-other-types-of-printer-ink-a1EAq9e4KUGK" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/reviews/printers-and-ink/article/hp-instant-ink-vs-other-types-of-printer-ink-a1EAq9e4KUGK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Which?1 Jun 2026 — HP Instant Ink will save you from having to regularly buy new printer cartridges. Instead, you pay a fixed monthly fee...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: consumerreports.org  
-   Link: <a href="https://www.consumerreports.org/electronics-computers/printers/are-printer-ink-subscriptions-worth-it-a4050339657/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/electronics-computers/printers/are-printer-ink-subscriptions-worth-it-a4050339657/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer ReportsAre Printer Ink Subscriptions Worth It?Consumer Reports explains what you need to know about printer ink subscription pla...</p></details>
+   Link:<a href="https://www.consumerreports.org/electronics-computers/printers/are-printer-ink-subscriptions-worth-it-a4050339657/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/electronics-computers/printers/are-printer-ink-subscriptions-worth-it-a4050339657/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer ReportsAre Printer Ink Subscriptions Worth It?Consumer Reports explains what you need to know about printer ink subscription pla...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ldproducts.com  
    Title: the fine print 8 things you should know before signing up for hp instant ink  
-   Link: <a href="https://www.ldproducts.com/blog/the-fine-print-8-things-you-should-know-before-signing-up-for-hp-instant-ink/?srsltid=AfmBOoruihMD1e31CXvynXGq2RQznUFEXwW5zGj2H3FAfG9uapZMTm2C" target="_blank" rel="noopener noreferrer nofollow">https://www.ldproducts.com/blog/the-fine-print-8-things-you-should-know-before-signing-up-for-hp-instant-ink/?srsltid=AfmBOoruihMD1e31CXvynXGq2RQznUFEXwW5zGj2H3FAfG9uapZMTm2C</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Things You Should Know About HP® Instant Ink® Before...11 Jul 2023 — This article serves to inform HP printer users on what the HP Ins...</p></details>
+   Link:<a href="https://www.ldproducts.com/blog/the-fine-print-8-things-you-should-know-before-signing-up-for-hp-instant-ink/?srsltid=AfmBOoruihMD1e31CXvynXGq2RQznUFEXwW5zGj2H3FAfG9uapZMTm2C" target="_blank" rel="noopener noreferrer nofollow">https://www.ldproducts.com/blog/the-fine-print-8-things-you-should-know-before-signing-up-for-hp-instant-ink/?srsltid=AfmBOoruihMD1e31CXvynXGq2RQznUFEXwW5zGj2H3FAfG9uapZMTm2C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Things You Should Know About HP® Instant Ink® Before...11 Jul 2023 — This article serves to inform HP printer users on what the HP Ins...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: compandsave.com  
-   Link: <a href="https://www.compandsave.com/blog/posts/printer-ink-subscription-or-buy-ink-cartridges-which-saves-more.html?srsltid=AfmBOoqnGJ1rbnwGhAfIRXCf44whwHhUA9WxPdFCL9RnO3BR-OBg9Sky" target="_blank" rel="noopener noreferrer nofollow">https://www.compandsave.com/blog/posts/printer-ink-subscription-or-buy-ink-cartridges-which-saves-more.html?srsltid=AfmBOoqnGJ1rbnwGhAfIRXCf44whwHhUA9WxPdFCL9RnO3BR-OBg9Sky</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Printer Ink Subscription or Buy Ink Cartridges: Which Saves...29 Apr 2025 — Compare printer ink subscription with buying ink cartridges...</p></details>
+   Link:<a href="https://www.compandsave.com/blog/posts/printer-ink-subscription-or-buy-ink-cartridges-which-saves-more.html?srsltid=AfmBOoqnGJ1rbnwGhAfIRXCf44whwHhUA9WxPdFCL9RnO3BR-OBg9Sky" target="_blank" rel="noopener noreferrer nofollow">https://www.compandsave.com/blog/posts/printer-ink-subscription-or-buy-ink-cartridges-which-saves-more.html?srsltid=AfmBOoqnGJ1rbnwGhAfIRXCf44whwHhUA9WxPdFCL9RnO3BR-OBg9Sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Printer Ink Subscription or Buy Ink Cartridges: Which Saves...29 Apr 2025 — Compare printer ink subscription with buying ink cartridges...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/printers/comments/1hhx1vz/the_truth_about_printer_subscription_programs_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/printers/comments/1hhx1vz/the_truth_about_printer_subscription_programs_and/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 [Black Friday](&amp;#123;&amp;#123; &#x27;black-friday/&#x27; | relative_url &amp;#125;&amp;#125;) models will crush you in ink cost. Jsb4031...</p></details>
+   Link:<a href="https://www.reddit.com/r/printers/comments/1hhx1vz/the_truth_about_printer_subscription_programs_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/printers/comments/1hhx1vz/the_truth_about_printer_subscription_programs_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 [Black Friday](&amp;#123;&amp;#123; &#x27;black-friday/&#x27; | relative_url &amp;#125;&amp;#125;) models will crush you in ink cost. Jsb4031...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ricoh.co.uk  
    Title: Buying a printer?  
-   Link: <a href="https://www.ricoh.co.uk/insights/blog/total-cost-ownership-price-printer/" target="_blank" rel="noopener noreferrer nofollow">https://www.ricoh.co.uk/insights/blog/total-cost-ownership-price-printer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Look at The Total Cost of OwnershipA TCO calculation allows you to place a single value on the complete lifecycle of a purchase. This val...</p></details>
+   Link:<a href="https://www.ricoh.co.uk/insights/blog/total-cost-ownership-price-printer/" target="_blank" rel="noopener noreferrer nofollow">https://www.ricoh.co.uk/insights/blog/total-cost-ownership-price-printer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Look at The Total Cost of OwnershipA TCO calculation allows you to place a single value on the complete lifecycle of a purchase. This val...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Total Cost of Ownership: What Is It?  
-   Link: <a href="https://www.youtube.com/watch?v=OLM6KUUY3Po" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLM6KUUY3Po</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn How to Make a Profitable Product Review Website &amp; Earn Affiliate Commissions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OLM6KUUY3Po" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLM6KUUY3Po</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn How to Make a Profitable Product Review Website &amp; Earn Affiliate Commissions...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Google's Product Review Update Explained  
-   Link: <a href="https://www.youtube.com/watch?v=0CR9Nbn6L7o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0CR9Nbn6L7o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Product Review Update 2023 | First Search Algorithm Update (Feb 2023)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0CR9Nbn6L7o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0CR9Nbn6L7o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Product Review Update 2023 | First Search Algorithm Update (Feb 2023)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Knu_nlcoP3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Knu_nlcoP3g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Product Review Sites...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Knu_nlcoP3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Knu_nlcoP3g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Product Review Sites...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=O_wy6GCN1PY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O_wy6GCN1PY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Total Cost of Ownership: What Is It?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O_wy6GCN1PY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O_wy6GCN1PY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Total Cost of Ownership: What Is It?...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Best Product Review Sites  
-   Link: <a href="https://www.youtube.com/watch?v=v9x0koBEAO4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9x0koBEAO4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=v9x0koBEAO4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9x0koBEAO4</a>  

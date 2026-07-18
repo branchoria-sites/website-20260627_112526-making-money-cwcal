@@ -284,7 +284,7 @@ Affiliate comparison pages can be both genuinely useful and commercially success
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2-Illustration-1-dark.svg" | relative_url }}" alt="Disclosure illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Modern consumer protection guidance increasingly focuses on transparency rather than banning affiliate marketing outright. Regulators generally accept that publishers can earn commission from recommendations, provided readers receive clear, timely information about those financial relationships before they rely on rankings or click affiliate links. The strongest comparison pages therefore treat disclosure as part of the editorial experience rather than as a legal afterthought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Another principle in the Guides applies to ads that...</span></span></span>
+Modern consumer protection guidance increasingly focuses on transparency rather than banning affiliate marketing outright. Regulators generally accept that publishers can earn commission from recommendations, provided readers receive clear, timely information about those financial relationships before they rely on rankings or click affiliate links. The strongest comparison pages therefore treat disclosure as part of the editorial experience rather than as a legal afterthought.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Another principle in the Guides applies to ads that...</span></span></span>
 
 ## Can Readers Trust Affiliate Rankings?
 
@@ -292,7 +292,7 @@ Readers should approach affiliate rankings with informed confidence rather than 
 
 Many affiliate publishers spend significant time [testing]({{ 'testing/' | relative_url }}) products, comparing pricing, and explaining [trade-offs]({{ 'trade-offs/' | relative_url }}). Their commercial incentive is compatible with useful journalism when editorial decisions remain independent. The problem arises when commercial arrangements influence rankings without readers being told that they might.
 
-The updated US Federal Trade Commission (FTC) Endorsement Guides specifically address supposedly independent review and ranking sites. They state that businesses should not market a review site as independent if material commercial relationships exist, and that companies should not be able to buy higher positions in rankings presented as objective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelleydrye.com">[Kelley Drye &amp; Warren LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelleydrye.com</span><span class="citation-popover-title">new endorsement guides include big changes but few surprises</span><span class="citation-popover-snippet">Kelley Drye &amp; Warren LLPNew Endorsement Guides Include Big Changes, But Few...29 Jun 2023 — The new Guides address so-called “independen...</span></span></span>
+The updated US Federal Trade Commission (FTC) Endorsement Guides specifically address supposedly independent review and ranking sites. They state that businesses should not market a review site as independent if material commercial relationships exist, and that companies should not be able to buy higher positions in rankings presented as objective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelleydrye.com">[Kelley Drye &amp; Warren LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelleydrye.com</span><span class="citation-popover-title">new endorsement guides include big changes but few surprises</span><span class="citation-popover-snippet">Kelley Drye &amp; Warren LLPNew Endorsement Guides Include Big Changes, But Few...29 Jun 2023 — The new Guides address so-called “independen...</span></span></span>
 
 This distinction matters because readers interpret a numbered comparison differently from an advertisement. A table labelled "Best VPN Services" or "Top Website Builders" implies that products have been evaluated according to stated criteria. If payment changes those rankings without disclosure, readers may be misled about why one product appears above another.
 
@@ -318,7 +318,7 @@ Common risk areas include:
 
 None of these practices automatically prove deception. However, when commercial incentives are capable of affecting editorial decisions, readers benefit from understanding that possibility before relying on the comparison.
 
-Competition authorities have similarly recognised that digital comparison tools often receive commission from suppliers while simultaneously acting as consumer advisers. That dual role makes transparency about commercial relationships an important governance safeguard rather than merely a legal formality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelleydrye.com">[Kelley Drye &amp; Warren LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelleydrye.com</span><span class="citation-popover-title">new endorsement guides include big changes but few surprises</span><span class="citation-popover-snippet">Kelley Drye &amp; Warren LLPNew Endorsement Guides Include Big Changes, But Few...29 Jun 2023 — The new Guides address so-called “independen...</span></span></span>
+Competition authorities have similarly recognised that digital comparison tools often receive commission from suppliers while simultaneously acting as consumer advisers. That dual role makes transparency about commercial relationships an important governance safeguard rather than merely a legal formality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelleydrye.com">[Kelley Drye &amp; Warren LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelleydrye.com</span><span class="citation-popover-title">new endorsement guides include big changes but few surprises</span><span class="citation-popover-snippet">Kelley Drye &amp; Warren LLPNew Endorsement Guides Include Big Changes, But Few...29 Jun 2023 — The new Guides address so-called “independen...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TpYEmQ9njyk" title="New FTC Guidelines For Affiliate &amp; Influencer MarketerS Must Watch Before Making Your Next Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TpYEmQ9njyk" target="_blank" rel="noopener noreferrer">New FTC Guidelines For Affiliate &amp; Influencer MarketerS Must Watch Before Making Your Next Video</a></p><p class="youtube-embed-meta">Channel: Alston Godbolt &middot; Views: 2.7K &middot; Uploaded: October 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TpYEmQ9njyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TpYEmQ9njyk">Open on YouTube</a></p></div></div></div>
@@ -342,7 +342,7 @@ A useful disclosure should communicate:
 
 </div>
 
-Regulators consistently emphasise that disclosures should be **clear and conspicuous**. They should appear where readers encounter recommendations or affiliate links, not hidden in a footer, separate policy page or terms and conditions. Language should be understandable to ordinary readers rather than relying on technical expressions such as "affiliate relationship" alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Another principle in the Guides applies to ads that...</span></span></span>
+Regulators consistently emphasise that disclosures should be **clear and conspicuous**. They should appear where readers encounter recommendations or affiliate links, not hidden in a footer, separate policy page or terms and conditions. Language should be understandable to ordinary readers rather than relying on technical expressions such as "affiliate relationship" alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Another principle in the Guides applies to ads that...</span></span></span>
 
 For comparison pages specifically, disclosure is most useful near the beginning of the page or immediately above the comparison table, where readers first begin evaluating [alternatives]({{ 'alternatives/' | relative_url }}).
 
@@ -367,7 +367,7 @@ A stronger editorial explanation might communicate principles such as:
 
 These statements should accurately reflect actual editorial practice. Claiming complete independence while allowing advertisers to influence rankings may itself become misleading.
 
-The FTC's revised guidance highlights this distinction by treating supposedly objective ranking sites differently from obvious advertising. If rankings claim to reflect independent evaluation, payment should not secretly determine position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelleydrye.com">[Kelley Drye &amp; Warren LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelleydrye.com</span><span class="citation-popover-title">new endorsement guides include big changes but few surprises</span><span class="citation-popover-snippet">Kelley Drye &amp; Warren LLPNew Endorsement Guides Include Big Changes, But Few...29 Jun 2023 — The new Guides address so-called “independen...</span></span></span>
+The FTC's revised guidance highlights this distinction by treating supposedly objective ranking sites differently from obvious advertising. If rankings claim to reflect independent evaluation, payment should not secretly determine position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelleydrye.com">[Kelley Drye &amp; Warren LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelleydrye.com</span><span class="citation-popover-title">new endorsement guides include big changes but few surprises</span><span class="citation-popover-snippet">Kelley Drye &amp; Warren LLPNew Endorsement Guides Include Big Changes, But Few...29 Jun 2023 — The new Guides address so-called “independen...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/723U5nGxhTU" title="Lawyer Explains | FTC Guidelines for YouTubers (Affiliate Links and Sponsored Videos)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=723U5nGxhTU" target="_blank" rel="noopener noreferrer">Lawyer Explains | FTC Guidelines for YouTubers (Affiliate Links and Sponsored Videos)</a></p><p class="youtube-embed-meta">Channel: Lawyer Explains - Erika Kullberg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=723U5nGxhTU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=723U5nGxhTU">Open on YouTube</a></p></div></div></div>
@@ -376,7 +376,7 @@ The FTC's revised guidance highlights this distinction by treating supposedly ob
 
 Some publishers worry that prominent disclosures will reduce conversions. Available [evidence]({{ 'evidence/' | relative_url }}) suggests that readers primarily object to hidden commercial relationships rather than to affiliate marketing itself.
 
-Research examining affiliate disclosures on major social platforms found that many creators failed to disclose commercial relationships at all, while user testing showed that vague or abbreviated disclosures often failed to communicate that creators earned money from recommendations. More explanatory disclosures helped users better understand the commercial relationship instead of simply recognising unfamiliar terminology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Research examining affiliate disclosures on major social platforms found that many creators failed to disclose commercial relationships at all, while user testing showed that vague or abbreviated disclosures often failed to communicate that creators earned money from recommendations. More explanatory disclosures helped users better understand the commercial relationship instead of simply recognising unfamiliar terminology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
 For comparison websites, this supports a broader lesson: disclosure works best when written for human understanding rather than minimum legal compliance.
 
@@ -394,162 +394,162 @@ When readers understand both **how the comparison was produced** and **how the p
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2-Illustration-3-dark.svg" | relative_url }}" alt="Disclosure illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Readers Trust Affiliate Rankings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Readers Trust Affiliate Rankings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Explains how commercial incentives and media dynamics can shape published content and perceived authority.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how commercial incentives and media dynamics can shape published content and perceived authority.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Provides context on why recommendations spread and what makes people trust and share them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on why recommendations spread and what makes people trust and share them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Content Code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IWtNrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Content Code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Content Code">The Content Code</a>
-        </h4>
-        <p class="fr-book-author">By Mark W. Schaefer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Content Code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IWtNrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Content Code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Content Code">The Content Code</a>
+</h4>
+<p class="fr-book-author">By Mark W. Schaefer</p>
         
-        <p class="fr-book-desc">Covers building audience trust and credibility in commercial online publishing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers building audience trust and credibility in commercial online publishing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Helps readers understand persuasive techniques that can affect recommendations and rankings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand persuasive techniques that can affect recommendations and rankings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Content+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Content Code</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Content+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Content Code</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor"><img src="{{ '/assets/images/marketplace-covers/6760001fd496b407c5c1.jpg' | relative_url }}" alt="Listing image for Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor"><img src="{{ '/assets/images/marketplace-covers/6760001fd496b407c5c1.jpg' | relative_url }}" alt="Listing image for Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">Ceramic Red Bull Stock Market Mascot Ornaments Living Room Office Gold Ox Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor"><img src="{{ '/assets/images/marketplace-covers/139970051cf0b0d40665.jpg' | relative_url }}" alt="Listing image for Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor"><img src="{{ '/assets/images/marketplace-covers/139970051cf0b0d40665.jpg' | relative_url }}" alt="Listing image for Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">Wall Street Bull Statue Gold Charging Bull Market Sculpture Finance Office Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing office decor" data-ebay-reference="disclosure-967c81-can-readers-trust-affiliate-rankings-making-money-from-marketing-office-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ When readers understand both **how the comparison was produced** and **how the p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ When readers understand both **how the comparison was produced** and **how the p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ When readers understand both **how the comparison was produced** and **how the p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ When readers understand both **how the comparison was produced** and **how the p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ When readers understand both **how the comparison was produced** and **how the p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,82 +755,82 @@ When readers understand both **how the comparison was produced** and **how the p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Another principle in the Guides applies to ads that...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Another principle in the Guides applies to ads that...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kelleydrye.com  
    Title: new endorsement guides include big changes but few surprises  
-   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelley Drye &amp; Warren LLPNew Endorsement Guides Include Big Changes, But Few...29 Jun 2023 — The new Guides address so-called “independen...</p></details>
+   Link:<a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelley Drye &amp; Warren LLPNew Endorsement Guides Include Big Changes, But Few...29 Jun 2023 — The new Guides address so-called “independen...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
+   Link:<a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: elegantthemes.com  
-   Link: <a href="https://www.elegantthemes.com/policy/disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.elegantthemes.com/policy/disclosure/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide for Affiliate Endorsements and Appropriate DisclosureThe Federal Trade Commission requires that affiliates disclose to their reader...</p></details>
+   Link:<a href="https://www.elegantthemes.com/policy/disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.elegantthemes.com/policy/disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide for Affiliate Endorsements and Appropriate DisclosureThe Federal Trade Commission requires that affiliates disclose to their reader...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: federal-lawyer.com  
-   Link: <a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
+   Link:<a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: steptoe.com  
-   Link: <a href="https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html" target="_blank" rel="noopener noreferrer nofollow">https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Unveils New Endorsement Guides and Proposed...11 Jul 2023 — The Endorsement Guides advise the public on advertising practices the Co...</p></details>
+   Link:<a href="https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html" target="_blank" rel="noopener noreferrer nofollow">https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Unveils New Endorsement Guides and Proposed...11 Jul 2023 — The Endorsement Guides advise the public on advertising practices the Co...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: adamigo.ai  
-   Link: <a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
+   Link:<a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=723U5nGxhTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=723U5nGxhTU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate disclosure website blogging ftc rules How to Disclose Affiliate Links on YouTube, Blogs, or Website — FTC Guidelines Eric DeLuca...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=723U5nGxhTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=723U5nGxhTU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate disclosure website blogging ftc rules How to Disclose Affiliate Links on YouTube, Blogs, or Website — FTC Guidelines Eric DeLuca...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blog.promise.legal  
    Title: who this ftc endorsement guide is for and why it matters  
-   Link: <a href="https://blog.promise.legal/startup-central/who-this-ftc-endorsement-guide-is-for-and-why-it-matters/" target="_blank" rel="noopener noreferrer nofollow">https://blog.promise.legal/startup-central/who-this-ftc-endorsement-guide-is-for-and-why-it-matters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This FTC Endorsement Guide Is For (and Why It Matters)26 Mar 2026 — The FTC Endorsement Guides (16 CFR Part 255) apply when you use endor...</p></details>
+   Link:<a href="https://blog.promise.legal/startup-central/who-this-ftc-endorsement-guide-is-for-and-why-it-matters/" target="_blank" rel="noopener noreferrer nofollow">https://blog.promise.legal/startup-central/who-this-ftc-endorsement-guide-is-for-and-why-it-matters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This FTC Endorsement Guide Is For (and Why It Matters)26 Mar 2026 — The FTC Endorsement Guides (16 CFR Part 255) apply when you use endor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iubenda.com  
-   Link: <a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>isitors that you earn a commission when they purchase a product or...Read more...</p></details>
+   Link:<a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>isitors that you earn a commission when they purchase a product or...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stalirov.lawyer  
-   Link: <a href="https://stalirov.lawyer/en/posts/ftc-affiliate-marketing-compliance" target="_blank" rel="noopener noreferrer nofollow">https://stalirov.lawyer/en/posts/ftc-affiliate-marketing-compliance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Marketing &amp; Compliance: Disclosure Rules...7 May 2025 — The FTC views most affiliate marketing activities as endorsements...</p></details>
+   Link:<a href="https://stalirov.lawyer/en/posts/ftc-affiliate-marketing-compliance" target="_blank" rel="noopener noreferrer nofollow">https://stalirov.lawyer/en/posts/ftc-affiliate-marketing-compliance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Marketing &amp; Compliance: Disclosure Rules...7 May 2025 — The FTC views most affiliate marketing activities as endorsements...</p></details>
    Published: May 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TpYEmQ9njyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TpYEmQ9njyk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Creator Cafe, with Lawyer Kae•257 views &amp;middot; 34:00 &amp;middot; Go to channel Arlan Hamilton...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TpYEmQ9njyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TpYEmQ9njyk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Creator Cafe, with Lawyer Kae•257 views &amp;middot; 34:00 &amp;middot; Go to channel Arlan Hamilton...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: partnercentric.com  
    Title: how to properly disclose ftc endorsements  
-   Link: <a href="https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jun 2024 — The FTC requires that any material connection between an endorser and the marketer of a product must be disclosed clearly a...</p></details>
+   Link:<a href="https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jun 2024 — The FTC requires that any material connection between an endorser and the marketer of a product must be disclosed clearly a...</p></details>

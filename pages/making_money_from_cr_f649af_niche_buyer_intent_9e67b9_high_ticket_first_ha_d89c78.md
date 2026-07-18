@@ -284,7 +284,7 @@ High-ticket affiliate products can generate substantial [commissions]({{ 'commis
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_high_ticket_first_ha_d89c78-Illustration-1-dark.svg" | relative_url }}" alt="High Ticket illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_high_ticket_first_ha_d89c78-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_high_ticket_first_ha_d89c78-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate publishers, this changes the economics of niche selection. Expensive product categories often offer attractive commissions, yet they are among the hardest to compete in because readers expect genuine first-hand experience. Search engines increasingly reward detailed, experience-based [reviews]({{ 'reviews/' | relative_url }}), while regulators expect affiliate endorsements to reflect honest opinions and to disclose commercial relationships clearly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsLearn how to write high quality reviews and see how they can help shoppers discover your r...</span></span></span>
+For affiliate publishers, this changes the economics of niche selection. Expensive product categories often offer attractive commissions, yet they are among the hardest to compete in because readers expect genuine first-hand experience. Search engines increasingly reward detailed, experience-based [reviews]({{ 'reviews/' | relative_url }}), while regulators expect affiliate endorsements to reflect honest opinions and to disclose commercial relationships clearly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsLearn how to write high quality reviews and see how they can help shoppers discover your r...</span></span></span>
 
 ## Why expensive products require stronger evidence
 
@@ -305,7 +305,7 @@ This changes what readers expect from [affiliate content]({{ 'content-mix/' | re
 
 Manufacturer specifications rarely answer these questions because they describe intended capabilities rather than [long-term]({{ 'long-term/' | relative_url }}) ownership. The gap between specifications and real-world performance becomes wider as products become more complex or more expensive.
 
-Google's guidance for review content reflects this expectation by encouraging reviews that demonstrate expertise or first-hand knowledge, include original observations, explain practical trade-offs and help readers make purchasing decisions beyond repeating manufacturer information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsLearn how to write high quality reviews and see how they can help shoppers discover your r...</span></span></span>
+Google's guidance for review content reflects this expectation by encouraging reviews that demonstrate expertise or first-hand knowledge, include original observations, explain practical trade-offs and help readers make purchasing decisions beyond repeating manufacturer information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsLearn how to write high quality reviews and see how they can help shoppers discover your r...</span></span></span>
 
 ## What readers need beyond manufacturer claims
 
@@ -432,9 +432,9 @@ This makes scaling content difficult. Publishing fifty superficial product summa
 
 Some affiliate sites attempt to compensate for limited access by rewriting specifications, embedding manufacturer videos or paraphrasing existing reviews. This approach carries both credibility and regulatory risks.
 
-Google explicitly encourages review content that demonstrates original insight and practical knowledge rather than summarising information already available elsewhere. Reviews that merely aggregate publicly available specifications provide limited additional value for users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsLearn how to write high quality reviews and see how they can help shoppers discover your r...</span></span></span>
+Google explicitly encourages review content that demonstrates original insight and practical knowledge rather than summarising information already available elsewhere. Reviews that merely aggregate publicly available specifications provide limited additional value for users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsLearn how to write high quality reviews and see how they can help shoppers discover your r...</span></span></span>
 
-Regulators also expect endorsements to reflect genuine opinions and experiences. The US Federal Trade Commission's Endorsement Guides state that endorsements must represent the honest opinions, findings or experiences of the endorser, and any material connection—such as affiliate compensation or gifted products—should be disclosed clearly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">In addition,</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAn endorsement must reflect the honest opinion of the endorser an...</span></span></span>
+Regulators also expect endorsements to reflect genuine opinions and experiences. The US Federal Trade Commission's Endorsement Guides state that endorsements must represent the honest opinions, findings or experiences of the endorser, and any material connection—such as affiliate compensation or gifted products—should be disclosed clearly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">In addition,</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAn endorsement must reflect the honest opinion of the endorser an...</span></span></span>
 
 Even outside jurisdictions where FTC rules apply directly, these principles align with broader expectations of transparency that influence reader trust and industry best practice.
 
@@ -459,194 +459,194 @@ In practical terms, the commission potential of high-ticket products should neve
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Expensive Products Need Real Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Expensive Products Need Real Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Helps writers create trustworthy, persuasive content that meets higher reader expectations for expensive purchases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps writers create trustworthy, persuasive content that meets higher reader expectations for expensive purchases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Copywriter&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q0JZm4Qu8R0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Copywriter&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Copywriter&#x27;s Handbook">The Copywriter&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Robert W. Bly</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains persuasive copy built on evidence, credibility, and buyer concerns rather than hype.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Copywriter&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q0JZm4Qu8R0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Copywriter&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Copywriter&#x27;s Handbook">The Copywriter&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Robert W. Bly</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains persuasive copy built on evidence, credibility, and buyer concerns rather than hype.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Sheridan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
+</h4>
+<p class="fr-book-author">By Marcus Sheridan</p>
         
-        <p class="fr-book-desc">Directly addresses answering buyer objections with transparent, evidence-rich content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses answering buyer objections with transparent, evidence-rich content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Provides insight into ethical persuasion and why credible proof matters in high-value buying decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into ethical persuasion and why credible proof matters in high-value buying decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Copywriter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Copywriter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Copywriter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Copywriter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Advertising Badge &#x27;Saturday Cat&quot; Real Dairy Cream Collectable Memorabilia"><img src="{{ '/assets/images/marketplace-covers/780c33a8b2f235e6b9f4.jpg' | relative_url }}" alt="Listing image for Rare Advertising Badge &#x27;Saturday Cat&quot; Real Dairy Cream Collectable Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Rare Advertising Badge &#x27;Saturday Cat&quot; Real Dairy Cream Collectable Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for real memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: real memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Advertising Badge &#x27;Saturday Cat&quot; Real Dairy Cream Collectable Memorabilia"><img src="{{ '/assets/images/marketplace-covers/780c33a8b2f235e6b9f4.jpg' | relative_url }}" alt="Listing image for Rare Advertising Badge &#x27;Saturday Cat&quot; Real Dairy Cream Collectable Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Rare Advertising Badge &#x27;Saturday Cat&quot; Real Dairy Cream Collectable Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for real memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: real memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Real Madrid Football Memorabilia Signed Bundle"><img src="{{ '/assets/images/marketplace-covers/240da67416f91d726873.jpg' | relative_url }}" alt="Listing image for Real Madrid Football Memorabilia Signed Bundle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Real Madrid Football Memorabilia Signed Bundle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for real memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: real memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Real Madrid Football Memorabilia Signed Bundle"><img src="{{ '/assets/images/marketplace-covers/240da67416f91d726873.jpg' | relative_url }}" alt="Listing image for Real Madrid Football Memorabilia Signed Bundle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Real Madrid Football Memorabilia Signed Bundle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for real memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: real memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REAL MADRID MEMORABILIA - VINTAGE 1970s TEAM POSTCARD"><img src="{{ '/assets/images/marketplace-covers/9aa2c325d58f7e6c824b.jpg' | relative_url }}" alt="Listing image for REAL MADRID MEMORABILIA - VINTAGE 1970s TEAM POSTCARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">REAL MADRID MEMORABILIA - VINTAGE 1970s TEAM POSTCARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for real memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: real memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REAL MADRID MEMORABILIA - VINTAGE 1970s TEAM POSTCARD"><img src="{{ '/assets/images/marketplace-covers/9aa2c325d58f7e6c824b.jpg' | relative_url }}" alt="Listing image for REAL MADRID MEMORABILIA - VINTAGE 1970s TEAM POSTCARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">REAL MADRID MEMORABILIA - VINTAGE 1970s TEAM POSTCARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for real memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: real memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fight Club Soap / Real Soap/ Not Official Memorabilia/ As Seen"><img src="{{ '/assets/images/marketplace-covers/d98a3c69912f0224055a.jpg' | relative_url }}" alt="Listing image for Fight Club Soap / Real Soap/ Not Official Memorabilia/ As Seen" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Fight Club Soap / Real Soap/ Not Official Memorabilia/ As Seen</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for real memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: real memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fight Club Soap / Real Soap/ Not Official Memorabilia/ As Seen"><img src="{{ '/assets/images/marketplace-covers/d98a3c69912f0224055a.jpg' | relative_url }}" alt="Listing image for Fight Club Soap / Real Soap/ Not Official Memorabilia/ As Seen" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Fight Club Soap / Real Soap/ Not Official Memorabilia/ As Seen</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for real memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: real memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=real+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="real memorabilia -book -books -dvd" data-ebay-reference="high-ticket-when-expensive-products-need-real-proof-making-money-from-real-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -662,7 +662,7 @@ In practical terms, the commission potential of high-ticket products should neve
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -682,7 +682,7 @@ In practical terms, the commission potential of high-ticket products should neve
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -714,7 +714,7 @@ In practical terms, the commission potential of high-ticket products should neve
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -766,7 +766,7 @@ In practical terms, the commission potential of high-ticket products should neve
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -811,7 +811,7 @@ In practical terms, the commission potential of high-ticket products should neve
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -852,145 +852,145 @@ In practical terms, the commission potential of high-ticket products should neve
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWrite high quality reviewsLearn how to write high quality reviews and see how they can help shoppers discover your r...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWrite high quality reviewsLearn how to write high quality reviews and see how they can help shoppers discover your r...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable information that&#x27;s created to b...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable information that&#x27;s created to b...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: developers.google.com  
    Title: product reviews update  
-   Link: <a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</p></details>
    Published: April 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ftc.gov  
    Title: In addition,  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAn endorsement must reflect the honest opinion of the endorser an...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAn endorsement must reflect the honest opinion of the endorser an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsThis brochure from FTC staff gives tips on when and how to make good disclosures. Featuring Online...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsThis brochure from FTC staff gives tips on when and how to make good disclosures. Featuring Online...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
+   Link:<a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ndorsements and testimonials, together with examples illustrating the...</p></details>
+   Link:<a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ndorsements and testimonials, together with examples illustrating the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
+   Link:<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/merchants/answer/6098512?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/6098512?hl=en-GB</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The better the overall quality of your reviews, the more impact they have on shoppers&#x27; buying decisions. For feed-based...</p></details>
+   Link:<a href="https://support.google.com/merchants/answer/6098512?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/6098512?hl=en-GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The better the overall quality of your reviews, the more impact they have on shoppers&#x27; buying decisions. For feed-based...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>latest update to the quality rater guidelines: E-A-T gets...15 Dec 2022 — As a reminder, these guidelines are what are used by our searc...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>latest update to the quality rater guidelines: E-A-T gets...15 Dec 2022 — As a reminder, these guidelines are what are used by our searc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: support.google.com  
    Title: critic review schema on product pages  
-   Link: <a href="https://support.google.com/webmasters/thread/162081066/critic-review-schema-on-product-pages?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/162081066/critic-review-schema-on-product-pages?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Schema on Product Pages2 May 2022 — I am working with a client who wants to highlight product reviews on their product pages to he...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/162081066/critic-review-schema-on-product-pages?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/162081066/critic-review-schema-on-product-pages?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review Schema on Product Pages2 May 2022 — I am working with a client who wants to highlight product reviews on their product pages to he...</p></details>
    Published: May 2022  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/business/answer/3474122?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/business/answer/3474122?hl=en-GB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to get more reviews - Google Business Profile HelpValue all reviews: Honest and balanced reviews can help potential customers decide...</p></details>
+   Link:<a href="https://support.google.com/business/answer/3474122?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/business/answer/3474122?hl=en-GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to get more reviews - Google Business Profile HelpValue all reviews: Honest and balanced reviews can help potential customers decide...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: search.google  
-   Link: <a href="https://search.google/intl/en-GB/" target="_blank" rel="noopener noreferrer nofollow">https://search.google/intl/en-GB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google SearchExplore new ways to search. Download the Google app to experience Lens, AR, Search Labs, voice search, and more...</p></details>
+   Link:<a href="https://search.google/intl/en-GB/" target="_blank" rel="noopener noreferrer nofollow">https://search.google/intl/en-GB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google SearchExplore new ways to search. Download the Google app to experience Lens, AR, Search Labs, voice search, and more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Google" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Google</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleGoogle is the largest provider of search engines, mapping and navigation applications, [email](&amp;#123;&amp;#123; &#x27;email/&#x27; | relative_url &amp;#125;&amp;#125;) services, office suites, online vid...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Google" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Google</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleGoogle is the largest provider of search engines, mapping and navigation applications, [email](&amp;#123;&amp;#123; &#x27;email/&#x27; | relative_url &amp;#125;&amp;#125;) services, office suites, online vid...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: yotpo.com  
    Title: Over time,  
-   Link: <a href="https://www.yotpo.com/blog/google-review-schema/" target="_blank" rel="noopener noreferrer nofollow">https://www.yotpo.com/blog/google-review-schema/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Google Review Schema Is Critical For ECommerce...29 Oct 2025 — A high CTR and low bounce rate tell Google that your page is a high-q...</p></details>
+   Link:<a href="https://www.yotpo.com/blog/google-review-schema/" target="_blank" rel="noopener noreferrer nofollow">https://www.yotpo.com/blog/google-review-schema/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Google Review Schema Is Critical For ECommerce...29 Oct 2025 — A high CTR and low bounce rate tell Google that your page is a high-q...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: brandcycle.com  
-   Link: <a href="https://brandcycle.com/blog/navigating-ftc-guidelines-a-handbook-for-influencers/" target="_blank" rel="noopener noreferrer nofollow">https://brandcycle.com/blog/navigating-ftc-guidelines-a-handbook-for-influencers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating FTC Guidelines: A Handbook for InfluencersIf influencers promote TV, internet, and streaming services, they can comply with FT...</p></details>
+   Link:<a href="https://brandcycle.com/blog/navigating-ftc-guidelines-a-handbook-for-influencers/" target="_blank" rel="noopener noreferrer nofollow">https://brandcycle.com/blog/navigating-ftc-guidelines-a-handbook-for-influencers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating FTC Guidelines: A Handbook for InfluencersIf influencers promote TV, internet, and streaming services, they can comply with FT...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: federal-lawyer.com  
-   Link: <a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
+   Link:<a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: steptoe.com  
-   Link: <a href="https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html" target="_blank" rel="noopener noreferrer nofollow">https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Unveils New Endorsement Guides and Proposed...11 Jul 2023 — The Endorsement Guides advise the public on advertising practices the Co...</p></details>
+   Link:<a href="https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html" target="_blank" rel="noopener noreferrer nofollow">https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Unveils New Endorsement Guides and Proposed...11 Jul 2023 — The Endorsement Guides advise the public on advertising practices the Co...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: globalcompliancenews.com  
-   Link: <a href="https://www.globalcompliancenews.com/2022/03/12/united-states-endorsements-testimonials-and-product-reviews-%CC%B6-ftc-advertising-enforcement-priority-01032022/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalcompliancenews.com/2022/03/12/united-states-endorsements-testimonials-and-product-reviews-%CC%B6-ftc-advertising-enforcement-priority-01032022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, testimonials and product reviews ̶ FTC...12 Mar 2022 — Several recent actions by the FTC illustrate that it is prioritizin...</p></details>
+   Link:<a href="https://www.globalcompliancenews.com/2022/03/12/united-states-endorsements-testimonials-and-product-reviews-%CC%B6-ftc-advertising-enforcement-priority-01032022/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalcompliancenews.com/2022/03/12/united-states-endorsements-testimonials-and-product-reviews-%CC%B6-ftc-advertising-enforcement-priority-01032022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, testimonials and product reviews ̶ FTC...12 Mar 2022 — Several recent actions by the FTC illustrate that it is prioritizin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: adamigo.ai  
-   Link: <a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
+   Link:<a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hoganlovells.com  
    Title: ftc publishes updated endorsement guides and proposed rule banning fake reviews  
-   Link: <a href="https://www.hoganlovells.com/en/publications/ftc-publishes-updated-endorsement-guides-and-proposed-rule-banning-fake-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/ftc-publishes-updated-endorsement-guides-and-proposed-rule-banning-fake-reviews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC publishes updated Endorsement Guides and...10 Jul 2023 — FTC announced a proposed rule that would prevent marketers from engaging in...</p></details>
+   Link:<a href="https://www.hoganlovells.com/en/publications/ftc-publishes-updated-endorsement-guides-and-proposed-rule-banning-fake-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/ftc-publishes-updated-endorsement-guides-and-proposed-rule-banning-fake-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC publishes updated Endorsement Guides and...10 Jul 2023 — FTC announced a proposed rule that would prevent marketers from engaging in...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bakerbotts.com  
    Title: The Federal Trade Commissions New Guidelines for Endorsements and Testimonials  
-   Link: <a href="https://www.bakerbotts.com/~/media/Files/Thought-Leadership/Publications/2024/February/The-Federal-Trade-Commissions-New-Guidelines-for-Endorsements-and-Testimonials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bakerbotts.com/~/media/Files/Thought-Leadership/Publications/2024/February/The-Federal-Trade-Commissions-New-Guidelines-for-Endorsements-and-Testimonials.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Federal Trade Commission&#x27;s New Guidelines for...by J Tortora · 2024 — As with all forms of advertising, endorsements must reflect th...</p></details>
+   Link:<a href="https://www.bakerbotts.com/~/media/Files/Thought-Leadership/Publications/2024/February/The-Federal-Trade-Commissions-New-Guidelines-for-Endorsements-and-Testimonials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bakerbotts.com/~/media/Files/Thought-Leadership/Publications/2024/February/The-Federal-Trade-Commissions-New-Guidelines-for-Endorsements-and-Testimonials.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Federal Trade Commission&#x27;s New Guidelines for...by J Tortora · 2024 — As with all forms of advertising, endorsements must reflect th...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: supplysidesj.com  
    Title: breaking down the latest from the ftc on endorsements and consumer reviews  
-   Link: <a href="https://www.supplysidesj.com/supplement-regulations/breaking-down-the-latest-from-the-ftc-on-endorsements-and-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.supplysidesj.com/supplement-regulations/breaking-down-the-latest-from-the-ftc-on-endorsements-and-consumer-reviews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking down the latest from the FTC on endorsements...14 Sept 2023 — FTC considers a review an endorsement when it can be attributed t...</p></details>
+   Link:<a href="https://www.supplysidesj.com/supplement-regulations/breaking-down-the-latest-from-the-ftc-on-endorsements-and-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.supplysidesj.com/supplement-regulations/breaking-down-the-latest-from-the-ftc-on-endorsements-and-consumer-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking down the latest from the FTC on endorsements...14 Sept 2023 — FTC considers a review an endorsement when it can be attributed t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wardandsmith.com  
    Title: the ad vantage point navigating the ftc endorsement guides part iii  
-   Link: <a href="https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The #AD Vantage Point: Navigating the FTC Endorsement...24 Jan 2024 — As a reminder, the FTC Endorsement Guides describe how the FTC eva...</p></details>
+   Link:<a href="https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The #AD Vantage Point: Navigating the FTC Endorsement...24 Jan 2024 — As a reminder, the FTC Endorsement Guides describe how the FTC eva...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: business.cch.com  
    Title: The FTCs Endorsement Guides What People Are Asking Federal Trade Commission  
-   Link: <a href="https://business.cch.com/ald/TheFTCsEndorsementGuides_WhatPeopleAreAsking_FederalTradeCommission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://business.cch.com/ald/TheFTCsEndorsementGuides_WhatPeopleAreAsking_FederalTradeCommission.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingThe Guides are intended to give insight into what the FTC thinks about various marketing...</p></details>
+   Link:<a href="https://business.cch.com/ald/TheFTCsEndorsementGuides_WhatPeopleAreAsking_FederalTradeCommission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://business.cch.com/ald/TheFTCsEndorsementGuides_WhatPeopleAreAsking_FederalTradeCommission.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingThe Guides are intended to give insight into what the FTC thinks about various marketing...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_au
 
 ## Introduction
 
-OutdoorGearLab and Serious Eats demonstrate that affiliate publishing can become a trusted business when commercial links sit behind genuine expertise rather than in front of it. Both organisations earn [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}), yet they have built reputations by making their testing methods visible, documenting why products succeed or fail, and investing in specialist editors rather than relying on generic buying guides. Their model is demanding and expensive, but it offers an important lesson for smaller [authority]({{ 'authority/' | relative_url }}) blogs: readers are far more likely to trust recommendations when they can see the work behind them, understand the evaluation criteria, and believe the editorial process remains independent from commercial incentives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab+2Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
+OutdoorGearLab and Serious Eats demonstrate that affiliate publishing can become a trusted business when commercial links sit behind genuine expertise rather than in front of it. Both organisations earn [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}), yet they have built reputations by making their testing methods visible, documenting why products succeed or fail, and investing in specialist editors rather than relying on generic buying guides. Their model is demanding and expensive, but it offers an important lesson for smaller [authority]({{ 'authority/' | relative_url }}) blogs: readers are far more likely to trust recommendations when they can see the work behind them, understand the evaluation criteria, and believe the editorial process remains independent from commercial incentives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab+2Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044-Illustration-1-dark.svg" | relative_url }}" alt="Model Sites illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -297,7 +297,7 @@ Common characteristics include:
 * Explaining evaluation criteria before presenting recommendations.
 * Showing comparisons between competing products instead of reviewing items in isolation.
 * Updating reviews as products change or new competitors appear.
-* Being explicit about affiliate commissions and editorial independence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab+2Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
+* Being explicit about affiliate commissions and editorial independence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab+2Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
 
 </div>
 
@@ -308,15 +308,15 @@ For anyone building an affiliate website, these practices matter because they an
 
 ## OutdoorGearLab and Side-by-Side Gear Testing
 
-OutdoorGearLab has built its brand around the idea that outdoor equipment should be tested in realistic conditions and compared directly against competing products. Its homepage prominently states that reviews are reader-supported, that products are purchased rather than supplied by manufacturers, and that affiliate [commissions]({{ 'commissions/' | relative_url }}) fund continued testing instead of advertising. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
+OutdoorGearLab has built its brand around the idea that outdoor equipment should be tested in realistic conditions and compared directly against competing products. Its homepage prominently states that reviews are reader-supported, that products are purchased rather than supplied by manufacturers, and that affiliate [commissions]({{ 'commissions/' | relative_url }}) fund continued testing instead of advertising.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
 
 This positioning creates several credibility signals.
 
 First, products are evaluated using consistent testing plans rather than isolated impressions. A hiking boot is compared with other hiking boots across factors such as comfort, traction, durability and weather resistance instead of being reviewed on its own merits. Readers therefore understand relative strengths rather than receiving a simple verdict.
 
-Second, the reviewers usually possess relevant experience in the activity itself. Rather than assigning a general lifestyle writer to every topic, GearLab uses climbers, cyclists, skiers and backpackers who understand the practical trade-offs their audience faces. That expertise appears throughout the reviews in the form of use-case advice rather than marketing language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
+Second, the reviewers usually possess relevant experience in the activity itself. Rather than assigning a general lifestyle writer to every topic, GearLab uses climbers, cyclists, skiers and backpackers who understand the practical trade-offs their audience faces. That expertise appears throughout the reviews in the form of use-case advice rather than marketing language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
 
-Third, the site makes its testing philosophy part of its public identity. It repeatedly explains that products are bought at retail, tested side by side, and assessed without sponsored content. Whether every reader verifies those claims or not, openly describing the methodology increases transparency and distinguishes the publication from anonymous affiliate pages that simply rank products without explaining how they were evaluated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
+Third, the site makes its testing philosophy part of its public identity. It repeatedly explains that products are bought at retail, tested side by side, and assessed without sponsored content. Whether every reader verifies those claims or not, openly describing the methodology increases transparency and distinguishes the publication from anonymous affiliate pages that simply rank products without explaining how they were evaluated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
 
 For affiliate publishers, the commercial insight is straightforward: visible testing becomes a marketing asset. Readers often remember the comparison process as much as the final recommendation.
 
@@ -326,11 +326,11 @@ For affiliate publishers, the commercial insight is straightforward: visible tes
 
 Serious Eats began primarily as a food publication, but its equipment section illustrates how practical expertise can support affiliate commerce without overwhelming the editorial mission.
 
-The site's editorial guidelines emphasise scientific thinking, fact-checking, transparent corrections and the [separation]({{ 'separation/' | relative_url }}) of advertising from editorial decisions. Product recommendations are presented as the result of empirical testing rather than commercial partnerships, while affiliate relationships are disclosed alongside relevant articles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/serious-eats-editorial-guidelines-5218189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">Fact-checking is a joint responsibility for writers and editors, ensuring quality and accurate content. Diverse, experienced authors prod...</span></span></span>
+The site's editorial guidelines emphasise scientific thinking, fact-checking, transparent corrections and the [separation]({{ 'separation/' | relative_url }}) of advertising from editorial decisions. Product recommendations are presented as the result of empirical testing rather than commercial partnerships, while affiliate relationships are disclosed alongside relevant articles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/serious-eats-editorial-guidelines-5218189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">Fact-checking is a joint responsibility for writers and editors, ensuring quality and accurate content. Diverse, experienced authors prod...</span></span></span>
 
-Its equipment reviews typically begin with a testing objective rather than a buying conclusion. Editors define the questions they want to answer, identify representative products across different price points, design repeatable tests and explain how each item performed. Long-term use often complements laboratory-style measurements, allowing recommendations to reflect both measurable performance and day-to-day cooking experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/commerce-guidelines-and-mission-5120865" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">Our reviews are built on empirical data and detailed testing procedures to ensure trust and reliability. We start each review project wit...</span></span></span>
+Its equipment reviews typically begin with a testing objective rather than a buying conclusion. Editors define the questions they want to answer, identify representative products across different price points, design repeatable tests and explain how each item performed. Long-term use often complements laboratory-style measurements, allowing recommendations to reflect both measurable performance and day-to-day cooking experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/commerce-guidelines-and-mission-5120865" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">Our reviews are built on empirical data and detailed testing procedures to ensure trust and reliability. We start each review project wit...</span></span></span>
 
-This evidence-driven culture also reflects the wider influence of contributors such as J. Kenji López-Alt, whose work popularised experimentation and controlled testing in food writing. Rather than asking readers to trust personal preference alone, Serious Eats frequently explains the reasoning behind recipes and equipment choices through observation and repeatable experiments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Serious_Eats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Serious Eats</span><span class="citation-popover-snippet">Serious Eats</span></span></span>
+This evidence-driven culture also reflects the wider influence of contributors such as J. Kenji López-Alt, whose work popularised experimentation and controlled testing in food writing. Rather than asking readers to trust personal preference alone, Serious Eats frequently explains the reasoning behind recipes and equipment choices through observation and repeatable experiments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Serious_Eats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Serious Eats</span><span class="citation-popover-snippet">Serious Eats</span></span></span>
 
 The result is an affiliate model in which product recommendations feel like a natural extension of educational content. Someone reading an article about knife technique or cast-iron cooking encounters equipment recommendations within a context that has already demonstrated expertise.
 
@@ -351,7 +351,7 @@ Instead of copying the scale of OutdoorGearLab or Serious Eats, smaller authorit
 
 **Document trade-offs.** Authority comes from acknowledging weaknesses as well as strengths. Products rarely suit everyone, and honest limitations often increase reader confidence.
 
-**Separate editorial judgement from monetisation.** Clear affiliate disclosures, consistent review standards and transparent testing reduce the perception that recommendations are driven solely by commission rates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab+2Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
+**Separate editorial judgement from monetisation.** Clear affiliate disclosures, consistent review standards and transparent testing reduce the perception that recommendations are driven solely by commission rates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab+2Serious Eats]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-snippet">GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044-Illustration-3-dark.svg" | relative_url }}" alt="Model Sites illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -366,194 +366,194 @@ For smaller authority websites, the practical lesson is not to imitate their bud
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Expert Review Sites Get Right. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Expert Review Sites Get Right. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Helps publishers create useful, trustworthy content rather than thin commercial copy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps publishers create useful, trustworthy content rather than thin commercial copy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Provides useful contrast by illustrating how credibility can be manipulated, reinforcing the value of transparent, evidence-based reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides useful contrast by illustrating how credibility can be manipulated, reinforcing the value of transparent, evidence-based reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains why credibility, authority, transparency, and trust increase reader confidence in recommendations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why credibility, authority, transparency, and trust increase reader confidence in recommendations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content INC. on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content INC.">Content INC.</a>
-        </h4>
-        <p class="fr-book-author">By Joe Pulizzi, Ignacio Montero</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content INC. on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content INC.">Content INC.</a>
+</h4>
+<p class="fr-book-author">By Joe Pulizzi, Ignacio Montero</p>
         
-        <p class="fr-book-desc">Focuses on growing authority through valuable content before monetization, matching the article&#x27;s central lesson.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on growing authority through valuable content before monetization, matching the article&#x27;s central lesson.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Barker autograph and The Price is Right memorabilia. Perfect condition."><img src="{{ '/assets/images/marketplace-covers/403efc6b963f9b1ba005.jpg' | relative_url }}" alt="Listing image for Bob Barker autograph and The Price is Right memorabilia. Perfect condition." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Barker autograph and The Price is Right memorabilia. Perfect condition.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for right memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: right memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Barker autograph and The Price is Right memorabilia. Perfect condition."><img src="{{ '/assets/images/marketplace-covers/403efc6b963f9b1ba005.jpg' | relative_url }}" alt="Listing image for Bob Barker autograph and The Price is Right memorabilia. Perfect condition." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Barker autograph and The Price is Right memorabilia. Perfect condition.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for right memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: right memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anthony Joshua Gold Star Boxing Glove Memorabilia Right Hand"><img src="{{ '/assets/images/marketplace-covers/afed1d1e17cfe513128b.jpg' | relative_url }}" alt="Listing image for Anthony Joshua Gold Star Boxing Glove Memorabilia Right Hand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Anthony Joshua Gold Star Boxing Glove Memorabilia Right Hand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for right memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: right memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anthony Joshua Gold Star Boxing Glove Memorabilia Right Hand"><img src="{{ '/assets/images/marketplace-covers/afed1d1e17cfe513128b.jpg' | relative_url }}" alt="Listing image for Anthony Joshua Gold Star Boxing Glove Memorabilia Right Hand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Anthony Joshua Gold Star Boxing Glove Memorabilia Right Hand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for right memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: right memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Right Said Fred Rare Memorabilia - Balloon"><img src="{{ '/assets/images/marketplace-covers/c2fc40a14619eea4dafa.jpg' | relative_url }}" alt="Listing image for Right Said Fred Rare Memorabilia - Balloon" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Right Said Fred Rare Memorabilia - Balloon</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for right memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: right memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Right Said Fred Rare Memorabilia - Balloon"><img src="{{ '/assets/images/marketplace-covers/c2fc40a14619eea4dafa.jpg' | relative_url }}" alt="Listing image for Right Said Fred Rare Memorabilia - Balloon" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Right Said Fred Rare Memorabilia - Balloon</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for right memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: right memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage C-47 Skytrain Right Rudder Pedal (Memorabilia Item)"><img src="{{ '/assets/images/marketplace-covers/00ff42583852628e154b.jpg' | relative_url }}" alt="Listing image for Vintage C-47 Skytrain Right Rudder Pedal (Memorabilia Item)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage C-47 Skytrain Right Rudder Pedal (Memorabilia Item)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for right memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: right memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage C-47 Skytrain Right Rudder Pedal (Memorabilia Item)"><img src="{{ '/assets/images/marketplace-covers/00ff42583852628e154b.jpg' | relative_url }}" alt="Listing image for Vintage C-47 Skytrain Right Rudder Pedal (Memorabilia Item)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage C-47 Skytrain Right Rudder Pedal (Memorabilia Item)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for right memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: right memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=right+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="right memorabilia -book -books -dvd" data-ebay-reference="model-sites-what-expert-review-sites-get-right-making-money-from-right-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ For smaller authority websites, the practical lesson is not to imitate their bud
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ For smaller authority websites, the practical lesson is not to imitate their bud
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ For smaller authority websites, the practical lesson is not to imitate their bud
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ For smaller authority websites, the practical lesson is not to imitate their bud
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ For smaller authority websites, the practical lesson is not to imitate their bud
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,98 +759,98 @@ For smaller authority websites, the practical lesson is not to imitate their bud
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: outdoorgearlab.com  
-   Link: <a href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoorgearlab.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</p></details>
+   Link:<a href="https://www.outdoorgearlab.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoorgearlab.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GearLabOutdoor Gear LabGearLab provides the world&#x27;s best reviews of outdoors gear based on in-depth side-by-side comparison and written b...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Serious Eats  
-   Link: <a href="https://en.wikipedia.org/wiki/Serious_Eats" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Serious_Eats</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Serious_Eats" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Serious_Eats</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DQudlKjE6Uj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQudlKjE6Uj/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Serious Eats on Instagram: &quot;Introducing the first-ever Serious...Everything we recommend has gone through rigorous [side-by-side testing](&amp;#123;&amp;#123; &#x27;comparison-tests/&#x27; | relative_url &amp;#125;&amp;#125;)—...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DQudlKjE6Uj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQudlKjE6Uj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Serious Eats on Instagram: &quot;Introducing the first-ever Serious...Everything we recommend has gone through rigorous [side-by-side testing](&amp;#123;&amp;#123; &#x27;comparison-tests/&#x27; | relative_url &amp;#125;&amp;#125;)—...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: seriouseats.com  
-   Link: <a href="https://www.seriouseats.com/serious-eats-editorial-guidelines-5218189" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/serious-eats-editorial-guidelines-5218189</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking is a joint responsibility for writers and editors, ensuring quality and accurate content. Diverse, experienced authors prod...</p></details>
+   Link:<a href="https://www.seriouseats.com/serious-eats-editorial-guidelines-5218189" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/serious-eats-editorial-guidelines-5218189</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking is a joint responsibility for writers and editors, ensuring quality and accurate content. Diverse, experienced authors prod...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: seriouseats.com  
-   Link: <a href="https://www.seriouseats.com/commerce-guidelines-and-mission-5120865" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/commerce-guidelines-and-mission-5120865</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our reviews are built on empirical data and detailed testing procedures to ensure trust and reliability. We start each review project wit...</p></details>
+   Link:<a href="https://www.seriouseats.com/commerce-guidelines-and-mission-5120865" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/commerce-guidelines-and-mission-5120865</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our reviews are built on empirical data and detailed testing procedures to ensure trust and reliability. We start each review project wit...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: seriouseats.com  
    Title: basic starter kitchen equipment  
-   Link: <a href="https://www.seriouseats.com/basic-starter-kitchen-equipment" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/basic-starter-kitchen-equipment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>She&#x27;s tested hundreds of basic kitchen essentials for the site, including drip coffee makers and...Read more...</p></details>
+   Link:<a href="https://www.seriouseats.com/basic-starter-kitchen-equipment" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/basic-starter-kitchen-equipment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She&#x27;s tested hundreds of basic kitchen essentials for the site, including drip coffee makers and...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.ycombinator.com  
-   Link: <a href="https://news.ycombinator.com/item?id=16733029" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=16733029</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;ve bought thousands of dollars of outdoor...</p></details>
+   Link:<a href="https://news.ycombinator.com/item?id=16733029" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=16733029</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;ve bought thousands of dollars of outdoor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: uk.trustpilot.com  
-   Link: <a href="https://uk.trustpilot.com/review/www.outdoorgearlab.com" target="_blank" rel="noopener noreferrer nofollow">https://uk.trustpilot.com/review/www.outdoorgearlab.com</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reviews 21 Dec 2025 — 2 people have already reviewed OutdoorGearLab. Read about their experiences and share your own...</p></details>
+   Link:<a href="https://uk.trustpilot.com/review/www.outdoorgearlab.com" target="_blank" rel="noopener noreferrer nofollow">https://uk.trustpilot.com/review/www.outdoorgearlab.com</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reviews 21 Dec 2025 — 2 people have already reviewed OutdoorGearLab. Read about their experiences and share your own...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: feralfinance.com  
-   Link: <a href="https://feralfinance.com/2026/02/26/[amazon" target="_blank" rel="noopener noreferrer nofollow">https://feralfinance.com/2026/02/26/[amazon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Successful Amazon Affiliate Website ExamplesThey create genuinely useful content. Wirecutter and OutdoorGearLab invest heavily in test...</p></details>
+   Link:<a href="https://feralfinance.com/2026/02/26/[amazon" target="_blank" rel="noopener noreferrer nofollow">https://feralfinance.com/2026/02/26/[amazon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Successful Amazon Affiliate Website ExamplesThey create genuinely useful content. Wirecutter and OutdoorGearLab invest heavily in test...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AmericasTestKitchen/comments/1kac71u/do_you_trust_atk_reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AmericasTestKitchen/comments/1kac71u/do_you_trust_atk_reviews/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you trust ATK reviews?: r/AmericasTestKitchenThey are generally the most reliable source of kitchen equipment reviews. A little bit b...</p></details>
+   Link:<a href="https://www.reddit.com/r/AmericasTestKitchen/comments/1kac71u/do_you_trust_atk_reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AmericasTestKitchen/comments/1kac71u/do_you_trust_atk_reviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do you trust ATK reviews?: r/AmericasTestKitchenThey are generally the most reliable source of kitchen equipment reviews. A little bit b...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: a breakdown of our favorite and least favorite kitchen gear for 2025 handpicked  
-   Link: <a href="https://www.facebook.com/americastestkitchen/videos/a-breakdown-of-our-favorite-and-least-favorite-kitchen-gear-for-2025-handpicked-/1151967579936012/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americastestkitchen/videos/a-breakdown-of-our-favorite-and-least-favorite-kitchen-gear-for-2025-handpicked-/1151967579936012/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A breakdown of our favorite and least favorite kitchen gear for...A breakdown of our favorite and least favorite kitchen gear for 2025...</p></details>
+   Link:<a href="https://www.facebook.com/americastestkitchen/videos/a-breakdown-of-our-favorite-and-least-favorite-kitchen-gear-for-2025-handpicked-/1151967579936012/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americastestkitchen/videos/a-breakdown-of-our-favorite-and-least-favorite-kitchen-gear-for-2025-handpicked-/1151967579936012/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A breakdown of our favorite and least favorite kitchen gear for...A breakdown of our favorite and least favorite kitchen gear for 2025...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1p80_G5iSdw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1p80_G5iSdw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OutdoorGearLab affiliate review business model Pay 2 Play - The Truth Behind Outdoor Gear Reviews - Affiliate Marketing Rules The Camping...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1p80_G5iSdw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1p80_G5iSdw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OutdoorGearLab affiliate review business model Pay 2 Play - The Truth Behind Outdoor Gear Reviews - Affiliate Marketing Rules The Camping...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: clearlydeliciousfoodblog.com  
    Title: part 5 what crazy thing can i do kenji serious eats  
-   Link: <a href="https://www.clearlydeliciousfoodblog.com/2013/part-5-what-crazy-thing-can-i-do-kenji-serious-eats/" target="_blank" rel="noopener noreferrer nofollow">https://www.clearlydeliciousfoodblog.com/2013/part-5-what-crazy-thing-can-i-do-kenji-serious-eats/</a>  
+   Link:<a href="https://www.clearlydeliciousfoodblog.com/2013/part-5-what-crazy-thing-can-i-do-kenji-serious-eats/" target="_blank" rel="noopener noreferrer nofollow">https://www.clearlydeliciousfoodblog.com/2013/part-5-what-crazy-thing-can-i-do-kenji-serious-eats/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Pay 2 Play  
-   Link: <a href="https://www.youtube.com/watch?v=IZks49U1R24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IZks49U1R24</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Affiliate Site Example for Passive Income-Gear Patrol-Learn Affiliate Marketing for Beginners...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IZks49U1R24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IZks49U1R24</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Affiliate Site Example for Passive Income-Gear Patrol-Learn Affiliate Marketing for Beginners...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWCm9RODR1G/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWCm9RODR1G/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>all manner of products, from pans to fridge-side organizers (even...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWCm9RODR1G/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWCm9RODR1G/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>all manner of products, from pans to fridge-side organizers (even...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bogleheads.org  
    Title: Their methodology seems a cut above others  
-   Link: <a href="https://www.bogleheads.org/forum/viewtopic.php?t=329208" target="_blank" rel="noopener noreferrer nofollow">https://www.bogleheads.org/forum/viewtopic.php?t=329208</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a better meta-review site than Wirecutter?3 Nov 2020 — I consider most review sites almost worthless, I have had very good luck...</p></details>
+   Link:<a href="https://www.bogleheads.org/forum/viewtopic.php?t=329208" target="_blank" rel="noopener noreferrer nofollow">https://www.bogleheads.org/forum/viewtopic.php?t=329208</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a better meta-review site than Wirecutter?3 Nov 2020 — I consider most review sites almost worthless, I have had very good luck...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/americastestkitchen/posts/wonder-how-atk-reviews-tests-kitchen-gear-and-ingredients-heres-how-we-do-it/718249787009376/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americastestkitchen/posts/wonder-how-atk-reviews-tests-kitchen-gear-and-ingredients-heres-how-we-do-it/718249787009376/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wonder how ATK Reviews tests kitchen gear and...5 Sept 2023 — ATK reviews equipment and ingredients to find the “best” items through rig...</p></details>
+   Link:<a href="https://www.facebook.com/americastestkitchen/posts/wonder-how-atk-reviews-tests-kitchen-gear-and-ingredients-heres-how-we-do-it/718249787009376/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americastestkitchen/posts/wonder-how-atk-reviews-tests-kitchen-gear-and-ingredients-heres-how-we-do-it/718249787009376/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wonder how ATK Reviews tests kitchen gear and...5 Sept 2023 — ATK reviews equipment and ingredients to find the “best” items through rig...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tbnPbDVbNHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbnPbDVbNHU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d cuisines. We bring a democratic yet scientific...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tbnPbDVbNHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbnPbDVbNHU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d cuisines. We bring a democratic yet scientific...</p></details>

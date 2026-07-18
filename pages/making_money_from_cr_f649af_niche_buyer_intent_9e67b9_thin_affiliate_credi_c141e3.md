@@ -290,9 +290,9 @@ This makes credibility a niche-selection filter rather than merely a writing tec
 
 A thin affiliate page is not defined by its word count. It is defined by its lack of original value.
 
-Google has consistently distinguished between affiliate sites that simply redistribute merchant information and those that contribute "substantial added value". Its guidance warns against affiliate pages that largely repeat product descriptions, specifications or promotional material already available elsewhere. Instead, publishers should provide information or insights that users cannot obtain from the merchant page alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">Google for DevelopersAffiliate programs and added value27 Jan 2014 — Our quality guidelines warn against running a site with thin or scra...</span></span></span>
+Google has consistently distinguished between affiliate sites that simply redistribute merchant information and those that contribute "substantial added value". Its guidance warns against affiliate pages that largely repeat product descriptions, specifications or promotional material already available elsewhere. Instead, publishers should provide information or insights that users cannot obtain from the merchant page alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">Google for DevelopersAffiliate programs and added value27 Jan 2014 — Our quality guidelines warn against running a site with thin or scra...</span></span></span>
 
-Common characteristics of thin affiliate content include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/webmasters/thread/261563965/thin-content?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[support.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">thin content</span><span class="citation-popover-snippet">The content is written by me personally and from my own experience. Everything written is supported...</span></span></span>
+Common characteristics of thin affiliate content include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/webmasters/thread/261563965/thin-content?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[support.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">thin content</span><span class="citation-popover-snippet">The content is written by me personally and from my own experience. Everything written is supported...</span></span></span>
 
 * Rewritten manufacturer descriptions with little independent analysis.
 * Generic "Top 10" lists where every product receives similar praise.
@@ -330,7 +330,7 @@ Useful credibility signals include:
 
 </div>
 
-Google's guidance for people-first content similarly encourages creators to produce material demonstrating experience, expertise and original insight that benefits users rather than pages designed primarily to capture search traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s automated ranking systems are designed to prioritize helpfu...</span></span></span>
+Google's guidance for people-first content similarly encourages creators to produce material demonstrating experience, expertise and original insight that benefits users rather than pages designed primarily to capture search traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s automated ranking systems are designed to prioritize helpfu...</span></span></span>
 
 These forms of evidence also improve trust independently of search rankings. A reader is more likely to act on recommendations when they can see how conclusions were reached rather than being asked to accept unsupported opinions.
 
@@ -338,7 +338,7 @@ These forms of evidence also improve trust independently of search rankings. A r
 <img src="{{ "/assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_thin_affiliate_credi_c141e3-Illustration-2-dark.svg" | relative_url }}" alt="Credibility illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_thin_affiliate_credi_c141e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_thin_affiliate_credi_c141e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Credibility Test Before Choosing a Niche
 
-Before building an affiliate site, apply a practical credibility test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[support.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">low traffic affiliate site what can i do better</span><span class="citation-popover-snippet">Traffic Affiliate Site - What Can I Do Better?3 Jun 2021 — Low Traffic Affiliate Site helps people choose the right products, with useful...</span></span></span>
+Before building an affiliate site, apply a practical credibility test.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[support.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">low traffic affiliate site what can i do better</span><span class="citation-popover-snippet">Traffic Affiliate Site - What Can I Do Better?3 Jun 2021 — Low Traffic Affiliate Site helps people choose the right products, with useful...</span></span></span>
 
 Ask yourself:
 
@@ -368,7 +368,7 @@ The same commission percentage can produce very different long-term opportunitie
 
 Some affiliate markets demand levels of expertise that are difficult for a new publisher to establish.
 
-Health, financial products, legal services and other high-impact decisions often require particularly strong evidence because poor advice can materially affect people's wellbeing or finances. Google has repeatedly emphasised the importance of trustworthy information in areas where inaccurate guidance could cause harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s automated ranking systems are designed to prioritize helpfu...</span></span></span>
+Health, financial products, legal services and other high-impact decisions often require particularly strong evidence because poor advice can materially affect people's wellbeing or finances. Google has repeatedly emphasised the importance of trustworthy information in areas where inaccurate guidance could cause harm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s automated ranking systems are designed to prioritize helpfu...</span></span></span>
 
 In these niches, readers expect more than enthusiastic recommendations. They may reasonably look for:
 
@@ -393,7 +393,7 @@ That does not make these niches impossible. It means they require a much stronge
 
 Trust also depends on explaining the commercial relationship.
 
-Readers should be able to recognise when recommendations generate [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}). Consumer protection authorities, including the US Federal Trade Commission, require material commercial relationships to be disclosed clearly so that endorsements are not misleading. Transparent disclosure strengthens credibility because it allows readers to evaluate recommendations with full knowledge of the financial incentive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Readers should be able to recognise when recommendations generate [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}). Consumer protection authorities, including the US Federal Trade Commission, require material commercial relationships to be disclosed clearly so that endorsements are not misleading. Transparent disclosure strengthens credibility because it allows readers to evaluate recommendations with full knowledge of the financial incentive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 Disclosure alone, however, cannot rescue weak content. A page that openly admits it earns commission but contributes no independent value still fails the credibility test.
 
@@ -413,162 +413,162 @@ When evaluating potential affiliate opportunities, the most important question i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Your Site Add Real Trust?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Your Site Add Real Trust?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Explains how to create genuinely useful, trustworthy content instead of thin, derivative pages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to create genuinely useful, trustworthy content instead of thin, derivative pages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
-        </h4>
-        <p class="fr-book-author">By Andy Crestodina</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
+</h4>
+<p class="fr-book-author">By Andy Crestodina</p>
         
-        <p class="fr-book-desc">Focuses on creating credible, evidence-based website content that performs for users and search engines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on creating credible, evidence-based website content that performs for users and search engines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Sheridan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
+</h4>
+<p class="fr-book-author">By Marcus Sheridan</p>
         
-        <p class="fr-book-desc">Emphasizes transparency, expertise, and answering real customer questions to build trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes transparency, expertise, and answering real customer questions to build trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Provides foundational insight into trust, credibility, and ethical persuasion for recommendation content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational insight into trust, credibility, and ethical persuasion for recommendation content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Chemistry</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Chemistry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SC Food Intolerance Test Kit -At Home Screen for 975 Different"><img src="{{ '/assets/images/marketplace-covers/0593a57a46bb86b8e0a1.jpg' | relative_url }}" alt="Listing image for SC Food Intolerance Test Kit -At Home Screen for 975 Different" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer">SC Food Intolerance Test Kit -At Home Screen for 975 Different</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product testing kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: product testing kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SC Food Intolerance Test Kit -At Home Screen for 975 Different"><img src="{{ '/assets/images/marketplace-covers/0593a57a46bb86b8e0a1.jpg' | relative_url }}" alt="Listing image for SC Food Intolerance Test Kit -At Home Screen for 975 Different" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer">SC Food Intolerance Test Kit -At Home Screen for 975 Different</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product testing kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: product testing kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Welzo Test Product Kit for Women Private Results Monitor Reproductive Health"><img src="{{ '/assets/images/marketplace-covers/05740f73c5780a851be8.jpg' | relative_url }}" alt="Listing image for Welzo Test Product Kit for Women Private Results Monitor Reproductive Health" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer">Welzo Test Product Kit for Women Private Results Monitor Reproductive Health</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product testing kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: product testing kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Welzo Test Product Kit for Women Private Results Monitor Reproductive Health"><img src="{{ '/assets/images/marketplace-covers/05740f73c5780a851be8.jpg' | relative_url }}" alt="Listing image for Welzo Test Product Kit for Women Private Results Monitor Reproductive Health" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer">Welzo Test Product Kit for Women Private Results Monitor Reproductive Health</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product testing kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: product testing kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+testing+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product testing kit" data-ebay-reference="credibility-can-your-site-add-real-trust-making-money-from-product-testing-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ When evaluating potential affiliate opportunities, the most important question i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ When evaluating potential affiliate opportunities, the most important question i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ When evaluating potential affiliate opportunities, the most important question i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ When evaluating potential affiliate opportunities, the most important question i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ When evaluating potential affiliate opportunities, the most important question i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,143 +774,143 @@ When evaluating potential affiliate opportunities, the most important question i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
    Title: affiliate programs and added value  
-   Link: <a href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersAffiliate programs and added value27 Jan 2014 — Our quality guidelines warn against running a site with thin or scra...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersAffiliate programs and added value27 Jan 2014 — Our quality guidelines warn against running a site with thin or scra...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s automated ranking systems are designed to prioritize helpfu...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s automated ranking systems are designed to prioritize helpfu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
+   Link:<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>affiliate website pages that were ranking got suddenly...23 Oct 2022 — All the ranked pages (or maybe all the pages) of my affiliate sit...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>affiliate website pages that were ranking got suddenly...23 Oct 2022 — All the ranked pages (or maybe all the pages) of my affiliate sit...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: support.google.com  
    Title: thin content  
-   Link: <a href="https://support.google.com/webmasters/thread/261563965/thin-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/261563965/thin-content?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The content is written by me personally and from my own experience. Everything written is supported...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/261563965/thin-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/261563965/thin-content?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The content is written by me personally and from my own experience. Everything written is supported...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: support.google.com  
    Title: is affiliate marketing dead  
-   Link: <a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>affiliate marketing dead?4 Feb 2024 — Google&#x27;s documentation says that affiliate programs need to provide added value. How can they actua...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>affiliate marketing dead?4 Feb 2024 — Google&#x27;s documentation says that affiliate programs need to provide added value. How can they actua...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: support.google.com  
    Title: low traffic affiliate site what can i do better  
-   Link: <a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Affiliate Site - What Can I Do Better?3 Jun 2021 — Low Traffic Affiliate Site helps people choose the right products, with useful...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Affiliate Site - What Can I Do Better?3 Jun 2021 — Low Traffic Affiliate Site helps people choose the right products, with useful...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: developers.google.com  
    Title: spam policies  
-   Link: <a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Policies for Google Web SearchAffiliate pages can be considered thin if they are a part of a program that distributes its content across...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Policies for Google Web SearchAffiliate pages can be considered thin if they are a part of a program that distributes its content across...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: search.google  
-   Link: <a href="https://search.google/intl/en-GB/" target="_blank" rel="noopener noreferrer nofollow">https://search.google/intl/en-GB/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google SearchExplore new ways to search. Download the Google app to experience Lens, AR, Search Labs, voice search, and more...</p></details>
+   Link:<a href="https://search.google/intl/en-GB/" target="_blank" rel="noopener noreferrer nofollow">https://search.google/intl/en-GB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google SearchExplore new ways to search. Download the Google app to experience Lens, AR, Search Labs, voice search, and more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: search.google  
    Title: Google Search  
-   Link: <a href="https://search.google/" target="_blank" rel="noopener noreferrer nofollow">https://search.google/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A new kind of helpExplore a new kind of help for your everyday with breakthroughs in Search intelligence from Google I/O...</p></details>
+   Link:<a href="https://search.google/" target="_blank" rel="noopener noreferrer nofollow">https://search.google/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A new kind of helpExplore a new kind of help for your everyday with breakthroughs in Search intelligence from Google I/O...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: keyword.com  
    Title: affiliate links seo rankings  
-   Link: <a href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow">https://keyword.com/blog/affiliate-links-seo-rankings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Affiliate Links Hurt or Help Your SEO Rankings?26 Feb 2025 — According to Google Search Central, Google believes that pure, or “thin,”...</p></details>
+   Link:<a href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow">https://keyword.com/blog/affiliate-links-seo-rankings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Affiliate Links Hurt or Help Your SEO Rankings?26 Feb 2025 — According to Google Search Central, Google believes that pure, or “thin,”...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Google" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Google</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleGoogle is the largest provider of search engines, mapping and navigation applications, [email](&amp;#123;&amp;#123; &#x27;email/&#x27; | relative_url &amp;#125;&amp;#125;) services, office suites, online vid...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Google" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Google</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleGoogle is the largest provider of search engines, mapping and navigation applications, [email](&amp;#123;&amp;#123; &#x27;email/&#x27; | relative_url &amp;#125;&amp;#125;) services, office suites, online vid...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingHere are answers to some of the most frequently asked questions from advertisers, ad agen...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingHere are answers to some of the most frequently asked questions from advertisers, ad agen...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blog.google  
-   Link: <a href="https://blog.google/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Keyword, Google&#x27;s official blog...</p></details>
+   Link:<a href="https://blog.google/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Keyword, Google&#x27;s official blog...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: termsfeed.com  
    Title: ftc disclosures  
-   Link: <a href="https://www.termsfeed.com/blog/ftc-disclosures/" target="_blank" rel="noopener noreferrer nofollow">https://www.termsfeed.com/blog/ftc-disclosures/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission (FTC) Disclosures21 Apr 2026 — The FTC requires companies that use certain business practices to maintain specif...</p></details>
+   Link:<a href="https://www.termsfeed.com/blog/ftc-disclosures/" target="_blank" rel="noopener noreferrer nofollow">https://www.termsfeed.com/blog/ftc-disclosures/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission (FTC) Disclosures21 Apr 2026 — The FTC requires companies that use certain business practices to maintain specif...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — Staff business guidance applying section 5 of the FTC Act to endorsements...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — Staff business guidance applying section 5 of the FTC Act to endorsements...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: eatrightpro.org  
-   Link: <a href="https://www.eatrightpro.org/news-center/practice-trends/social-media-disclosure-best-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.eatrightpro.org/news-center/practice-trends/social-media-disclosure-best-practices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media Disclosure Best PracticesFTC guidelines recommend prominent disclosures in every relevant post, wherever you post it — and f...</p></details>
+   Link:<a href="https://www.eatrightpro.org/news-center/practice-trends/social-media-disclosure-best-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.eatrightpro.org/news-center/practice-trends/social-media-disclosure-best-practices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media Disclosure Best PracticesFTC guidelines recommend prominent disclosures in every relevant post, wherever you post it — and f...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: federal-lawyer.com  
-   Link: <a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
+   Link:<a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dinorank.com  
-   Link: <a href="https://dinorank.com/en-us/blog-seo/what-is-thin-content-seo-how-to-detect-it/" target="_blank" rel="noopener noreferrer nofollow">https://dinorank.com/en-us/blog-seo/what-is-thin-content-seo-how-to-detect-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is thin content SEO and how to detect it with DinoRANKThin content negatively affects the SEO of your website. I explain how to dete...</p></details>
+   Link:<a href="https://dinorank.com/en-us/blog-seo/what-is-thin-content-seo-how-to-detect-it/" target="_blank" rel="noopener noreferrer nofollow">https://dinorank.com/en-us/blog-seo/what-is-thin-content-seo-how-to-detect-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is thin content SEO and how to detect it with DinoRANKThin content negatively affects the SEO of your website. I explain how to dete...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: blog.promise.legal  
-   Link: <a href="https://blog.promise.legal/startup-central/a-startups-guide-to-ftc-endorsement-guidelines-16-cfr-part-255-ensuring-transparency-in-endorsements-and-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://blog.promise.legal/startup-central/a-startups-guide-to-ftc-endorsement-guidelines-16-cfr-part-255-ensuring-transparency-in-endorsements-and-testimonials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Honest Opinions and Authentic Experiences · 2. Testimonials Reflect Typical Consumer Experiences · 3. Adequate Substantiation for All Cla...</p></details>
+   Link:<a href="https://blog.promise.legal/startup-central/a-startups-guide-to-ftc-endorsement-guidelines-16-cfr-part-255-ensuring-transparency-in-endorsements-and-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://blog.promise.legal/startup-central/a-startups-guide-to-ftc-endorsement-guidelines-16-cfr-part-255-ensuring-transparency-in-endorsements-and-testimonials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Honest Opinions and Authentic Experiences · 2. Testimonials Reflect Typical Consumer Experiences · 3. Adequate Substantiation for All Cla...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: steptoe.com  
-   Link: <a href="https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html" target="_blank" rel="noopener noreferrer nofollow">https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Unveils New Endorsement Guides and Proposed...11 Jul 2023 — The Endorsement Guides advise the public on advertising practices the Co...</p></details>
+   Link:<a href="https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html" target="_blank" rel="noopener noreferrer nofollow">https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Unveils New Endorsement Guides and Proposed...11 Jul 2023 — The Endorsement Guides advise the public on advertising practices the Co...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3-obcXkyA4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3-obcXkyA4</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: swlaw.com  
    Title: truth or consequences ftc revised endorsement guides class action risk  
-   Link: <a href="https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revised Endorsement Guides &amp; Class Action Risk8 Aug 2023 — The FTC has updated its guidance on endorsement and testimonial advertisin...</p></details>
+   Link:<a href="https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revised Endorsement Guides &amp; Class Action Risk8 Aug 2023 — The FTC has updated its guidance on endorsement and testimonial advertisin...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: morganlewis.com  
    Title: ftc [updates](&#123;&#123; 'updates/' | relative_url &#125;&#125;) endorsement guides proposes endorsement related rule  
-   Link: <a href="https://www.morganlewis.com/pubs/2023/07/ftc-updates-endorsement-guides-proposes-endorsement-related-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.morganlewis.com/pubs/2023/07/ftc-updates-endorsement-guides-proposes-endorsement-related-rule</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Updates Endorsement Guides, Proposes...10 Jul 2023 — The Federal Trade Commission recently released updated Guides Concerning the Us...</p></details>
+   Link:<a href="https://www.morganlewis.com/pubs/2023/07/ftc-updates-endorsement-guides-proposes-endorsement-related-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.morganlewis.com/pubs/2023/07/ftc-updates-endorsement-guides-proposes-endorsement-related-rule</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Updates Endorsement Guides, Proposes...10 Jul 2023 — The Federal Trade Commission recently released updated Guides Concerning the Us...</p></details>

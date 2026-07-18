@@ -280,11 +280,11 @@ image: /assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_go
 
 ## Introduction
 
-Google does not ban affiliate marketing, and it does not penalise pages simply because they contain affiliate links. The issue is whether an affiliate page gives searchers something genuinely useful that they could not get just by visiting the original merchant. In Google's plain-language view, a page becomes a **thin affiliate page** when it mainly exists to send visitors elsewhere for a commission while contributing little original information, judgement or practical help. Google's spam policies specifically describe thin affiliation as [affiliate content]({{ 'content-mix/' | relative_url }}) that copies product descriptions or [reviews]({{ 'reviews/' | relative_url }}) from merchants without adding original content or meaningful value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
+Google does not ban affiliate marketing, and it does not penalise pages simply because they contain affiliate links. The issue is whether an affiliate page gives searchers something genuinely useful that they could not get just by visiting the original merchant. In Google's plain-language view, a page becomes a **thin affiliate page** when it mainly exists to send visitors elsewhere for a commission while contributing little original information, judgement or practical help. Google's spam policies specifically describe thin affiliation as [affiliate content]({{ 'content-mix/' | relative_url }}) that copies product descriptions or [reviews]({{ 'reviews/' | relative_url }}) from merchants without adding original content or meaningful value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_google_thin_affiliat_7e98e7-Illustration-1-dark.svg" | relative_url }}" alt="Google Policy illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_google_thin_affiliat_7e98e7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_google_thin_affiliat_7e98e7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because many affiliate websites fail not through the presence of affiliate links, but because every page looks like a slightly rewritten version of the same manufacturer information. Google's systems are designed to reward pages that solve users' problems rather than simply acting as another step between the search result and the retailer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
+This distinction matters because many affiliate websites fail not through the presence of affiliate links, but because every page looks like a slightly rewritten version of the same manufacturer information. Google's systems are designed to reward pages that solve users' problems rather than simply acting as another step between the search result and the retailer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
 
 ## What Google Means by Thin Affiliate
 
@@ -299,7 +299,7 @@ Google's policy is aimed at pages that:
 * Copy or lightly rewrite merchant product descriptions.
 * Repeat reviews supplied by affiliate networks.
 * Publish nearly identical content across many products or websites.
-* Exist mainly to earn referral [commissions]({{ 'commissions/' | relative_url }}) rather than help readers make informed decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
+* Exist mainly to earn referral [commissions]({{ 'commissions/' | relative_url }}) rather than help readers make informed decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
 
 Notice what Google is **not** saying. It is not requiring a certain word count. It is not banning product round-ups. It is not requiring professional laboratory [testing]({{ 'testing/' | relative_url }}). The focus is whether the page provides information, insight or experience that is genuinely its own.
 
@@ -312,7 +312,7 @@ That is why a short review based on real experience can be stronger than a long 
 
 Many affiliate programmes distribute ready-made product feeds, images and descriptions so publishers can build pages quickly. While convenient, this creates a problem for search engines.
 
-If hundreds of websites publish essentially the same content, Google has little reason to rank every version. Showing identical pages wastes search results and gives users no additional benefit. Google's spam documentation explicitly identifies affiliate programmes that distribute duplicated material without added value as an example of thin affiliation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
+If hundreds of websites publish essentially the same content, Google has little reason to rank every version. Showing identical pages wastes search results and gives users no additional benefit. Google's spam documentation explicitly identifies affiliate programmes that distribute duplicated material without added value as an example of thin affiliation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
 
 Consider two hypothetical pages reviewing the same coffee machine.
 
@@ -349,7 +349,7 @@ Both pages earn commission if someone buys the product. Only the second changes 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_google_thin_affiliat_7e98e7-Illustration-2-dark.svg" | relative_url }}" alt="Google Policy illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_google_thin_affiliat_7e98e7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_google_thin_affiliat_7e98e7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Added Value Looks Like in Practice
 
-Google never publishes a checklist guaranteeing [rankings]({{ 'rankings/' | relative_url }}), but its guidance consistently points towards creating original, people-first information instead of recycled commercial content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
+Google never publishes a checklist guaranteeing [rankings]({{ 'rankings/' | relative_url }}), but its guidance consistently points towards creating original, people-first information instead of recycled commercial content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
 
 In practice, useful added value often includes:
 
@@ -379,13 +379,13 @@ Several myths regularly appear in discussions about affiliate SEO.
 
 **Myth: Google dislikes affiliate links.**
 
-False. Google has repeatedly made clear that affiliate links themselves are not a spam signal. The problem is low-value pages built around them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
+False. Google has repeatedly made clear that affiliate links themselves are not a spam signal. The problem is low-value pages built around them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
 
 **Myth: Rewriting product descriptions is enough.**
 
 Changing [wording]({{ 'wording/' | relative_url }}) without adding new information rarely creates meaningful value. A rewritten paragraph that communicates exactly the same facts remains largely interchangeable from the reader's perspective.
 
-**Myth: Longer content automatically fixes thin affiliation.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/SEMrush/comments/1leadrk/thin_content_explained_how_to_identify_and_fix_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">“Low-quality or shallow pages”. “Substantially duplicate content”.Read more</span><span class="citation-popover-snippet">Thin Content Explained - How to Identify and Fix It Before...Google&#x27;s official guidelines use phrases like: “Little or no added value”...</span></span></span>
+**Myth: Longer content automatically fixes thin affiliation.**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/SEMrush/comments/1leadrk/thin_content_explained_how_to_identify_and_fix_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">“Low-quality or shallow pages”. “Substantially duplicate content”.Read more</span><span class="citation-popover-snippet">Thin Content Explained - How to Identify and Fix It Before...Google&#x27;s official guidelines use phrases like: “Little or no added value”...</span></span></span>
 
 A 5,000-word article can still be thin if it simply expands marketing claims, repeats specifications and fills space with generic buying advice. Originality and usefulness matter more than length.
 
@@ -401,185 +401,185 @@ A useful way to translate Google's policy into plain English is:
 
 > Affiliate links are acceptable. Pages that merely exist to carry affiliate links are not.
 
-When evaluating an affiliate page, Google is effectively asking whether it contributes something unique before asking the reader to click through to a retailer. If the page functions only as an extra stop on the journey to the merchant, it is unlikely to stand out in search. If it helps readers make a better decision through original insight, [evidence]({{ 'evidence/' | relative_url }}) or experience, it aligns much more closely with Google's guidance on helpful, people-first content and avoids the defining characteristics of thin affiliation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
+When evaluating an affiliate page, Google is effectively asking whether it contributes something unique before asking the reader to click through to a retailer. If the page functions only as an extra stop on the journey to the merchant, it is unlikely to stand out in search. If it helps readers make a better decision through original insight, [evidence]({{ 'evidence/' | relative_url }}) or experience, it aligns much more closely with Google's guidance on helpful, people-first content and avoids the defining characteristics of thin affiliation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0CR9Nbn6L7o" title="Google Product Reviews Update Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0CR9Nbn6L7o" target="_blank" rel="noopener noreferrer">Google Product Reviews Update Explained</a></p><p class="youtube-embed-meta">Channel: Matt Diggity &middot; Views: 23.1K &middot; Uploaded: April 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0CR9Nbn6L7o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0CR9Nbn6L7o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Google Means by Thin Affiliate. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Google Means by Thin Affiliate. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
+</h4>
+<p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
         
-        <p class="fr-book-desc">Explains sustainable SEO practices, quality content, and avoiding low-value pages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sustainable SEO practices, quality content, and avoiding low-value pages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
-        </h4>
-        <p class="fr-book-author">By Andy Crestodina</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
+</h4>
+<p class="fr-book-author">By Andy Crestodina</p>
         
-        <p class="fr-book-desc">Focuses on creating original, useful content that adds value beyond copied material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on creating original, useful content that adds value beyond copied material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Product-Led SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OcdkzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Product-Led SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Product-Led SEO">Product-Led SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eli Schwartz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Product-Led SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OcdkzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Product-Led SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Product-Led SEO">Product-Led SEO</a>
+</h4>
+<p class="fr-book-author">By Eli Schwartz</p>
         
-        <p class="fr-book-desc">Emphasises building search-focused content that satisfies users instead of manipulating rankings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises building search-focused content that satisfies users instead of manipulating rankings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Helps readers produce distinctive, useful copy instead of lightly rewritten merchant text.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers produce distinctive, useful copy instead of lightly rewritten merchant text.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Chemistry</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Product+Led+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Product Led SEO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Chemistry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Product+Led+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Product Led SEO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91fcd062b89a0daa23ef.jpg' | relative_url }}" alt="Listing image for SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91fcd062b89a0daa23ef.jpg' | relative_url }}" alt="Listing image for SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: SEO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d1d64a35f738af565e1.jpg' | relative_url }}" alt="Listing image for Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d1d64a35f738af565e1.jpg' | relative_url }}" alt="Listing image for Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: SEO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo Manager Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fd70ca8d56f3814ec62d.jpg' | relative_url }}" alt="Listing image for Seo Manager Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Seo Manager Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo Manager Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fd70ca8d56f3814ec62d.jpg' | relative_url }}" alt="Listing image for Seo Manager Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Seo Manager Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: SEO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO poster -book -books" data-ebay-reference="google-policy-what-google-means-by-thin-affiliate-making-money-from-seo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ When evaluating an affiliate page, Google is effectively asking whether it contr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ When evaluating an affiliate page, Google is effectively asking whether it contr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ When evaluating an affiliate page, Google is effectively asking whether it contr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ When evaluating an affiliate page, Google is effectively asking whether it contr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ When evaluating an affiliate page, Google is effectively asking whether it contr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,95 +785,95 @@ When evaluating an affiliate page, Google is effectively asking whether it contr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: blog.google  
    Title: google search update march 2024  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New ways we&#x27;re tackling spammy, low-quality content on...5 Mar 2024 — We&#x27;re making several updates to our spam policies to better addres...</p></details>
+   Link:<a href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New ways we&#x27;re tackling spammy, low-quality content on...5 Mar 2024 — We&#x27;re making several updates to our spam policies to better addres...</p></details>
    Published: march 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>affiliate website pages that were ranking got suddenly deindexed...October 23, 2022 — All the ranked pages (or maybe all the pages) of m...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>affiliate website pages that were ranking got suddenly deindexed...October 23, 2022 — All the ranked pages (or maybe all the pages) of m...</p></details>
    Published: October 23, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
+   Link:<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to recover from Thin content with little or no added...19 Nov 2022 — We don&#x27;t accept spam on our site, we are very careful who to link t...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to recover from Thin content with little or no added...19 Nov 2022 — We don&#x27;t accept spam on our site, we are very careful who to link t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>actions report - Search Console HelpGoogle issues a manual action against a site when a human reviewer at Google has determined that page...</p></details>
+   Link:<a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>actions report - Search Console HelpGoogle issues a manual action against a site when a human reviewer at Google has determined that page...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: seo-revolution.com  
-   Link: <a href="https://seo-revolution.com/glossar/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://seo-revolution.com/glossar/thin-content/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thin Content: erkennen und vermeidenWas ist Thin Content und wie können „dünne Inhalte“ vermieden werden? Erhalte wertvolle Tipps zur Ver...</p></details>
+   Link:<a href="https://seo-revolution.com/glossar/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://seo-revolution.com/glossar/thin-content/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thin Content: erkennen und vermeidenWas ist Thin Content und wie können „dünne Inhalte“ vermieden werden? Erhalte wertvolle Tipps zur Ver...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3-obcXkyA4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thin content with little or no added valueMatt Cutts explains what it means if your site has a manual action labeled as &quot;Thin content wit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3-obcXkyA4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thin content with little or no added valueMatt Cutts explains what it means if your site has a manual action labeled as &quot;Thin content wit...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: linkedin.com  
    Title: google spam policies 2025 what every website owner must asif ali aqguf  
-   Link: <a href="https://www.linkedin.com/pulse/google-spam-policies-2025-what-every-website-owner-must-asif-ali-aqguf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/google-spam-policies-2025-what-every-website-owner-must-asif-ali-aqguf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Spam Policies 2025: What Every Website Owner...Scan for thin pages or duplicate paragraphs. Rewrite low-value content keep experi...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/google-spam-policies-2025-what-every-website-owner-must-asif-ali-aqguf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/google-spam-policies-2025-what-every-website-owner-must-asif-ali-aqguf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Spam Policies 2025: What Every Website Owner...Scan for thin pages or duplicate paragraphs. Rewrite low-value content keep experi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: impact.com  
    Title: googles updated site reputation abuse policy on affiliate marketers  
-   Link: <a href="https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s New Site Reputation Policy: Impact on Affiliate...5 May 2024 — In March 2024, Google updated its Search Console guidelines to i...</p></details>
+   Link:<a href="https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s New Site Reputation Policy: Impact on Affiliate...5 May 2024 — In March 2024, Google updated its Search Console guidelines to i...</p></details>
    Published: May 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blog.rakutenadvertising.com  
-   Link: <a href="https://blog.rakutenadvertising.com/news/google-spam-update-and-its-impact-on-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://blog.rakutenadvertising.com/news/google-spam-update-and-its-impact-on-affiliate-marketing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spam Update and Its Impact on Affiliate MarketingJune 11, 2024 — Google has updated its Site Reputation Abuse Policy...</p></details>
+   Link:<a href="https://blog.rakutenadvertising.com/news/google-spam-update-and-its-impact-on-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://blog.rakutenadvertising.com/news/google-spam-update-and-its-impact-on-affiliate-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spam Update and Its Impact on Affiliate MarketingJune 11, 2024 — Google has updated its Site Reputation Abuse Policy...</p></details>
    Published: June 11, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: seroundtable.com  
-   Link: <a href="https://www.seroundtable.com/google-affiliate-programs-spam-docs-removed-34762.html" target="_blank" rel="noopener noreferrer nofollow">https://www.seroundtable.com/google-affiliate-programs-spam-docs-removed-34762.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Explains Why The Affiliate Programs Spam Documentation...January 20, 2023 — Lizzi said on Twitter, &quot;the spam policy covers our cu...</p></details>
+   Link:<a href="https://www.seroundtable.com/google-affiliate-programs-spam-docs-removed-34762.html" target="_blank" rel="noopener noreferrer nofollow">https://www.seroundtable.com/google-affiliate-programs-spam-docs-removed-34762.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Explains Why The Affiliate Programs Spam Documentation...January 20, 2023 — Lizzi said on Twitter, &quot;the spam policy covers our cu...</p></details>
    Published: January 20, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: goup.co.uk  
-   Link: <a href="https://www.goup.co.uk/guides/spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.goup.co.uk/guides/spam/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Types Of SEO Spam And How To Recover From A Penalty31 Jan 2023 — [Thin affiliate pages](&amp;#123;&amp;#123; &#x27;thin-pages/&#x27; | relative_url &amp;#125;&amp;#125;) lack original content and value, relying on...</p></details>
+   Link:<a href="https://www.goup.co.uk/guides/spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.goup.co.uk/guides/spam/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Types Of SEO Spam And How To Recover From A Penalty31 Jan 2023 — [Thin affiliate pages](&amp;#123;&amp;#123; &#x27;thin-pages/&#x27; | relative_url &amp;#125;&amp;#125;) lack original content and value, relying on...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: “Low-quality or shallow pages”. “Substantially duplicate content”.Read more  
-   Link: <a href="https://www.reddit.com/r/SEMrush/comments/1leadrk/thin_content_explained_how_to_identify_and_fix_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SEMrush/comments/1leadrk/thin_content_explained_how_to_identify_and_fix_it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thin Content Explained - How to Identify and Fix It Before...Google&#x27;s official guidelines use phrases like: “Little or no added value”...</p></details>
+   Link:<a href="https://www.reddit.com/r/SEMrush/comments/1leadrk/thin_content_explained_how_to_identify_and_fix_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SEMrush/comments/1leadrk/thin_content_explained_how_to_identify_and_fix_it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thin Content Explained - How to Identify and Fix It Before...Google&#x27;s official guidelines use phrases like: “Little or no added value”...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fatrank.com  
    Title: Thin Content With Little or No Added Value  
-   Link: <a href="https://www.fatrank.com/thin-content-with-little-or-no-added-value/" target="_blank" rel="noopener noreferrer nofollow">https://www.fatrank.com/thin-content-with-little-or-no-added-value/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google SEO...The Thin Content With Little or No Added Value penalty means Google has detected low-quality pages or shallow pages on your...</p></details>
+   Link:<a href="https://www.fatrank.com/thin-content-with-little-or-no-added-value/" target="_blank" rel="noopener noreferrer nofollow">https://www.fatrank.com/thin-content-with-little-or-no-added-value/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google SEO...The Thin Content With Little or No Added Value penalty means Google has detected low-quality pages or shallow pages on your...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: seroundtable.com  
    Title: google affiliate guidelines penalty 18022  
-   Link: <a href="https://www.seroundtable.com/google-affiliate-guidelines-penalty-18022.html" target="_blank" rel="noopener noreferrer nofollow">https://www.seroundtable.com/google-affiliate-guidelines-penalty-18022.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Warns Affiliates: If Your Site Doesn&#x27;t Add Value...28 Jan 2014 — Last night, Google published a blog post on their webmaster cen...</p></details>
+   Link:<a href="https://www.seroundtable.com/google-affiliate-guidelines-penalty-18022.html" target="_blank" rel="noopener noreferrer nofollow">https://www.seroundtable.com/google-affiliate-guidelines-penalty-18022.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Warns Affiliates: If Your Site Doesn&#x27;t Add Value...28 Jan 2014 — Last night, Google published a blog post on their webmaster cen...</p></details>

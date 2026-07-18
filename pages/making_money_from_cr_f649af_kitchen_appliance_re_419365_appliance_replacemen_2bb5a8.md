@@ -278,7 +278,7 @@ A [kitchen appliance]({{ 'appliances/' | relative_url }}) review should not reco
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_replacemen_2bb5a8-Illustration-1-dark.svg" | relative_url }}" alt="Spare Parts illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_replacemen_2bb5a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_replacemen_2bb5a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Checking the availability of replacement parts and [accessories]({{ 'accessories/' | relative_url }}) is therefore part of responsible product evaluation rather than an optional extra. It helps readers judge the true lifetime cost of ownership, reduces avoidable waste, and builds trust in affiliate recommendations by considering how an appliance performs over years rather than weeks. European policy is increasingly encouraging repairability, while many manufacturers now publish spare-part catalogues or authorised parts stores that reviewers can verify before naming a "best buy". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commission.europa.eu/law/law-topic/consumer-protection-law/directive-repair-goods_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-title">European Commission Directive on repair of goods</span><span class="citation-popover-snippet">European CommissionDirective on repair of goods - European CommissionThis instrument aims at promoting more sustainable consumption by in...</span></span></span>
+Checking the availability of replacement parts and [accessories]({{ 'accessories/' | relative_url }}) is therefore part of responsible product evaluation rather than an optional extra. It helps readers judge the true lifetime cost of ownership, reduces avoidable waste, and builds trust in affiliate recommendations by considering how an appliance performs over years rather than weeks. European policy is increasingly encouraging repairability, while many manufacturers now publish spare-part catalogues or authorised parts stores that reviewers can verify before naming a "best buy".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commission.europa.eu/law/law-topic/consumer-protection-law/directive-repair-goods_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-title">European Commission Directive on repair of goods</span><span class="citation-popover-snippet">European CommissionDirective on repair of goods - European CommissionThis instrument aims at promoting more sustainable consumption by in...</span></span></span>
 
 ## Which Parts Usually Wear Out First?
 
@@ -397,7 +397,7 @@ This is exactly the type of practical comparison that helps affiliate content st
 
 Repairability is receiving greater attention from regulators as well as consumers.
 
-The EU's Right to Repair framework complements existing Ecodesign rules by encouraging longer product lifetimes, wider access to repairs and continued availability of spare parts for certain categories of products. While many small kitchen appliances such as coffee machines and toasters are not yet covered by every repair obligation, the direction of travel is clear: manufacturers are increasingly expected to support products beyond the initial warranty period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commission.europa.eu/law/law-topic/consumer-protection-law/directive-repair-goods_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-title">European Commission Directive on repair of goods</span><span class="citation-popover-snippet">European CommissionDirective on repair of goods - European CommissionThis instrument aims at promoting more sustainable consumption by in...</span></span></span>
+The EU's Right to Repair framework complements existing Ecodesign rules by encouraging longer product lifetimes, wider access to repairs and continued availability of spare parts for certain categories of products. While many small kitchen appliances such as coffee machines and toasters are not yet covered by every repair obligation, the direction of travel is clear: manufacturers are increasingly expected to support products beyond the initial warranty period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commission.europa.eu/law/law-topic/consumer-protection-law/directive-repair-goods_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-title">European Commission Directive on repair of goods</span><span class="citation-popover-snippet">European CommissionDirective on repair of goods - European CommissionThis instrument aims at promoting more sustainable consumption by in...</span></span></span>
 
 This makes repair support an increasingly relevant review criterion, particularly for larger household appliances already covered by Ecodesign repairability requirements and for brands positioning themselves as sustainable.
 
@@ -431,194 +431,194 @@ Readers rarely remember the exact motor wattage or number of cooking presets. Th
 By including spare-parts availability alongside cooking performance, cleaning effort and everyday usability, an affiliate review shifts from helping someone buy an appliance to helping them own one successfully. That approach reduces buyer disappointment, strengthens editorial credibility and makes recommendations more resilient as appliances age instead of merely looking attractive on launch day.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Fix It After Year One?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Fix It After Year One?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Food+Lab%3A+Better+Home+Cooking+Through+Science+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Food Lab: Better Home Cooking Through Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8355275-M.jpg" alt="Cover for The Food Lab: Better Home Cooking Through Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Food+Lab%3A+Better+Home+Cooking+Through+Science+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Food Lab: Better Home Cooking Through Science">The Food Lab: Better Home Cooking Through Science</a>
-        </h4>
-        <p class="fr-book-author">By J. Kenji López-Alt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Food+Lab%3A+Better+Home+Cooking+Through+Science+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Food Lab: Better Home Cooking Through Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8355275-M.jpg" alt="Cover for The Food Lab: Better Home Cooking Through Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Food+Lab%3A+Better+Home+Cooking+Through+Science+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Food Lab: Better Home Cooking Through Science">The Food Lab: Better Home Cooking Through Science</a>
+</h4>
+<p class="fr-book-author">By J. Kenji López-Alt</p>
         
-        <p class="fr-book-desc">Focuses on testing methods and practical kitchen results, reinforcing the value of real-use product evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Food+Lab%3A+Better+Home+Cooking+Through+Science+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on testing methods and practical kitchen results, reinforcing the value of real-use product evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Food+Lab%3A+Better+Home+Cooking+Through+Science+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Repair Shop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10236996-M.jpg" alt="Cover for The Repair Shop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Repair Shop">The Repair Shop</a>
-        </h4>
-        <p class="fr-book-author">By Karen Farrington, Jay Blades</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Repair Shop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10236996-M.jpg" alt="Cover for The Repair Shop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Repair Shop">The Repair Shop</a>
+</h4>
+<p class="fr-book-author">By Karen Farrington, Jay Blades</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Building, Literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Building, Literature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Repair Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12405060-M.jpg" alt="Cover for Repair Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Repair Revolution">Repair Revolution</a>
-        </h4>
-        <p class="fr-book-author">By John Wackman, Elizabeth Knight</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Repair Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12405060-M.jpg" alt="Cover for Repair Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Repair Revolution">Repair Revolution</a>
+</h4>
+<p class="fr-book-author">By John Wackman, Elizabeth Knight</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Handicraft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Handicraft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Mechanics How to Fix Anything on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Mechanics How to Fix Anything">Popular Mechanics How to Fix Anything</a>
-        </h4>
-        <p class="fr-book-author">By Popular Mechanics Press Editors</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Mechanics How to Fix Anything on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Mechanics How to Fix Anything">Popular Mechanics How to Fix Anything</a>
+</h4>
+<p class="fr-book-author">By Popular Mechanics Press Editors</p>
         
-        <p class="fr-book-desc">First published 2018.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Food+Lab%3A+Better+Home+Cooking+Through+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Food Lab: Better Home Cooking Through Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Repair+Shop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Repair Shop</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Repair+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Repair Revolution</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Food+Lab%3A+Better+Home+Cooking+Through+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Food Lab: Better Home Cooking Through Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Repair+Shop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Repair Shop</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Repair+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Repair Revolution</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel"><img src="{{ '/assets/images/marketplace-covers/d55a73971c33361f4aaf.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel"><img src="{{ '/assets/images/marketplace-covers/d55a73971c33361f4aaf.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="{{ '/assets/images/marketplace-covers/4ce21c9f5f416ffe6ebc.jpg' | relative_url }}" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="{{ '/assets/images/marketplace-covers/4ce21c9f5f416ffe6ebc.jpg' | relative_url }}" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="{{ '/assets/images/marketplace-covers/8d5936e2bf43be9ff85a.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="{{ '/assets/images/marketplace-covers/8d5936e2bf43be9ff85a.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote"><img src="{{ '/assets/images/marketplace-covers/8e280b141b838bd28676.jpg' | relative_url }}" alt="Listing image for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote"><img src="{{ '/assets/images/marketplace-covers/8e280b141b838bd28676.jpg' | relative_url }}" alt="Listing image for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="spare-parts-can-you-fix-it-after-year-one-making-money-from-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -634,7 +634,7 @@ By including spare-parts availability alongside cooking performance, cleaning ef
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -654,7 +654,7 @@ By including spare-parts availability alongside cooking performance, cleaning ef
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -686,7 +686,7 @@ By including spare-parts availability alongside cooking performance, cleaning ef
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -738,7 +738,7 @@ By including spare-parts availability alongside cooking performance, cleaning ef
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -783,7 +783,7 @@ By including spare-parts availability alongside cooking performance, cleaning ef
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -824,85 +824,85 @@ By including spare-parts availability alongside cooking performance, cleaning ef
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commission.europa.eu  
    Title: European Commission Directive on repair of goods  
-   Link: <a href="https://commission.europa.eu/law/law-topic/consumer-protection-law/directive-repair-goods_en" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/law/law-topic/consumer-protection-law/directive-repair-goods_en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionDirective on repair of goods - European CommissionThis instrument aims at promoting more sustainable consumption by in...</p></details>
+   Link:<a href="https://commission.europa.eu/law/law-topic/consumer-protection-law/directive-repair-goods_en" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/law/law-topic/consumer-protection-law/directive-repair-goods_en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionDirective on repair of goods - European CommissionThis instrument aims at promoting more sustainable consumption by in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: evz.de  
    Title: right to repair  
-   Link: <a href="https://www.evz.de/en/topics/internet-shopping/right-to-repair/" target="_blank" rel="noopener noreferrer nofollow">https://www.evz.de/en/topics/internet-shopping/right-to-repair/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jan 2026 — The EU&#x27;s Right to Repair aims to make repairs easier and more attractive. Learn what applies during the warranty period and...</p></details>
+   Link:<a href="https://www.evz.de/en/topics/internet-shopping/right-to-repair/" target="_blank" rel="noopener noreferrer nofollow">https://www.evz.de/en/topics/internet-shopping/right-to-repair/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jan 2026 — The EU&#x27;s Right to Repair aims to make repairs easier and more attractive. Learn what applies during the warranty period and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: repair.eu  
-   Link: <a href="https://repair.eu/news/repairability-labels-spare-parts-and-longer-support-for-smartphones-and-tablets-as-of-june-2025-but-we-need-more-repairable-designs/" target="_blank" rel="noopener noreferrer nofollow">https://repair.eu/news/repairability-labels-spare-parts-and-longer-support-for-smartphones-and-tablets-as-of-june-2025-but-we-need-more-repairable-designs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Repair labels, spare parts and longer support for...20 Jun 2025 — The regulation mandates that manufacturers make 15 types of spare part...</p></details>
+   Link:<a href="https://repair.eu/news/repairability-labels-spare-parts-and-longer-support-for-smartphones-and-tablets-as-of-june-2025-but-we-need-more-repairable-designs/" target="_blank" rel="noopener noreferrer nofollow">https://repair.eu/news/repairability-labels-spare-parts-and-longer-support-for-smartphones-and-tablets-as-of-june-2025-but-we-need-more-repairable-designs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repair labels, spare parts and longer support for...20 Jun 2025 — The regulation mandates that manufacturers make 15 types of spare part...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vde.com  
    Title: Right to repair  
-   Link: <a href="https://www.vde.com/topics-en/consumer-protection/right-to-repair" target="_blank" rel="noopener noreferrer nofollow">https://www.vde.com/topics-en/consumer-protection/right-to-repair</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VDE Consumer Protection24 Jun 2024 — With the right to repair, manufacturers are obliged to make spare parts more easily available and pr...</p></details>
+   Link:<a href="https://www.vde.com/topics-en/consumer-protection/right-to-repair" target="_blank" rel="noopener noreferrer nofollow">https://www.vde.com/topics-en/consumer-protection/right-to-repair</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VDE Consumer Protection24 Jun 2024 — With the right to repair, manufacturers are obliged to make spare parts more easily available and pr...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dihk.de  
-   Link: <a href="https://www.dihk.de/en/right-to-repair-repair-instead-of-disposing-175000" target="_blank" rel="noopener noreferrer nofollow">https://www.dihk.de/en/right-to-repair-repair-instead-of-disposing-175000</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Right to Repair: Repair Instead of DisposingThe EU aims to promote repairs and extend the lifespan of products. Germany must implement th...</p></details>
+   Link:<a href="https://www.dihk.de/en/right-to-repair-repair-instead-of-disposing-175000" target="_blank" rel="noopener noreferrer nofollow">https://www.dihk.de/en/right-to-repair-repair-instead-of-disposing-175000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Right to Repair: Repair Instead of DisposingThe EU aims to promote repairs and extend the lifespan of products. Germany must implement th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fieldfisher.com  
    Title: incoming eu right to repair requirements the key t  
-   Link: <a href="https://www.fieldfisher.com/en/insights/incoming-eu-right-to-repair-requirements-the-key-t" target="_blank" rel="noopener noreferrer nofollow">https://www.fieldfisher.com/en/insights/incoming-eu-right-to-repair-requirements-the-key-t</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Incoming EU right to repair requirements: The key things...8 Jan 2026 — The Right to Repair Directive has three key elements: the creati...</p></details>
+   Link:<a href="https://www.fieldfisher.com/en/insights/incoming-eu-right-to-repair-requirements-the-key-t" target="_blank" rel="noopener noreferrer nofollow">https://www.fieldfisher.com/en/insights/incoming-eu-right-to-repair-requirements-the-key-t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incoming EU right to repair requirements: The key things...8 Jan 2026 — The Right to Repair Directive has three key elements: the creati...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: claimlane.com  
    Title: eu right to repair ecommerce  
-   Link: <a href="https://www.claimlane.com/resources/blog/eu-right-to-repair-ecommerce" target="_blank" rel="noopener noreferrer nofollow">https://www.claimlane.com/resources/blog/eu-right-to-repair-ecommerce</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EU Right to Repair: What Brands Must Know 202629 Apr 2026 — The EU Right to Repair takes effect July 2026. What ecommerce brands must kno...</p></details>
+   Link:<a href="https://www.claimlane.com/resources/blog/eu-right-to-repair-ecommerce" target="_blank" rel="noopener noreferrer nofollow">https://www.claimlane.com/resources/blog/eu-right-to-repair-ecommerce</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU Right to Repair: What Brands Must Know 202629 Apr 2026 — The EU Right to Repair takes effect July 2026. What ecommerce brands must kno...</p></details>
    Published: July 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: taylorwessing.com  
    Title: pflicht zur reparatur 2026  
-   Link: <a href="https://www.taylorwessing.com/fr/insights-and-events/insights/2026/01/pflicht-zur-reparatur-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorwessing.com/fr/insights-and-events/insights/2026/01/pflicht-zur-reparatur-2026</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New repair obligations for sellers and manufacturers in 2026Manufacturers of washing machines, refrigerators and smartphones will in futu...</p></details>
+   Link:<a href="https://www.taylorwessing.com/fr/insights-and-events/insights/2026/01/pflicht-zur-reparatur-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorwessing.com/fr/insights-and-events/insights/2026/01/pflicht-zur-reparatur-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New repair obligations for sellers and manufacturers in 2026Manufacturers of washing machines, refrigerators and smartphones will in futu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The UK Law That Forces Brands To Repair Your Appliance For Free  
-   Link: <a href="https://www.youtube.com/watch?v=k2SyVdEeKv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k2SyVdEeKv8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roadside Repair Secrets | Ep 3: Are Modern Appliances Designed to Fail?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k2SyVdEeKv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k2SyVdEeKv8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roadside Repair Secrets | Ep 3: Are Modern Appliances Designed to Fail?...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Appliance Lifespan, Warranties, and How to Be Ready for Breakdowns  
-   Link: <a href="https://www.youtube.com/watch?v=xSdBR5hi7WA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xSdBR5hi7WA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Law That Forces Brands To Repair Your Appliance For Free...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xSdBR5hi7WA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xSdBR5hi7WA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Law That Forces Brands To Repair Your Appliance For Free...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: 30 Years of Repairing Appliances. Here's what I would buy  
-   Link: <a href="https://www.youtube.com/watch?v=bQOLFsAK_l8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQOLFsAK_l8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Replacement Parts For Major Home Appliances. SAVE MONEY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bQOLFsAK_l8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQOLFsAK_l8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Replacement Parts For Major Home Appliances. SAVE MONEY...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Finding Replacement Parts For Major Home Appliances. SAVE MONEY!!!  
-   Link: <a href="https://www.youtube.com/watch?v=_jIh7yLzP3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_jIh7yLzP3U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appliance Lifespan, Warranties, and How to Be Ready for Breakdowns...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_jIh7yLzP3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_jIh7yLzP3U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Appliance Lifespan, Warranties, and How to Be Ready for Breakdowns...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: freshfields.com  
-   Link: <a href="https://www.freshfields.com/en/our-thinking/blogs/risk-and-compliance/repair-instead-of-replace-germany-moves-to-implement-the-eu-right-to-repair-dire-102mgn4" target="_blank" rel="noopener noreferrer nofollow">https://www.freshfields.com/en/our-thinking/blogs/risk-and-compliance/repair-instead-of-replace-germany-moves-to-implement-the-eu-right-to-repair-dire-102mgn4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repair instead of replace: Germany moves to implement...4 Feb 2026 — The main aim is to reduce the premature disposal of usable goods an...</p></details>
+   Link:<a href="https://www.freshfields.com/en/our-thinking/blogs/risk-and-compliance/repair-instead-of-replace-germany-moves-to-implement-the-eu-right-to-repair-dire-102mgn4" target="_blank" rel="noopener noreferrer nofollow">https://www.freshfields.com/en/our-thinking/blogs/risk-and-compliance/repair-instead-of-replace-germany-moves-to-implement-the-eu-right-to-repair-dire-102mgn4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repair instead of replace: Germany moves to implement...4 Feb 2026 — The main aim is to reduce the premature disposal of usable goods an...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Roadside Repair Secrets | Ep 3: Are Modern Appliances Designed to Fail?  
-   Link: <a href="https://www.youtube.com/watch?v=3pMXUitd-cE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3pMXUitd-cE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=3pMXUitd-cE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3pMXUitd-cE</a>  

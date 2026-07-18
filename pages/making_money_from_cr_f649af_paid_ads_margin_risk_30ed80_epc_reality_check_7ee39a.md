@@ -280,13 +280,13 @@ image: /assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_ep
 
 ## Introduction
 
-For affiliates who buy traffic, [earnings per click]({{ 'earnings-per-click/' | relative_url }}) (EPC) is the reality check that determines whether a campaign has any chance of making money. EPC measures the average commission generated from each affiliate click, while paid advertising is priced by the cost of each ad click. A campaign only becomes economically viable when the value created by each paid visitor consistently exceeds the cost of acquiring that visitor after allowing for [rejected commissions]({{ 'rejected-sales/' | relative_url }}), tracking losses and other deductions. An attractive commission rate or a high-converting merchant does not change this basic rule. EPC is therefore the bridge between affiliate reporting and paid media decisions, turning historical performance into a practical buying threshold rather than a vanity metric. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[Awin Partner Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">Effective Cost Per...Read more...</span></span></span>
+For affiliates who buy traffic, [earnings per click]({{ 'earnings-per-click/' | relative_url }}) (EPC) is the reality check that determines whether a campaign has any chance of making money. EPC measures the average commission generated from each affiliate click, while paid advertising is priced by the cost of each ad click. A campaign only becomes economically viable when the value created by each paid visitor consistently exceeds the cost of acquiring that visitor after allowing for [rejected commissions]({{ 'rejected-sales/' | relative_url }}), tracking losses and other deductions. An attractive commission rate or a high-converting merchant does not change this basic rule. EPC is therefore the bridge between affiliate reporting and paid media decisions, turning historical performance into a practical buying threshold rather than a vanity metric.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[Awin Partner Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">Effective Cost Per...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a-Illustration-1-dark.svg" | relative_url }}" alt="EPC Check illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What EPC Means for Affiliate Publishers
 
-Affiliate networks typically define EPC as total commission earned divided by the number of tracked affiliate clicks during a specified period. It answers a simple question: on average, how much revenue did each outbound affiliate click produce? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[Awin Partner Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">Effective Cost Per...Read more...</span></span></span>
+Affiliate networks typically define EPC as total commission earned divided by the number of tracked affiliate clicks during a specified period. It answers a simple question: on average, how much revenue did each outbound affiliate click produce?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[Awin Partner Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">Effective Cost Per...Read more...</span></span></span>
 
 For publishers using only organic [traffic]({{ 'traffic/' | relative_url }}), EPC is mainly a performance indicator. For publishers buying advertising, it becomes a pricing tool.
 
@@ -306,13 +306,13 @@ Many experienced media buyers therefore compare:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **EPC** – average affiliate revenue per click. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postaffiliatepro.com">[postaffiliatepro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postaffiliatepro.com</span><span class="citation-popover-snippet">Post Affiliate ProEPC in Affiliate Marketing: Earnings Per Click Guide28 Dec 2025 — EPC shows gross revenue per click — but Net Profit Pe...</span></span></span>
+* **EPC** – average affiliate revenue per click.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postaffiliatepro.com">[postaffiliatepro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postaffiliatepro.com</span><span class="citation-popover-snippet">Post Affiliate ProEPC in Affiliate Marketing: Earnings Per Click Guide28 Dec 2025 — EPC shows gross revenue per click — but Net Profit Pe...</span></span></span>
 * **CPC (cost per click)** – advertising cost to acquire each visitor.
 * **Profit per click** – EPC minus acquisition cost and other operating expenses.
 
 </div>
 
-Some affiliate practitioners describe this final measure as Net Profit Per Click (NPPC), emphasising that gross EPC alone does not represent actual profit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postaffiliatepro.com">[Post Affiliate Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postaffiliatepro.com</span><span class="citation-popover-snippet">Post Affiliate ProEPC in Affiliate Marketing: Earnings Per Click Guide28 Dec 2025 — EPC shows gross revenue per click — but Net Profit Pe...</span></span></span>
+Some affiliate practitioners describe this final measure as Net Profit Per Click (NPPC), emphasising that gross EPC alone does not represent actual profit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postaffiliatepro.com">[Post Affiliate Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postaffiliatepro.com</span><span class="citation-popover-snippet">Post Affiliate ProEPC in Affiliate Marketing: Earnings Per Click Guide28 Dec 2025 — EPC shows gross revenue per click — but Net Profit Pe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l7zCvuNo5T4" title="EPC in Affiliate Marketing Offers | Day Bros" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l7zCvuNo5T4" target="_blank" rel="noopener noreferrer">EPC in Affiliate Marketing Offers | Day Bros</a></p><p class="youtube-embed-meta">Channel: Optimize To Convert &middot; Views: 874 &middot; Uploaded: August 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l7zCvuNo5T4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l7zCvuNo5T4">Open on YouTube</a></p></div></div></div>
@@ -325,7 +325,7 @@ They rarely do.
 
 A paid advertisement sends visitors to the publisher's landing page. Only some of those visitors continue by clicking the affiliate link to the merchant.
 
-For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[endorsely.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</span></span></span>
+For example:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[endorsely.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -352,7 +352,7 @@ This distinction matters because every stage introduces losses:
 
 </div>
 
-As a result, the effective value of each paid click is almost always lower than a simple EPC figure suggests. The affiliate must translate network EPC into revenue per paid visitor rather than assuming the two are interchangeable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[Awin Partner Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">Effective Cost Per...Read more...</span></span></span>
+As a result, the effective value of each paid click is almost always lower than a simple EPC figure suggests. The affiliate must translate network EPC into revenue per paid visitor rather than assuming the two are interchangeable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[Awin Partner Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">Effective Cost Per...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a-Illustration-2-dark.svg" | relative_url }}" alt="EPC Check illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -376,7 +376,7 @@ StageCommissionEPC (2,000 affiliate clicks)Initially reported£1,000£0.50After 
 
 The campaign appeared capable of supporting a £0.45 acquisition cost when early reports were viewed. Once rejected commissions were processed, the actual break-even point fell below the advertising cost, converting an apparently profitable campaign into a losing one.
 
-This is why experienced affiliates often evaluate campaigns using approved commissions over several weeks rather than relying on fresh reporting immediately after traffic is purchased. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[Awin Partner Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">Effective Cost Per...Read more...</span></span></span>
+This is why experienced affiliates often evaluate campaigns using approved commissions over several weeks rather than relying on fresh reporting immediately after traffic is purchased.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[Awin Partner Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">Effective Cost Per...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1dmLqgfT4IU" title="EPC and How to Use it in the Affiliate Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1dmLqgfT4IU" target="_blank" rel="noopener noreferrer">EPC and How to Use it in the Affiliate Channel</a></p><p class="youtube-embed-meta">Channel: JEBCommerce &middot; Views: 14 &middot; Uploaded: February 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1dmLqgfT4IU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1dmLqgfT4IU">Open on YouTube</a></p></div></div></div>
@@ -398,7 +398,7 @@ Network EPC commonly reflects a blended average across many publishers with diff
 
 A cashback website attracting shoppers ready to purchase may achieve an EPC several times higher than a review site introducing customers at the beginning of the buying journey. Likewise, a specialist publisher with highly targeted visitors may outperform the published average, while untargeted paid traffic may perform far worse.
 
-For this reason, network EPC is best viewed as an indication of commercial potential rather than a reliable forecast for a specific advertising campaign. Your own measured EPC is ultimately the only figure that determines whether paid traffic is sustainable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[Endorsely]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</span></span></span>
+For this reason, network EPC is best viewed as an indication of commercial potential rather than a reliable forecast for a specific advertising campaign. Your own measured EPC is ultimately the only figure that determines whether paid traffic is sustainable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[Endorsely]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a-Illustration-3-dark.svg" | relative_url }}" alt="EPC Check illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -419,7 +419,7 @@ A practical approach is:
 
 </div>
 
-Because advertising costs fluctuate continuously through auction systems while [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}) are usually fixed, campaigns that were profitable one month can become loss-making without any change in conversion rate. Monitoring EPC against current acquisition costs therefore becomes an ongoing control process rather than a one-time calculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postaffiliatepro.com">[Post Affiliate Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postaffiliatepro.com</span><span class="citation-popover-snippet">Post Affiliate ProEPC in Affiliate Marketing: Earnings Per Click Guide28 Dec 2025 — EPC shows gross revenue per click — but Net Profit Pe...</span></span></span>
+Because advertising costs fluctuate continuously through auction systems while [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}) are usually fixed, campaigns that were profitable one month can become loss-making without any change in conversion rate. Monitoring EPC against current acquisition costs therefore becomes an ongoing control process rather than a one-time calculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postaffiliatepro.com">[Post Affiliate Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postaffiliatepro.com</span><span class="citation-popover-snippet">Post Affiliate ProEPC in Affiliate Marketing: Earnings Per Click Guide28 Dec 2025 — EPC shows gross revenue per click — but Net Profit Pe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VfA7asGHgnQ" title="Content Commerce and the Rise of CPC in Affiliate with Joey Asleson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VfA7asGHgnQ" target="_blank" rel="noopener noreferrer">Content Commerce and the Rise of CPC in Affiliate with Joey Asleson</a></p><p class="youtube-embed-meta">Channel: Dustin Howes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VfA7asGHgnQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VfA7asGHgnQ">Open on YouTube</a></p></div></div></div>
@@ -428,181 +428,181 @@ Because advertising costs fluctuate continuously through auction systems while [
 
 Affiliate marketing rewards outcomes rather than traffic volume. Paid advertising, however, charges for every visitor regardless of whether a commission is eventually earned.
 
-EPC connects these two worlds. It converts affiliate reporting into a maximum affordable acquisition cost and exposes campaigns whose apparent revenue cannot support their advertising spend. Once rejected commissions, tracking losses and visitor drop-off are incorporated, realised EPC often proves lower than initial dashboard figures suggest. For affiliates buying traffic, that adjusted EPC—not headline commissions—is the figure that ultimately decides whether a campaign can be scaled profitably. Awin Partner Success Center+2Post Affiliate Pro <span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[success.awin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">Effective Cost Per...Read more...</span></span></span>
+EPC connects these two worlds. It converts affiliate reporting into a maximum affordable acquisition cost and exposes campaigns whose apparent revenue cannot support their advertising spend. Once rejected commissions, tracking losses and visitor drop-off are incorporated, realised EPC often proves lower than initial dashboard figures suggest. For affiliates buying traffic, that adjusted EPC—not headline commissions—is the figure that ultimately decides whether a campaign can be scaled profitably. Awin Partner Success Center+2Post Affiliate Pro<span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[success.awin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">Effective Cost Per...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why EPC Decides Paid Affiliate Profit. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why EPC Decides Paid Affiliate Profit. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XbXIAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
-        </h4>
-        <p class="fr-book-author">By Evgenii Prussakov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XbXIAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
+</h4>
+<p class="fr-book-author">By Evgenii Prussakov</p>
         
-        <p class="fr-book-desc">Directly covers affiliate metrics, program economics, commissions and performance optimization relevant to EPC.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers affiliate metrics, program economics, commissions and performance optimization relevant to EPC.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Web Analytics 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IykGCqV1v20C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Web Analytics 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Web Analytics 2.0">Web Analytics 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Avinash Kaushik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Web Analytics 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IykGCqV1v20C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Web Analytics 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Web Analytics 2.0">Web Analytics 2.0</a>
+</h4>
+<p class="fr-book-author">By Avinash Kaushik</p>
         
-        <p class="fr-book-desc">Shows how to measure conversion performance, attribution and profitability behind EPC calculations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to measure conversion performance, attribution and profitability behind EPC calculations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9-4bBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Traction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction">Traction</a>
-        </h4>
-        <p class="fr-book-author">By Justin Mares, Gabriel Weinberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9-4bBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Traction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction">Traction</a>
+</h4>
+<p class="fr-book-author">By Justin Mares, Gabriel Weinberg</p>
         
-        <p class="fr-book-desc">Provides a wider framework for evaluating paid acquisition channels and sustainable customer acquisition economics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a wider framework for evaluating paid acquisition channels and sustainable customer acquisition economics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Performance Partnerships on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8851735-M.jpg" alt="Cover for Performance Partnerships" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Performance Partnerships">Performance Partnerships</a>
-        </h4>
-        <p class="fr-book-author">By Robert Glazer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Performance Partnerships on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8851735-M.jpg" alt="Cover for Performance Partnerships" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Performance Partnerships">Performance Partnerships</a>
+</h4>
+<p class="fr-book-author">By Robert Glazer</p>
         
-        <p class="fr-book-desc">First published 2017.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Web+Analytics+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Web Analytics 2.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Traction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Traction</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Web+Analytics+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Web Analytics 2.0</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Traction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Traction</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital marketing logo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3a1ad06b29323632c06d.jpg' | relative_url }}" alt="Listing image for Digital marketing logo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Digital marketing logo Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital marketing logo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3a1ad06b29323632c06d.jpg' | relative_url }}" alt="Listing image for Digital marketing logo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Digital marketing logo Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Marketing Joke SEO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ba9b09a10f92601251e7.jpg' | relative_url }}" alt="Listing image for Digital Marketing Joke SEO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Digital Marketing Joke SEO Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Marketing Joke SEO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ba9b09a10f92601251e7.jpg' | relative_url }}" alt="Listing image for Digital Marketing Joke SEO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Digital Marketing Joke SEO Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Marketing Marketer Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9f1e498347444c398d6b.jpg' | relative_url }}" alt="Listing image for Digital Marketing Marketer Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Digital Marketing Marketer Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Marketing Marketer Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9f1e498347444c398d6b.jpg' | relative_url }}" alt="Listing image for Digital Marketing Marketer Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Digital Marketing Marketer Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing poster -book -books" data-ebay-reference="epc-check-why-epc-decides-paid-affiliate-profit-making-money-from-digital-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -618,7 +618,7 @@ EPC connects these two worlds. It converts affiliate reporting into a maximum af
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -638,7 +638,7 @@ EPC connects these two worlds. It converts affiliate reporting into a maximum af
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -670,7 +670,7 @@ EPC connects these two worlds. It converts affiliate reporting into a maximum af
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -722,7 +722,7 @@ EPC connects these two worlds. It converts affiliate reporting into a maximum af
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -767,7 +767,7 @@ EPC connects these two worlds. It converts affiliate reporting into a maximum af
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -808,77 +808,77 @@ EPC connects these two worlds. It converts affiliate reporting into a maximum af
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: success.awin.com  
-   Link: <a href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Cost Per...Read more...</p></details>
+   Link:<a href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Cost Per...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: endorsely.com  
-   Link: <a href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</p></details>
+   Link:<a href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: awin.com  
    Title: cpc verguetung  
-   Link: <a href="https://www.awin.com/de/mit-awin-arbeiten/cpc-verguetung" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/de/mit-awin-arbeiten/cpc-verguetung</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wachsende Bedeutung von Klickvergütung für Content-...2 May 2018 — Awin investiert kontinuierlich in Produkte und Tools, die es Content...</p></details>
+   Link:<a href="https://www.awin.com/de/mit-awin-arbeiten/cpc-verguetung" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/de/mit-awin-arbeiten/cpc-verguetung</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wachsende Bedeutung von Klickvergütung für Content-...2 May 2018 — Awin investiert kontinuierlich in Produkte und Tools, die es Content...</p></details>
    Published: May 2018  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: success.awin.com  
    Title: What is Affiliate Marketing  
-   Link: <a href="https://success.awin.com/s/article/What-is-Affiliate-Marketing?language=de" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/What-is-Affiliate-Marketing?language=de</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ist Affiliate Marketing? - Partner Success CenterAffiliate-Marketing ist eine Methode, mit der Sie Geld verdienen, indem Sie die Produkte...</p></details>
+   Link:<a href="https://success.awin.com/s/article/What-is-Affiliate-Marketing?language=de" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/What-is-Affiliate-Marketing?language=de</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ist Affiliate Marketing? - Partner Success CenterAffiliate-Marketing ist eine Methode, mit der Sie Geld verdienen, indem Sie die Produkte...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: postaffiliatepro.com  
-   Link: <a href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Post Affiliate ProEPC in Affiliate Marketing: Earnings Per Click Guide28 Dec 2025 — EPC shows gross revenue per click — but Net Profit Pe...</p></details>
+   Link:<a href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Post Affiliate ProEPC in Affiliate Marketing: Earnings Per Click Guide28 Dec 2025 — EPC shows gross revenue per click — but Net Profit Pe...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: crakrevenue.com  
-   Link: <a href="https://www.crakrevenue.com/blog/epc-in-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.crakrevenue.com/blog/epc-in-affiliate-marketing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click: What Does EPC Mean in Affiliate...19 Jul 2024 — Earnings per click (EPC) is a crucial term in affiliate m...</p></details>
+   Link:<a href="https://www.crakrevenue.com/blog/epc-in-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.crakrevenue.com/blog/epc-in-affiliate-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click: What Does EPC Mean in Affiliate...19 Jul 2024 — Earnings per click (EPC) is a crucial term in affiliate m...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nucleuslinks.ai  
    Title: popular affiliate publisher myths  
-   Link: <a href="https://www.nucleuslinks.ai/blogs/popular-affiliate-publisher-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.nucleuslinks.ai/blogs/popular-affiliate-publisher-myths</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Common Myths About Affiliate Publishers21 Nov 2023 — By implementing this approach, they have attained higher Earnings Per Clic...</p></details>
+   Link:<a href="https://www.nucleuslinks.ai/blogs/popular-affiliate-publisher-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.nucleuslinks.ai/blogs/popular-affiliate-publisher-myths</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Common Myths About Affiliate Publishers21 Nov 2023 — By implementing this approach, they have attained higher Earnings Per Clic...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing KPIs: Affiliate &amp; Program Manager...Earnings Per Click (EPC) is a metric that measures the average earnings generate...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing KPIs: Affiliate &amp; Program Manager...Earnings Per Click (EPC) is a metric that measures the average earnings generate...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: What is Earnings Per Click (EPC) in Online Marketing? [Explainer]  
-   Link: <a href="https://www.youtube.com/watch?v=RZeMfa1VpW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RZeMfa1VpW8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3x Affiliate Marketing Revenue by Calculating EPC (Earning Per Click)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RZeMfa1VpW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RZeMfa1VpW8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3x Affiliate Marketing Revenue by Calculating EPC (Earning Per Click)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: 3x Affiliate Marketing Revenue by Calculating EPC (Earning Per Click)  
-   Link: <a href="https://www.youtube.com/watch?v=sGTd0szG9YM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sGTd0szG9YM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EPC and How to Use it in the Affiliate Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sGTd0szG9YM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sGTd0szG9YM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EPC and How to Use it in the Affiliate Channel...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: EPC and How to Use it in the Affiliate Channel  
-   Link: <a href="https://www.youtube.com/watch?v=1dmLqgfT4IU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1dmLqgfT4IU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Content Commerce and the Rise of CPC in Affiliate with Joey Asleson...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1dmLqgfT4IU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1dmLqgfT4IU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Content Commerce and the Rise of CPC in Affiliate with Joey Asleson...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: EPC in Affiliate Marketing Offers | Day Bros  
-   Link: <a href="https://www.youtube.com/watch?v=l7zCvuNo5T4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7zCvuNo5T4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Earnings Per Click (EPC) in Online Marketing? [Explainer]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7zCvuNo5T4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7zCvuNo5T4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Earnings Per Click (EPC) in Online Marketing? [Explainer]...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Content Commerce and the Rise of CPC in Affiliate with Joey Asleson  
-   Link: <a href="https://www.youtube.com/watch?v=VfA7asGHgnQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VfA7asGHgnQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=VfA7asGHgnQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VfA7asGHgnQ</a>  

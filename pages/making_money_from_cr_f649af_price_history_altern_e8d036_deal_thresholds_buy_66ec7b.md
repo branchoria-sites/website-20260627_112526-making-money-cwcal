@@ -305,7 +305,7 @@ A useful affiliate page therefore separates three different ideas:
 
 For example, suppose a coffee machine has an official price of £199 but typically sells between £155 and £170. A temporary reduction to £165 is not especially meaningful despite the retailer claiming a £34 saving. If the machine regularly falls below £140 during seasonal promotions, that lower figure is a far more useful benchmark for readers.
 
-Price-history services such as Keepa and CamelCamelCamel exist precisely because historical pricing provides context that current pricing alone cannot. They allow users to view [long-term]({{ 'long-term/' | relative_url }}) pricing patterns rather than isolated discounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://keepa.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keepa.com">[Keepa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keepa.com</span><span class="citation-popover-snippet">Amazon Price TrackerKeepa tracks over 5 billion Amazon products. We provide Amazon price history charts and price drop alerts...</span></span></span>
+Price-history services such as Keepa and CamelCamelCamel exist precisely because historical pricing provides context that current pricing alone cannot. They allow users to view [long-term]({{ 'long-term/' | relative_url }}) pricing patterns rather than isolated discounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://keepa.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keepa.com">[Keepa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keepa.com</span><span class="citation-popover-snippet">Amazon Price TrackerKeepa tracks over 5 billion Amazon products. We provide Amazon price history charts and price drop alerts...</span></span></span>
 
 ## Setting A Strong-Buy Price Threshold
 
@@ -449,178 +449,178 @@ Price history alone is data. A deal threshold is interpretation.
 That distinction is important both for readers and for affiliate publishers. Charts show what happened; thresholds explain what today's price means and what action is reasonable. By translating historical pricing into a clear buying recommendation—while being willing to tell readers to wait when appropriate—an affiliate page provides original editorial value that merchant listings and automated price trackers do not. The result is a resource that earns trust by helping readers make better purchasing decisions rather than encouraging every visit to end in an immediate sale.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Price Makes It A Real Deal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Price Makes It A Real Deal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
-        </h4>
-        <p class="fr-book-author">By Martin Lindstrom</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains why consumers buy and why resisting sales pressure can improve decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
+</h4>
+<p class="fr-book-author">By Martin Lindstrom</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains why consumers buy and why resisting sales pressure can improve decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4O30oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
-        </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4O30oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
+</h4>
+<p class="fr-book-author">By Russell Brunson</p>
         
-        <p class="fr-book-desc">Covers funnels, traffic, and conversion strategies that complement affiliate websites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers funnels, traffic, and conversion strategies that complement affiliate websites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dotcom+Secrets+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
-        </h4>
-        <p class="fr-book-author">By Morgan Housel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
+</h4>
+<p class="fr-book-author">By Morgan Housel</p>
         
-        <p class="fr-book-desc">Supports rational purchase timing and value-focused buying decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports rational purchase timing and value-focused buying decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
-        </h4>
-        <p class="fr-book-author">By Dan Ariely</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
+</h4>
+<p class="fr-book-author">By Dan Ariely</p>
         
-        <p class="fr-book-desc">Shows why advertised discounts and pricing cues often mislead buyers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why advertised discounts and pricing cues often mislead buyers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dotcom+Secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dotcom Secrets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dotcom+Secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dotcom Secrets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder"><img src="{{ '/assets/images/marketplace-covers/53909cd5b8e3aa325b12.jpg' | relative_url }}" alt="Listing image for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder"><img src="{{ '/assets/images/marketplace-covers/53909cd5b8e3aa325b12.jpg' | relative_url }}" alt="Listing image for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black"><img src="{{ '/assets/images/marketplace-covers/3d8db228c8da923f9e46.jpg' | relative_url }}" alt="Listing image for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black"><img src="{{ '/assets/images/marketplace-covers/3d8db228c8da923f9e46.jpg' | relative_url }}" alt="Listing image for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt"><img src="{{ '/assets/images/marketplace-covers/06699a88fc7dd3dbd76a.jpg' | relative_url }}" alt="Listing image for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt"><img src="{{ '/assets/images/marketplace-covers/06699a88fc7dd3dbd76a.jpg' | relative_url }}" alt="Listing image for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="deal-thresholds-what-price-makes-it-a-real-deal-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -636,7 +636,7 @@ That distinction is important both for readers and for affiliate publishers. Cha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -656,7 +656,7 @@ That distinction is important both for readers and for affiliate publishers. Cha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -688,7 +688,7 @@ That distinction is important both for readers and for affiliate publishers. Cha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -740,7 +740,7 @@ That distinction is important both for readers and for affiliate publishers. Cha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -785,7 +785,7 @@ That distinction is important both for readers and for affiliate publishers. Cha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -826,73 +826,73 @@ That distinction is important both for readers and for affiliate publishers. Cha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: keepa.com  
-   Link: <a href="https://keepa.com/" target="_blank" rel="noopener noreferrer nofollow">https://keepa.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Amazon](&amp;#123;&amp;#123; &#x27;amazon/&#x27; | relative_url &amp;#125;&amp;#125;) Price TrackerKeepa tracks over 5 billion Amazon products. We provide Amazon price history charts and price drop alerts...</p></details>
+   Link:<a href="https://keepa.com/" target="_blank" rel="noopener noreferrer nofollow">https://keepa.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Amazon](&amp;#123;&amp;#123; &#x27;amazon/&#x27; | relative_url &amp;#125;&amp;#125;) Price TrackerKeepa tracks over 5 billion Amazon products. We provide Amazon price history charts and price drop alerts...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: camelcamelcamel.com  
-   Link: <a href="https://camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow">https://camelcamelcamel.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ing you to good [deals](&amp;#123;&amp;#123; &#x27;deals/&#x27; | relative_url &amp;#125;&amp;#125;) on products you love.Read more...</p></details>
+   Link:<a href="https://camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow">https://camelcamelcamel.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing you to good [deals](&amp;#123;&amp;#123; &#x27;deals/&#x27; | relative_url &amp;#125;&amp;#125;) on products you love.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uk.camelcamelcamel.com  
-   Link: <a href="https://uk.camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow">https://uk.camelcamelcamel.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>camelcamelcamel.comcamelcamelcamel.com: Amazon UK price tracker, price history...Amazon purchase. camelcamelcamel is a free Amazon price...</p></details>
+   Link:<a href="https://uk.camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow">https://uk.camelcamelcamel.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>camelcamelcamel.comcamelcamelcamel.com: Amazon UK price tracker, price history...Amazon purchase. camelcamelcamel is a free Amazon price...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: camelcamelcamel.com  
-   Link: <a href="https://camelcamelcamel.com/tools" target="_blank" rel="noopener noreferrer nofollow">https://camelcamelcamel.com/tools</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Price Tracking ToolsAdd our price history charts into your browser and view them directly from retailer product pages! Download th...</p></details>
+   Link:<a href="https://camelcamelcamel.com/tools" target="_blank" rel="noopener noreferrer nofollow">https://camelcamelcamel.com/tools</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Price Tracking ToolsAdd our price history charts into your browser and view them directly from retailer product pages! Download th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BVM6qOEY5uY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BVM6qOEY5uY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keepa Charts: The Ultimate Amazon FBA Tutorial for 2026...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BVM6qOEY5uY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BVM6qOEY5uY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keepa Charts: The Ultimate Amazon FBA Tutorial for 2026...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wwNw5vNAyeM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wwNw5vNAyeM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Check Amazon Product Price History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wwNw5vNAyeM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wwNw5vNAyeM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Check Amazon Product Price History...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/InternetIsBeautiful/comments/z3r90x/camelcamelcamel_analyzes_amazon_black_friday/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/InternetIsBeautiful/comments/z3r90x/camelcamelcamel_analyzes_amazon_black_friday/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ce history, this can help show if you are actually getting a deal.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/InternetIsBeautiful/comments/z3r90x/camelcamelcamel_analyzes_amazon_black_friday/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/InternetIsBeautiful/comments/z3r90x/camelcamelcamel_analyzes_amazon_black_friday/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ce history, this can help show if you are actually getting a deal.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: harpa.ai  
    Title: best amazon price trackers and drop alerts  
-   Link: <a href="https://harpa.ai/blog/best-amazon-price-trackers-and-drop-alerts" target="_blank" rel="noopener noreferrer nofollow">https://harpa.ai/blog/best-amazon-price-trackers-and-drop-alerts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Amazon Price Trackers 2026: Keepa...Discover top Amazon price trackers like Keepa &amp; CamelCamelCamel for price history, drop alerts...</p></details>
+   Link:<a href="https://harpa.ai/blog/best-amazon-price-trackers-and-drop-alerts" target="_blank" rel="noopener noreferrer nofollow">https://harpa.ai/blog/best-amazon-price-trackers-and-drop-alerts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Amazon Price Trackers 2026: Keepa...Discover top Amazon price trackers like Keepa &amp; CamelCamelCamel for price history, drop alerts...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: Shop Smart, Spend Less This [Black Friday](&#123;&#123; 'black-friday/' | relative_url &#125;&#125;)!  
-   Link: <a href="https://www.facebook.com/courtstnt/posts/shop-smart-spend-less-this-black-friday-maximize-your-savings-get-the-best-tips-/1263882405782894/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/courtstnt/posts/shop-smart-spend-less-this-black-friday-maximize-your-savings-get-the-best-tips-/1263882405782894/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>💡 Maximize...Shop Online for Price Comparisons • Use tools like Google Shopping, CamelCamelCamel (for Amazon price tracking), or PriceGr...</p></details>
+   Link:<a href="https://www.facebook.com/courtstnt/posts/shop-smart-spend-less-this-black-friday-maximize-your-savings-get-the-best-tips-/1263882405782894/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/courtstnt/posts/shop-smart-spend-less-this-black-friday-maximize-your-savings-get-the-best-tips-/1263882405782894/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>💡 Maximize...Shop Online for Price Comparisons • Use tools like Google Shopping, CamelCamelCamel (for Amazon price tracking), or PriceGr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: identifying your individual pain point  
-   Link: <a href="https://www.facebook.com/ronanfarrow/posts/price-tags-and-fair-market-prices-themselves-are-increasingly-a-thing-of-the-pas/1434890267984918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ronanfarrow/posts/price-tags-and-fair-market-prices-themselves-are-increasingly-a-thing-of-the-pas/1434890267984918/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This logic doesn&#x27;t end...Price tags, and fair market prices themselves, are increasingly a thing of the past. These days, you&#x27;re not see...</p></details>
+   Link:<a href="https://www.facebook.com/ronanfarrow/posts/price-tags-and-fair-market-prices-themselves-are-increasingly-a-thing-of-the-pas/1434890267984918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ronanfarrow/posts/price-tags-and-fair-market-prices-themselves-are-increasingly-a-thing-of-the-pas/1434890267984918/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This logic doesn&#x27;t end...Price tags, and fair market prices themselves, are increasingly a thing of the past. These days, you&#x27;re not see...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: You Don't Need Third-Party Tools Anymore: Amazon's New Feature Explained  
-   Link: <a href="https://www.youtube.com/watch?v=N2g7flrqYws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N2g7flrqYws</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make an Affiliate Price Comparison Website with WordPress, ReHub &amp; Content egg...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=N2g7flrqYws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N2g7flrqYws</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make an Affiliate Price Comparison Website with WordPress, ReHub &amp; Content egg...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How to Check Amazon Product Price History  
-   Link: <a href="https://www.youtube.com/watch?v=FLR0_fti48M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FLR0_fti48M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Need Third-Party Tools Anymore: Amazon&#x27;s New Feature Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FLR0_fti48M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FLR0_fti48M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Need Third-Party Tools Anymore: Amazon&#x27;s New Feature Explained...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_UhcL0EH1DY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_UhcL0EH1DY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_UhcL0EH1DY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_UhcL0EH1DY</a>  

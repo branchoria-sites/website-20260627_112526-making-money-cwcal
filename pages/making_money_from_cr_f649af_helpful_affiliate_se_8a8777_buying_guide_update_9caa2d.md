@@ -278,7 +278,7 @@ Affiliate buying guides do not usually become unhelpful because the original rec
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buying_guide_update_9caa2d-Illustration-1-dark.svg" | relative_url }}" alt="Updates illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buying_guide_update_9caa2d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buying_guide_update_9caa2d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A well-written update note solves this problem. Rather than silently rewriting recommendations, it explains what has changed, why the recommendation still stands (or no longer does), and what [evidence]({{ 'evidence/' | relative_url }}) was reviewed during the refresh. This approach improves trust, helps readers understand the reasoning behind recommendations, and aligns with Google's emphasis on original, helpful product review content that demonstrates expertise and ongoing evaluation rather than static summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
+A well-written update note solves this problem. Rather than silently rewriting recommendations, it explains what has changed, why the recommendation still stands (or no longer does), and what [evidence]({{ 'evidence/' | relative_url }}) was reviewed during the refresh. This approach improves trust, helps readers understand the reasoning behind recommendations, and aligns with Google's emphasis on original, helpful product review content that demonstrates expertise and ongoing evaluation rather than static summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 
 ## Why affiliate recommendations decay over time
 
@@ -300,7 +300,7 @@ The most common causes include:
 
 These changes do not necessarily invalidate the original [testing]({{ 'testing/' | relative_url }}). Instead, they change the buying decision. Readers need to know whether the recommendation still represents the best option today.
 
-Google's guidance for high-quality [reviews]({{ 'reviews/' | relative_url }}) explicitly encourages explaining how products differ from previous versions, discussing improvements over earlier models and providing evidence for "best" recommendations. Those expectations naturally favour regularly maintained buying guides over pages that remain untouched for years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
+Google's guidance for high-quality [reviews]({{ 'reviews/' | relative_url }}) explicitly encourages explaining how products differ from previous versions, discussing improvements over earlier models and providing evidence for "best" recommendations. Those expectations naturally favour regularly maintained buying guides over pages that remain untouched for years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 
 ## What belongs in a useful update note
 
@@ -418,7 +418,7 @@ For example:
 
 This preserves historical context while providing updated buying guidance.
 
-Google's product review guidance rewards original analysis and meaningful comparisons rather than rewritten manufacturer descriptions. Maintaining visible evidence of ongoing evaluation reinforces that original work instead of obscuring it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
+Google's product review guidance rewards original analysis and meaningful comparisons rather than rewritten manufacturer descriptions. Maintaining visible evidence of ongoing evaluation reinforces that original work instead of obscuring it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jh9RCLYuKWA" title="Old Blog Posts Are Your Hidden Goldmine (Here&#x27;s Why)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jh9RCLYuKWA" target="_blank" rel="noopener noreferrer">Old Blog Posts Are Your Hidden Goldmine (Here&#x27;s Why)</a></p><p class="youtube-embed-meta">Channel: Jonathan Milligan | Market Your Message</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jh9RCLYuKWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jh9RCLYuKWA">Open on YouTube</a></p></div></div></div>
@@ -481,165 +481,165 @@ Readers returning to a buying guide are often making expensive purchasing decisi
 
 A concise update section communicates editorial responsibility without forcing visitors to reread the entire article. It demonstrates that recommendations evolve alongside the products themselves, rather than remaining frozen after publication.
 
-For affiliate publishers, this transparency has a second benefit. It helps distinguish genuinely maintained buying guides from pages that simply accumulate affiliate links over time. That difference supports reader confidence, aligns with Google's emphasis on original, evidence-based product reviews, and reduces the risk that outdated recommendations quietly undermine both [credibility]({{ 'credibility/' | relative_url }}) and conversions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
+For affiliate publishers, this transparency has a second benefit. It helps distinguish genuinely maintained buying guides from pages that simply accumulate affiliate links over time. That difference supports reader confidence, aligns with Google's emphasis on original, evidence-based product reviews, and reduces the risk that outdated recommendations quietly undermine both [credibility]({{ 'credibility/' | relative_url }}) and conversions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Changed Since the Last Review?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Changed Since the Last Review?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Explains how to keep content useful, trustworthy, and updated for readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to keep content useful, trustworthy, and updated for readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Strategy+for+the+Web+by+Kristina+Halvorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Strategy for the Web on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=03t0jm2qrNsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Content Strategy for the Web" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Content+Strategy+for+the+Web+by+Kristina+Halvorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Strategy for the Web">Content Strategy for the Web</a>
-        </h4>
-        <p class="fr-book-author">By Kristina Halvorson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Strategy+for+the+Web+by+Kristina+Halvorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Strategy for the Web on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=03t0jm2qrNsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Content Strategy for the Web" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Content+Strategy+for+the+Web+by+Kristina+Halvorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Strategy for the Web">Content Strategy for the Web</a>
+</h4>
+<p class="fr-book-author">By Kristina Halvorson</p>
         
-        <p class="fr-book-desc">Covers governance, maintenance, and systematic content refresh processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Content+Strategy+for+the+Web+by+Kristina+Halvorson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers governance, maintenance, and systematic content refresh processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Content+Strategy+for+the+Web+by+Kristina+Halvorson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
+</h4>
+<p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
         
-        <p class="fr-book-desc">Provides context for maintaining authoritative, high-quality review content over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for maintaining authoritative, high-quality review content over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Product-Led SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OcdkzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Product-Led SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Product-Led SEO">Product-Led SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eli Schwartz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Product-Led SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OcdkzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Product-Led SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Product-Led SEO">Product-Led SEO</a>
+</h4>
+<p class="fr-book-author">By Eli Schwartz</p>
         
-        <p class="fr-book-desc">Helps readers think strategically about keeping commercial content competitive and useful.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers think strategically about keeping commercial content competitive and useful.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Strategy+for+the+Web&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Strategy for the Web</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Strategy+for+the+Web&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Strategy for the Web</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monthly Girls&#x27; Nozaki-kun Yuzuki Seo Sticker"><img src="{{ '/assets/images/marketplace-covers/65953398ae54a77c184d.jpg' | relative_url }}" alt="Listing image for Monthly Girls&#x27; Nozaki-kun Yuzuki Seo Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer">Monthly Girls&#x27; Nozaki-kun Yuzuki Seo Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monthly Girls&#x27; Nozaki-kun Yuzuki Seo Sticker"><img src="{{ '/assets/images/marketplace-covers/65953398ae54a77c184d.jpg' | relative_url }}" alt="Listing image for Monthly Girls&#x27; Nozaki-kun Yuzuki Seo Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer">Monthly Girls&#x27; Nozaki-kun Yuzuki Seo Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: SEO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2&quot; Security Enforcement Officer SEO Sticker 2 Inch Badge Law Enforcement Decal"><img src="{{ '/assets/images/marketplace-covers/bbc04d2e647cafec9327.jpg' | relative_url }}" alt="Listing image for 2&quot; Security Enforcement Officer SEO Sticker 2 Inch Badge Law Enforcement Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer">2&quot; Security Enforcement Officer SEO Sticker 2 Inch Badge Law Enforcement Decal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2&quot; Security Enforcement Officer SEO Sticker 2 Inch Badge Law Enforcement Decal"><img src="{{ '/assets/images/marketplace-covers/bbc04d2e647cafec9327.jpg' | relative_url }}" alt="Listing image for 2&quot; Security Enforcement Officer SEO Sticker 2 Inch Badge Law Enforcement Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer">2&quot; Security Enforcement Officer SEO Sticker 2 Inch Badge Law Enforcement Decal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: SEO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=updates-what-changed-since-the-last-review-making-money-from-seo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO sticker" data-ebay-reference="updates-what-changed-since-the-last-review-making-money-from-seo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -655,7 +655,7 @@ For affiliate publishers, this transparency has a second benefit. It helps disti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -675,7 +675,7 @@ For affiliate publishers, this transparency has a second benefit. It helps disti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -707,7 +707,7 @@ For affiliate publishers, this transparency has a second benefit. It helps disti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -759,7 +759,7 @@ For affiliate publishers, this transparency has a second benefit. It helps disti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -804,7 +804,7 @@ For affiliate publishers, this transparency has a second benefit. It helps disti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -845,81 +845,81 @@ For affiliate publishers, this transparency has a second benefit. It helps disti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
    Title: product reviews update  
-   Link: <a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</p></details>
    Published: April 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: blog.google  
    Title: more helpful product reviews  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on Search23 Mar 2022 — Learn about Search&#x27;s latest update to show in-depth and authentic product reviews...</p></details>
+   Link:<a href="https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Search23 Mar 2022 — Learn about Search&#x27;s latest update to show in-depth and authentic product reviews...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/merchants/answer/6098512?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/6098512?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ratings policies - Google Merchant Center HelpWe strive to provide shoppers with access to transparent, authentic, and helpful product re...</p></details>
+   Link:<a href="https://support.google.com/merchants/answer/6098512?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/6098512?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ratings policies - Google Merchant Center HelpWe strive to provide shoppers with access to transparent, authentic, and helpful product re...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: yoast.com  
    Title: google product reviews update quality content  
-   Link: <a href="https://yoast.com/google-product-reviews-update-quality-content/" target="_blank" rel="noopener noreferrer nofollow">https://yoast.com/google-product-reviews-update-quality-content/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What can Google&#x27;s &quot;Product reviews&quot; update teach us...27 Apr 2021 — Learn how we can take Google&#x27;s review guidelines, and apply them to...</p></details>
+   Link:<a href="https://yoast.com/google-product-reviews-update-quality-content/" target="_blank" rel="noopener noreferrer nofollow">https://yoast.com/google-product-reviews-update-quality-content/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What can Google&#x27;s &quot;Product reviews&quot; update teach us...27 Apr 2021 — Learn how we can take Google&#x27;s review guidelines, and apply them to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: susodigital.com  
    Title: How to Write Product Reviews: The Google Way  
-   Link: <a href="https://susodigital.com/thoughts/how-to-write-product-reviews-the-google-way/" target="_blank" rel="noopener noreferrer nofollow">https://susodigital.com/thoughts/how-to-write-product-reviews-the-google-way/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SUSO Digital28 Mar 2023 — We have prepared a concise guide that will help you fine-tune your content and make sure it&#x27;s up to date with t...</p></details>
+   Link:<a href="https://susodigital.com/thoughts/how-to-write-product-reviews-the-google-way/" target="_blank" rel="noopener noreferrer nofollow">https://susodigital.com/thoughts/how-to-write-product-reviews-the-google-way/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SUSO Digital28 Mar 2023 — We have prepared a concise guide that will help you fine-tune your content and make sure it&#x27;s up to date with t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gsqi.com  
    Title: google product reviews algorithm update  
-   Link: <a href="https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Product Reviews Update – Analysis and findings22 Apr 2021 — Google&#x27;s Product Reviews Update – Analysis and findings from a major...</p></details>
+   Link:<a href="https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Product Reviews Update – Analysis and findings22 Apr 2021 — Google&#x27;s Product Reviews Update – Analysis and findings from a major...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: googles best practices on how to write product reviews was updated with new exam  
-   Link: <a href="https://www.facebook.com/SearchEngineJournal/posts/googles-best-practices-on-how-to-write-product-reviews-was-updated-with-new-exam/10159298477838721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SearchEngineJournal/posts/googles-best-practices-on-how-to-write-product-reviews-was-updated-with-new-exam/10159298477838721/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It suggests staying organized with collections, demonstrating expertise...</p></details>
+   Link:<a href="https://www.facebook.com/SearchEngineJournal/posts/googles-best-practices-on-how-to-write-product-reviews-was-updated-with-new-exam/10159298477838721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SearchEngineJournal/posts/googles-best-practices-on-how-to-write-product-reviews-was-updated-with-new-exam/10159298477838721/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It suggests staying organized with collections, demonstrating expertise...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RoiIz33iY9Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RoiIz33iY9Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Update Old Blog Posts for SEO (Over-The-Shoulder Demo for Small Business)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RoiIz33iY9Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RoiIz33iY9Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Update Old Blog Posts for SEO (Over-The-Shoulder Demo for Small Business)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Old Blog Posts Are Your Hidden Goldmine (Here's Why)  
-   Link: <a href="https://www.youtube.com/watch?v=Jh9RCLYuKWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jh9RCLYuKWA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to update old blog posts content decay affiliate seo Republishing Content: How to Update Blog Posts For More Organic [Traffic](&amp;#123;&amp;#123; &#x27;traffic/&#x27; | relative_url &amp;#125;&amp;#125;) Ahrefs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jh9RCLYuKWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jh9RCLYuKWA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to update old blog posts content decay affiliate seo Republishing Content: How to Update Blog Posts For More Organic [Traffic](&amp;#123;&amp;#123; &#x27;traffic/&#x27; | relative_url &amp;#125;&amp;#125;) Ahrefs...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Republishing Content: How to Update Blog Posts For More Organic Traffic  
-   Link: <a href="https://www.youtube.com/watch?v=9HWna4hK47c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9HWna4hK47c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Tom Drake is Deleting 1,000s of Blog Posts: SEO Strategies + How to &quot;Revive&quot; Old Blogs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9HWna4hK47c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9HWna4hK47c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Tom Drake is Deleting 1,000s of Blog Posts: SEO Strategies + How to &quot;Revive&quot; Old Blogs...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to Update Old Blog Posts for SEO (Over-The-Shoulder Demo for Small Business)  
-   Link: <a href="https://www.youtube.com/watch?v=YHDvvP1Imc0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YHDvvP1Imc0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outdated Blog Makeover: Revamp Old Content for Affiliate Success...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YHDvvP1Imc0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YHDvvP1Imc0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outdated Blog Makeover: Revamp Old Content for Affiliate Success...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: stellarcontent.com  
    Title: Google's Product Review Algo Update  
-   Link: <a href="https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/" target="_blank" rel="noopener noreferrer nofollow">https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, content that aims (and succeeds) at providing the kind of...Read more...</p></details>
+   Link:<a href="https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/" target="_blank" rel="noopener noreferrer nofollow">https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, content that aims (and succeeds) at providing the kind of...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Outdated Blog Makeover: Revamp Old Content for Affiliate Success  
-   Link: <a href="https://www.youtube.com/watch?v=JDvfgu4_E0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JDvfgu4_E0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Old Blog Posts Are Your Hidden Goldmine (Here&#x27;s Why)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JDvfgu4_E0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JDvfgu4_E0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Old Blog Posts Are Your Hidden Goldmine (Here&#x27;s Why)...</p></details>

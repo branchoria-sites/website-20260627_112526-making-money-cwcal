@@ -278,7 +278,7 @@ Comparison searches such as “Product A vs Product B” or “Is Brand X better
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_comparison_buying_qu_bd96df-Illustration-1-dark.svg" | relative_url }}" alt="Comparisons illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_comparison_buying_qu_bd96df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_comparison_buying_qu_bd96df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The challenge is that comparison pages are also easy to do badly. Simply copying specification tables or declaring a winner without [evidence]({{ 'evidence/' | relative_url }}) offers little value to readers or search engines. The strongest comparison pages help a specific type of buyer understand which option better matches their circumstances, explain why, and acknowledge where the supposedly weaker product is actually the smarter purchase. That practical decision-making is what separates useful [affiliate content]({{ 'content-mix/' | relative_url }}) from thin comparison pages created only for search rankings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downloads.webis.de">[Webis Downloads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downloads.webis.de</span><span class="citation-popover-title">Downloads Is Google Getting Worse?</span><span class="citation-popover-snippet">A Longitudinal Investigation of...April 3, 2024 — by J Bevendorff · Cited by 48 — In this paper, we investigate the common observation t...</span><span class="citation-popover-meta">Published: April 3, 2024</span></span></span>
+The challenge is that comparison pages are also easy to do badly. Simply copying specification tables or declaring a winner without [evidence]({{ 'evidence/' | relative_url }}) offers little value to readers or search engines. The strongest comparison pages help a specific type of buyer understand which option better matches their circumstances, explain why, and acknowledge where the supposedly weaker product is actually the smarter purchase. That practical decision-making is what separates useful [affiliate content]({{ 'content-mix/' | relative_url }}) from thin comparison pages created only for search rankings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downloads.webis.de">[Webis Downloads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downloads.webis.de</span><span class="citation-popover-title">Downloads Is Google Getting Worse?</span><span class="citation-popover-snippet">A Longitudinal Investigation of...April 3, 2024 — by J Bevendorff · Cited by 48 — In this paper, we investigate the common observation t...</span><span class="citation-popover-meta">Published: April 3, 2024</span></span></span>
 
 ## Why comparison searches happen near the end of buying
 
@@ -299,7 +299,7 @@ Typical motivations include:
 
 This makes comparison pages different from standard reviews. A review asks whether a product is good. A comparison asks which product is better for a particular buyer.
 
-For affiliate publishers, this distinction matters because it changes how recommendations should be presented. The objective is not to convince everyone to buy Product A. It is to help each reader identify which option fits their own priorities. That aligns more closely with Google's guidance on creating genuinely helpful review content than simply ranking products from best to worst. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downloads.webis.de">[Webis Downloads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downloads.webis.de</span><span class="citation-popover-title">Downloads Is Google Getting Worse?</span><span class="citation-popover-snippet">A Longitudinal Investigation of...April 3, 2024 — by J Bevendorff · Cited by 48 — In this paper, we investigate the common observation t...</span><span class="citation-popover-meta">Published: April 3, 2024</span></span></span>
+For affiliate publishers, this distinction matters because it changes how recommendations should be presented. The objective is not to convince everyone to buy Product A. It is to help each reader identify which option fits their own priorities. That aligns more closely with Google's guidance on creating genuinely helpful review content than simply ranking products from best to worst.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downloads.webis.de">[Webis Downloads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downloads.webis.de</span><span class="citation-popover-title">Downloads Is Google Getting Worse?</span><span class="citation-popover-snippet">A Longitudinal Investigation of...April 3, 2024 — by J Bevendorff · Cited by 48 — In this paper, we investigate the common observation t...</span><span class="citation-popover-meta">Published: April 3, 2024</span></span></span>
 
 ## How to make product facts genuinely comparable
 
@@ -455,7 +455,7 @@ Useful evidence includes:
 * Return or maintenance considerations.
 * Consistent measurements from respected review organisations.
 
-Manufacturer specifications establish the baseline, but they rarely answer questions about real-world ownership. Explaining how products perform after months of use or under common conditions gives readers information they cannot obtain from product listings alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2107.03256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">July 7, 2021...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
+Manufacturer specifications establish the baseline, but they rarely answer questions about real-world ownership. Explaining how products perform after months of use or under common conditions gives readers information they cannot obtain from product listings alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2107.03256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">July 7, 2021...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6iW6CfOMjfQ" title="How To Find KEYWORDS For Affiliate Marketing (This Makes It Easy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6iW6CfOMjfQ" target="_blank" rel="noopener noreferrer">How To Find KEYWORDS For Affiliate Marketing (This Makes It Easy)</a></p><p class="youtube-embed-meta">Channel: Rakeem Addison</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6iW6CfOMjfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6iW6CfOMjfQ">Open on YouTube</a></p></div></div></div>
@@ -473,7 +473,7 @@ Avoid:
 * Filling pages with affiliate buttons before helping readers decide.
 * Updating prices while leaving outdated product information unchanged.
 
-Research into search quality has highlighted ongoing efforts by search engines to reduce the visibility of low-quality affiliate content that relies on monetisation without providing original value. Comparison pages that simply recycle specifications or manufacturer descriptions risk resembling the kind of content increasingly targeted by quality improvements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downloads.webis.de">[Webis Downloads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downloads.webis.de</span><span class="citation-popover-title">Downloads Is Google Getting Worse?</span><span class="citation-popover-snippet">A Longitudinal Investigation of...April 3, 2024 — by J Bevendorff · Cited by 48 — In this paper, we investigate the common observation t...</span><span class="citation-popover-meta">Published: April 3, 2024</span></span></span>
+Research into search quality has highlighted ongoing efforts by search engines to reduce the visibility of low-quality affiliate content that relies on monetisation without providing original value. Comparison pages that simply recycle specifications or manufacturer descriptions risk resembling the kind of content increasingly targeted by quality improvements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downloads.webis.de">[Webis Downloads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downloads.webis.de</span><span class="citation-popover-title">Downloads Is Google Getting Worse?</span><span class="citation-popover-snippet">A Longitudinal Investigation of...April 3, 2024 — by J Bevendorff · Cited by 48 — In this paper, we investigate the common observation t...</span><span class="citation-popover-meta">Published: April 3, 2024</span></span></span>
 
 ## Build pages around buyer decisions, not product battles
 
@@ -489,162 +489,162 @@ A reader searching for "Product A vs Product B" is usually asking a more specifi
 An affiliate comparison page succeeds when it answers those hidden questions clearly enough that the reader can stop researching and buy with confidence. That means organising comparisons around real purchasing criteria, presenting equivalent evidence for both products, and being willing to recommend either option when it genuinely fits the buyer better.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Option Makes Sense for This Buyer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Option Makes Sense for This Buyer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
-        </h4>
-        <p class="fr-book-author">By Martin Lindstrom</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how buyers make decisions and what influences final purchase choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
+</h4>
+<p class="fr-book-author">By Martin Lindstrom</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains how buyers make decisions and what influences final purchase choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Helps explain why certain products and recommendations gain traction with buyers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why certain products and recommendations gain traction with buyers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
-        </h4>
-        <p class="fr-book-author">By Steve Krug</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
+</h4>
+<p class="fr-book-author">By Steve Krug</p>
         
-        <p class="fr-book-desc">Useful for presenting comparisons that reduce buyer friction and improve decision confidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for presenting comparisons that reduce buyer friction and improve decision confidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Provides evidence-based insight into persuasion and decision-making relevant to comparison content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides evidence-based insight into persuasion and decision-making relevant to comparison content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Job Lot Mixed Consumer Electronics Parts &amp; Accessories 10 units NEW Condition"><img src="{{ '/assets/images/marketplace-covers/ed1405b8217b1dd42f1d.jpg' | relative_url }}" alt="Listing image for Job Lot Mixed Consumer Electronics Parts &amp; Accessories 10 units NEW Condition" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer">Job Lot Mixed Consumer Electronics Parts &amp; Accessories 10 units NEW Condition</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Job Lot Mixed Consumer Electronics Parts &amp; Accessories 10 units NEW Condition"><img src="{{ '/assets/images/marketplace-covers/ed1405b8217b1dd42f1d.jpg' | relative_url }}" alt="Listing image for Job Lot Mixed Consumer Electronics Parts &amp; Accessories 10 units NEW Condition" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer">Job Lot Mixed Consumer Electronics Parts &amp; Accessories 10 units NEW Condition</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adidas Catalogue Originals Consumer Electronics Accessories 2014 Collectible"><img src="{{ '/assets/images/marketplace-covers/e5542f110e753d5c2a4b.jpg' | relative_url }}" alt="Listing image for Adidas Catalogue Originals Consumer Electronics Accessories 2014 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer">Adidas Catalogue Originals Consumer Electronics Accessories 2014 Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adidas Catalogue Originals Consumer Electronics Accessories 2014 Collectible"><img src="{{ '/assets/images/marketplace-covers/e5542f110e753d5c2a4b.jpg' | relative_url }}" alt="Listing image for Adidas Catalogue Originals Consumer Electronics Accessories 2014 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer">Adidas Catalogue Originals Consumer Electronics Accessories 2014 Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics accessory" data-ebay-reference="comparisons-664c9b-which-option-makes-sense-for-this-buyer-making-money-from-consumer-electronics-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -660,7 +660,7 @@ An affiliate comparison page succeeds when it answers those hidden questions cle
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -680,7 +680,7 @@ An affiliate comparison page succeeds when it answers those hidden questions cle
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -712,7 +712,7 @@ An affiliate comparison page succeeds when it answers those hidden questions cle
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -764,7 +764,7 @@ An affiliate comparison page succeeds when it answers those hidden questions cle
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -809,7 +809,7 @@ An affiliate comparison page succeeds when it answers those hidden questions cle
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -850,75 +850,75 @@ An affiliate comparison page succeeds when it answers those hidden questions cle
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: downloads.webis.de  
    Title: Downloads Is Google Getting Worse?  
-   Link: <a href="https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Longitudinal Investigation of...April 3, 2024 — by J Bevendorff · Cited by 48 — In this paper, we investigate the common observation t...</p></details>
+   Link:<a href="https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Longitudinal Investigation of...April 3, 2024 — by J Bevendorff · Cited by 48 — In this paper, we investigate the common observation t...</p></details>
    Published: April 3, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2107.03256" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.03256</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2107.03256" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.03256</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2021...</p></details>
    Published: July 7, 2021  
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: affiversemedia.com  
    Title: how to build software comparison pages that convert a guide for affiliates  
-   Link: <a href="https://www.affiversemedia.com/how-to-build-software-comparison-pages-that-convert-a-guide-for-affiliates/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/how-to-build-software-comparison-pages-that-convert-a-guide-for-affiliates/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AffiverseHow to Build Software Comparison Pages That Convert5 Feb 2026 — High-intent comparison content captures buyers at the decision s...</p></details>
+   Link:<a href="https://www.affiversemedia.com/how-to-build-software-comparison-pages-that-convert-a-guide-for-affiliates/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/how-to-build-software-comparison-pages-that-convert-a-guide-for-affiliates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AffiverseHow to Build Software Comparison Pages That Convert5 Feb 2026 — High-intent comparison content captures buyers at the decision s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wispra.com  
    Title: website keyword analysis the ultimate guide for seo ai en  
-   Link: <a href="https://wispra.com/blog/website-keyword-analysis-the-ultimate-guide-for-seo-ai-en" target="_blank" rel="noopener noreferrer nofollow">https://wispra.com/blog/website-keyword-analysis-the-ultimate-guide-for-seo-ai-en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Website Keyword Analysis: The Ultimate Guide for SEO &amp; AI26 Apr 2026 — **Commercial** queries go to comparison pages, detailed categories...</p></details>
+   Link:<a href="https://wispra.com/blog/website-keyword-analysis-the-ultimate-guide-for-seo-ai-en" target="_blank" rel="noopener noreferrer nofollow">https://wispra.com/blog/website-keyword-analysis-the-ultimate-guide-for-seo-ai-en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Website Keyword Analysis: The Ultimate Guide for SEO &amp; AI26 Apr 2026 — **Commercial** queries go to comparison pages, detailed categories...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: surnex.io  
    Title: Affiliate Marketing Keyword Research: A Modern Guide  
-   Link: <a href="https://surnex.io/blog/affiliate-marketing-keyword-research" target="_blank" rel="noopener noreferrer nofollow">https://surnex.io/blog/affiliate-marketing-keyword-research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Master affiliate marketing keyword research with our step-by-step guide. Find profitable keywords, analyze intent, and track AI vis...</p></details>
+   Link:<a href="https://surnex.io/blog/affiliate-marketing-keyword-research" target="_blank" rel="noopener noreferrer nofollow">https://surnex.io/blog/affiliate-marketing-keyword-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Master affiliate marketing keyword research with our step-by-step guide. Find profitable keywords, analyze intent, and track AI vis...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vibe-marketing.org  
    Title: Commercial Intent Keywords for B2B and Saa S  
-   Link: <a href="https://vibe-marketing.org/blog/commercial-intent-keywords" target="_blank" rel="noopener noreferrer nofollow">https://vibe-marketing.org/blog/commercial-intent-keywords</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commercial Intent Keywords for B2B and SaaS - VibeMarketing26 Dec 2025 — Learn how to identify commercial intent keywords, map them to pa...</p></details>
+   Link:<a href="https://vibe-marketing.org/blog/commercial-intent-keywords" target="_blank" rel="noopener noreferrer nofollow">https://vibe-marketing.org/blog/commercial-intent-keywords</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commercial Intent Keywords for B2B and SaaS - VibeMarketing26 Dec 2025 — Learn how to identify commercial intent keywords, map them to pa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: How to Choose Topics That Actually Make Money (for Affiliate Marketers)  
-   Link: <a href="http://www.youtube.com/watch?v=2LNRb0BSt4s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2LNRb0BSt4s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate marketing product comparison vs keywords strategy Content Strategy for Affiliate Marketing Sites [3.3] Ahrefs...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=2LNRb0BSt4s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2LNRb0BSt4s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate marketing product comparison vs keywords strategy Content Strategy for Affiliate Marketing Sites [3.3] Ahrefs...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gaconnector.com  
    Title: identifying [high intent keywords](&#123;&#123; 'intent-costs/' | relative_url &#125;&#125;)  
-   Link: <a href="https://gaconnector.com/blog/identifying-high-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://gaconnector.com/blog/identifying-high-intent-keywords/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying High-Intent Keywords22 Apr 2026 — If you see product pages, service pages, pricing pages, comparison pages, and review sites...</p></details>
+   Link:<a href="https://gaconnector.com/blog/identifying-high-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://gaconnector.com/blog/identifying-high-intent-keywords/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying High-Intent Keywords22 Apr 2026 — If you see product pages, service pages, pricing pages, comparison pages, and review sites...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=hYoXWByCaKY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hYoXWByCaKY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Choose Topics That Actually Make Money (for Affiliate Marketers)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hYoXWByCaKY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hYoXWByCaKY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Choose Topics That Actually Make Money (for Affiliate Marketers)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
    Title: Affiliate links and SEO  
-   Link: <a href="https://www.instagram.com/p/DY7U4v9nOcn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY7U4v9nOcn/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friends, enemies, or complicated?...Long-tail terms help you create focused landing pages, review content, comparisons, FAQs, and suppor...</p></details>
+   Link:<a href="https://www.instagram.com/p/DY7U4v9nOcn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY7U4v9nOcn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friends, enemies, or complicated?...Long-tail terms help you create focused landing pages, review content, comparisons, FAQs, and suppor...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: shopware.com  
-   Link: <a href="https://www.shopware.com/en/news/ecommerce-seo/" target="_blank" rel="noopener noreferrer nofollow">https://www.shopware.com/en/news/ecommerce-seo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecommerce SEO: Guide to visibility in AI search11 Feb 2025 — The more specific the search query (long-tail), the higher the probability t...</p></details>
+   Link:<a href="https://www.shopware.com/en/news/ecommerce-seo/" target="_blank" rel="noopener noreferrer nofollow">https://www.shopware.com/en/news/ecommerce-seo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecommerce SEO: Guide to visibility in AI search11 Feb 2025 — The more specific the search query (long-tail), the higher the probability t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How to Find KEYWORDS For Affiliate Marketing (This Makes It Easy)  
-   Link: <a href="http://www.youtube.com/watch?v=6iW6CfOMjfQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6iW6CfOMjfQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find Keywords for Affiliate Marketing (The FREE, Standard, and Advanced Methods)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=6iW6CfOMjfQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6iW6CfOMjfQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find Keywords for Affiliate Marketing (The FREE, Standard, and Advanced Methods)...</p></details>

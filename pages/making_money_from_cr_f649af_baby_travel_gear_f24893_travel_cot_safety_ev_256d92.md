@@ -292,20 +292,20 @@ The most important safety feature of a travel cot is often the least glamorous. 
 
 The guidance from The Lullaby Trust applies to travel cots in exactly the same way as permanent cots. A travel cot should have:
 
-* a rigid frame and base; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lullabytrust.org.uk/wp-content/uploads/2025/02/Mattress-and-bedding-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lullabytrust.org.uk">[lullabytrust.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lullabytrust.org.uk</span><span class="citation-popover-snippet">The Lullaby TrustMattresses, Bedding and CotsThe same &#x27;safer sleep&#x27; rules apply to a travel cot, which should have a rigid frame and base...</span></span></span> * a firm, flat mattress; <span class="citation-chip-wrap"><a class="citation-chip" href="https://anec.eu/wp-content/uploads/2016/10/ANEC-TS-2018-CHILD-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anec.eu">[anec.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anec.eu</span><span class="citation-popover-title">They should not have raised or cushioned areas. Firm.Read more</span><span class="citation-popover-snippet">Investigating Safe Sleeping Conditions for Children December...Mattress should be firm, flat, have a waterproof cover and closely fi...</span></span></span> * a waterproof mattress cover; <span class="citation-chip-wrap"><a class="citation-chip" href="https://anec.eu/wp-content/uploads/2016/10/ANEC-TS-2018-CHILD-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anec.eu">[anec.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anec.eu</span><span class="citation-popover-title">They should not have raised or cushioned areas. Firm.Read more</span><span class="citation-popover-snippet">Investigating Safe Sleeping Conditions for Children December...Mattress should be firm, flat, have a waterproof cover and closely fi...</span></span></span>
+* a rigid frame and base;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lullabytrust.org.uk/wp-content/uploads/2025/02/Mattress-and-bedding-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lullabytrust.org.uk">[lullabytrust.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lullabytrust.org.uk</span><span class="citation-popover-snippet">The Lullaby TrustMattresses, Bedding and CotsThe same &#x27;safer sleep&#x27; rules apply to a travel cot, which should have a rigid frame and base...</span></span></span> * a firm, flat mattress;<span class="citation-chip-wrap"><a class="citation-chip" href="https://anec.eu/wp-content/uploads/2016/10/ANEC-TS-2018-CHILD-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anec.eu">[anec.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anec.eu</span><span class="citation-popover-title">They should not have raised or cushioned areas. Firm.Read more</span><span class="citation-popover-snippet">Investigating Safe Sleeping Conditions for Children December...Mattress should be firm, flat, have a waterproof cover and closely fi...</span></span></span> * a waterproof mattress cover;<span class="citation-chip-wrap"><a class="citation-chip" href="https://anec.eu/wp-content/uploads/2016/10/ANEC-TS-2018-CHILD-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anec.eu">[anec.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anec.eu</span><span class="citation-popover-title">They should not have raised or cushioned areas. Firm.Read more</span><span class="citation-popover-snippet">Investigating Safe Sleeping Conditions for Children December...Mattress should be firm, flat, have a waterproof cover and closely fi...</span></span></span>
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * no gaps between the mattress and the cot sides;
-* no pillows, duvets, cot bumpers or additional soft padding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lullabytrust.org.uk">[The Lullaby Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lullabytrust.org.uk</span><span class="citation-popover-snippet">The Lullaby TrustSafer sleep on holidaySafer co-sleeping. The safest place for a baby to sleep is in their own separate sleep space, with...</span></span></span>
+* no pillows, duvets, cot bumpers or additional soft padding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lullabytrust.org.uk">[The Lullaby Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lullabytrust.org.uk</span><span class="citation-popover-snippet">The Lullaby TrustSafer sleep on holidaySafer co-sleeping. The safest place for a baby to sleep is in their own separate sleep space, with...</span></span></span>
 
 </div>
 
-Many parents are surprised that travel cot mattresses often feel thin and hard. That is intentional rather than a sign of poor quality. A firmer surface reduces the chance that a baby's face will sink into the mattress and helps maintain an unobstructed airway. The American consumer safety guidance similarly recommends only approved sleep products with a fitted sheet and no additional bedding inside the sleep space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cpsc.gov/SafeSleep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-title">Safe Sleep</span><span class="citation-popover-snippet">Consumer Product Safety CommissionSafe Sleep – Cribs and Infant ProductsDon&#x27;t leave your baby unsupervised in products that aren&#x27;t design...</span></span></span>
+Many parents are surprised that travel cot mattresses often feel thin and hard. That is intentional rather than a sign of poor quality. A firmer surface reduces the chance that a baby's face will sink into the mattress and helps maintain an unobstructed airway. The American consumer safety guidance similarly recommends only approved sleep products with a fitted sheet and no additional bedding inside the sleep space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cpsc.gov/SafeSleep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-title">Safe Sleep</span><span class="citation-popover-snippet">Consumer Product Safety CommissionSafe Sleep – Cribs and Infant ProductsDon&#x27;t leave your baby unsupervised in products that aren&#x27;t design...</span></span></span>
 
 Affiliate [reviews]({{ 'reviews/' | relative_url }}) should therefore avoid treating mattress softness as a selling point. Statements such as "comes with a thicker mattress for extra comfort" need careful scrutiny because increased softness is not automatically an advantage for infant sleep.
 
-A second issue is mattress fit. Even a well-made travel cot can become unsafe if an incompatible replacement mattress leaves gaps around the edges. Those spaces may create entrapment hazards if a baby rolls against the side. The Lullaby Trust specifically advises that mattresses should fit well without gaps between the mattress and the cot frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lullabytrust.org.uk">[The Lullaby Trust+2The Lullaby Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lullabytrust.org.uk</span><span class="citation-popover-snippet">The Lullaby TrustSafer sleep on holidaySafer co-sleeping. The safest place for a baby to sleep is in their own separate sleep space, with...</span></span></span>
+A second issue is mattress fit. Even a well-made travel cot can become unsafe if an incompatible replacement mattress leaves gaps around the edges. Those spaces may create entrapment hazards if a baby rolls against the side. The Lullaby Trust specifically advises that mattresses should fit well without gaps between the mattress and the cot frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lullabytrust.org.uk">[The Lullaby Trust+2The Lullaby Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lullabytrust.org.uk</span><span class="citation-popover-snippet">The Lullaby TrustSafer sleep on holidaySafer co-sleeping. The safest place for a baby to sleep is in their own separate sleep space, with...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f7FgY52ZWjI" title="Baby safe sleeping campaign - Travel cot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f7FgY52ZWjI" target="_blank" rel="noopener noreferrer">Baby safe sleeping campaign - Travel cot</a></p><p class="youtube-embed-meta">Channel: North East and North Cumbria NHS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f7FgY52ZWjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f7FgY52ZWjI">Open on YouTube</a></p></div></div></div>
@@ -332,9 +332,9 @@ These issues are rarely mentioned in marketing material but frequently appear in
 
 An especially valuable habit for affiliate reviewers is checking official recall databases before publishing recommendations. Products can remain available through second-hand marketplaces or older retail stock long after safety concerns emerge.
 
-Recent UK product safety actions illustrate why this matters. The recall of certain Puggle Airlite travel cot models instructed consumers to stop using affected products immediately because of identified safety concerns rather than simply advising repairs. That kind of recall is far more useful to readers than another comparison of folded dimensions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lullabytrust.org.uk">[The Lullaby Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lullabytrust.org.uk</span><span class="citation-popover-snippet">The Lullaby TrustSafer sleep on holidaySafer co-sleeping. The safest place for a baby to sleep is in their own separate sleep space, with...</span></span></span>
+Recent UK product safety actions illustrate why this matters. The recall of certain Puggle Airlite travel cot models instructed consumers to stop using affected products immediately because of identified safety concerns rather than simply advising repairs. That kind of recall is far more useful to readers than another comparison of folded dimensions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lullabytrust.org.uk">[The Lullaby Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lullabytrust.org.uk</span><span class="citation-popover-snippet">The Lullaby TrustSafer sleep on holidaySafer co-sleeping. The safest place for a baby to sleep is in their own separate sleep space, with...</span></span></span>
 
-Similarly, the US Consumer Product Safety Commission advises parents to check recall notices regularly and to stop using products that have been recalled rather than attempting improvised repairs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cpsc.gov/SafeSleep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-title">Safe Sleep</span><span class="citation-popover-snippet">Consumer Product Safety CommissionSafe Sleep – Cribs and Infant ProductsDon&#x27;t leave your baby unsupervised in products that aren&#x27;t design...</span></span></span>
+Similarly, the US Consumer Product Safety Commission advises parents to check recall notices regularly and to stop using products that have been recalled rather than attempting improvised repairs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cpsc.gov/SafeSleep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-title">Safe Sleep</span><span class="citation-popover-snippet">Consumer Product Safety CommissionSafe Sleep – Cribs and Infant ProductsDon&#x27;t leave your baby unsupervised in products that aren&#x27;t design...</span></span></span>
 
 For [affiliate content]({{ 'content-mix/' | relative_url }}), every travel cot review should include:
 
@@ -368,7 +368,7 @@ Travel cot owners often search for:
 
 These products are frequently marketed as improving sleep quality because standard travel cot mattresses feel firm.
 
-However, safe sleep organisations repeatedly advise against adding soft padding simply to make the cot feel more comfortable. The recommended sleep surface remains firm and flat rather than plush. Where replacement mattresses are used, they must be specifically designed for the individual travel cot and fit correctly without creating gaps. Improvised padding, folded blankets beneath the mattress or makeshift fillers around the edges introduce unnecessary risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lullabytrust.org.uk/wp-content/uploads/2025/02/Mattress-and-bedding-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lullabytrust.org.uk">[The Lullaby Trust+2ANEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lullabytrust.org.uk</span><span class="citation-popover-snippet">The Lullaby TrustMattresses, Bedding and CotsThe same &#x27;safer sleep&#x27; rules apply to a travel cot, which should have a rigid frame and base...</span></span></span>
+However, safe sleep organisations repeatedly advise against adding soft padding simply to make the cot feel more comfortable. The recommended sleep surface remains firm and flat rather than plush. Where replacement mattresses are used, they must be specifically designed for the individual travel cot and fit correctly without creating gaps. Improvised padding, folded blankets beneath the mattress or makeshift fillers around the edges introduce unnecessary risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lullabytrust.org.uk/wp-content/uploads/2025/02/Mattress-and-bedding-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lullabytrust.org.uk">[The Lullaby Trust+2ANEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lullabytrust.org.uk</span><span class="citation-popover-snippet">The Lullaby TrustMattresses, Bedding and CotsThe same &#x27;safer sleep&#x27; rules apply to a travel cot, which should have a rigid frame and base...</span></span></span>
 
 For affiliate sites this creates an editorial challenge. A highly converting accessory is not automatically a responsible recommendation.
 
@@ -387,7 +387,7 @@ Manufacturers often advertise terms such as:
 
 None of these phrases independently confirms that a product provides a safer sleep environment.
 
-Instead, reviewers should identify whether the travel cot complies with the applicable safety standard for its intended market and explain what that standard covers. European travel cots are commonly designed to meet BS EN 716 requirements covering issues such as structural integrity, stability, entrapment hazards and small parts, although compliance should always be confirmed for the individual product rather than assumed from marketing language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yourbabyclub.co.uk/what-to-look-when-choosing-a-travel-cot-324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourbabyclub.co.uk">[Your Baby Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourbabyclub.co.uk</span><span class="citation-popover-snippet">When purchasing, it&#x27;s imperative you look out for the CE marking as this signifies...Read more...</span></span></span>
+Instead, reviewers should identify whether the travel cot complies with the applicable safety standard for its intended market and explain what that standard covers. European travel cots are commonly designed to meet BS EN 716 requirements covering issues such as structural integrity, stability, entrapment hazards and small parts, although compliance should always be confirmed for the individual product rather than assumed from marketing language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yourbabyclub.co.uk/what-to-look-when-choosing-a-travel-cot-324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourbabyclub.co.uk">[Your Baby Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourbabyclub.co.uk</span><span class="citation-popover-snippet">When purchasing, it&#x27;s imperative you look out for the CE marking as this signifies...Read more...</span></span></span>
 
 Equally important is recognising what certification does not prove. Meeting a manufacturing standard does not guarantee that every accessory sold alongside the cot is equally appropriate, nor does it remove the need to follow safe sleep guidance on bedding, mattress fit and stop-use instructions.
 
@@ -427,178 +427,178 @@ For affiliate publishers, this approach has another advantage. It produces conte
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Lightweight Travel Cots Still Need Safety Checks. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Lightweight Travel Cots Still Need Safety Checks. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caring for Your Baby and Young Child on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/369843-M.jpg" alt="Cover for Caring for Your Baby and Young Child" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caring for Your Baby and Young Child">Caring for Your Baby and Young Child</a>
-        </h4>
-        <p class="fr-book-author">By American Academy of Pediatrics</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caring for Your Baby and Young Child on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/369843-M.jpg" alt="Cover for Caring for Your Baby and Young Child" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caring for Your Baby and Young Child">Caring for Your Baby and Young Child</a>
+</h4>
+<p class="fr-book-author">By American Academy of Pediatrics</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Child development, Child care, Infants, Care, Infants, care and hygiene.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Child development, Child care, Infants, Care, Infants, care and hygiene.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cribsheet+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cribsheet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8745537-M.jpg" alt="Cover for Cribsheet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cribsheet+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cribsheet">Cribsheet</a>
-        </h4>
-        <p class="fr-book-author">By Emily Oster</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cribsheet+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cribsheet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8745537-M.jpg" alt="Cover for Cribsheet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cribsheet+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cribsheet">Cribsheet</a>
+</h4>
+<p class="fr-book-author">By Emily Oster</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Pregnancy, Pregnant women, Parenthood, Women, health and hygiene, nyt:advice-how-to-and-miscellaneous=201...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cribsheet+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Pregnancy, Pregnant women, Parenthood, Women, health and hygiene, nyt:advice-how-to-and-miscellaneous=201...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cribsheet+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caring for Your Baby and Young Child: Birth to Age 5 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caring for Your Baby and Young Child: Birth to Age 5">Caring for Your Baby and Young Child: Birth to Age 5</a>
-        </h4>
-        <p class="fr-book-author">By American Academy of Pediatrics</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caring for Your Baby and Young Child: Birth to Age 5 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caring for Your Baby and Young Child: Birth to Age 5">Caring for Your Baby and Young Child: Birth to Age 5</a>
+</h4>
+<p class="fr-book-author">By American Academy of Pediatrics</p>
         
-        <p class="fr-book-desc">Covers evidence-based infant sleep safety and practical guidance relevant to choosing and using travel cots safely.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evidence-based infant sleep safety and practical guidance relevant to choosing and using travel cots safely.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data+Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data+Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool">Cribsheet: A Data-Driven Guide to Better, More Relaxed Parent...</a>
-        </h4>
-        <p class="fr-book-author">By Emily Oster</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data+Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data+Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool">Cribsheet: A Data-Driven Guide to Better, More Relaxed Parent...</a>
+</h4>
+<p class="fr-book-author">By Emily Oster</p>
         
-        <p class="fr-book-desc">Helps parents evaluate evidence and safety claims surrounding infant products and sleep decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data+Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps parents evaluate evidence and safety claims surrounding infant products and sleep decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data+Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caring for Your Baby and Young Child</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cribsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cribsheet</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caring for Your Baby and Young Child: Birth to Age 5</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caring for Your Baby and Young Child</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cribsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cribsheet</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caring for Your Baby and Young Child: Birth to Age 5</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram"><img src="{{ '/assets/images/marketplace-covers/426a34027f777a537314.jpg' | relative_url }}" alt="Listing image for Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram"><img src="{{ '/assets/images/marketplace-covers/426a34027f777a537314.jpg' | relative_url }}" alt="Listing image for Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious"><img src="{{ '/assets/images/marketplace-covers/924156cc2a9dae9046d2.jpg' | relative_url }}" alt="Listing image for Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious"><img src="{{ '/assets/images/marketplace-covers/924156cc2a9dae9046d2.jpg' | relative_url }}" alt="Listing image for Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories"><img src="{{ '/assets/images/marketplace-covers/ca55d6828a9aa934e1e5.jpg' | relative_url }}" alt="Listing image for Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories"><img src="{{ '/assets/images/marketplace-covers/ca55d6828a9aa934e1e5.jpg' | relative_url }}" alt="Listing image for Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="travel-cots-lightweight-travel-cots-still-need-safety-checks-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -614,7 +614,7 @@ For affiliate publishers, this approach has another advantage. It produces conte
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,7 +634,7 @@ For affiliate publishers, this approach has another advantage. It produces conte
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -666,7 +666,7 @@ For affiliate publishers, this approach has another advantage. It produces conte
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ For affiliate publishers, this approach has another advantage. It produces conte
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -763,7 +763,7 @@ For affiliate publishers, this approach has another advantage. It produces conte
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -804,79 +804,79 @@ For affiliate publishers, this approach has another advantage. It produces conte
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cpsc.gov  
    Title: Safe Sleep  
-   Link: <a href="https://www.cpsc.gov/SafeSleep" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/SafeSleep</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionSafe Sleep – Cribs and Infant ProductsDon&#x27;t leave your baby unsupervised in products that aren&#x27;t design...</p></details>
+   Link:<a href="https://www.cpsc.gov/SafeSleep" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/SafeSleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionSafe Sleep – Cribs and Infant ProductsDon&#x27;t leave your baby unsupervised in products that aren&#x27;t design...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: anec.eu  
    Title: They should not have raised or cushioned areas. Firm.Read more  
-   Link: <a href="https://anec.eu/wp-content/uploads/2016/10/ANEC-TS-2018-CHILD-005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anec.eu/wp-content/uploads/2016/10/ANEC-TS-2018-CHILD-005.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Safe Sleeping Conditions for Children December...Mattress should be firm, flat, have a waterproof cover and closely fi...</p></details>
+   Link:<a href="https://anec.eu/wp-content/uploads/2016/10/ANEC-TS-2018-CHILD-005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anec.eu/wp-content/uploads/2016/10/ANEC-TS-2018-CHILD-005.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Safe Sleeping Conditions for Children December...Mattress should be firm, flat, have a waterproof cover and closely fi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lullabytrust.org.uk  
-   Link: <a href="https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/" target="_blank" rel="noopener noreferrer nofollow">https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lullaby TrustSafer sleep on holidaySafer co-sleeping. The safest place for a baby to sleep is in their own separate sleep space, with...</p></details>
+   Link:<a href="https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/" target="_blank" rel="noopener noreferrer nofollow">https://www.lullabytrust.org.uk/baby-safety/travel-and-weather/safer-sleep-on-holiday/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lullaby TrustSafer sleep on holidaySafer co-sleeping. The safest place for a baby to sleep is in their own separate sleep space, with...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lullabytrust.org.uk  
-   Link: <a href="https://www.lullabytrust.org.uk/wp-content/uploads/2025/02/Mattress-and-bedding-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lullabytrust.org.uk/wp-content/uploads/2025/02/Mattress-and-bedding-factsheet.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lullaby TrustMattresses, Bedding and CotsThe same &#x27;safer sleep&#x27; rules apply to a travel cot, which should have a rigid frame and base...</p></details>
+   Link:<a href="https://www.lullabytrust.org.uk/wp-content/uploads/2025/02/Mattress-and-bedding-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lullabytrust.org.uk/wp-content/uploads/2025/02/Mattress-and-bedding-factsheet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lullaby TrustMattresses, Bedding and CotsThe same &#x27;safer sleep&#x27; rules apply to a travel cot, which should have a rigid frame and base...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: yourbabyclub.co.uk  
-   Link: <a href="https://www.yourbabyclub.co.uk/what-to-look-when-choosing-a-travel-cot-324" target="_blank" rel="noopener noreferrer nofollow">https://www.yourbabyclub.co.uk/what-to-look-when-choosing-a-travel-cot-324</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When purchasing, it&#x27;s imperative you look out for the CE marking as this signifies...Read more...</p></details>
+   Link:<a href="https://www.yourbabyclub.co.uk/what-to-look-when-choosing-a-travel-cot-324" target="_blank" rel="noopener noreferrer nofollow">https://www.yourbabyclub.co.uk/what-to-look-when-choosing-a-travel-cot-324</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When purchasing, it&#x27;s imperative you look out for the CE marking as this signifies...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LullabyTrust/posts/just-because-its-on-the-shelf-doesnt-mean-its-suitable-for-sleep-baby-sleep-prod/1401739171993073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LullabyTrust/posts/just-because-its-on-the-shelf-doesnt-mean-its-suitable-for-sleep-baby-sleep-prod/1401739171993073/</a>  
+   Link:<a href="https://www.facebook.com/LullabyTrust/posts/just-because-its-on-the-shelf-doesnt-mean-its-suitable-for-sleep-baby-sleep-prod/1401739171993073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LullabyTrust/posts/just-because-its-on-the-shelf-doesnt-mean-its-suitable-for-sleep-baby-sleep-prod/1401739171993073/</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mumsnet.com  
    Title: 4722305 can anyone tell me if this is safe  
-   Link: <a href="https://www.mumsnet.com/talk/am_i_being_unreasonable/4722305-can-anyone-tell-me-if-this-is-safe" target="_blank" rel="noopener noreferrer nofollow">https://www.mumsnet.com/talk/am_i_being_unreasonable/4722305-can-anyone-tell-me-if-this-is-safe</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can anyone tell me if this is safe?17 Jan 2023 — You aren&#x27;t supposed to use another mattress, or padding of any sort in a travel cot in c...</p></details>
+   Link:<a href="https://www.mumsnet.com/talk/am_i_being_unreasonable/4722305-can-anyone-tell-me-if-this-is-safe" target="_blank" rel="noopener noreferrer nofollow">https://www.mumsnet.com/talk/am_i_being_unreasonable/4722305-can-anyone-tell-me-if-this-is-safe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can anyone tell me if this is safe?17 Jan 2023 — You aren&#x27;t supposed to use another mattress, or padding of any sort in a travel cot in c...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=71GPErhSRjo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=71GPErhSRjo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assembling a Portable Crib | Safe Baby Sleep || Cook Children&#x27;s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=71GPErhSRjo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=71GPErhSRjo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assembling a Portable Crib | Safe Baby Sleep || Cook Children&#x27;s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: It's the harsh reality  
-   Link: <a href="https://www.facebook.com/LullabyTrust/posts/its-the-harsh-reality-be-sure-to-check-that-every-baby-sleep-product-complies-wi/1406706631496327/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LullabyTrust/posts/its-the-harsh-reality-be-sure-to-check-that-every-baby-sleep-product-complies-wi/1406706631496327/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>🙃 Be sure to check that every baby...Safety standards for baby sleep products: Cots and travel cots: BS EN 716... mattress in a safety...</p></details>
+   Link:<a href="https://www.facebook.com/LullabyTrust/posts/its-the-harsh-reality-be-sure-to-check-that-every-baby-sleep-product-complies-wi/1406706631496327/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LullabyTrust/posts/its-the-harsh-reality-be-sure-to-check-that-every-baby-sleep-product-complies-wi/1406706631496327/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🙃 Be sure to check that every baby...Safety standards for baby sleep products: Cots and travel cots: BS EN 716... mattress in a safety...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Safer sleep for babies: guidance for the hospitality sector  
-   Link: <a href="https://www.youtube.com/watch?v=4kEEeuHC5-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4kEEeuHC5-c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UK Baby Sleep Rules 2026 - What EVERY Childcare Provider &amp; Parent MUST Know (Safer Sleep Guide)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4kEEeuHC5-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4kEEeuHC5-c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UK Baby Sleep Rules 2026 - What EVERY Childcare Provider &amp; Parent MUST Know (Safer Sleep Guide)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Assembling a Portable Crib | Safe Baby Sleep || Cook Children's  
-   Link: <a href="https://www.youtube.com/watch?v=AdAANziTwvY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AdAANziTwvY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Install | hauck Standard Folding Cots – Set Up &amp; Fold | Travel Cot...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AdAANziTwvY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AdAANziTwvY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Install | hauck Standard Folding Cots – Set Up &amp; Fold | Travel Cot...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cotmattresscompany.com  
-   Link: <a href="https://www.cotmattresscompany.com/help-advice?srsltid=AfmBOopqzzOP-m3TRtCiXWk_2M27fXSxQ4Tqud35q4nbQ2ClUfC5SRWq" target="_blank" rel="noopener noreferrer nofollow">https://www.cotmattresscompany.com/help-advice?srsltid=AfmBOopqzzOP-m3TRtCiXWk_2M27fXSxQ4Tqud35q4nbQ2ClUfC5SRWq</a>  
+   Link:<a href="https://www.cotmattresscompany.com/help-advice?srsltid=AfmBOopqzzOP-m3TRtCiXWk_2M27fXSxQ4Tqud35q4nbQ2ClUfC5SRWq" target="_blank" rel="noopener noreferrer nofollow">https://www.cotmattresscompany.com/help-advice?srsltid=AfmBOopqzzOP-m3TRtCiXWk_2M27fXSxQ4Tqud35q4nbQ2ClUfC5SRWq</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Baby safe sleeping campaign  
-   Link: <a href="https://www.youtube.com/watch?v=f7FgY52ZWjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f7FgY52ZWjI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safer sleep for babies: guidance for the hospitality sector...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f7FgY52ZWjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f7FgY52ZWjI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safer sleep for babies: guidance for the hospitality sector...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How to Install | hauck Standard Folding Cots – Set Up & Fold | Travel Cot  
-   Link: <a href="https://www.youtube.com/watch?v=bUhSbu0im7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bUhSbu0im7g</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bUhSbu0im7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bUhSbu0im7g</a>  

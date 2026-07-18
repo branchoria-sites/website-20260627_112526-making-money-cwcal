@@ -274,7 +274,7 @@ image: /assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_thi
 
 ## Introduction
 
-[Thin affiliate pages]({{ 'thin-pages/' | relative_url }}) rarely succeed for long in the [home espresso niche]({{ 'espresso/' | relative_url }}) because buyers expect evidence, not recycled marketing copy. Espresso machines are expensive, technically varied and often require careful setup, so readers quickly notice when a review simply repeats manufacturer claims or retailer specifications. From a business perspective, thin reviews are also risky: they offer little unique value to users, make it harder to earn trust, and can create search visibility problems if they resemble low-value affiliate content. Google states that pages created primarily to send users elsewhere without providing substantial added value may violate its spam policies, while UK advertising rules require affiliate relationships to be clearly identifiable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
+[Thin affiliate pages]({{ 'thin-pages/' | relative_url }}) rarely succeed for long in the [home espresso niche]({{ 'espresso/' | relative_url }}) because buyers expect evidence, not recycled marketing copy. Espresso machines are expensive, technically varied and often require careful setup, so readers quickly notice when a review simply repeats manufacturer claims or retailer specifications. From a business perspective, thin reviews are also risky: they offer little unique value to users, make it harder to earn trust, and can create search visibility problems if they resemble low-value affiliate content. Google states that pages created primarily to send users elsewhere without providing substantial added value may violate its spam policies, while UK advertising rules require affiliate relationships to be clearly identifiable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_thin_espresso_review_681deb-Illustration-1-dark.svg" | relative_url }}" alt="Thin Reviews illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_thin_espresso_review_681deb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_thin_espresso_review_681deb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -301,7 +301,7 @@ A thin affiliate review usually has several recognisable characteristics:
 
 These pages rarely help someone choosing between machines such as entry-level thermoblock models and single-boiler machines because they fail to answer practical questions that influence purchasing decisions.
 
-Google's search documentation emphasises that content should provide value beyond simply directing users through affiliate links. Pages that exist mainly to monetise clicks without meaningful original contribution risk poor search performance or manual action if they cross into spam policy violations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
+Google's search documentation emphasises that content should provide value beyond simply directing users through affiliate links. Pages that exist mainly to monetise clicks without meaningful original contribution risk poor search performance or manual action if they cross into spam policy violations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gX9W0io6mpo" title="Google Product Reviews Update 2.0 Analysis (December 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gX9W0io6mpo" target="_blank" rel="noopener noreferrer">Google Product Reviews Update 2.0 Analysis (December 2021)</a></p><p class="youtube-embed-meta">Channel: Matt Diggity &middot; Views: 14.6K &middot; Uploaded: December 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gX9W0io6mpo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gX9W0io6mpo">Open on YouTube</a></p></div></div></div>
@@ -368,7 +368,7 @@ In a specialist niche like home espresso, experienced readers frequently recogni
 
 Affiliate disclosures are not separate from review quality—they reinforce credibility when presented clearly.
 
-In the UK, the Advertising Standards [Authority]({{ 'authority/' | relative_url }}) (ASA) and the Committee of Advertising Practice (CAP) expect affiliate marketing to be obviously identifiable as advertising where applicable. Both advertisers and affiliates share responsibility for compliance. Clear disclosure should appear where readers will see it naturally rather than being hidden in footers or obscure policy pages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by a...</span></span></span>
+In the UK, the Advertising Standards [Authority]({{ 'authority/' | relative_url }}) (ASA) and the Committee of Advertising Practice (CAP) expect affiliate marketing to be obviously identifiable as advertising where applicable. Both advertisers and affiliates share responsibility for compliance. Clear disclosure should appear where readers will see it naturally rather than being hidden in footers or obscure policy pages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by a...</span></span></span>
 
 A straightforward disclosure might explain that:
 
@@ -383,7 +383,7 @@ A straightforward disclosure might explain that:
 
 The disclosure does not replace honest reviewing. Instead, it helps readers understand the commercial relationship while allowing them to judge the review on its merits.
 
-Recent ASA enforcement has continued to emphasise transparency around affiliate marketing and has scrutinised review-style content that appears impartial while promoting commercial interests without adequate disclosure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cms.law/en/gbr/legal-updates/asa-upholds-complaints-against-four-misleading-product-review-websites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[CMS Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-title">Law ASA Rulings on Misleading Product Review Websites</span><span class="citation-popover-snippet">ASA Rulings on Misleading Product Review WebsitesMay 13, 2026 — 13 May 2026 — The Advertising Standards Authority (ASA) has issued four r...</span></span></span>
+Recent ASA enforcement has continued to emphasise transparency around affiliate marketing and has scrutinised review-style content that appears impartial while promoting commercial interests without adequate disclosure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cms.law/en/gbr/legal-updates/asa-upholds-complaints-against-four-misleading-product-review-websites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[CMS Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-title">Law ASA Rulings on Misleading Product Review Websites</span><span class="citation-popover-snippet">ASA Rulings on Misleading Product Review WebsitesMay 13, 2026 — 13 May 2026 — The Advertising Standards Authority (ASA) has issued four r...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_thin_espresso_review_681deb-Illustration-3-dark.svg" | relative_url }}" alt="Thin Reviews illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_thin_espresso_review_681deb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_thin_espresso_review_681deb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -411,178 +411,178 @@ These details create the added value that distinguishes an independent review fr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Thin Espresso Reviews Fail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Thin Espresso Reviews Fail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
-        </h4>
-        <p class="fr-book-author">By James Hoffmann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
+</h4>
+<p class="fr-book-author">By James Hoffmann</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Coffee industry, Coffee, Café, Commerce, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Coffee industry, Coffee, Café, Commerce, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
-        </h4>
-        <p class="fr-book-author">By Scott Rao</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
+</h4>
+<p class="fr-book-author">By Scott Rao</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Tea, Coffee, Espresso.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Tea, Coffee, Espresso.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
-        </h4>
-        <p class="fr-book-author">By Anette Moldvaer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
+</h4>
+<p class="fr-book-author">By Anette Moldvaer</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Coffee, Cooking (coffee), Coffee brewing, Espresso.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Coffee, Cooking (coffee), Coffee brewing, Espresso.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Craft coffee on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Craft coffee">Craft coffee</a>
-        </h4>
-        <p class="fr-book-author">By Jessica Easto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Craft coffee on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Craft coffee">Craft coffee</a>
+</h4>
+<p class="fr-book-author">By Jessica Easto</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Coffee making paraphernalia, Coffee brewing, Handbooks, manuals, Coffee.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Coffee making paraphernalia, Coffee brewing, Handbooks, manuals, Coffee.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Coffee+Obsession&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coffee Obsession</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Coffee+Obsession&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coffee Obsession</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midcentury Coffee Poster Espresso Wall Art Print A4"><img src="{{ '/assets/images/marketplace-covers/0e03c77e71d8d95c30d5.jpg' | relative_url }}" alt="Listing image for Midcentury Coffee Poster Espresso Wall Art Print A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer">Midcentury Coffee Poster Espresso Wall Art Print A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: espresso wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midcentury Coffee Poster Espresso Wall Art Print A4"><img src="{{ '/assets/images/marketplace-covers/0e03c77e71d8d95c30d5.jpg' | relative_url }}" alt="Listing image for Midcentury Coffee Poster Espresso Wall Art Print A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer">Midcentury Coffee Poster Espresso Wall Art Print A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: espresso wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Espresso Buongiorno Poster Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/914b7f84dbda19353a7b.jpg' | relative_url }}" alt="Listing image for Espresso Buongiorno Poster Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer">Espresso Buongiorno Poster Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: espresso wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Espresso Buongiorno Poster Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/914b7f84dbda19353a7b.jpg' | relative_url }}" alt="Listing image for Espresso Buongiorno Poster Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer">Espresso Buongiorno Poster Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: espresso wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black &amp; White Cafe Espresso Coffee Shop Close Up Framed Canvas Print Wall Art"><img src="{{ '/assets/images/marketplace-covers/665e0b4dc89f617b754a.jpg' | relative_url }}" alt="Listing image for Black &amp; White Cafe Espresso Coffee Shop Close Up Framed Canvas Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer">Black &amp; White Cafe Espresso Coffee Shop Close Up Framed Canvas Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: espresso wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black &amp; White Cafe Espresso Coffee Shop Close Up Framed Canvas Print Wall Art"><img src="{{ '/assets/images/marketplace-covers/665e0b4dc89f617b754a.jpg' | relative_url }}" alt="Listing image for Black &amp; White Cafe Espresso Coffee Shop Close Up Framed Canvas Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer">Black &amp; White Cafe Espresso Coffee Shop Close Up Framed Canvas Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for espresso wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: espresso wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=espresso+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="espresso wall art" data-ebay-reference="thin-reviews-why-thin-espresso-reviews-fail-making-money-from-espresso-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ These details create the added value that distinguishes an independent review fr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ These details create the added value that distinguishes an independent review fr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ These details create the added value that distinguishes an independent review fr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ These details create the added value that distinguishes an independent review fr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ These details create the added value that distinguishes an independent review fr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,84 +788,84 @@ These details create the added value that distinguishes an independent review fr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by a...</p></details>
+   Link:<a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cms.law  
    Title: Law ASA Rulings on Misleading Product Review Websites  
-   Link: <a href="https://cms.law/en/gbr/legal-[updates" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-[updates</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA Rulings on Misleading Product Review WebsitesMay 13, 2026 — 13 May 2026 — The Advertising Standards Authority (ASA) has issued four r...</p></details>
+   Link:<a href="https://cms.law/en/gbr/legal-[updates" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-[updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASA Rulings on Misleading Product Review WebsitesMay 13, 2026 — 13 May 2026 — The Advertising Standards Authority (ASA) has issued four r...</p></details>
    Published: May 13, 2026  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blakemorgan.co.uk  
    Title: increased scrutiny of influencer and affiliate marketing communications  
-   Link: <a href="https://www.blakemorgan.co.uk/increased-scrutiny-of-influencer-and-affiliate-marketing-communications/" target="_blank" rel="noopener noreferrer nofollow">https://www.blakemorgan.co.uk/increased-scrutiny-of-influencer-and-affiliate-marketing-communications/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Increased scrutiny of influencer and affiliate marketing...1 May 2025 — Influencers are increasingly under scrutiny for breaches of the...</p></details>
+   Link:<a href="https://www.blakemorgan.co.uk/increased-scrutiny-of-influencer-and-affiliate-marketing-communications/" target="_blank" rel="noopener noreferrer nofollow">https://www.blakemorgan.co.uk/increased-scrutiny-of-influencer-and-affiliate-marketing-communications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Increased scrutiny of influencer and affiliate marketing...1 May 2025 — Influencers are increasingly under scrutiny for breaches of the...</p></details>
    Published: May 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EBIbG3d0k9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EBIbG3d0k9c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Diggity Google Product Reviews Update Google Product Reviews Update 2.0 Analysis (December 2021) Matt Diggity...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EBIbG3d0k9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EBIbG3d0k9c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Diggity Google Product Reviews Update Google Product Reviews Update 2.0 Analysis (December 2021) Matt Diggity...</p></details>
    Published: December 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theapma.co.uk  
    Title: what the latest asa rulings mean for affiliate marketing  
-   Link: <a href="https://theapma.co.uk/what-the-latest-asa-rulings-mean-for-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://theapma.co.uk/what-the-latest-asa-rulings-mean-for-affiliate-marketing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Dec 2024 — The Advertising Standards Authority (ASA) has upheld five separate complaints against affiliate marketing ads on Instagram...</p></details>
+   Link:<a href="https://theapma.co.uk/what-the-latest-asa-rulings-mean-for-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://theapma.co.uk/what-the-latest-asa-rulings-mean-for-affiliate-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Dec 2024 — The Advertising Standards Authority (ASA) has upheld five separate complaints against affiliate marketing ads on Instagram...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: marketinglaw.osborneclarke.com  
    Title: cap affiliate marketing guidance  
-   Link: <a href="https://marketinglaw.osborneclarke.com/advertising-regulation/cap-affiliate-marketing-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://marketinglaw.osborneclarke.com/advertising-regulation/cap-affiliate-marketing-guidance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing guidance | marketinglaw24 May 2017 — As such, CAP has issued new guidance making clear that the CAP Code does indeed...</p></details>
+   Link:<a href="https://marketinglaw.osborneclarke.com/advertising-regulation/cap-affiliate-marketing-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://marketinglaw.osborneclarke.com/advertising-regulation/cap-affiliate-marketing-guidance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing guidance | marketinglaw24 May 2017 — As such, CAP has issued new guidance making clear that the CAP Code does indeed...</p></details>
    Published: May 2017  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Thin content (and why quality content matters) | Sustainable Monetized Websites  
-   Link: <a href="https://www.youtube.com/watch?v=ZLTz3KRsy4k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZLTz3KRsy4k</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Reasons Why Thin Content Is Destroying Your Google [Rankings](&amp;#123;&amp;#123; &#x27;rankings/&#x27; | relative_url &amp;#125;&amp;#125;) (And How to Bulk It Up Fast)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZLTz3KRsy4k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZLTz3KRsy4k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Reasons Why Thin Content Is Destroying Your Google [Rankings](&amp;#123;&amp;#123; &#x27;rankings/&#x27; | relative_url &amp;#125;&amp;#125;) (And How to Bulk It Up Fast)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: impact.com  
    Title: affiliate link disclosure  
-   Link: <a href="https://impact.com/influencer/affiliate-link-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/influencer/affiliate-link-disclosure/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s: 2025 Compliance Guide (+...Learn how to craft clear affiliate link disclosures to build trust and stay FTC-compliant. This guide cove...</p></details>
+   Link:<a href="https://impact.com/influencer/affiliate-link-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/influencer/affiliate-link-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s: 2025 Compliance Guide (+...Learn how to craft clear affiliate link disclosures to build trust and stay FTC-compliant. This guide cove...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: seqlegal.com  
    Title: affiliate marketing laws  
-   Link: <a href="https://seqlegal.com/digital-marketing-laws/affiliate-marketing-laws/" target="_blank" rel="noopener noreferrer nofollow">https://seqlegal.com/digital-marketing-laws/affiliate-marketing-laws/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing Disclosure Requirements (2026)A detailed guide to affiliate marketing laws and disclosure requirements in the UK, EU...</p></details>
+   Link:<a href="https://seqlegal.com/digital-marketing-laws/affiliate-marketing-laws/" target="_blank" rel="noopener noreferrer nofollow">https://seqlegal.com/digital-marketing-laws/affiliate-marketing-laws/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing Disclosure Requirements (2026)A detailed guide to affiliate marketing laws and disclosure requirements in the UK, EU...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: termly.io  
    Title: ftc affiliate disclosure  
-   Link: <a href="https://termly.io/resources/articles/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://termly.io/resources/articles/ftc-affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Feb 2026 — An FTC affiliate disclosure is a statement explaining your relationship to companies that pay you to sponsor or otherwise p...</p></details>
+   Link:<a href="https://termly.io/resources/articles/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://termly.io/resources/articles/ftc-affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Feb 2026 — An FTC affiliate disclosure is a statement explaining your relationship to companies that pay you to sponsor or otherwise p...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Google Just Messed Up! We Now Know EXACTLY What They Want  
-   Link: <a href="https://www.youtube.com/watch?v=7gMo4WS7FDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7gMo4WS7FDU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thin content (and why quality content matters) | Sustainable Monetized Websites...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7gMo4WS7FDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7gMo4WS7FDU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thin content (and why quality content matters) | Sustainable Monetized Websites...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gX9W0io6mpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gX9W0io6mpo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Just Messed Up! We Now Know EXACTLY What They Want...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gX9W0io6mpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gX9W0io6mpo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Just Messed Up! We Now Know EXACTLY What They Want...</p></details>
    Published: December 2021  

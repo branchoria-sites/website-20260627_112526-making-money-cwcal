@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-first-hand/
 description: Focused pages that expand on Testing.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_first_hand_testing_7d677b
 parent_title: Testing
@@ -16,7 +16,7 @@ parent_permalink: /testing/
 
 # Explore Topics in Testing
 
-The following pages expand on the main **[Testing]({{ '/testing/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Testing]({{ '/testing/' | relative_url }})** page and cover its key branches in.
 
 - [Awkward Moments]({{ '/awkward-moments/' | relative_url }})
 - [How Tested]({{ '/how-tested/' | relative_url }})

@@ -274,7 +274,7 @@ image: /assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_hi
 
 ## Introduction
 
-Thin affiliate [reviews]({{ 'reviews/' | relative_url }}) often fail because they present products as if every buyer will have the same experience. They list features, repeat marketing claims and end with a purchase link, but rarely explain the compromises that come with choosing one product over another. That absence of judgement makes the page less useful to readers and less distinctive to search engines looking for original, people-first content. Google's guidance consistently encourages content that adds genuine analysis rather than rewriting existing sources, while its product review recommendations favour reviews that explain benefits, drawbacks and meaningful comparisons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+Thin affiliate [reviews]({{ 'reviews/' | relative_url }}) often fail because they present products as if every buyer will have the same experience. They list features, repeat marketing claims and end with a purchase link, but rarely explain the compromises that come with choosing one product over another. That absence of judgement makes the page less useful to readers and less distinctive to search engines looking for original, people-first content. Google's guidance consistently encourages content that adds genuine analysis rather than rewriting existing sources, while its product review recommendations favour reviews that explain benefits, drawbacks and meaningful comparisons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_hidden_review_tradeo_801e61-Illustration-1-dark.svg" | relative_url }}" alt="Trade Offs illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_hidden_review_tradeo_801e61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_hidden_review_tradeo_801e61-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ When a review ignores those compromises, readers instinctively recognise the imb
 
 This also creates original editorial value. Anyone can rewrite a specification sheet. Explaining that a camera's excellent image quality comes at the cost of slower autofocus for sports photography requires evaluation rather than summarisation.
 
-Google's guidance for helpful content asks creators whether they provide original information, insightful analysis and substantial added value instead of simply rewriting other sources. Honest discussion of trade-offs directly supports those goals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+Google's guidance for helpful content asks creators whether they provide original information, insightful analysis and substantial added value instead of simply rewriting other sources. Honest discussion of trade-offs directly supports those goals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
 A balanced review therefore becomes more persuasive, not less persuasive. Readers are more likely to believe praise after seeing genuine criticism than after reading an uninterrupted list of positives.
 
@@ -362,7 +362,7 @@ In practice, the opposite often happens over the long term.
 
 Readers expect expensive purchases to involve compromise. If every reviewed product receives five-star praise with only token criticisms such as "slightly expensive" or "available in limited colours", the reviews begin to resemble advertising copy.
 
-Search quality guidance has increasingly favoured reviews that demonstrate expertise, evidence and thoughtful evaluation rather than surface-level summaries. Google's product review guidance has consistently encouraged detailed analysis, comparisons, measurements where appropriate and discussion of benefits alongside limitations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsqi.com">[gsqi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsqi.com</span><span class="citation-popover-title">google product reviews algorithm update</span><span class="citation-popover-snippet">Google&#x27;s Product Reviews Update – Analysis and findings22 Apr 2021 — Google&#x27;s Product Reviews Update – Analysis and findings from a major...</span></span></span>
+Search quality guidance has increasingly favoured reviews that demonstrate expertise, evidence and thoughtful evaluation rather than surface-level summaries. Google's product review guidance has consistently encouraged detailed analysis, comparisons, measurements where appropriate and discussion of benefits alongside limitations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsqi.com">[gsqi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsqi.com</span><span class="citation-popover-title">google product reviews algorithm update</span><span class="citation-popover-snippet">Google&#x27;s Product Reviews Update – Analysis and findings22 Apr 2021 — Google&#x27;s Product Reviews Update – Analysis and findings from a major...</span></span></span>
 
 The hidden trade-off is therefore commercial rather than editorial:
 
@@ -408,197 +408,197 @@ Readers visit affiliate reviews because they need assistance navigating competin
 
 The pages that stand out are those willing to explain uncomfortable but useful truths: the premium option that is not worth the extra money for most buyers, the cheaper model that covers 90% of real-world needs, or the popular product that simply does not suit a particular audience.
 
-Those trade-offs are difficult to automate, difficult to copy from merchant pages and genuinely valuable to readers. They are also the kind of original judgement that separates useful [affiliate content]({{ 'content-mix/' | relative_url }}) from thin affiliate content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2gsqi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+Those trade-offs are difficult to automate, difficult to copy from merchant pages and genuinely valuable to readers. They are also the kind of original judgement that separates useful [affiliate content]({{ 'content-mix/' | relative_url }}) from thin affiliate content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2gsqi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Missing Warnings in Thin Reviews. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Missing Warnings in Thin Reviews. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Promotes honest, useful writing that addresses reader questions and trade-offs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes honest, useful writing that addresses reader questions and trade-offs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
+</h4>
+<p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
         
-        <p class="fr-book-desc">Reinforces the value of original analysis over rewritten product descriptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces the value of original analysis over rewritten product descriptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Donald Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
+</h4>
+<p class="fr-book-author">By Donald Miller</p>
         
-        <p class="fr-book-desc">Encourages addressing different buyer situations, including who should not buy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages addressing different buyer situations, including who should not buy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains why balanced recommendations and credibility improve persuasion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why balanced recommendations and credibility improve persuasion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CR2032, CR2016, CR2025, CR2450, CR1220, CR1620, CR1616 Battery car key coin cell"><img src="{{ '/assets/images/marketplace-covers/e5128877ea2c7f5cab02.jpg' | relative_url }}" alt="Listing image for CR2032, CR2016, CR2025, CR2450, CR1220, CR1620, CR1616 Battery car key coin cell" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer">CR2032, CR2016, CR2025, CR2450, CR1220, CR1620, CR1616 Battery car key coin cell</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics">Search <span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CR2032, CR2016, CR2025, CR2450, CR1220, CR1620, CR1616 Battery car key coin cell"><img src="{{ '/assets/images/marketplace-covers/e5128877ea2c7f5cab02.jpg' | relative_url }}" alt="Listing image for CR2032, CR2016, CR2025, CR2450, CR1220, CR1620, CR1616 Battery car key coin cell" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer">CR2032, CR2016, CR2025, CR2450, CR1220, CR1620, CR1616 Battery car key coin cell</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics">Search<span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CR2032 Panasonic Lithium 3V Coin Battery BR/DL2032-Toys Car Key Fob- 2034 Expiry"><img src="{{ '/assets/images/marketplace-covers/68236e4a16d8d9a31969.jpg' | relative_url }}" alt="Listing image for CR2032 Panasonic Lithium 3V Coin Battery BR/DL2032-Toys Car Key Fob- 2034 Expiry" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer">CR2032 Panasonic Lithium 3V Coin Battery BR/DL2032-Toys Car Key Fob- 2034 Expiry</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics">Search <span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CR2032 Panasonic Lithium 3V Coin Battery BR/DL2032-Toys Car Key Fob- 2034 Expiry"><img src="{{ '/assets/images/marketplace-covers/68236e4a16d8d9a31969.jpg' | relative_url }}" alt="Listing image for CR2032 Panasonic Lithium 3V Coin Battery BR/DL2032-Toys Car Key Fob- 2034 Expiry" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer">CR2032 Panasonic Lithium 3V Coin Battery BR/DL2032-Toys Car Key Fob- 2034 Expiry</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics">Search<span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CR 2032 Battery CR2032 CR2025 CR2016 CR1632 CR2450 Coin Button 3v Lithium"><img src="{{ '/assets/images/marketplace-covers/153528b3ef2c6d1e926e.jpg' | relative_url }}" alt="Listing image for CR 2032 Battery CR2032 CR2025 CR2016 CR1632 CR2450 Coin Button 3v Lithium" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer">CR 2032 Battery CR2032 CR2025 CR2016 CR1632 CR2450 Coin Button 3v Lithium</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics">Search <span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CR 2032 Battery CR2032 CR2025 CR2016 CR1632 CR2450 Coin Button 3v Lithium"><img src="{{ '/assets/images/marketplace-covers/153528b3ef2c6d1e926e.jpg' | relative_url }}" alt="Listing image for CR 2032 Battery CR2032 CR2025 CR2016 CR1632 CR2450 Coin Button 3v Lithium" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer">CR 2032 Battery CR2032 CR2025 CR2016 CR1632 CR2450 Coin Button 3v Lithium</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics">Search<span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aftershokz Titanium Bone Conduction Bluetooth, Free Postage"><img src="{{ '/assets/images/marketplace-covers/3af65d0ea6ee30f2f77b.jpg' | relative_url }}" alt="Listing image for Aftershokz Titanium Bone Conduction Bluetooth, Free Postage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer">Aftershokz Titanium Bone Conduction Bluetooth, Free Postage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics">Search <span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aftershokz Titanium Bone Conduction Bluetooth, Free Postage"><img src="{{ '/assets/images/marketplace-covers/3af65d0ea6ee30f2f77b.jpg' | relative_url }}" alt="Listing image for Aftershokz Titanium Bone Conduction Bluetooth, Free Postage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer">Aftershokz Titanium Bone Conduction Bluetooth, Free Postage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for consumer electronics">Search<span data-ebay-domain-label>eBay.co.uk</span>: consumer electronics</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=consumer+electronics&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="consumer electronics" data-ebay-reference="trade-offs-the-missing-warnings-in-thin-reviews-making-money-from-consumer-electronics" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -614,7 +614,7 @@ Those trade-offs are difficult to automate, difficult to copy from merchant page
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,7 +634,7 @@ Those trade-offs are difficult to automate, difficult to copy from merchant page
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -666,7 +666,7 @@ Those trade-offs are difficult to automate, difficult to copy from merchant page
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ Those trade-offs are difficult to automate, difficult to copy from merchant page
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -763,7 +763,7 @@ Those trade-offs are difficult to automate, difficult to copy from merchant page
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -804,78 +804,78 @@ Those trade-offs are difficult to automate, difficult to copy from merchant page
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gsqi.com  
    Title: google product reviews algorithm update  
-   Link: <a href="https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Product Reviews Update – Analysis and findings22 Apr 2021 — Google&#x27;s Product Reviews Update – Analysis and findings from a major...</p></details>
+   Link:<a href="https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Product Reviews Update – Analysis and findings22 Apr 2021 — Google&#x27;s Product Reviews Update – Analysis and findings from a major...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: impact.com  
-   Link: <a href="https://impact.com/influencer/ai-overview-content-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/influencer/ai-overview-content-strategy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A 5-Step Human-First AI Content Checklist for Affiliate...AI won&#x27;t kill affiliate marketing, but it will kill lazy strategies...</p></details>
+   Link:<a href="https://impact.com/influencer/ai-overview-content-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/influencer/ai-overview-content-strategy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 5-Step Human-First AI Content Checklist for Affiliate...AI won&#x27;t kill affiliate marketing, but it will kill lazy strategies...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: susodigital.com  
    Title: SUSOHow to Write Product Reviews: The Google Way  
-   Link: <a href="https://susodigital.com/thoughts/how-to-write-product-reviews-the-google-way/" target="_blank" rel="noopener noreferrer nofollow">https://susodigital.com/thoughts/how-to-write-product-reviews-the-google-way/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write Product Reviews: The Google Way - SUSO Digital28 Mar 2023 — Learn how to fine-tune your content and make sure that your prod...</p></details>
+   Link:<a href="https://susodigital.com/thoughts/how-to-write-product-reviews-the-google-way/" target="_blank" rel="noopener noreferrer nofollow">https://susodigital.com/thoughts/how-to-write-product-reviews-the-google-way/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write Product Reviews: The Google Way - SUSO Digital28 Mar 2023 — Learn how to fine-tune your content and make sure that your prod...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: Ever needed to write a product review?  
-   Link: <a href="https://www.facebook.com/chrismwalkerentrepreneur/posts/ever-needed-to-write-a-product-review-the-superstar-seo-content-team-created-a-g/3019386048316747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chrismwalkerentrepreneur/posts/ever-needed-to-write-a-product-review-the-superstar-seo-content-team-created-a-g/3019386048316747/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Superstar SEO...7️⃣ Include pros and cons: Be transparent by highlighting both the positive and negative aspects of the product. 8️⃣...</p></details>
+   Link:<a href="https://www.facebook.com/chrismwalkerentrepreneur/posts/ever-needed-to-write-a-product-review-the-superstar-seo-content-team-created-a-g/3019386048316747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chrismwalkerentrepreneur/posts/ever-needed-to-write-a-product-review-the-superstar-seo-content-team-created-a-g/3019386048316747/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Superstar SEO...7️⃣ Include pros and cons: Be transparent by highlighting both the positive and negative aspects of the product. 8️⃣...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: How To Write Product Reviews (For Affiliate Websites) That Convert Like Crazy  
-   Link: <a href="https://www.youtube.com/watch?v=PKSQrwDXFgQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PKSQrwDXFgQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Indig [Shopify&#x27;s Director of SEO] On How To Adapt and Win With SEO Changes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PKSQrwDXFgQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PKSQrwDXFgQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Indig [Shopify&#x27;s Director of SEO] On How To Adapt and Win With SEO Changes...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Kevin Indig [Shopify's Director of SEO] On How To Adapt and Win With SEO Changes  
-   Link: <a href="https://www.youtube.com/watch?v=1yVxTcbO6Bs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1yVxTcbO6Bs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencer “Reviews” Are Ads — Brands Control the Script...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1yVxTcbO6Bs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1yVxTcbO6Bs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influencer “Reviews” Are Ads — Brands Control the Script...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Google announced a product review algorithm update! What I'm doing TODAY!  
-   Link: <a href="https://www.youtube.com/watch?v=XYXACNW4BMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XYXACNW4BMw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Review [Updates](&amp;#123;&amp;#123; &#x27;updates/&#x27; | relative_url &amp;#125;&amp;#125;): 5 Changes Every Business Needs to Know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XYXACNW4BMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XYXACNW4BMw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Review [Updates](&amp;#123;&amp;#123; &#x27;updates/&#x27; | relative_url &amp;#125;&amp;#125;): 5 Changes Every Business Needs to Know...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Influencer “Reviews” Are Ads — Brands Control the Script  
-   Link: <a href="https://www.youtube.com/watch?v=TCL1oaexVHk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TCL1oaexVHk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google announced a product review algorithm update! What I&#x27;m doing TODAY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TCL1oaexVHk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TCL1oaexVHk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google announced a product review algorithm update! What I&#x27;m doing TODAY...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mariehaynes.com  
    Title: google ai systems  
-   Link: <a href="https://www.mariehaynes.com/google-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.mariehaynes.com/google-ai-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This system uses machine learning to predict whether content is likely to be the most...Read more...</p></details>
+   Link:<a href="https://www.mariehaynes.com/google-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.mariehaynes.com/google-ai-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This system uses machine learning to predict whether content is likely to be the most...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: stellarcontent.com  
    Title: Google's Product Review Algo Update  
-   Link: <a href="https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/" target="_blank" rel="noopener noreferrer nofollow">https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If you&#x27;re...Read more...</p></details>
+   Link:<a href="https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/" target="_blank" rel="noopener noreferrer nofollow">https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If you&#x27;re...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Google's Review Updates: 5 Changes Every Business Needs to Know  
-   Link: <a href="https://www.youtube.com/watch?v=_U--6ISiHwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_U--6ISiHwQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_U--6ISiHwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_U--6ISiHwQ</a>  

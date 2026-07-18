@@ -284,11 +284,11 @@ Many affiliate publishers discover an old piece of Reddit advice claiming that s
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_self_promotion_ratio_b04d87-Illustration-1-dark.svg" | relative_url }}" alt="Ratio Myth illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_self_promotion_ratio_b04d87-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_self_promotion_ratio_b04d87-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For anyone building websites that earn through affiliate links, this distinction matters. A mathematically balanced posting history cannot compensate for behaviour that appears transactional, repetitive or self-serving. The practical question is not "Have I earned the right to post a link?" but "Would regular members recognise me as someone who contributes whether or not I ever mention my own site?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/modnews/comments/2oamgp/moderators_clarifications_around_our_101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Clarifications around our 10:1 self-promotional guidelines&quot;For every 1 time you post self-promotional content, 9 other posts (submi...</span></span></span>
+For anyone building websites that earn through affiliate links, this distinction matters. A mathematically balanced posting history cannot compensate for behaviour that appears transactional, repetitive or self-serving. The practical question is not "Have I earned the right to post a link?" but "Would regular members recognise me as someone who contributes whether or not I ever mention my own site?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/modnews/comments/2oamgp/moderators_clarifications_around_our_101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Clarifications around our 10:1 self-promotional guidelines&quot;For every 1 time you post self-promotional content, 9 other posts (submi...</span></span></span>
 
 ## Why Ratios Became Popular Advice
 
-The famous 9:1 guideline originated as a rule of thumb intended to discourage obvious spam rather than guarantee acceptable promotion. Early Reddit guidance suggested that only a small minority of a user's activity should involve their own content, encouraging participation that extended beyond personal projects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/modnews/comments/2oamgp/moderators_clarifications_around_our_101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Clarifications around our 10:1 self-promotional guidelines&quot;For every 1 time you post self-promotional content, 9 other posts (submi...</span></span></span>
+The famous 9:1 guideline originated as a rule of thumb intended to discourage obvious spam rather than guarantee acceptable promotion. Early Reddit guidance suggested that only a small minority of a user's activity should involve their own content, encouraging participation that extended beyond personal projects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/modnews/comments/2oamgp/moderators_clarifications_around_our_101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Clarifications around our 10:1 self-promotional guidelines&quot;For every 1 time you post self-promotional content, 9 other posts (submi...</span></span></span>
 
 Over time, however, many marketers transformed this rough guideline into a checklist:
 
@@ -301,7 +301,7 @@ Over time, however, many marketers transformed this rough guideline into a check
 
 </div>
 
-This interpretation appealed because it seemed measurable. Instead of learning the culture of different communities, publishers could follow a numerical target. Yet moderators have repeatedly explained that ratios never replaced judgement. The original guidance was designed to identify patterns of participation, not to provide permission slips for promotion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/modnews/comments/2oamgp/moderators_clarifications_around_our_101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Clarifications around our 10:1 self-promotional guidelines&quot;For every 1 time you post self-promotional content, 9 other posts (submi...</span></span></span>
+This interpretation appealed because it seemed measurable. Instead of learning the culture of different communities, publishers could follow a numerical target. Yet moderators have repeatedly explained that ratios never replaced judgement. The original guidance was designed to identify patterns of participation, not to provide permission slips for promotion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/modnews/comments/2oamgp/moderators_clarifications_around_our_101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Clarifications around our 10:1 self-promotional guidelines&quot;For every 1 time you post self-promotional content, 9 other posts (submi...</span></span></span>
 
 The historical shift is important. Earlier discussions focused on encouraging people to become community members first. Later marketing articles often presented the ratio as a growth tactic. Those are fundamentally different ideas.
 
@@ -323,7 +323,7 @@ Moderators and experienced users tend to notice broader behavioural patterns, in
 * whether discussions stop once the promotional opportunity has passed;
 * whether the account participates in conversations where no referral [traffic]({{ 'traffic/' | relative_url }}) is possible.
 
-These signals are much harder to fake than a posting ratio because they reflect [long-term]({{ 'long-term/' | relative_url }}) behaviour rather than simple counting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/NewToReddit/comments/ymzn96/can_someone_explain_the_selfpromotion_rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Can someone explain the self-promotion rules?</span><span class="citation-popover-snippet">Can someone explain the self-promotion rules?November 5, 2022 — The rule of thumb is basically - &quot;It&#x27;s perfectly fine to be a Reddi...</span><span class="citation-popover-meta">Published: November 5, 2022</span></span></span>
+These signals are much harder to fake than a posting ratio because they reflect [long-term]({{ 'long-term/' | relative_url }}) behaviour rather than simple counting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/NewToReddit/comments/ymzn96/can_someone_explain_the_selfpromotion_rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Can someone explain the self-promotion rules?</span><span class="citation-popover-snippet">Can someone explain the self-promotion rules?November 5, 2022 — The rule of thumb is basically - &quot;It&#x27;s perfectly fine to be a Reddi...</span><span class="citation-popover-meta">Published: November 5, 2022</span></span></span>
 
 For affiliate publishers, this means that posting formulas are poor substitutes for reputation. A community can usually distinguish between someone who occasionally links to their own genuinely useful resource and someone whose entire account exists to funnel visitors.
 
@@ -365,7 +365,7 @@ For example, two publishers might post the same buying guide:
 * The first has answered product questions for months, occasionally linking to official documentation, competitor resources and their own content only when directly relevant.
 * The second appears mainly to recommend articles from a single affiliate domain.
 
-Although both technically shared one link, readers are likely to interpret the second account as promotional because its history suggests a consistent commercial objective rather than ongoing community membership. This reflects how moderators commonly distinguish ordinary participation from spam-like behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/modhelp/comments/rxaxp7/selfpromotion_vs_spam_what_is_the_difference_in_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Self-Promotion vs Spam: What is the difference in a...We are a geographic subreddit (r/southafrica) and welcome users promoting...</span></span></span>
+Although both technically shared one link, readers are likely to interpret the second account as promotional because its history suggests a consistent commercial objective rather than ongoing community membership. This reflects how moderators commonly distinguish ordinary participation from spam-like behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/modhelp/comments/rxaxp7/selfpromotion_vs_spam_what_is_the_difference_in_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Self-Promotion vs Spam: What is the difference in a...We are a geographic subreddit (r/southafrica) and welcome users promoting...</span></span></span>
 
 The lesson for affiliate publishers is that reputation accumulates across an account's entire visible history. Every interaction contributes to that impression.
 
@@ -394,194 +394,194 @@ For websites monetised through affiliate links, sustainable community traffic co
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Posting Ratios Do Not Build Trust. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Posting Ratios Do Not Build Trust. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Explains why genuinely useful content spreads more effectively than formulaic promotion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why genuinely useful content spreads more effectively than formulaic promotion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B8JyDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is Marketing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Marketing">This Is Marketing</a>
-        </h4>
-        <p class="fr-book-author">By Seth Godin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B8JyDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is Marketing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Marketing">This Is Marketing</a>
+</h4>
+<p class="fr-book-author">By Seth Godin</p>
         
-        <p class="fr-book-desc">Focuses on trust, empathy, and serving communities instead of manipulating metrics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on trust, empathy, and serving communities instead of manipulating metrics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jab, Jab, Jab, Right Hook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jab, Jab, Jab, Right Hook">Jab, Jab, Jab, Right Hook</a>
-        </h4>
-        <p class="fr-book-author">By Gary Vaynerchuk</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jab, Jab, Jab, Right Hook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jab, Jab, Jab, Right Hook">Jab, Jab, Jab, Right Hook</a>
+</h4>
+<p class="fr-book-author">By Gary Vaynerchuk</p>
         
-        <p class="fr-book-desc">Emphasizes delivering value to communities before asking for attention or conversions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes delivering value to communities before asking for attention or conversions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Provides foundational insight into credibility, trust, and ethical persuasion relevant to community participation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational insight into credibility, trust, and ethical persuasion relevant to community participation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Marketing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Marketing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jab, Jab, Jab, Right Hook</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Marketing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Marketing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jab, Jab, Jab, Right Hook</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/35f9dc063caa54e75964.jpg' | relative_url }}" alt="Listing image for Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/35f9dc063caa54e75964.jpg' | relative_url }}" alt="Listing image for Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af8938b0d611d4bb33dc.jpg' | relative_url }}" alt="Listing image for Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af8938b0d611d4bb33dc.jpg' | relative_url }}" alt="Listing image for Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e7e683fb9799855740ec.jpg' | relative_url }}" alt="Listing image for Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e7e683fb9799855740ec.jpg' | relative_url }}" alt="Listing image for Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33f1e142100de8214624.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33f1e142100de8214624.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="ratio-myth-why-posting-ratios-do-not-build-trust-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ For websites monetised through affiliate links, sustainable community traffic co
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ For websites monetised through affiliate links, sustainable community traffic co
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ For websites monetised through affiliate links, sustainable community traffic co
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ For websites monetised through affiliate links, sustainable community traffic co
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ For websites monetised through affiliate links, sustainable community traffic co
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -787,190 +787,190 @@ For websites monetised through affiliate links, sustainable community traffic co
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/modnews/comments/2oamgp/moderators_clarifications_around_our_101/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/modnews/comments/2oamgp/moderators_clarifications_around_our_101/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifications around our 10:1 self-promotional guidelines&quot;For every 1 time you post self-promotional content, 9 other posts (submi...</p></details>
+   Link:<a href="https://www.reddit.com/r/modnews/comments/2oamgp/moderators_clarifications_around_our_101/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/modnews/comments/2oamgp/moderators_clarifications_around_our_101/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifications around our 10:1 self-promotional guidelines&quot;For every 1 time you post self-promotional content, 9 other posts (submi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/reddit.com/wiki/selfpromotion/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/reddit.com/wiki/selfpromotion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/reddit.com Guide: Self-Promotion on Reddit7 Nov 2019 — Self-promotion is generally frowned upon, but if you want to have a presence on...</p></details>
+   Link:<a href="https://www.reddit.com/r/reddit.com/wiki/selfpromotion/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/reddit.com/wiki/selfpromotion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/reddit.com Guide: Self-Promotion on Reddit7 Nov 2019 — Self-promotion is generally frowned upon, but if you want to have a presence on...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/modhelp/comments/rxaxp7/selfpromotion_vs_spam_what_is_the_difference_in_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/modhelp/comments/rxaxp7/selfpromotion_vs_spam_what_is_the_difference_in_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Promotion vs Spam: What is the difference in a...We are a geographic subreddit (r/southafrica) and welcome users promoting...</p></details>
+   Link:<a href="https://www.reddit.com/r/modhelp/comments/rxaxp7/selfpromotion_vs_spam_what_is_the_difference_in_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/modhelp/comments/rxaxp7/selfpromotion_vs_spam_what_is_the_difference_in_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Promotion vs Spam: What is the difference in a...We are a geographic subreddit (r/southafrica) and welcome users promoting...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Can someone explain the self-promotion rules?  
-   Link: <a href="https://www.reddit.com/r/NewToReddit/comments/ymzn96/can_someone_explain_the_selfpromotion_rules/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NewToReddit/comments/ymzn96/can_someone_explain_the_selfpromotion_rules/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can someone explain the self-promotion rules?November 5, 2022 — The rule of thumb is basically - &quot;It&#x27;s perfectly fine to be a Reddi...</p></details>
+   Link:<a href="https://www.reddit.com/r/NewToReddit/comments/ymzn96/can_someone_explain_the_selfpromotion_rules/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NewToReddit/comments/ymzn96/can_someone_explain_the_selfpromotion_rules/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can someone explain the self-promotion rules?November 5, 2022 — The rule of thumb is basically - &quot;It&#x27;s perfectly fine to be a Reddi...</p></details>
    Published: November 5, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: Sub Update: New Limits on Self-Promotion: r/Eat Cheap And Vegan  
-   Link: <a href="https://www.reddit.com/r/EatCheapAndVegan/comments/1kv9hbr/sub_update_new_limits_on_selfpromotion/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EatCheapAndVegan/comments/1kv9hbr/sub_update_new_limits_on_selfpromotion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sub Update: New Limits on Self-Promotion: r/EatCheapAndVeganMay 25, 2025 — Reddit&#x27;s guide on self-promotion suggests that no more than 1...</p></details>
+   Link:<a href="https://www.reddit.com/r/EatCheapAndVegan/comments/1kv9hbr/sub_update_new_limits_on_selfpromotion/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EatCheapAndVegan/comments/1kv9hbr/sub_update_new_limits_on_selfpromotion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sub Update: New Limits on Self-Promotion: r/EatCheapAndVeganMay 25, 2025 — Reddit&#x27;s guide on self-promotion suggests that no more than 1...</p></details>
    Published: May 25, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hearthstone/comments/2782tp/eli5_how_exactly_does_the_91_content_ratio_rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hearthstone/comments/2782tp/eli5_how_exactly_does_the_91_content_ratio_rule/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: How exactly does the 9:1 content ratio rule work?The 9:1 content ration in essence means that for every 1 post you self-promote you...</p></details>
+   Link:<a href="https://www.reddit.com/r/hearthstone/comments/2782tp/eli5_how_exactly_does_the_91_content_ratio_rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hearthstone/comments/2782tp/eli5_how_exactly_does_the_91_content_ratio_rule/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: How exactly does the 9:1 content ratio rule work?The 9:1 content ration in essence means that for every 1 post you self-promote you...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TheoryOfReddit/comments/2k4406/reddit_has_recently_been_having_a_debate_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheoryOfReddit/comments/2k4406/reddit_has_recently_been_having_a_debate_over/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit has recently been having a debate over self...1b. A minimum of 50% of those answers must be the most upvoted questions (50% of th...</p></details>
+   Link:<a href="https://www.reddit.com/r/TheoryOfReddit/comments/2k4406/reddit_has_recently_been_having_a_debate_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheoryOfReddit/comments/2k4406/reddit_has_recently_been_having_a_debate_over/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit has recently been having a debate over self...1b. A minimum of 50% of those answers must be the most upvoted questions (50% of th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SEO/comments/1ftk0wo/google_updated_their_link_spam_policy_[wording" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SEO/comments/1ftk0wo/google_updated_their_link_spam_policy_[wording</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eb pages&quot; from their Link Spam guidelines.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/SEO/comments/1ftk0wo/google_updated_their_link_spam_policy_[wording" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SEO/comments/1ftk0wo/google_updated_their_link_spam_policy_[wording</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eb pages&quot; from their Link Spam guidelines.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/answers/comments/99vgp0/how_does_the_self_promotion_91_rule_work_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/answers/comments/99vgp0/how_does_the_self_promotion_91_rule_work_exactly/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 posts to justify a self promotional post or are...</p></details>
+   Link:<a href="https://www.reddit.com/r/answers/comments/99vgp0/how_does_the_self_promotion_91_rule_work_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/answers/comments/99vgp0/how_does_the_self_promotion_91_rule_work_exactly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 posts to justify a self promotional post or are...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Affiliatemarketing/comments/1t2jg6q/google_and_other_search_engines_censorship/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Affiliatemarketing/comments/1t2jg6q/google_and_other_search_engines_censorship/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>engines, towards some affiliate pages and posts of mine. Do...</p></details>
+   Link:<a href="https://www.reddit.com/r/Affiliatemarketing/comments/1t2jg6q/google_and_other_search_engines_censorship/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Affiliatemarketing/comments/1t2jg6q/google_and_other_search_engines_censorship/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>engines, towards some affiliate pages and posts of mine. Do...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/modhelp/comments/1d6v54d/need_clarification_on_what_reddit_considers_spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/modhelp/comments/1d6v54d/need_clarification_on_what_reddit_considers_spam/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Often it is repeated small &quot;low effort&quot; posts or generic posts across several subreddits. Your videos are not...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/modhelp/comments/1d6v54d/need_clarification_on_what_reddit_considers_spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/modhelp/comments/1d6v54d/need_clarification_on_what_reddit_considers_spam/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Often it is repeated small &quot;low effort&quot; posts or generic posts across several subreddits. Your videos are not...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Reddit Marketing Strategy: Spam vs Organic  
-   Link: <a href="https://www.youtube.com/watch?v=OJiHQCYBpFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OJiHQCYBpFQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Art of Self-Promotion on Reddit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OJiHQCYBpFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OJiHQCYBpFQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Art of Self-Promotion on Reddit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How to Build Real Trust and Awareness on Reddit  
-   Link: <a href="https://www.youtube.com/watch?v=YW4pFPgrQnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YW4pFPgrQnk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit Marketing Strategy in 2026 - Authentic vs. Inauthentic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YW4pFPgrQnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YW4pFPgrQnk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit Marketing Strategy in 2026 - Authentic vs. Inauthentic...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4CYsLSo_AbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4CYsLSo_AbE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4CYsLSo_AbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4CYsLSo_AbE</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: support.reddithelp.com  
    Title: Reddit Help Reddiquette  
-   Link: <a href="https://support.reddithelp.com/hc/en-us/articles/205926439-Reddiquette" target="_blank" rel="noopener noreferrer nofollow">https://support.reddithelp.com/hc/en-us/articles/205926439-Reddiquette</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit Help18 Aug 2025 — A widely used rule of thumb is the 9:1 ratio, i.e. only 1 out of every 10 of your submissions should be your own...</p></details>
+   Link:<a href="https://support.reddithelp.com/hc/en-us/articles/205926439-Reddiquette" target="_blank" rel="noopener noreferrer nofollow">https://support.reddithelp.com/hc/en-us/articles/205926439-Reddiquette</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit Help18 Aug 2025 — A widely used rule of thumb is the 9:1 ratio, i.e. only 1 out of every 10 of your submissions should be your own...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: soar.sh  
    Title: self promotion rules by subreddit database  
-   Link: <a href="https://www.soar.sh/blog/self-promotion-rules-by-subreddit-database" target="_blank" rel="noopener noreferrer nofollow">https://www.soar.sh/blog/self-promotion-rules-by-subreddit-database</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit self-promotion rules by subreddit: A 2026 | Soar AgencyMay 31, 2026 — Is the 9:1 self-promotion rule still enforced on Reddit? Not...</p></details>
+   Link:<a href="https://www.soar.sh/blog/self-promotion-rules-by-subreddit-database" target="_blank" rel="noopener noreferrer nofollow">https://www.soar.sh/blog/self-promotion-rules-by-subreddit-database</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit self-promotion rules by subreddit: A 2026 | Soar AgencyMay 31, 2026 — Is the 9:1 self-promotion rule still enforced on Reddit? Not...</p></details>
    Published: May 31, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/adspolicy/answer/15936769?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/adspolicy/answer/15936769?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>policies for Google Web SearchGoogle provides translated versions of the Advertising Policies Help Center, though they&#x27;re not meant to ch...</p></details>
+   Link:<a href="https://support.google.com/adspolicy/answer/15936769?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/adspolicy/answer/15936769?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>policies for Google Web SearchGoogle provides translated versions of the Advertising Policies Help Center, though they&#x27;re not meant to ch...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This can result in...Read more...</p></details>
+   Link:<a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This can result in...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Reddit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reddit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditReddit is an American proprietary social news aggregation and forum social media platform. Registered users submit content to th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reddit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reddit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RedditReddit is an American proprietary social news aggregation and forum social media platform. Registered users submit content to th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: redship.io  
    Title: reddit self promotion rules  
-   Link: <a href="https://redship.io/blog/reddit-self-promotion-rules" target="_blank" rel="noopener noreferrer nofollow">https://redship.io/blog/reddit-self-promotion-rules</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The official guideline is the 90/10 rule (90% community participation, 10% or less self-promotion), but the...Read more...</p></details>
+   Link:<a href="https://redship.io/blog/reddit-self-promotion-rules" target="_blank" rel="noopener noreferrer nofollow">https://redship.io/blog/reddit-self-promotion-rules</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The official guideline is the 90/10 rule (90% community participation, 10% or less self-promotion), but the...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: redship.io  
-   Link: <a href="https://redship.io/glossary/reddit-self-promotion-rules" target="_blank" rel="noopener noreferrer nofollow">https://redship.io/glossary/reddit-self-promotion-rules</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit self-promotion rules &amp; the 90/10 rule explainedThe 90/10 rule means that for every one promotional post or comment, you should hav...</p></details>
+   Link:<a href="https://redship.io/glossary/reddit-self-promotion-rules" target="_blank" rel="noopener noreferrer nofollow">https://redship.io/glossary/reddit-self-promotion-rules</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit self-promotion rules &amp; the 90/10 rule explainedThe 90/10 rule means that for every one promotional post or comment, you should hav...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: replyagent.ai  
-   Link: <a href="https://www.replyagent.ai/blog/reddit-self-promotion-rules-naturally-mention-product" target="_blank" rel="noopener noreferrer nofollow">https://www.replyagent.ai/blog/reddit-self-promotion-rules-naturally-mention-product</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit Self-Promotion Rules: How to Naturally Mention...23 Oct 2025 — Reddit allows self-promotion, but it must be authentic, transparen...</p></details>
+   Link:<a href="https://www.replyagent.ai/blog/reddit-self-promotion-rules-naturally-mention-product" target="_blank" rel="noopener noreferrer nofollow">https://www.replyagent.ai/blog/reddit-self-promotion-rules-naturally-mention-product</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit Self-Promotion Rules: How to Naturally Mention...23 Oct 2025 — Reddit allows self-promotion, but it must be authentic, transparen...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: karmaguy.io  
-   Link: <a href="https://karmaguy.io/en/blog/reddit-self-promotion-rules" target="_blank" rel="noopener noreferrer nofollow">https://karmaguy.io/en/blog/reddit-self-promotion-rules</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit&#x27;s Self-Promotion Rules: What You Can and Can&#x27;t Do24 Mar 2026 — The 90/10 rule was simple: for every 1 self-promotional post, you s...</p></details>
+   Link:<a href="https://karmaguy.io/en/blog/reddit-self-promotion-rules" target="_blank" rel="noopener noreferrer nofollow">https://karmaguy.io/en/blog/reddit-self-promotion-rules</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit&#x27;s Self-Promotion Rules: What You Can and Can&#x27;t Do24 Mar 2026 — The 90/10 rule was simple: for every 1 self-promotional post, you s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: teract.ai  
-   Link: <a href="https://www.teract.ai/resources/reddit-subreddit-marketing-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.teract.ai/resources/reddit-subreddit-marketing-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit Marketing: Promote Without Getting Banned - Teract AI20 May 2026 — Reddit&#x27;s spam detection tracks your promotional ratio...</p></details>
+   Link:<a href="https://www.teract.ai/resources/reddit-subreddit-marketing-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.teract.ai/resources/reddit-subreddit-marketing-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit Marketing: Promote Without Getting Banned - Teract AI20 May 2026 — Reddit&#x27;s spam detection tracks your promotional ratio...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/umair64300_seo-googlespampolicy-backbuttonhijacking-activity-7450176116406808576-JfxU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/umair64300_seo-googlespampolicy-backbuttonhijacking-activity-7450176116406808576-JfxU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s 17 Spam Policies Every Website Owner Must KnowGoogle now has 17 spam policies. Violate even ONE of them and your website traffic...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/umair64300_seo-googlespampolicy-backbuttonhijacking-activity-7450176116406808576-JfxU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/umair64300_seo-googlespampolicy-backbuttonhijacking-activity-7450176116406808576-JfxU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s 17 Spam Policies Every Website Owner Must KnowGoogle now has 17 spam policies. Violate even ONE of them and your website traffic...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/writers-blokke/how-to-post-your-article-to-reddit-without-getting-banned-b809aa2b9c65" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/writers-blokke/how-to-post-your-article-to-reddit-without-getting-banned-b809aa2b9c65</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Post Your Article on Reddit Without Getting BannedStay true to their 9:1 ratio where only 1 out of every 10 posts is for self-prom...</p></details>
+   Link:<a href="https://medium.com/writers-blokke/how-to-post-your-article-to-reddit-without-getting-banned-b809aa2b9c65" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/writers-blokke/how-to-post-your-article-to-reddit-without-getting-banned-b809aa2b9c65</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Post Your Article on Reddit Without Getting BannedStay true to their 9:1 ratio where only 1 out of every 10 posts is for self-prom...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/shaunwhynacht_are-you-considering-reddit-i-am-and-i-had-activity-7458475697263677440-7tp5" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/shaunwhynacht_are-you-considering-reddit-i-am-and-i-had-activity-7458475697263677440-7tp5</a>  
+   Link:<a href="https://www.linkedin.com/posts/shaunwhynacht_are-you-considering-reddit-i-am-and-i-had-activity-7458475697263677440-7tp5" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/shaunwhynacht_are-you-considering-reddit-i-am-and-i-had-activity-7458475697263677440-7tp5</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: affiversemedia.com  
-   Link: <a href="https://www.affiversemedia.com/googles-march-2026-core-update-hit-affiliate-sites-harder-than-any-other-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/googles-march-2026-core-update-hit-affiliate-sites-harder-than-any-other-category/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s March 2026 Core Update Hit Affiliate Sites Harder Than...April 9, 2026 — Removing or consolidating thin pages, adding verified...</p></details>
+   Link:<a href="https://www.affiversemedia.com/googles-march-2026-core-update-hit-affiliate-sites-harder-than-any-other-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/googles-march-2026-core-update-hit-affiliate-sites-harder-than-any-other-category/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s March 2026 Core Update Hit Affiliate Sites Harder Than...April 9, 2026 — Removing or consolidating thin pages, adding verified...</p></details>
    Published: march 2026  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: blog.rakutenadvertising.com  
-   Link: <a href="https://blog.rakutenadvertising.com/news/google-spam-update-and-its-impact-on-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://blog.rakutenadvertising.com/news/google-spam-update-and-its-impact-on-affiliate-marketing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spam Update and Its Impact on Affiliate MarketingJune 11, 2024 — Google has updated its Site Reputation Abuse Policy...</p></details>
+   Link:<a href="https://blog.rakutenadvertising.com/news/google-spam-update-and-its-impact-on-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://blog.rakutenadvertising.com/news/google-spam-update-and-its-impact-on-affiliate-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spam Update and Its Impact on Affiliate MarketingJune 11, 2024 — Google has updated its Site Reputation Abuse Policy...</p></details>
    Published: June 11, 2024  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: impact.com  
    Title: Google's New Site Reputation Policy: Impact on Affiliate Marketers  
-   Link: <a href="https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2024 — In March 2024, Google updated its Search Console guidelines to include a section under Spam Policies focused on site reputa...</p></details>
+   Link:<a href="https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2024 — In March 2024, Google updated its Search Console guidelines to include a section under Spam Policies focused on site reputa...</p></details>
    Published: May 5, 2024  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: theapma.co.uk  
    Title: googles latest manual penalties tightens the screw on affiliates  
-   Link: <a href="https://theapma.co.uk/googles-latest-manual-penalties-tightens-the-screw-on-affiliates/" target="_blank" rel="noopener noreferrer nofollow">https://theapma.co.uk/googles-latest-manual-penalties-tightens-the-screw-on-affiliates/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s latest [updates](&amp;#123;&amp;#123; &#x27;updates/&#x27; | relative_url &amp;#125;&amp;#125;) tighten the screw on affiliates21 Nov 2024 — Google&#x27;s latest manual updates add further woes to affiliate sites h...</p></details>
+   Link:<a href="https://theapma.co.uk/googles-latest-manual-penalties-tightens-the-screw-on-affiliates/" target="_blank" rel="noopener noreferrer nofollow">https://theapma.co.uk/googles-latest-manual-penalties-tightens-the-screw-on-affiliates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s latest [updates](&amp;#123;&amp;#123; &#x27;updates/&#x27; | relative_url &amp;#125;&amp;#125;) tighten the screw on affiliates21 Nov 2024 — Google&#x27;s latest manual updates add further woes to affiliate sites h...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: seroundtable.com  
    Title: Google Explains Why The Affiliate Programs Spam Documentation  
-   Link: <a href="https://www.seroundtable.com/google-affiliate-programs-spam-docs-removed-34762.html" target="_blank" rel="noopener noreferrer nofollow">https://www.seroundtable.com/google-affiliate-programs-spam-docs-removed-34762.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 20, 2023 — Lizzi said on Twitter, &quot;the spam policy covers our current guidance on thin affiliates (hence the redirect).&quot; &quot;We simp...</p></details>
+   Link:<a href="https://www.seroundtable.com/google-affiliate-programs-spam-docs-removed-34762.html" target="_blank" rel="noopener noreferrer nofollow">https://www.seroundtable.com/google-affiliate-programs-spam-docs-removed-34762.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 20, 2023 — Lizzi said on Twitter, &quot;the spam policy covers our current guidance on thin affiliates (hence the redirect).&quot; &quot;We simp...</p></details>
    Published: January 20, 2023  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: goup.co.uk  
-   Link: <a href="https://www.goup.co.uk/guides/spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.goup.co.uk/guides/spam/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Types Of SEO Spam And How To Recover From A Penalty31 Jan 2023 — [Thin affiliate pages](&amp;#123;&amp;#123; &#x27;thin-pages/&#x27; | relative_url &amp;#125;&amp;#125;) lack original content and value, relying on...</p></details>
+   Link:<a href="https://www.goup.co.uk/guides/spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.goup.co.uk/guides/spam/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Types Of SEO Spam And How To Recover From A Penalty31 Jan 2023 — [Thin affiliate pages](&amp;#123;&amp;#123; &#x27;thin-pages/&#x27; | relative_url &amp;#125;&amp;#125;) lack original content and value, relying on...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rhoRyQSki-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhoRyQSki-U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW Spam Policies for Google Web Search: How To Avoid...Spam Policies for Google Web Search: How To Avoid That? Looking into the spam po...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rhoRyQSki-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhoRyQSki-U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEW Spam Policies for Google Web Search: How To Avoid...Spam Policies for Google Web Search: How To Avoid That? Looking into the spam po...</p></details>

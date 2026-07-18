@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-wirecutter/
 description: Focused pages that expand on Wirecutter.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_wirecutter_model_9c7db6
 parent_title: Wirecutter
@@ -16,7 +16,7 @@ parent_permalink: /wirecutter/
 
 # Explore Topics in Wirecutter
 
-The following pages expand on the main **[Wirecutter]({{ '/wirecutter/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Wirecutter]({{ '/wirecutter/' | relative_url }})** page and cover its key branches in.
 
 - [Separation]({{ '/separation/' | relative_url }})
 - [Living Pages]({{ '/living-pages/' | relative_url }})

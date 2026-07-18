@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-video/
 description: Focused pages that expand on Video.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_video_reviews_affili_42f434
 parent_title: Video
@@ -16,7 +16,7 @@ parent_permalink: /video/
 
 # Explore Topics in Video
 
-The following pages expand on the main **[Video]({{ '/video/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Video]({{ '/video/' | relative_url }})** page and cover its key branches in.
 
 - [Demo Proof]({{ '/demo-proof/' | relative_url }})
 - [Short Clips]({{ '/short-clips/' | relative_url }})

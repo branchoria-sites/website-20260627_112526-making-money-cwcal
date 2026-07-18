@@ -280,7 +280,7 @@ image: /assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_esp
 
 ## Introduction
 
-Maintenance guides are one of the most durable content assets on a home [espresso]({{ 'espresso/' | relative_url }}) affiliate website because they solve problems that begin after the machine has been purchased. Unlike buying guides, which often attract a visitor once, cleaning, descaling and replacement-part content matches recurring needs. Owners search repeatedly for cleaning schedules, descaling intervals, leaking group heads, worn gaskets and the correct detergents. That creates multiple opportunities to build trust while recommending low-cost consumables that need replacing throughout the machine's life rather than only promoting the original espresso machine purchase. Expert retailers and manufacturers consistently identify scale, coffee oils and milk residue as the main causes of declining performance, poor flavour and avoidable repairs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
+Maintenance guides are one of the most durable content assets on a home [espresso]({{ 'espresso/' | relative_url }}) affiliate website because they solve problems that begin after the machine has been purchased. Unlike buying guides, which often attract a visitor once, cleaning, descaling and replacement-part content matches recurring needs. Owners search repeatedly for cleaning schedules, descaling intervals, leaking group heads, worn gaskets and the correct detergents. That creates multiple opportunities to build trust while recommending low-cost consumables that need replacing throughout the machine's life rather than only promoting the original espresso machine purchase. Expert retailers and manufacturers consistently identify scale, coffee oils and milk residue as the main causes of declining performance, poor flavour and avoidable repairs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_maintenance_c23b14-Illustration-1-dark.svg" | relative_url }}" alt="Maintenance illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_maintenance_c23b14-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_maintenance_c23b14-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ This changes the economics of the content.
 
 Instead of relying on a single high-value commission from a machine sale, maintenance pages naturally recommend products that are purchased repeatedly over several years, including:
 
-* Espresso cleaning powder or tablets <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coffeefriend.co.uk/blog/how-to-clean-an-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coffeefriend.co.uk">[coffeefriend.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coffeefriend.co.uk</span><span class="citation-popover-title">Espresso Machine Cleaning Guide</span><span class="citation-popover-snippet">ffee FriendFollow the instructions on how to clean an espresso machine and extend its service life. ✨ Here you will also find espresso...</span></span></span>
+* Espresso cleaning powder or tablets<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coffeefriend.co.uk/blog/how-to-clean-an-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coffeefriend.co.uk">[coffeefriend.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coffeefriend.co.uk</span><span class="citation-popover-title">Espresso Machine Cleaning Guide</span><span class="citation-popover-snippet">ffee FriendFollow the instructions on how to clean an espresso machine and extend its service life. ✨ Here you will also find espresso...</span></span></span>
 * Descaling solution
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
@@ -300,9 +300,9 @@ Instead of relying on a single high-value commission from a machine sale, mainte
 * Milk system cleaner
 * Grinder cleaning granules
 * Water filter cartridges
-* Group head brushes <span class="citation-chip-wrap"><a class="citation-chip" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[clivecoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
+* Group head brushes<span class="citation-chip-wrap"><a class="citation-chip" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[clivecoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
 * Microfibre cloths
-* Replacement group gaskets <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=V6MMrJDnBDg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">E61 Group Head &#124; Backflush, Clean &amp; Gasket / Screen Replacement</span><span class="citation-popover-snippet">Gaggia Classic Pro: Cleaning, Maintenance, Backflushing &amp; Descaling...</span></span></span>
+* Replacement group gaskets<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=V6MMrJDnBDg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">E61 Group Head &#124; Backflush, Clean &amp; Gasket / Screen Replacement</span><span class="citation-popover-snippet">Gaggia Classic Pro: Cleaning, Maintenance, Backflushing &amp; Descaling...</span></span></span>
 * Shower screens
 * Blind baskets for backflushing
 
@@ -318,7 +318,7 @@ A practical schedule might look like this.
 
 FrequencyTypical tasksAfter every usePurge and wipe steam wand, rinse portafilter, flush group headDailyEmpty drip tray, clean basket, wipe machine exteriorWeeklyBackflush with water (where applicable), scrub shower screen, clean drip tray thoroughlyEvery 2–4 weeksDetergent backflush, soak portafilters and baskets, inspect sealsEvery few monthsDescale if required, clean grinder, inspect water filters and hosesAnnuallyReplace worn group gasket, shower screen if needed, inspect [accessories]({{ 'accessories/' | relative_url }})
 
-Retailers specialising in prosumer equipment consistently recommend wiping and purging the steam wand immediately after steaming milk because dried milk rapidly hardens inside the wand and affects both hygiene and steaming performance. Coffee oils accumulating inside the group head similarly affect flavour if left untreated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee+2Whole Latte Love]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
+Retailers specialising in prosumer equipment consistently recommend wiping and purging the steam wand immediately after steaming milk because dried milk rapidly hardens inside the wand and affects both hygiene and steaming performance. Coffee oils accumulating inside the group head similarly affect flavour if left untreated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee+2Whole Latte Love]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
 
 For an affiliate publisher, each maintenance step naturally supports detailed companion pages rather than one oversized article. Examples include:
 
@@ -345,7 +345,7 @@ These three topics generate recurring search [traffic]({{ 'traffic/' | relative_
 
 Many beginners expect every machine to be descaled every few months. In reality, the correct interval depends largely on water hardness and filtration.
 
-Hard water leaves calcium deposits inside boilers, valves and thermoblocks. These deposits reduce heating efficiency, restrict water flow and eventually damage components. Specialist espresso retailers therefore recommend monitoring water hardness and adjusting descaling frequency accordingly rather than blindly following a fixed calendar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
+Hard water leaves calcium deposits inside boilers, valves and thermoblocks. These deposits reduce heating efficiency, restrict water flow and eventually damage components. Specialist espresso retailers therefore recommend monitoring water hardness and adjusting descaling frequency accordingly rather than blindly following a fixed calendar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
 
 This creates several valuable article ideas:
 
@@ -365,14 +365,14 @@ These pages also introduce recurring affiliate products such as replacement filt
 
 Backflushing applies only to machines fitted with a three-way solenoid valve. Many entry-level machines cannot be backflushed with detergent.
 
-A good maintenance guide explains: <span class="citation-chip-wrap"><a class="citation-chip" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[clivecoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
+A good maintenance guide explains:<span class="citation-chip-wrap"><a class="citation-chip" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[clivecoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * which machines support detergent backflushing
 * the difference between water-only and detergent backflushing
-* why coffee oils accumulate inside the group head <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=V6MMrJDnBDg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">E61 Group Head &#124; Backflush, Clean &amp; Gasket / Screen Replacement</span><span class="citation-popover-snippet">Gaggia Classic Pro: Cleaning, Maintenance, Backflushing &amp; Descaling...</span></span></span>
+* why coffee oils accumulate inside the group head<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=V6MMrJDnBDg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">E61 Group Head &#124; Backflush, Clean &amp; Gasket / Screen Replacement</span><span class="citation-popover-snippet">Gaggia Classic Pro: Cleaning, Maintenance, Backflushing &amp; Descaling...</span></span></span>
 * why excessive detergent use is unnecessary
 
 </div>
@@ -383,7 +383,7 @@ Clear compatibility [tables]({{ 'tables/' | relative_url }}) are especially usef
 
 Readers frequently ask whether vinegar can replace commercial descaling products or coffee detergents.
 
-Most espresso specialists discourage vinegar because it can leave persistent odours, may not remove scale effectively compared with purpose-made descalers, and some manufacturers specifically recommend approved cleaning products instead. Likewise, coffee detergents designed for removing oils are not substitutes for descalers that dissolve mineral deposits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/how-to-clean-espresso-machine-8418730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats+2Tom&#x27;s Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">According to an expert, daily cleaning should involve scrubbing the group head with a brush, while deep cleaning or backflushing should b...</span></span></span>
+Most espresso specialists discourage vinegar because it can leave persistent odours, may not remove scale effectively compared with purpose-made descalers, and some manufacturers specifically recommend approved cleaning products instead. Likewise, coffee detergents designed for removing oils are not substitutes for descalers that dissolve mineral deposits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seriouseats.com/how-to-clean-espresso-machine-8418730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seriouseats.com">[Serious Eats+2Tom&#x27;s Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seriouseats.com</span><span class="citation-popover-snippet">According to an expert, daily cleaning should involve scrubbing the group head with a brush, while deep cleaning or backflushing should b...</span></span></span>
 
 Explaining the chemistry in plain language builds [authority]({{ 'authority/' | relative_url }}) while helping readers buy the correct product instead of the wrong one.
 
@@ -397,7 +397,7 @@ Examples include:
 
 **Group gaskets**
 
-Rubber hardens over time. A leaking portafilter or a handle that suddenly rotates further than usual often indicates a worn gasket rather than a major machine fault. Replacement is inexpensive and commonly required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
+Rubber hardens over time. A leaking portafilter or a handle that suddenly rotates further than usual often indicates a worn gasket rather than a major machine fault. Replacement is inexpensive and commonly required.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
 
 **Shower screens**
 
@@ -411,9 +411,9 @@ Machines with integrated filtration require replacement cartridges throughout th
 
 Reduced steam pressure is not always a boiler problem. Worn seals or blocked tips are common maintenance issues.
 
-**Grinder cleaning products** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cafetto.com/events" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cafetto.com">[cafetto.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cafetto.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Grinder cleaning products**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cafetto.com/events" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cafetto.com">[cafetto.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cafetto.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Grinders accumulate coffee oils just as machines do. Cleaning granules and periodic burr inspection help maintain grind consistency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
+Grinders accumulate coffee oils just as machines do. Cleaning granules and periodic burr inspection help maintain grind consistency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
 
 These products usually produce smaller [commissions]({{ 'commissions/' | relative_url }}) than espresso machines, but they also match predictable replacement cycles.
 
@@ -429,7 +429,7 @@ Readers return because:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* cleaning schedules repeat monthly <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DUmpez8k_b-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">t 3. Backflush: lever down → 10 sec → repeat...</span></span></span>
+* cleaning schedules repeat monthly<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DUmpez8k_b-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">t 3. Backflush: lever down → 10 sec → repeat...</span></span></span>
 * descaling reminders recur throughout ownership
 * replacement parts eventually wear out
 * troubleshooting often starts with maintenance
@@ -444,7 +444,7 @@ Useful internal links might connect naturally to:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* machine-specific maintenance guides <span class="citation-chip-wrap"><a class="citation-chip" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[clivecoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
+* machine-specific maintenance guides<span class="citation-chip-wrap"><a class="citation-chip" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[clivecoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</span></span></span>
 * water quality explainers
 * grinder cleaning tutorials
 * replacement-part compatibility charts
@@ -489,162 +489,162 @@ Several misconceptions appear repeatedly across manufacturer guidance, specialis
 Addressing these mistakes with practical explanations helps readers solve problems before they become expensive repairs, while naturally introducing recurring consumables and replacement parts that fit the ongoing ownership journey rather than only the initial purchase.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Espresso Content That Starts After Checkout. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Espresso Content That Starts After Checkout. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
-        </h4>
-        <p class="fr-book-author">By James Hoffmann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
+</h4>
+<p class="fr-book-author">By James Hoffmann</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Coffee industry, Coffee, Café, Commerce, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Coffee industry, Coffee, Café, Commerce, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
-        </h4>
-        <p class="fr-book-author">By Scott Rao</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
+</h4>
+<p class="fr-book-author">By Scott Rao</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Tea, Coffee, Espresso.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Tea, Coffee, Espresso.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
-        </h4>
-        <p class="fr-book-author">By Anette Moldvaer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
+</h4>
+<p class="fr-book-author">By Anette Moldvaer</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Coffee, Cooking (coffee), Coffee brewing, Espresso.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Coffee, Cooking (coffee), Coffee brewing, Espresso.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Make the Best Coffee at Home on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Make the Best Coffee at Home">How to Make the Best Coffee at Home</a>
-        </h4>
-        <p class="fr-book-author">By James Hoffmann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Make the Best Coffee at Home on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Make the Best Coffee at Home">How to Make the Best Coffee at Home</a>
+</h4>
+<p class="fr-book-author">By James Hoffmann</p>
         
-        <p class="fr-book-desc">Covers coffee brewing fundamentals, equipment care, and techniques valuable for long-term home espresso ownership.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers coffee brewing fundamentals, equipment care, and techniques valuable for long-term home espresso ownership.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Make+the+Best+Coffee+at+Home+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Coffee+Obsession&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coffee Obsession</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Coffee+Obsession&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coffee Obsession</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed YouTube Like &amp; Subscribe Sign Social Media Content Creator Desk Decor"><img src="{{ '/assets/images/marketplace-covers/b676869e437654dfe635.jpg' | relative_url }}" alt="Listing image for 3D Printed YouTube Like &amp; Subscribe Sign Social Media Content Creator Desk Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer">3D Printed YouTube Like &amp; Subscribe Sign Social Media Content Creator Desk Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for content creator desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: content creator desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed YouTube Like &amp; Subscribe Sign Social Media Content Creator Desk Decor"><img src="{{ '/assets/images/marketplace-covers/b676869e437654dfe635.jpg' | relative_url }}" alt="Listing image for 3D Printed YouTube Like &amp; Subscribe Sign Social Media Content Creator Desk Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer">3D Printed YouTube Like &amp; Subscribe Sign Social Media Content Creator Desk Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for content creator desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: content creator desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Like and Share Sign YouTube Content Creator Gaming Room Decor"><img src="{{ '/assets/images/marketplace-covers/26d8ec18832db9a89ed2.jpg' | relative_url }}" alt="Listing image for Like and Share Sign YouTube Content Creator Gaming Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Like and Share Sign YouTube Content Creator Gaming Room Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for content creator desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: content creator desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Like and Share Sign YouTube Content Creator Gaming Room Decor"><img src="{{ '/assets/images/marketplace-covers/26d8ec18832db9a89ed2.jpg' | relative_url }}" alt="Listing image for Like and Share Sign YouTube Content Creator Gaming Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Like and Share Sign YouTube Content Creator Gaming Room Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for content creator desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: content creator desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=content+creator+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="content creator desk sign" data-ebay-reference="maintenance-the-espresso-content-that-starts-after-checkout-making-money-from-content-creator-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -660,7 +660,7 @@ Addressing these mistakes with practical explanations helps readers solve proble
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -680,7 +680,7 @@ Addressing these mistakes with practical explanations helps readers solve proble
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -712,7 +712,7 @@ Addressing these mistakes with practical explanations helps readers solve proble
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -764,7 +764,7 @@ Addressing these mistakes with practical explanations helps readers solve proble
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -809,7 +809,7 @@ Addressing these mistakes with practical explanations helps readers solve proble
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -850,90 +850,90 @@ Addressing these mistakes with practical explanations helps readers solve proble
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: clivecoffee.com  
-   Link: <a href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow">https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</p></details>
+   Link:<a href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34" target="_blank" rel="noopener noreferrer nofollow">https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOopjK2oY70zmoE7LX-QxDF7kTe5dgWFoq9ldSdoXLQoDHImBen34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clive CoffeeEspresso Machine Cleaning &amp; Maintenance GuideEssential supplies include Cafetto EVO for backflushing, a group head cleaning b...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: seriouseats.com  
-   Link: <a href="https://www.seriouseats.com/how-to-clean-espresso-machine-8418730" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/how-to-clean-espresso-machine-8418730</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to an expert, daily cleaning should involve scrubbing the group head with a brush, while deep cleaning or backflushing should b...</p></details>
+   Link:<a href="https://www.seriouseats.com/how-to-clean-espresso-machine-8418730" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/how-to-clean-espresso-machine-8418730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to an expert, daily cleaning should involve scrubbing the group head with a brush, while deep cleaning or backflushing should b...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wholelattelove.com  
    Title: how to clean an espresso machine  
-   Link: <a href="https://www.wholelattelove.com/blogs/how-to/how-to-clean-an-espresso-machine?srsltid=AfmBOopqi_zLHer4WzHiAIW0gbp36lrubq09scvREOCge4x9BcP71Q1l" target="_blank" rel="noopener noreferrer nofollow">https://www.wholelattelove.com/blogs/how-to/how-to-clean-an-espresso-machine?srsltid=AfmBOopqi_zLHer4WzHiAIW0gbp36lrubq09scvREOCge4x9BcP71Q1l</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Right Way7 Jul 2025 — Simply mix the cleaning product with warm water and soak your portafilter and baskets for 30 minutes, making su...</p></details>
+   Link:<a href="https://www.wholelattelove.com/blogs/how-to/how-to-clean-an-espresso-machine?srsltid=AfmBOopqi_zLHer4WzHiAIW0gbp36lrubq09scvREOCge4x9BcP71Q1l" target="_blank" rel="noopener noreferrer nofollow">https://www.wholelattelove.com/blogs/how-to/how-to-clean-an-espresso-machine?srsltid=AfmBOopqi_zLHer4WzHiAIW0gbp36lrubq09scvREOCge4x9BcP71Q1l</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Right Way7 Jul 2025 — Simply mix the cleaning product with warm water and soak your portafilter and baskets for 30 minutes, making su...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tomsguide.com  
-   Link: <a href="https://www.tomsguide.com/home/coffee-makers/espresso-machine-expert-says-this-is-the-number-1-mistake-home-baristas-make-and-you-probably-dont-even-realize-youre-doing-it" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/home/coffee-makers/espresso-machine-expert-says-this-is-the-number-1-mistake-home-baristas-make-and-you-probably-dont-even-realize-youre-doing-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to John Holmquist, Customer Experience Manager at Seattle Coffee Gear, the key to extending an espresso machine&#x27;s lifespan—poss...</p></details>
+   Link:<a href="https://www.tomsguide.com/home/coffee-makers/espresso-machine-expert-says-this-is-the-number-1-mistake-home-baristas-make-and-you-probably-dont-even-realize-youre-doing-it" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/home/coffee-makers/espresso-machine-expert-says-this-is-the-number-1-mistake-home-baristas-make-and-you-probably-dont-even-realize-youre-doing-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to John Holmquist, Customer Experience Manager at Seattle Coffee Gear, the key to extending an espresso machine&#x27;s lifespan—poss...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tomsguide.com  
-   Link: <a href="https://www.tomsguide.com/home/coffee-makers/i-asked-an-espresso-machine-expert-and-these-3-crucial-errors-will-ruin-your-morning-brew" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/home/coffee-makers/i-asked-an-espresso-machine-expert-and-these-3-crucial-errors-will-ruin-your-morning-brew</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, improper maintenance—especially not descaling or backflushing—can cause internal buildup of limescale and oils, damaging the machi...</p></details>
+   Link:<a href="https://www.tomsguide.com/home/coffee-makers/i-asked-an-espresso-machine-expert-and-these-3-crucial-errors-will-ruin-your-morning-brew" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/home/coffee-makers/i-asked-an-espresso-machine-expert-and-these-3-crucial-errors-will-ruin-your-morning-brew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, improper maintenance—especially not descaling or backflushing—can cause internal buildup of limescale and oils, damaging the machi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cafetto.com  
-   Link: <a href="https://www.cafetto.com/events" target="_blank" rel="noopener noreferrer nofollow">https://www.cafetto.com/events</a>  
+   Link:<a href="https://www.cafetto.com/events" target="_blank" rel="noopener noreferrer nofollow">https://www.cafetto.com/events</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: urnex.co.uk  
    Title: the ultimate guide to professional coffee machine cleaners  
-   Link: <a href="https://urnex.co.uk/blogs/coffee-news/the-ultimate-guide-to-professional-coffee-machine-cleaners?srsltid=AfmBOoopfrT9kr3SggwzwrOc8xVbDjStG-u3TcE2yZfawaCn1yz5aW5x" target="_blank" rel="noopener noreferrer nofollow">https://urnex.co.uk/blogs/coffee-news/the-ultimate-guide-to-professional-coffee-machine-cleaners?srsltid=AfmBOoopfrT9kr3SggwzwrOc8xVbDjStG-u3TcE2yZfawaCn1yz5aW5x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate Guide to Coffee Machine Cleaners1 Oct 2025 — Espresso machine backflushing. Bean-to-cup cleaning cycles. Daily maintenance for g...</p></details>
+   Link:<a href="https://urnex.co.uk/blogs/coffee-news/the-ultimate-guide-to-professional-coffee-machine-cleaners?srsltid=AfmBOoopfrT9kr3SggwzwrOc8xVbDjStG-u3TcE2yZfawaCn1yz5aW5x" target="_blank" rel="noopener noreferrer nofollow">https://urnex.co.uk/blogs/coffee-news/the-ultimate-guide-to-professional-coffee-machine-cleaners?srsltid=AfmBOoopfrT9kr3SggwzwrOc8xVbDjStG-u3TcE2yZfawaCn1yz5aW5x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate Guide to Coffee Machine Cleaners1 Oct 2025 — Espresso machine backflushing. Bean-to-cup cleaning cycles. Daily maintenance for g...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXCKIsNCHr2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXCKIsNCHr2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>leaner — don&#x27;t skip!) 3️⃣ Soak portafilters &amp; baskets (15–30 mins) 4️⃣ Scrub...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXCKIsNCHr2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXCKIsNCHr2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>leaner — don&#x27;t skip!) 3️⃣ Soak portafilters &amp; baskets (15–30 mins) 4️⃣ Scrub...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KxL6hunmBt8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KxL6hunmBt8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Clean and Maintain a Home Espresso MachineTaking care of your beloved Home Espresso Machine from brand new. Looking at Water Filtr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KxL6hunmBt8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KxL6hunmBt8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Clean and Maintain a Home Espresso MachineTaking care of your beloved Home Espresso Machine from brand new. Looking at Water Filtr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: coffeefriend.co.uk  
    Title: Espresso Machine Cleaning Guide  
-   Link: <a href="https://www.coffeefriend.co.uk/blog/how-to-clean-an-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeefriend.co.uk/blog/how-to-clean-an-espresso-machine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ffee FriendFollow the instructions on how to clean an espresso machine and extend its service life. ✨ Here you will also find espresso...</p></details>
+   Link:<a href="https://www.coffeefriend.co.uk/blog/how-to-clean-an-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeefriend.co.uk/blog/how-to-clean-an-espresso-machine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ffee FriendFollow the instructions on how to clean an espresso machine and extend its service life. ✨ Here you will also find espresso...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DUmpez8k_b-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUmpez8k_b-/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t 3. Backflush: lever down → 10 sec → repeat...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DUmpez8k_b-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUmpez8k_b-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t 3. Backflush: lever down → 10 sec → repeat...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: La Spaziale 53mm | Backflush, Clean & Gasket / Screen Replacement  
-   Link: <a href="https://www.youtube.com/watch?v=hhEB15DWOtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hhEB15DWOtU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to clean an espresso machine Clive Coffee How To Clean Your Espresso Machine In One Minute Clive Coffee...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hhEB15DWOtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hhEB15DWOtU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to clean an espresso machine Clive Coffee How To Clean Your Espresso Machine In One Minute Clive Coffee...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9aBHMgKQC4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9aBHMgKQC4A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>clean machine means better-tasting coffee and a longer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9aBHMgKQC4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9aBHMgKQC4A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>clean machine means better-tasting coffee and a longer...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: E61 Group Head | Backflush, Clean & Gasket / Screen Replacement  
-   Link: <a href="https://www.youtube.com/watch?v=V6MMrJDnBDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V6MMrJDnBDg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gaggia Classic Pro: Cleaning, Maintenance, Backflushing &amp; Descaling...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V6MMrJDnBDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V6MMrJDnBDg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gaggia Classic Pro: Cleaning, Maintenance, Backflushing &amp; Descaling...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Gaggia Classic Pro: Cleaning, Maintenance, Backflushing & Descaling  
-   Link: <a href="https://www.youtube.com/watch?v=VbLIIrhE8ms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VbLIIrhE8ms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Essential Home Espresso Care in Under 10 Minutes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VbLIIrhE8ms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VbLIIrhE8ms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Essential Home Espresso Care in Under 10 Minutes...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: How To Descale Espresso Machine Heat Exchange Boilers  
-   Link: <a href="https://www.youtube.com/watch?v=yEGfyJkWSqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yEGfyJkWSqU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La Spaziale 53mm | Backflush, Clean &amp; Gasket / Screen Replacement...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yEGfyJkWSqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yEGfyJkWSqU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La Spaziale 53mm | Backflush, Clean &amp; Gasket / Screen Replacement...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_cr
 
 ## Introduction
 
-For a small team, CRM setup is rarely measured in months, but it is almost never as quick as simply creating an account. A realistic implementation for a business moving from spreadsheets to a usable sales system is often anywhere from a single day for a very simple deployment to two or three weeks for a well-prepared team, with longer timelines when data needs cleaning, permissions require careful planning, or [integrations]({{ 'integrations/' | relative_url }}) are involved. The difference between a successful rollout and an abandoned CRM is usually not the [software]({{ 'software/' | relative_url }}) itself but the quality of the first setup. That makes implementation time an important factor for affiliate comparisons, because buyers are often choosing between tools that appear similar on features but differ significantly in onboarding effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pipedrive.com/en/blog/crm-onboarding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pipedrive.com">[Pipedrive+2Bigin by Zoho CRM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pipedrive.com</span><span class="citation-popover-snippet">Ultimate CRM Onboarding Best Practices GuideFebruary 13, 2024 — On average, CRM onboarding takes a few days or weeks for a small...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
+For a small team, CRM setup is rarely measured in months, but it is almost never as quick as simply creating an account. A realistic implementation for a business moving from spreadsheets to a usable sales system is often anywhere from a single day for a very simple deployment to two or three weeks for a well-prepared team, with longer timelines when data needs cleaning, permissions require careful planning, or [integrations]({{ 'integrations/' | relative_url }}) are involved. The difference between a successful rollout and an abandoned CRM is usually not the [software]({{ 'software/' | relative_url }}) itself but the quality of the first setup. That makes implementation time an important factor for affiliate comparisons, because buyers are often choosing between tools that appear similar on features but differ significantly in onboarding effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pipedrive.com/en/blog/crm-onboarding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pipedrive.com">[Pipedrive+2Bigin by Zoho CRM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pipedrive.com</span><span class="citation-popover-snippet">Ultimate CRM Onboarding Best Practices GuideFebruary 13, 2024 — On average, CRM onboarding takes a few days or weeks for a small...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_crm_setup_timelines_c2ea80-Illustration-1-dark.svg" | relative_url }}" alt="CRM Setup illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_crm_setup_timelines_c2ea80-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_crm_setup_timelines_c2ea80-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -303,7 +303,7 @@ Before importing, teams typically need to:
 
 </div>
 
-Most major CRM platforms, including HubSpot, support bulk CSV imports and provide field mapping tools. More advanced imports can preserve relationships between contacts, companies and [deals]({{ 'deals/' | relative_url }}), but these require additional preparation to avoid broken associations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://knowledge.hubspot.com/import-and-export/import-objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.hubspot.com">[HubSpot Knowledge Base+2HubSpot Knowledge Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.hubspot.com</span><span class="citation-popover-title">import objects</span><span class="citation-popover-snippet">HubSpot Knowledge BaseImport records for multiple objectsMar 23, 2026 — In your HubSpot account, navigate to Data Management &gt; Data Integ...</span></span></span>
+Most major CRM platforms, including HubSpot, support bulk CSV imports and provide field mapping tools. More advanced imports can preserve relationships between contacts, companies and [deals]({{ 'deals/' | relative_url }}), but these require additional preparation to avoid broken associations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://knowledge.hubspot.com/import-and-export/import-objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.hubspot.com">[HubSpot Knowledge Base+2HubSpot Knowledge Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.hubspot.com</span><span class="citation-popover-title">import objects</span><span class="citation-popover-snippet">HubSpot Knowledge BaseImport records for multiple objectsMar 23, 2026 — In your HubSpot account, navigate to Data Management &gt; Data Integ...</span></span></span>
 
 For a team with a few hundred reasonably clean contacts, the import itself may take less than an hour. Cleaning inconsistent spreadsheets often takes several hours or even multiple working sessions, particularly if different employees have maintained separate customer lists.
 
@@ -324,7 +324,7 @@ Once contacts exist inside the CRM, the next stage determines whether the softwa
 
 Many small teams make the mistake of over-engineering security before anyone has learned the system.
 
-Modern CRMs allow administrators to control access to contacts, deals, companies and other objects, often with different viewing and editing permissions for each user or team. Those controls are valuable, but for businesses with only three to ten staff members, a simple permission structure is normally easier to maintain than dozens of custom roles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://knowledge.hubspot.com/user-management/hubspot-user-permissions-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.hubspot.com">[HubSpot Knowledge Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.hubspot.com</span><span class="citation-popover-snippet">HubSpot Knowledge BaseHubSpot user permissions guideThe following CRM objects and activities have customizable permissions: Contacts; Com...</span></span></span>
+Modern CRMs allow administrators to control access to contacts, deals, companies and other objects, often with different viewing and editing permissions for each user or team. Those controls are valuable, but for businesses with only three to ten staff members, a simple permission structure is normally easier to maintain than dozens of custom roles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://knowledge.hubspot.com/user-management/hubspot-user-permissions-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.hubspot.com">[HubSpot Knowledge Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.hubspot.com</span><span class="citation-popover-snippet">HubSpot Knowledge BaseHubSpot user permissions guideThe following CRM objects and activities have customizable permissions: Contacts; Com...</span></span></span>
 
 A typical first-day setup might include:
 
@@ -357,7 +357,7 @@ Small businesses usually benefit from starting with five to seven clearly define
 
 is often sufficient during the first weeks.
 
-Most CRM platforms allow additional stages, multiple pipelines and automation to be added later as sales processes mature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://knowledge.hubspot.com/object-settings/set-up-and-customize-pipelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.hubspot.com">[HubSpot Knowledge Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.hubspot.com</span><span class="citation-popover-title">set up and customize pipelines</span><span class="citation-popover-snippet">HubSpot Knowledge BaseSet up and manage object pipelinesMar 30, 2026 — You can create deal pipelines to track revenue, ticket pipelines t...</span></span></span>
+Most CRM platforms allow additional stages, multiple pipelines and automation to be added later as sales processes mature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://knowledge.hubspot.com/object-settings/set-up-and-customize-pipelines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge.hubspot.com">[HubSpot Knowledge Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge.hubspot.com</span><span class="citation-popover-title">set up and customize pipelines</span><span class="citation-popover-snippet">HubSpot Knowledge BaseSet up and manage object pipelinesMar 30, 2026 — You can create deal pipelines to track revenue, ticket pipelines t...</span></span></span>
 
 ### Keep early automation limited
 
@@ -388,7 +388,7 @@ A realistic progression for a small team might resemble:
 
 TimePrimary activitiesDay 1Account creation, basic settings, invite usersDays 2–3Clean and import customer dataDays 3–5Configure pipelines, custom fields and permissionsWeek 2Train staff, test workflows and refine processesWeeks 2–4Resolve issues, adjust reports and encourage consistent use
 
-Industry implementation guidance aimed at small and medium businesses commonly estimates a few days to several weeks for straightforward CRM onboarding, while more customised deployments extend further depending on integrations and workflow complexity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pipedrive.com/en/blog/crm-onboarding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pipedrive.com">[Pipedrive+2Bigin by Zoho CRM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pipedrive.com</span><span class="citation-popover-snippet">Ultimate CRM Onboarding Best Practices GuideFebruary 13, 2024 — On average, CRM onboarding takes a few days or weeks for a small...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
+Industry implementation guidance aimed at small and medium businesses commonly estimates a few days to several weeks for straightforward CRM onboarding, while more customised deployments extend further depending on integrations and workflow complexity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pipedrive.com/en/blog/crm-onboarding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pipedrive.com">[Pipedrive+2Bigin by Zoho CRM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pipedrive.com</span><span class="citation-popover-snippet">Ultimate CRM Onboarding Best Practices GuideFebruary 13, 2024 — On average, CRM onboarding takes a few days or weeks for a small...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
 For affiliate comparisons, this distinction matters. Two CRMs may advertise similar features, yet one may require substantially more configuration before a small team reaches everyday productivity.
 
@@ -409,7 +409,7 @@ The most common warning signs include:
 
 </div>
 
-Research into software implementation has also shown that poor implementation is closely associated with buyer regret. Capterra's UK research found that organisations experiencing implementation disruption were much more likely to regret their software purchase, reinforcing that successful onboarding is as important as feature selection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.capterra.co.uk/directory/31583/small-business-crm/software" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capterra.co.uk">[Capterra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capterra.co.uk</span><span class="citation-popover-title">Capterra CRM for Small Businesses</span><span class="citation-popover-snippet">CRM for Small Businesses - Price Comparison &amp; ReviewsCompare the best CRM for Small Businesses in the UK. Capterra offers the mos...</span></span></span>
+Research into software implementation has also shown that poor implementation is closely associated with buyer regret. Capterra's UK research found that organisations experiencing implementation disruption were much more likely to regret their software purchase, reinforcing that successful onboarding is as important as feature selection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.capterra.co.uk/directory/31583/small-business-crm/software" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capterra.co.uk">[Capterra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capterra.co.uk</span><span class="citation-popover-title">Capterra CRM for Small Businesses</span><span class="citation-popover-snippet">CRM for Small Businesses - Price Comparison &amp; ReviewsCompare the best CRM for Small Businesses in the UK. Capterra offers the mos...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_crm_setup_timelines_c2ea80-Illustration-3-dark.svg" | relative_url }}" alt="CRM Setup illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_crm_setup_timelines_c2ea80-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_crm_setup_timelines_c2ea80-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -437,194 +437,194 @@ These practical questions often influence long-term satisfaction more than diffe
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Long Does CRM Setup Really Take?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Long Does CRM Setup Really Take?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-        </h4>
-        <p class="fr-book-author">By Eric Ries</p>
-        <p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
-        <p class="fr-book-desc">Supports iterative implementation, rapid testing, and incremental process improvements during CRM adoption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+</h4>
+<p class="fr-book-author">By Eric Ries</p>
+<p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
+<p class="fr-book-desc">Supports iterative implementation, rapid testing, and incremental process improvements during CRM adoption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Managing+the+professional+service+firm+David+H.+Maister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Managing the professional service firm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18967-M.jpg" alt="Cover for Managing the professional service firm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Managing+the+professional+service+firm+David+H.+Maister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Managing the professional service firm">Managing the professional service firm</a>
-        </h4>
-        <p class="fr-book-author">By David H. Maister</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Managing+the+professional+service+firm+David+H.+Maister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Managing the professional service firm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18967-M.jpg" alt="Cover for Managing the professional service firm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Managing+the+professional+service+firm+David+H.+Maister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Managing the professional service firm">Managing the professional service firm</a>
+</h4>
+<p class="fr-book-author">By David H. Maister</p>
         
-        <p class="fr-book-desc">First published 1993. Subjects: Professional corporations, Management, Dienstleistungsbetrieb, Service industries, management, 85.05 mana...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Managing+the+professional+service+firm+David+H.+Maister&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1993. Subjects: Professional corporations, Management, Dienstleistungsbetrieb, Service industries, management, 85.05 mana...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Managing+the+professional+service+firm+David+H.+Maister&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=CRM+at+the+speed+of+light+Paul+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open CRM at the speed of light on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/62139-M.jpg" alt="Cover for CRM at the speed of light" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=CRM+at+the+speed+of+light+Paul+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CRM at the speed of light">CRM at the speed of light</a>
-        </h4>
-        <p class="fr-book-author">By Paul Greenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=CRM+at+the+speed+of+light+Paul+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open CRM at the speed of light on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/62139-M.jpg" alt="Cover for CRM at the speed of light" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=CRM+at+the+speed+of+light+Paul+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CRM at the speed of light">CRM at the speed of light</a>
+</h4>
+<p class="fr-book-author">By Paul Greenberg</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Computer Technology, Customer relations, Electronic commerce, Management, Nonfiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=CRM+at+the+speed+of+light+Paul+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Computer Technology, Customer relations, Electronic commerce, Management, Nonfiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=CRM+at+the+speed+of+light+Paul+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+CRM+handbook+Jill+Dych%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The CRM handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/136063-M.jpg" alt="Cover for The CRM handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+CRM+handbook+Jill+Dych%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CRM handbook">The CRM handbook</a>
-        </h4>
-        <p class="fr-book-author">By Jill Dyché</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+CRM+handbook+Jill+Dych%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The CRM handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/136063-M.jpg" alt="Cover for The CRM handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+CRM+handbook+Jill+Dych%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CRM handbook">The CRM handbook</a>
+</h4>
+<p class="fr-book-author">By Jill Dyché</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Customer relations, Management, Customer relations, management.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+CRM+handbook+Jill+Dych%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Customer relations, Management, Customer relations, management.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+CRM+handbook+Jill+Dych%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Managing+the+professional+service+firm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Managing the professional service firm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=CRM+at+the+speed+of+light&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">CRM at the speed of light</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Managing+the+professional+service+firm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Managing the professional service firm</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=CRM+at+the+speed+of+light&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">CRM at the speed of light</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office business sign 20 mm deep signage company logo reception desk office decor"><img src="{{ '/assets/images/marketplace-covers/06eaf8eddaa28c084388.jpg' | relative_url }}" alt="Listing image for Office business sign 20 mm deep signage company logo reception desk office decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Office business sign 20 mm deep signage company logo reception desk office decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office business sign 20 mm deep signage company logo reception desk office decor"><img src="{{ '/assets/images/marketplace-covers/06eaf8eddaa28c084388.jpg' | relative_url }}" alt="Listing image for Office business sign 20 mm deep signage company logo reception desk office decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Office business sign 20 mm deep signage company logo reception desk office decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Modern Desk Business Card Holder–Clean Minimalist Design for Office &amp; Home Decor"><img src="{{ '/assets/images/marketplace-covers/94775d78fad944661fd5.jpg' | relative_url }}" alt="Listing image for Modern Desk Business Card Holder–Clean Minimalist Design for Office &amp; Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Modern Desk Business Card Holder–Clean Minimalist Design for Office &amp; Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Modern Desk Business Card Holder–Clean Minimalist Design for Office &amp; Home Decor"><img src="{{ '/assets/images/marketplace-covers/94775d78fad944661fd5.jpg' | relative_url }}" alt="Listing image for Modern Desk Business Card Holder–Clean Minimalist Design for Office &amp; Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Modern Desk Business Card Holder–Clean Minimalist Design for Office &amp; Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Garage Business Card Holder Office Desk Organiser Garage Desk Decoration"><img src="{{ '/assets/images/marketplace-covers/e4d1e3464b14fcf3c2bf.jpg' | relative_url }}" alt="Listing image for Garage Business Card Holder Office Desk Organiser Garage Desk Decoration" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Garage Business Card Holder Office Desk Organiser Garage Desk Decoration</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Garage Business Card Holder Office Desk Organiser Garage Desk Decoration"><img src="{{ '/assets/images/marketplace-covers/e4d1e3464b14fcf3c2bf.jpg' | relative_url }}" alt="Listing image for Garage Business Card Holder Office Desk Organiser Garage Desk Decoration" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Garage Business Card Holder Office Desk Organiser Garage Desk Decoration</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office"><img src="{{ '/assets/images/marketplace-covers/38e7e04925d707312069.jpg' | relative_url }}" alt="Listing image for Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office"><img src="{{ '/assets/images/marketplace-covers/38e7e04925d707312069.jpg' | relative_url }}" alt="Listing image for Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="crm-setup-how-long-does-crm-setup-really-take-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -640,7 +640,7 @@ These practical questions often influence long-term satisfaction more than diffe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -660,7 +660,7 @@ These practical questions often influence long-term satisfaction more than diffe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -692,7 +692,7 @@ These practical questions often influence long-term satisfaction more than diffe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -744,7 +744,7 @@ These practical questions often influence long-term satisfaction more than diffe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -789,7 +789,7 @@ These practical questions often influence long-term satisfaction more than diffe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -830,170 +830,170 @@ These practical questions often influence long-term satisfaction more than diffe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pipedrive.com  
-   Link: <a href="https://www.pipedrive.com/en/blog/crm-onboarding" target="_blank" rel="noopener noreferrer nofollow">https://www.pipedrive.com/en/blog/crm-onboarding</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate CRM Onboarding Best Practices GuideFebruary 13, 2024 — On average, CRM onboarding takes a few days or weeks for a small...</p></details>
+   Link:<a href="https://www.pipedrive.com/en/blog/crm-onboarding" target="_blank" rel="noopener noreferrer nofollow">https://www.pipedrive.com/en/blog/crm-onboarding</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate CRM Onboarding Best Practices GuideFebruary 13, 2024 — On average, CRM onboarding takes a few days or weeks for a small...</p></details>
    Published: February 13, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bigin.com  
    Title: How long it takes to implement a CRM  
-   Link: <a href="https://www.bigin.com/small-business-express/How-long-it-takes-to-implement-a-CRM.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bigin.com/small-business-express/How-long-it-takes-to-implement-a-CRM.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigin by Zoho CRMHow long it takes to implement a CRM: A step-by-step guide16 Jul 2024 — Small businesses with few external stakeholders...</p></details>
+   Link:<a href="https://www.bigin.com/small-business-express/How-long-it-takes-to-implement-a-CRM.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bigin.com/small-business-express/How-long-it-takes-to-implement-a-CRM.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bigin by Zoho CRMHow long it takes to implement a CRM: A step-by-step guide16 Jul 2024 — Small businesses with few external stakeholders...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: knowledge.hubspot.com  
    Title: import objects  
-   Link: <a href="https://knowledge.hubspot.com/import-and-export/import-objects" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/import-and-export/import-objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseImport records for multiple objectsMar 23, 2026 — In your HubSpot account, navigate to Data Management &gt; Data Integ...</p></details>
+   Link:<a href="https://knowledge.hubspot.com/import-and-export/import-objects" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/import-and-export/import-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseImport records for multiple objectsMar 23, 2026 — In your HubSpot account, navigate to Data Management &gt; Data Integ...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: knowledge.hubspot.com  
-   Link: <a href="https://knowledge.hubspot.com/import-and-export/set-up-your-import-file" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/import-and-export/set-up-your-import-file</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseFormat import filesLearn how to set up your import files with technical requirements, limits, and required fields...</p></details>
+   Link:<a href="https://knowledge.hubspot.com/import-and-export/set-up-your-import-file" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/import-and-export/set-up-your-import-file</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseFormat import filesLearn how to set up your import files with technical requirements, limits, and required fields...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: knowledge.hubspot.com  
    Title: manage your crm database  
-   Link: <a href="https://knowledge.hubspot.com/get-started/manage-your-crm-database" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/get-started/manage-your-crm-database</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseManage your CRM databaseJan 10, 2026 — An overview of how to set up your CRM database. Create and view records, set...</p></details>
+   Link:<a href="https://knowledge.hubspot.com/get-started/manage-your-crm-database" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/get-started/manage-your-crm-database</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseManage your CRM databaseJan 10, 2026 — An overview of how to set up your CRM database. Create and view records, set...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: knowledge.hubspot.com  
-   Link: <a href="https://knowledge.hubspot.com/user-management/hubspot-user-permissions-guide" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/user-management/hubspot-user-permissions-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseHubSpot user permissions guideThe following CRM objects and activities have customizable permissions: Contacts; Com...</p></details>
+   Link:<a href="https://knowledge.hubspot.com/user-management/hubspot-user-permissions-guide" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/user-management/hubspot-user-permissions-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseHubSpot user permissions guideThe following CRM objects and activities have customizable permissions: Contacts; Com...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: knowledge.hubspot.com  
    Title: manage user permissions  
-   Link: <a href="https://knowledge.hubspot.com/user-management/manage-user-permissions" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/user-management/manage-user-permissions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseManage user permissionsMar 11, 2026 — Learn how to make changes to permissions for users in your HubSpot account. Y...</p></details>
+   Link:<a href="https://knowledge.hubspot.com/user-management/manage-user-permissions" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/user-management/manage-user-permissions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseManage user permissionsMar 11, 2026 — Learn how to make changes to permissions for users in your HubSpot account. Y...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: knowledge.hubspot.com  
    Title: set up and customize pipelines  
-   Link: <a href="https://knowledge.hubspot.com/object-settings/set-up-and-customize-pipelines" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/object-settings/set-up-and-customize-pipelines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseSet up and manage object pipelinesMar 30, 2026 — You can create deal pipelines to track revenue, ticket pipelines t...</p></details>
+   Link:<a href="https://knowledge.hubspot.com/object-settings/set-up-and-customize-pipelines" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/object-settings/set-up-and-customize-pipelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot Knowledge BaseSet up and manage object pipelinesMar 30, 2026 — You can create deal pipelines to track revenue, ticket pipelines t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: knowledge.hubspot.com  
    Title: bulk edit records  
-   Link: <a href="https://knowledge.hubspot.com/records/bulk-edit-records" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/records/bulk-edit-records</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>edit recordsApr 7, 2026 — Learn how you can edit property values for records such as contacts, appointments, and deals in bulk...</p></details>
+   Link:<a href="https://knowledge.hubspot.com/records/bulk-edit-records" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/records/bulk-edit-records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>edit recordsApr 7, 2026 — Learn how you can edit property values for records such as contacts, appointments, and deals in bulk...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: community.hubspot.com  
-   Link: <a href="https://community.hubspot.com/t5/Free-Welcome-to-the-HubSpot-Free/ct-p/free" target="_blank" rel="noopener noreferrer nofollow">https://community.hubspot.com/t5/Free-Welcome-to-the-HubSpot-Free/ct-p/free</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to the HubSpot Free Community!Browse topics tailored to Free customers. Improve your growth strategies, master your go-to-marke...</p></details>
+   Link:<a href="https://community.hubspot.com/t5/Free-Welcome-to-the-HubSpot-Free/ct-p/free" target="_blank" rel="noopener noreferrer nofollow">https://community.hubspot.com/t5/Free-Welcome-to-the-HubSpot-Free/ct-p/free</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to the HubSpot Free Community!Browse topics tailored to Free customers. Improve your growth strategies, master your go-to-marke...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: knowledge.hubspot.com  
-   Link: <a href="https://knowledge.hubspot.com/crm/topics" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/crm/topics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Import contacts on the HubSpot mobile app · View and analyze past imports... Manage settings for the companies, leads, and deals tabs in...</p></details>
+   Link:<a href="https://knowledge.hubspot.com/crm/topics" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/crm/topics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Import contacts on the HubSpot mobile app · View and analyze past imports... Manage settings for the companies, leads, and deals tabs in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: community.hubspot.com  
-   Link: <a href="https://community.hubspot.com/t5/CRM/Best-Practices-for-Checking-and-Adding-Contacts-to-HubSpot/m-p/1010574" target="_blank" rel="noopener noreferrer nofollow">https://community.hubspot.com/t5/CRM/Best-Practices-for-Checking-and-Adding-Contacts-to-HubSpot/m-p/1010574</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practices for Checking and Adding Contacts to HubSpot16 Jul 2024 — To efficiently cross-check and import a list of contacts into HubSpot...</p></details>
+   Link:<a href="https://community.hubspot.com/t5/CRM/Best-Practices-for-Checking-and-Adding-Contacts-to-HubSpot/m-p/1010574" target="_blank" rel="noopener noreferrer nofollow">https://community.hubspot.com/t5/CRM/Best-Practices-for-Checking-and-Adding-Contacts-to-HubSpot/m-p/1010574</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practices for Checking and Adding Contacts to HubSpot16 Jul 2024 — To efficiently cross-check and import a list of contacts into HubSpot...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: knowledge.hubspot.com  
    Title: export records  
-   Link: <a href="https://knowledge.hubspot.com/import-and-export/export-records" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/import-and-export/export-records</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>your records16 Mar 2026 — You can export your records (e.g., contacts, deals) in your HubSpot account. This downloads their current prope...</p></details>
+   Link:<a href="https://knowledge.hubspot.com/import-and-export/export-records" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/import-and-export/export-records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>your records16 Mar 2026 — You can export your records (e.g., contacts, deals) in your HubSpot account. This downloads their current prope...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: knowledge.hubspot.com  
    Title: restrict view edit access for properties  
-   Link: <a href="https://knowledge.hubspot.com/properties/restrict-view-edit-access-for-properties" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/properties/restrict-view-edit-access-for-properties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>view and edit access for propertiesApr 2, 2026 — Learn how to set property level view and edit permissions to restrict HubSpot properties...</p></details>
+   Link:<a href="https://knowledge.hubspot.com/properties/restrict-view-edit-access-for-properties" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/properties/restrict-view-edit-access-for-properties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>view and edit access for propertiesApr 2, 2026 — Learn how to set property level view and edit permissions to restrict HubSpot properties...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: community.hubspot.com  
-   Link: <a href="https://community.hubspot.com/t5/CRM/5-Handy-Tips-when-Importing-Contacts-amp-Companies/m-p/476482/highlight/true" target="_blank" rel="noopener noreferrer nofollow">https://community.hubspot.com/t5/CRM/5-Handy-Tips-when-Importing-Contacts-amp-Companies/m-p/476482/highlight/true</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hubspot.comRe: 5 Handy Tips when Importing Contacts &amp; CompaniesWorking with customers directly, I find that they are often daunted by imp...</p></details>
+   Link:<a href="https://community.hubspot.com/t5/CRM/5-Handy-Tips-when-Importing-Contacts-amp-Companies/m-p/476482/highlight/true" target="_blank" rel="noopener noreferrer nofollow">https://community.hubspot.com/t5/CRM/5-Handy-Tips-when-Importing-Contacts-amp-Companies/m-p/476482/highlight/true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hubspot.comRe: 5 Handy Tips when Importing Contacts &amp; CompaniesWorking with customers directly, I find that they are often daunted by imp...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: knowledge.hubspot.com  
    Title: add hubspot users  
-   Link: <a href="https://knowledge.hubspot.com/account-management/add-hubspot-users" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/account-management/add-hubspot-users</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot usersApr 1, 2026 — In your HubSpot account, click the settings settings icon in the top navigation bar. · In the left sidebar men...</p></details>
+   Link:<a href="https://knowledge.hubspot.com/account-management/add-hubspot-users" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.hubspot.com/account-management/add-hubspot-users</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot usersApr 1, 2026 — In your HubSpot account, click the settings settings icon in the top navigation bar. · In the left sidebar men...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: community.hubspot.com  
-   Link: <a href="https://community.hubspot.com/t5/CRM/What-are-the-recommended-steps-to-set-up-HubSpot-for-a-small/m-p/1155568" target="_blank" rel="noopener noreferrer nofollow">https://community.hubspot.com/t5/CRM/What-are-the-recommended-steps-to-set-up-HubSpot-for-a-small/m-p/1155568</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Make sure to import your existing customers and prospects cleanly, with key info like emails, phone...Read more...</p></details>
+   Link:<a href="https://community.hubspot.com/t5/CRM/What-are-the-recommended-steps-to-set-up-HubSpot-for-a-small/m-p/1155568" target="_blank" rel="noopener noreferrer nofollow">https://community.hubspot.com/t5/CRM/What-are-the-recommended-steps-to-set-up-HubSpot-for-a-small/m-p/1155568</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Make sure to import your existing customers and prospects cleanly, with key info like emails, phone...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: zoho.com  
-   Link: <a href="https://www.zoho.com/sites/zweb/images/crm/ebooks-implementation-guide-sme.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.zoho.com/sites/zweb/images/crm/ebooks-implementation-guide-sme.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zoho CRM Implementation Guide for Small and Medium...This guide will benefit those users who are responsible for administering the CRM s...</p></details>
+   Link:<a href="https://www.zoho.com/sites/zweb/images/crm/ebooks-implementation-guide-sme.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.zoho.com/sites/zweb/images/crm/ebooks-implementation-guide-sme.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zoho CRM Implementation Guide for Small and Medium...This guide will benefit those users who are responsible for administering the CRM s...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UllTSxVpTvg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UllTSxVpTvg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pipedrive CRM Tutorial: How To Use Pipedrive For Beginners...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UllTSxVpTvg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UllTSxVpTvg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pipedrive CRM Tutorial: How To Use Pipedrive For Beginners...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Pipedrive CRM Tutorial: How To Use Pipedrive For Beginners  
-   Link: <a href="https://www.youtube.com/watch?v=_LRTEaWVlKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_LRTEaWVlKc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRM implementation timeline small business ManoByte CRM Implementation Process and Timeline Swimming With Sharks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_LRTEaWVlKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_LRTEaWVlKc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRM implementation timeline small business ManoByte CRM Implementation Process and Timeline Swimming With Sharks...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: capterra.co.uk  
    Title: Capterra CRM for Small Businesses  
-   Link: <a href="https://www.capterra.co.uk/directory/31583/small-business-crm/software" target="_blank" rel="noopener noreferrer nofollow">https://www.capterra.co.uk/directory/31583/small-business-crm/software</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRM for Small Businesses - Price Comparison &amp; ReviewsCompare the best CRM for Small Businesses in the UK. Capterra offers the mos...</p></details>
+   Link:<a href="https://www.capterra.co.uk/directory/31583/small-business-crm/software" target="_blank" rel="noopener noreferrer nofollow">https://www.capterra.co.uk/directory/31583/small-business-crm/software</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRM for Small Businesses - Price Comparison &amp; ReviewsCompare the best CRM for Small Businesses in the UK. Capterra offers the mos...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: coffee.ai  
-   Link: <a href="https://www.coffee.ai/articles/automated-crm-onboarding-best-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.coffee.ai/articles/automated-crm-onboarding-best-practices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Automated CRM Onboarding Best Practices for Sales TeamsMaster automated CRM data entry onboarding with proven strategies that save 8-1...</p></details>
+   Link:<a href="https://www.coffee.ai/articles/automated-crm-onboarding-best-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.coffee.ai/articles/automated-crm-onboarding-best-practices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Automated CRM Onboarding Best Practices for Sales TeamsMaster automated CRM data entry onboarding with proven strategies that save 8-1...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/shruti-kirti-5b7721105_5-top-rated-crm-software-for-small-businesses-activity-7265923270032449536-3fVg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/shruti-kirti-5b7721105_5-top-rated-crm-software-for-small-businesses-activity-7265923270032449536-3fVg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Top-Rated CRM Software for Small Businesses | CapterraSome popular options include Salesforce, HubSpot, and Zoho CRM, each with their s...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/shruti-kirti-5b7721105_5-top-rated-crm-software-for-small-businesses-activity-7265923270032449536-3fVg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/shruti-kirti-5b7721105_5-top-rated-crm-software-for-small-businesses-activity-7265923270032449536-3fVg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Top-Rated CRM Software for Small Businesses | CapterraSome popular options include Salesforce, HubSpot, and Zoho CRM, each with their s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: notelinker.com  
-   Link: <a href="https://www.notelinker.com/blog/crm-best-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.notelinker.com/blog/crm-best-practices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRM Best Practices: 10 Rules That Keep Your Pipeline...5 days ago — The CRM best practices that actually move the needle: a single sourc...</p></details>
+   Link:<a href="https://www.notelinker.com/blog/crm-best-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.notelinker.com/blog/crm-best-practices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRM Best Practices: 10 Rules That Keep Your Pipeline...5 days ago — The CRM best practices that actually move the needle: a single sourc...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: slack.com  
-   Link: <a href="https://slack.com/blog/crm/crm-implementation" target="_blank" rel="noopener noreferrer nofollow">https://slack.com/blog/crm/crm-implementation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRM Implementation: A Step-by-Step Guide for TeamsLearn what CRM implementation involves, key steps to follow, and how teams use tools li...</p></details>
+   Link:<a href="https://slack.com/blog/crm/crm-implementation" target="_blank" rel="noopener noreferrer nofollow">https://slack.com/blog/crm/crm-implementation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CRM Implementation: A Step-by-Step Guide for TeamsLearn what CRM implementation involves, key steps to follow, and how teams use tools li...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: smbcrm.com  
-   Link: <a href="https://smbcrm.com/blog/the-best-practices-for-a-successful-customer-relationship-management-process/" target="_blank" rel="noopener noreferrer nofollow">https://smbcrm.com/blog/the-best-practices-for-a-successful-customer-relationship-management-process/</a>  
+   Link:<a href="https://smbcrm.com/blog/the-best-practices-for-a-successful-customer-relationship-management-process/" target="_blank" rel="noopener noreferrer nofollow">https://smbcrm.com/blog/the-best-practices-for-a-successful-customer-relationship-management-process/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: consultevo.com  
-   Link: <a href="https://consultevo.com/hubspot-pipeline-approvals-setup/" target="_blank" rel="noopener noreferrer nofollow">https://consultevo.com/hubspot-pipeline-approvals-setup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot pipeline approvals guide -This guide explains how to enable pipeline approvals, what they do, and how to configure them so only a...</p></details>
+   Link:<a href="https://consultevo.com/hubspot-pipeline-approvals-setup/" target="_blank" rel="noopener noreferrer nofollow">https://consultevo.com/hubspot-pipeline-approvals-setup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot pipeline approvals guide -This guide explains how to enable pipeline approvals, what they do, and how to configure them so only a...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tribecrm.eu  
-   Link: <a href="https://tribecrm.eu/blog/how-to-implement-crm-software/" target="_blank" rel="noopener noreferrer nofollow">https://tribecrm.eu/blog/how-to-implement-crm-software/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Implement CRM Software for Your BusinessFor an SME with 10 to 50 users, a realistic implementation timeline is 2 to 6 weeks depend...</p></details>
+   Link:<a href="https://tribecrm.eu/blog/how-to-implement-crm-software/" target="_blank" rel="noopener noreferrer nofollow">https://tribecrm.eu/blog/how-to-implement-crm-software/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Implement CRM Software for Your BusinessFor an SME with 10 to 50 users, a realistic implementation timeline is 2 to 6 weeks depend...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/best-practices-crm-onboarding-satuit-technologies-a8omc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/best-practices-crm-onboarding-satuit-technologies-a8omc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/best-practices-crm-onboarding-satuit-technologies-a8omc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/best-practices-crm-onboarding-satuit-technologies-a8omc</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NhrROpccRsw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NhrROpccRsw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STOP Data Breaches: How To Set Up HubSpot User...In this [video](&amp;#123;&amp;#123; &#x27;video/&#x27; | relative_url &amp;#125;&amp;#125;), we break down exactly how the HubSpot user permission system works and t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NhrROpccRsw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NhrROpccRsw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STOP Data Breaches: How To Set Up HubSpot User...In this [video](&amp;#123;&amp;#123; &#x27;video/&#x27; | relative_url &amp;#125;&amp;#125;), we break down exactly how the HubSpot user permission system works and t...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: prospectsoft.com  
    Title: 8 CRM Setup Best Practices for Maximum ROI8 Best Practices for CRM Setup · 1  
-   Link: <a href="https://www.prospectsoft.com/resources/blog/8-best-practices-for-crm-setup/" target="_blank" rel="noopener noreferrer nofollow">https://www.prospectsoft.com/resources/blog/8-best-practices-for-crm-setup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outline your goals · 2. Engage with Onboarding · 3. Take advantage of automation · 4. Integrate with your back-office systems · 5...</p></details>
+   Link:<a href="https://www.prospectsoft.com/resources/blog/8-best-practices-for-crm-setup/" target="_blank" rel="noopener noreferrer nofollow">https://www.prospectsoft.com/resources/blog/8-best-practices-for-crm-setup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outline your goals · 2. Engage with Onboarding · 3. Take advantage of automation · 4. Integrate with your back-office systems · 5...</p></details>

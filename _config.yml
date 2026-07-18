@@ -9,12 +9,15 @@ lang: 'en'
 locale: 'en'
 text_direction: 'ltr'
 direction: 'ltr'
-visual_profile: 'atlas'
-layout_archetype: 'atlas'
-visual_palette: 'signal-cobalt'
-visual_motif: 'constellation'
-font_heading: 'Space Grotesk'
-font_body: 'Source Serif 4'
+visual_profile: 'editorial'
+site_visual_identity: 'editorial-atlas'
+site_visual_identity_source: 'local_inference'
+site_visual_identity_confidence: 'medium'
+layout_archetype: 'compact-grid'
+visual_palette: 'forge-slate'
+visual_motif: 'horizon'
+font_heading: 'Manrope'
+font_body: 'Merriweather'
 appearance_menu_enabled: true
 appearance_menu_default_open: false
 appearance_toast_ms: 5000
@@ -24,7 +27,7 @@ appearance_color_default: 'dark'
 mobile_layout_mode: 'article-first'
 mobile_sidebar_mode: 'collapsible'
 mobile_sidebar_default: 'closed'
-endnotes_mode: 'auto'
+endnotes_mode: 'collapsed'
 endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
@@ -36,7 +39,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1782555590'
+ui_bundle_version: 'build-1784397439'
 google_site_verification: ''
 draft_noindex: false
 theme: minima

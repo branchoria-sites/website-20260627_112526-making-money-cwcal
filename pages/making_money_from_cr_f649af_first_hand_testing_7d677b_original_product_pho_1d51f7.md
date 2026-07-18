@@ -284,7 +284,7 @@ Original product photographs are one of the clearest ways an affiliate review ca
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_original_product_pho_1d51f7-Illustration-1-dark.svg" | relative_url }}" alt="Real Photos illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_original_product_pho_1d51f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_original_product_pho_1d51f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Google's guidance for high-quality product [reviews]({{ 'reviews/' | relative_url }}) specifically encourages reviewers to provide [evidence]({{ 'evidence/' | relative_url }}) of first-hand experience, including original photographs and other original content that helps readers understand how a product performs in real use rather than simply repeating manufacturer information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/merchants/answer/6098512?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Product rating policies</span><span class="citation-popover-snippet">Google HelpProduct rating policies - Google Merchant Center HelpOur product rating policies are in place to prevent fraudulent, irrelevan...</span></span></span>
+Google's guidance for high-quality product [reviews]({{ 'reviews/' | relative_url }}) specifically encourages reviewers to provide [evidence]({{ 'evidence/' | relative_url }}) of first-hand experience, including original photographs and other original content that helps readers understand how a product performs in real use rather than simply repeating manufacturer information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/merchants/answer/6098512?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Product rating policies</span><span class="citation-popover-snippet">Google HelpProduct rating policies - Google Merchant Center HelpOur product rating policies are in place to prevent fraudulent, irrelevan...</span></span></span>
 
 ## Why original images build more trust than manufacturer photos
 
@@ -478,7 +478,7 @@ This combination tells a complete ownership story.
 
 By contrast, ten nearly identical promotional-style angles add little value because they repeat information rather than answering additional questions.
 
-Research into online reviews consistently finds that user-generated photographs increase perceived credibility and helpfulness, particularly when they depict products being used rather than simply displayed. Multiple complementary images also tend to be more useful than a single photograph because they reduce uncertainty from different angles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reviewdriver.com/article/how-important-are-photos-in-customer-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reviewdriver.com">[reviewdriver.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reviewdriver.com</span><span class="citation-popover-snippet">The Impact of Visual Reviews on Online Shopping DecisionsSeptember 22, 2025 — Reviews with photos tend to carry more weight in purchase d...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
+Research into online reviews consistently finds that user-generated photographs increase perceived credibility and helpfulness, particularly when they depict products being used rather than simply displayed. Multiple complementary images also tend to be more useful than a single photograph because they reduce uncertainty from different angles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reviewdriver.com/article/how-important-are-photos-in-customer-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reviewdriver.com">[reviewdriver.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reviewdriver.com</span><span class="citation-popover-snippet">The Impact of Visual Reviews on Online Shopping DecisionsSeptember 22, 2025 — Reviews with photos tend to carry more weight in purchase d...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AWQ1RNbYY2Q" title="How I Filmed B-Roll for a Product Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AWQ1RNbYY2Q" target="_blank" rel="noopener noreferrer">How I Filmed B-Roll for a Product Review</a></p><p class="youtube-embed-meta">Channel: Jason Yadlovski</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AWQ1RNbYY2Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AWQ1RNbYY2Q">Open on YouTube</a></p></div></div></div>
@@ -509,197 +509,197 @@ None of these prove a reviewer lacks first-hand experience individually, but tog
 
 Original images do not remove the need for clear affiliate disclosures, but they complement transparent reviewing practices. When readers can see genuine evidence of ownership alongside honest discussion of strengths and weaknesses, the review becomes more credible than one built entirely from marketing assets.
 
-Regulators have increasingly focused on authentic endorsements, genuine reviews, and transparent commercial relationships. Demonstrating real experience through original photography supports the broader principle that recommendations should reflect genuine use rather than manufactured impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</span></span></span>
+Regulators have increasingly focused on authentic endorsements, genuine reviews, and transparent commercial relationships. Demonstrating real experience through original photography supports the broader principle that recommendations should reflect genuine use rather than manufactured impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Photos That Make Product Reviews Believable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Photos That Make Product Reviews Believable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Read This if You Want to Take Great Photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p_UgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Read This if You Want to Take Great Photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Read This if You Want to Take Great Photographs">Read This if You Want to Take Great Photographs</a>
-        </h4>
-        <p class="fr-book-author">By Henry Carroll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Read This if You Want to Take Great Photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p_UgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Read This if You Want to Take Great Photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Read This if You Want to Take Great Photographs">Read This if You Want to Take Great Photographs</a>
+</h4>
+<p class="fr-book-author">By Henry Carroll</p>
         
-        <p class="fr-book-desc">Improves the practical photography skills needed to create convincing original product images.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Improves the practical photography skills needed to create convincing original product images.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Copywriter&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q0JZm4Qu8R0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Copywriter&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Copywriter&#x27;s Handbook">The Copywriter&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Robert W. Bly</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Provides practical guidance on writing persuasive, evidence-based product copy without sacrificing credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Copywriter&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q0JZm4Qu8R0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Copywriter&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Copywriter&#x27;s Handbook">The Copywriter&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Robert W. Bly</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Provides practical guidance on writing persuasive, evidence-based product copy without sacrificing credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+product+manager%27s+survival+guide+Steven+Haines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The product manager&#x27;s survival guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13536154-M.jpg" alt="Cover for The product manager&#x27;s survival guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+product+manager%27s+survival+guide+Steven+Haines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The product manager&#x27;s survival guide">The product manager&#x27;s survival guide</a>
-        </h4>
-        <p class="fr-book-author">By Steven Haines</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+product+manager%27s+survival+guide+Steven+Haines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The product manager&#x27;s survival guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13536154-M.jpg" alt="Cover for The product manager&#x27;s survival guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+product+manager%27s+survival+guide+Steven+Haines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The product manager&#x27;s survival guide">The product manager&#x27;s survival guide</a>
+</h4>
+<p class="fr-book-author">By Steven Haines</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Product management, New products.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+product+manager%27s+survival+guide+Steven+Haines&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Product management, New products.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+product+manager%27s+survival+guide+Steven+Haines&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=How+to+shoot+video+that+doesn%27t+suck+Steve+Stockman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to shoot video that doesn&#x27;t suck on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+shoot+video+that+doesn%27t+suck+Steve+Stockman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to shoot video that doesn&#x27;t suck">How to shoot video that doesn&#x27;t suck</a>
-        </h4>
-        <p class="fr-book-author">By Steve Stockman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=How+to+shoot+video+that+doesn%27t+suck+Steve+Stockman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to shoot video that doesn&#x27;t suck on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+shoot+video+that+doesn%27t+suck+Steve+Stockman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to shoot video that doesn&#x27;t suck">How to shoot video that doesn&#x27;t suck</a>
+</h4>
+<p class="fr-book-author">By Steve Stockman</p>
         
-        <p class="fr-book-desc">Complements original product photography by improving first-hand visual evidence through review video production.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+shoot+video+that+doesn%27t+suck+Steve+Stockman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Complements original product photography by improving first-hand visual evidence through review video production.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+shoot+video+that+doesn%27t+suck+Steve+Stockman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Read This if You Want to Take Great Photographs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Copywriter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Copywriter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+product+manager%27s+survival+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The product manager&#x27;s survival books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Read This if You Want to Take Great Photographs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Copywriter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Copywriter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+product+manager%27s+survival+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The product manager&#x27;s survival books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b0ee76e0b81d3bc1f511.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b0ee76e0b81d3bc1f511.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/824ec0ed09e82ffcc375.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/824ec0ed09e82ffcc375.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b717c57f4f0c6262ef10.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b717c57f4f0c6262ef10.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="real-photos-photos-that-make-product-reviews-believable-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -715,7 +715,7 @@ Regulators have increasingly focused on authentic endorsements, genuine reviews,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -735,7 +735,7 @@ Regulators have increasingly focused on authentic endorsements, genuine reviews,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -767,7 +767,7 @@ Regulators have increasingly focused on authentic endorsements, genuine reviews,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -819,7 +819,7 @@ Regulators have increasingly focused on authentic endorsements, genuine reviews,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -864,7 +864,7 @@ Regulators have increasingly focused on authentic endorsements, genuine reviews,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -905,85 +905,85 @@ Regulators have increasingly focused on authentic endorsements, genuine reviews,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: support.google.com  
    Title: Help Product rating policies  
-   Link: <a href="https://support.google.com/merchants/answer/6098512?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/6098512?hl=en-GB</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpProduct rating policies - Google Merchant Center HelpOur product rating policies are in place to prevent fraudulent, irrelevan...</p></details>
+   Link:<a href="https://support.google.com/merchants/answer/6098512?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/6098512?hl=en-GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpProduct rating policies - Google Merchant Center HelpOur product rating policies are in place to prevent fraudulent, irrelevan...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reviewdriver.com  
-   Link: <a href="https://www.reviewdriver.com/article/how-important-are-photos-in-customer-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.reviewdriver.com/article/how-important-are-photos-in-customer-reviews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Visual Reviews on Online Shopping DecisionsSeptember 22, 2025 — Reviews with photos tend to carry more weight in purchase d...</p></details>
+   Link:<a href="https://www.reviewdriver.com/article/how-important-are-photos-in-customer-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.reviewdriver.com/article/how-important-are-photos-in-customer-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Visual Reviews on Online Shopping DecisionsSeptember 22, 2025 — Reviews with photos tend to carry more weight in purchase d...</p></details>
    Published: September 22, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: reviews guidance for businesses and agencies  
-   Link: <a href="https://www.gov.uk/government/publications/reviews-and-social-media-endorsements-guidance-for-businesses-and-brands/reviews-guidance-for-businesses-and-agencies" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/reviews-and-social-media-endorsements-guidance-for-businesses-and-brands/reviews-guidance-for-businesses-and-agencies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.gov.ukReviews: guidance for businesses and agencies28 Aug 2025 — This is a short guide to what you need to do to stay on the right si...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/reviews-and-social-media-endorsements-guidance-for-businesses-and-brands/reviews-guidance-for-businesses-and-agencies" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/reviews-and-social-media-endorsements-guidance-for-businesses-and-brands/reviews-guidance-for-businesses-and-agencies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.gov.ukReviews: guidance for businesses and agencies28 Aug 2025 — This is a short guide to what you need to do to stay on the right si...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dglaw.com  
-   Link: <a href="https://www.dglaw.com/the-deep-dive-ftc-[updates" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/the-deep-dive-ftc-[updates</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Deep Dive: FTC Updates Endorsement Guides...11 Jul 2023 — FTC recommends including audio and visual disclosures if the endorsement i...</p></details>
+   Link:<a href="https://www.dglaw.com/the-deep-dive-ftc-[updates" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/the-deep-dive-ftc-[updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Deep Dive: FTC Updates Endorsement Guides...11 Jul 2023 — FTC recommends including audio and visual disclosures if the endorsement i...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arnoldporter.com  
    Title: ftc proposed updates to endorsement guides  
-   Link: <a href="https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and.com...6 Jun 2022 — The FTC&#x27;s proposed revisions to the Endorsement Guides and.com Disclosures guidance reflect heightened scrutiny...</p></details>
+   Link:<a href="https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and.com...6 Jun 2022 — The FTC&#x27;s proposed revisions to the Endorsement Guides and.com Disclosures guidance reflect heightened scrutiny...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: How can you trust product reviews on You Tube and online?  
-   Link: <a href="https://www.youtube.com/watch?v=J73vs63WERE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J73vs63WERE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google product reviews update original photos first hand evidence A Glitch In The Matrix Caught On Camera At Disneyland #shorts Nostalgia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J73vs63WERE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J73vs63WERE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google product reviews update original photos first hand evidence A Glitch In The Matrix Caught On Camera At Disneyland #shorts Nostalgia...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: asa.org.uk  
    Title: testimonials and endorsements  
-   Link: <a href="https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Apr 2025 — Marketers must hold documentary evidence to show that a testimonial or endorsement used in a marketing communication is gen...</p></details>
+   Link:<a href="https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>22 Apr 2025 — Marketers must hold documentary evidence to show that a testimonial or endorsement used in a marketing communication is gen...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wsgrdataadvisor.com  
    Title: What's in a Review?  
-   Link: <a href="https://www.wsgrdataadvisor.com/2023/07/whats-in-a-review-the-ftcs-updated-endorsement-guides-and-proposed-new-rule-on-consumer-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsgrdataadvisor.com/2023/07/whats-in-a-review-the-ftcs-updated-endorsement-guides-and-proposed-new-rule-on-consumer-reviews/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The FTC&#x27;s Updated Endorsement Guides...6 Jul 2023 — The FTC&#x27;s Endorsement Guides (Guides) provide advice on how to comply with the FTC A...</p></details>
+   Link:<a href="https://www.wsgrdataadvisor.com/2023/07/whats-in-a-review-the-ftcs-updated-endorsement-guides-and-proposed-new-rule-on-consumer-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsgrdataadvisor.com/2023/07/whats-in-a-review-the-ftcs-updated-endorsement-guides-and-proposed-new-rule-on-consumer-reviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FTC&#x27;s Updated Endorsement Guides...6 Jul 2023 — The FTC&#x27;s Endorsement Guides (Guides) provide advice on how to comply with the FTC A...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8294234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8294234/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reviews on online platforms: perspectives from the US...by JMM Otero · 2021 · Cited by 41 — This paper aims (1) to analyse whether and h...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8294234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8294234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reviews on online platforms: perspectives from the US...by JMM Otero · 2021 · Cited by 41 — This paper aims (1) to analyse whether and h...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Tips for Writing Compelling Affiliate Product Reviews  
-   Link: <a href="https://www.youtube.com/watch?v=ilQ0RuQD2wo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ilQ0RuQD2wo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simple Tips &amp; Tricks for Great Product Photography...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ilQ0RuQD2wo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ilQ0RuQD2wo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simple Tips &amp; Tricks for Great Product Photography...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Simple Tips & Tricks for Great Product Photography  
-   Link: <a href="https://www.youtube.com/watch?v=qayrbHudtn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qayrbHudtn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How I Filmed B-Roll for a Product Review...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qayrbHudtn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qayrbHudtn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How I Filmed B-Roll for a Product Review...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How to make Product Review Videos  
-   Link: <a href="https://www.youtube.com/watch?v=K1uKF-4mXls" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K1uKF-4mXls</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How can you trust product reviews on YouTube and online?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K1uKF-4mXls" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K1uKF-4mXls</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How can you trust product reviews on YouTube and online?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How I Filmed B-Roll for a Product Review  
-   Link: <a href="https://www.youtube.com/watch?v=AWQ1RNbYY2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AWQ1RNbYY2Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to make Product Review Videos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AWQ1RNbYY2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AWQ1RNbYY2Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to make Product Review Videos...</p></details>

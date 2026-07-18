@@ -278,7 +278,7 @@ The lowest advertised price is rarely the lowest [long-term]({{ 'long-term/' | r
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8-Illustration-1-dark.svg" | relative_url }}" alt="Plan Limits illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Many subscription products deliberately separate price from value by limiting users, projects, storage, traffic, automations, support, or [integrations]({{ 'integrations/' | relative_url }}). These limits are not inherently deceptive—they often reflect genuine cost differences—but they can completely change which plan represents the best value for a particular buyer. Modern SaaS pricing increasingly combines tiered [subscriptions]({{ 'subscriptions/' | relative_url }}) with usage-based limits and add-ons, making it more important than ever to compare what each plan actually allows rather than simply comparing monthly prices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stripe.com/resources/more/saas-pricing-and-packaging-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stripe.com">[Stripe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stripe.com</span><span class="citation-popover-title">A Guide to Saa S Pricing and Packaging</span><span class="citation-popover-snippet">A Guide to SaaS Pricing and Packaging - BillingApril 6, 2026 — 7 Apr 2026 — Here&#x27;s a guide to SaaS value metrics, pricing models, t...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
+Many subscription products deliberately separate price from value by limiting users, projects, storage, traffic, automations, support, or [integrations]({{ 'integrations/' | relative_url }}). These limits are not inherently deceptive—they often reflect genuine cost differences—but they can completely change which plan represents the best value for a particular buyer. Modern SaaS pricing increasingly combines tiered [subscriptions]({{ 'subscriptions/' | relative_url }}) with usage-based limits and add-ons, making it more important than ever to compare what each plan actually allows rather than simply comparing monthly prices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stripe.com/resources/more/saas-pricing-and-packaging-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stripe.com">[Stripe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stripe.com</span><span class="citation-popover-title">A Guide to Saa S Pricing and Packaging</span><span class="citation-popover-snippet">A Guide to SaaS Pricing and Packaging - BillingApril 6, 2026 — 7 Apr 2026 — Here&#x27;s a guide to SaaS value metrics, pricing models, t...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
 
 For affiliate comparison pages, explaining these practical limits is often more valuable than highlighting a temporary discount. It helps readers avoid buying the wrong plan and builds trust that can produce better long-term conversions.
 
@@ -305,7 +305,7 @@ Common limits include:
 
 These restrictions matter because many customers outgrow them sooner than expected. A freelancer launching one website may comfortably fit within an entry-level hosting or SEO plan, but adding client projects can quickly require an upgrade. Likewise, a content creator may discover that video storage, image libraries, or monthly bandwidth become the real cost driver rather than the subscription fee itself.
 
-Many SaaS companies intentionally design pricing around these growth points. Tiered plans frequently combine feature differences with usage limits so customers can expand naturally as their needs increase. That approach can be entirely reasonable, provided the upgrade path and limits are clearly explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stripe.com/resources/more/saas-pricing-and-packaging-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stripe.com">[Stripe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stripe.com</span><span class="citation-popover-title">A Guide to Saa S Pricing and Packaging</span><span class="citation-popover-snippet">A Guide to SaaS Pricing and Packaging - BillingApril 6, 2026 — 7 Apr 2026 — Here&#x27;s a guide to SaaS value metrics, pricing models, t...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
+Many SaaS companies intentionally design pricing around these growth points. Tiered plans frequently combine feature differences with usage limits so customers can expand naturally as their needs increase. That approach can be entirely reasonable, provided the upgrade path and limits are clearly explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stripe.com/resources/more/saas-pricing-and-packaging-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stripe.com">[Stripe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stripe.com</span><span class="citation-popover-title">A Guide to Saa S Pricing and Packaging</span><span class="citation-popover-snippet">A Guide to SaaS Pricing and Packaging - BillingApril 6, 2026 — 7 Apr 2026 — Here&#x27;s a guide to SaaS value metrics, pricing models, t...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
 
 ## User, Project, Storage and Usage Caps That Matter Most
 
@@ -315,7 +315,7 @@ For comparison websites aimed at affiliate buyers, not every plan limit deserves
 
 Per-user pricing is common in collaboration software, CRM systems, project management tools and design platforms.
 
-A plan that looks inexpensive for a solo business may become significantly more expensive once a team of five or ten people needs access. Some services also distinguish between different seat types, meaning collaborators, developers and administrators may each be priced differently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stigg.io/blog-posts/7-great-saas-pricing-page-examples-and-why-they-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stigg.io">[stigg.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stigg.io</span><span class="citation-popover-title">7 great saas pricing page examples and why they work</span><span class="citation-popover-snippet">25 SaaS pricing page examples that make complex...10 Mar 2026 — How do top SaaS companies structure pricing pages for multiple tiers, us...</span></span></span>
+A plan that looks inexpensive for a solo business may become significantly more expensive once a team of five or ten people needs access. Some services also distinguish between different seat types, meaning collaborators, developers and administrators may each be priced differently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stigg.io/blog-posts/7-great-saas-pricing-page-examples-and-why-they-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stigg.io">[stigg.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stigg.io</span><span class="citation-popover-title">7 great saas pricing page examples and why they work</span><span class="citation-popover-snippet">25 SaaS pricing page examples that make complex...10 Mar 2026 — How do top SaaS companies structure pricing pages for multiple tiers, us...</span></span></span>
 
 Instead of asking:
 
@@ -384,7 +384,7 @@ Examples include:
 
 </div>
 
-Usage-based elements better align pricing with customer value, but they also make comparison pages more important because two similarly priced plans may support vastly different workloads. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stripe.com/resources/more/saas-pricing-and-packaging-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stripe.com">[Stripe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stripe.com</span><span class="citation-popover-title">A Guide to Saa S Pricing and Packaging</span><span class="citation-popover-snippet">A Guide to SaaS Pricing and Packaging - BillingApril 6, 2026 — 7 Apr 2026 — Here&#x27;s a guide to SaaS value metrics, pricing models, t...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
+Usage-based elements better align pricing with customer value, but they also make comparison pages more important because two similarly priced plans may support vastly different workloads.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stripe.com/resources/more/saas-pricing-and-packaging-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stripe.com">[Stripe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stripe.com</span><span class="citation-popover-title">A Guide to Saa S Pricing and Packaging</span><span class="citation-popover-snippet">A Guide to SaaS Pricing and Packaging - BillingApril 6, 2026 — 7 Apr 2026 — Here&#x27;s a guide to SaaS value metrics, pricing models, t...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3x-44lDEIS4" title="How To Choose The Best Web Hosting in 2026 🏆💸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3x-44lDEIS4" target="_blank" rel="noopener noreferrer">How To Choose The Best Web Hosting in 2026 🏆💸</a></p><p class="youtube-embed-meta">Channel: NERD UP</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3x-44lDEIS4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3x-44lDEIS4">Open on YouTube</a></p></div></div></div>
@@ -405,7 +405,7 @@ Frequently gated features include:
 * team permissions;
 * audit logs;
 * priority support;
-* advanced security features; <span class="citation-chip-wrap"><a class="citation-chip" href="https://atticusli.com/blog/posts/how-to-use-price-anchoring-on-saas-pricing-pages-without-tricking-buyers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atticusli.com">[atticusli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atticusli.com</span><span class="citation-popover-snippet">How To Use Price Anchoring On SaaS Pricing Pages...7 Apr 2026 — Storage limits, user seats, and advanced features work...</span></span></span>
+* advanced security features;<span class="citation-chip-wrap"><a class="citation-chip" href="https://atticusli.com/blog/posts/how-to-use-price-anchoring-on-saas-pricing-pages-without-tricking-buyers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atticusli.com">[atticusli.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atticusli.com</span><span class="citation-popover-snippet">How To Use Price Anchoring On SaaS Pricing Pages...7 Apr 2026 — Storage limits, user seats, and advanced features work...</span></span></span>
 * API access;
 * white-label branding.
 
@@ -415,7 +415,7 @@ Not every missing feature matters equally.
 
 For example, enterprise security features such as single sign-on or audit logging may be irrelevant for an individual affiliate blogger but essential for a large agency. Conversely, removing API access from lower plans may prevent automation that smaller businesses expected to use.
 
-Current guidance on SaaS pricing recommends reserving specialist enterprise capabilities for higher tiers while avoiding restrictions that block customers from experiencing the product's core value. Excessively aggressive feature gating can increase customer frustration rather than encouraging healthy upgrades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stripe.com/resources/more/saas-pricing-and-packaging-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stripe.com">[Stripe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stripe.com</span><span class="citation-popover-title">A Guide to Saa S Pricing and Packaging</span><span class="citation-popover-snippet">A Guide to SaaS Pricing and Packaging - BillingApril 6, 2026 — 7 Apr 2026 — Here&#x27;s a guide to SaaS value metrics, pricing models, t...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
+Current guidance on SaaS pricing recommends reserving specialist enterprise capabilities for higher tiers while avoiding restrictions that block customers from experiencing the product's core value. Excessively aggressive feature gating can increase customer frustration rather than encouraging healthy upgrades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stripe.com/resources/more/saas-pricing-and-packaging-strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stripe.com">[Stripe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stripe.com</span><span class="citation-popover-title">A Guide to Saa S Pricing and Packaging</span><span class="citation-popover-snippet">A Guide to SaaS Pricing and Packaging - BillingApril 6, 2026 — 7 Apr 2026 — Here&#x27;s a guide to SaaS value metrics, pricing models, t...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8-Illustration-3-dark.svg" | relative_url }}" alt="Plan Limits illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -461,178 +461,178 @@ Explaining plan limits also reduces the likelihood of disappointed referrals. A 
 Rather than presenting the cheapest option as the default recommendation, effective comparison pages show where each plan stops being the best value. That shift—from comparing prices to comparing practical limits—is often what separates genuinely helpful affiliate content from pages that merely repeat pricing tables.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Cheap Plans Stop Being Cheap. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Cheap Plans Stop Being Cheap. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
-        </h4>
-        <p class="fr-book-author">By April Dunford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
+</h4>
+<p class="fr-book-author">By April Dunford</p>
         
-        <p class="fr-book-desc">Provides context for choosing the right product tier based on customer needs and use cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for choosing the right product tier based on customer needs and use cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+personal+MBA+Josh+Kaufman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The personal MBA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713257-M.jpg" alt="Cover for The personal MBA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+personal+MBA+Josh+Kaufman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The personal MBA">The personal MBA</a>
-        </h4>
-        <p class="fr-book-author">By Josh Kaufman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+personal+MBA+Josh+Kaufman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The personal MBA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713257-M.jpg" alt="Cover for The personal MBA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+personal+MBA+Josh+Kaufman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The personal MBA">The personal MBA</a>
+</h4>
+<p class="fr-book-author">By Josh Kaufman</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Commerce, Management, Study and teaching, Business, MBA.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+personal+MBA+Josh+Kaufman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Commerce, Management, Study and teaching, Business, MBA.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+personal+MBA+Josh+Kaufman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+SaaS+Playbook+Rob+Walling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The SaaS Playbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14624002-M.jpg" alt="Cover for The SaaS Playbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+SaaS+Playbook+Rob+Walling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The SaaS Playbook">The SaaS Playbook</a>
-        </h4>
-        <p class="fr-book-author">By Rob Walling, Jessie Kwak et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+SaaS+Playbook+Rob+Walling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The SaaS Playbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14624002-M.jpg" alt="Cover for The SaaS Playbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+SaaS+Playbook+Rob+Walling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The SaaS Playbook">The SaaS Playbook</a>
+</h4>
+<p class="fr-book-author">By Rob Walling, Jessie Kwak et al.</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Business.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+SaaS+Playbook+Rob+Walling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Business.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+SaaS+Playbook+Rob+Walling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monetizing+Innovation+Georg+Tacke+Madhavan+Ramanujam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monetizing Innovation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11318258-M.jpg" alt="Cover for Monetizing Innovation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monetizing+Innovation+Georg+Tacke+Madhavan+Ramanujam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monetizing Innovation">Monetizing Innovation</a>
-        </h4>
-        <p class="fr-book-author">By Georg Tacke Madhavan Ramanujam, Darren Stephens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Monetizing+Innovation+Georg+Tacke+Madhavan+Ramanujam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monetizing Innovation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11318258-M.jpg" alt="Cover for Monetizing Innovation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Monetizing+Innovation+Georg+Tacke+Madhavan+Ramanujam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monetizing Innovation">Monetizing Innovation</a>
+</h4>
+<p class="fr-book-author">By Georg Tacke Madhavan Ramanujam, Darren Stephens</p>
         
-        <p class="fr-book-desc">First published 2016.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monetizing+Innovation+Georg+Tacke+Madhavan+Ramanujam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Monetizing+Innovation+Georg+Tacke+Madhavan+Ramanujam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The personal MBA</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+SaaS+Playbook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The SaaS Playbook</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The personal MBA</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+SaaS+Playbook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The SaaS Playbook</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alraia Lilmaia Tapestry A3 PS5 Switch Software God Box Collectible"><img src="{{ '/assets/images/marketplace-covers/fda1fc87088f80d8664c.jpg' | relative_url }}" alt="Listing image for Alraia Lilmaia Tapestry A3 PS5 Switch Software God Box Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alraia Lilmaia Tapestry A3 PS5 Switch Software God Box Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software box collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: software box collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alraia Lilmaia Tapestry A3 PS5 Switch Software God Box Collectible"><img src="{{ '/assets/images/marketplace-covers/fda1fc87088f80d8664c.jpg' | relative_url }}" alt="Listing image for Alraia Lilmaia Tapestry A3 PS5 Switch Software God Box Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alraia Lilmaia Tapestry A3 PS5 Switch Software God Box Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software box collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: software box collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Capcom Belt Action Collection Box Only No Game Software Japan Collectible Rare"><img src="{{ '/assets/images/marketplace-covers/95edfb69886802aede05.jpg' | relative_url }}" alt="Listing image for Capcom Belt Action Collection Box Only No Game Software Japan Collectible Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Capcom Belt Action Collection Box Only No Game Software Japan Collectible Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software box collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: software box collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Capcom Belt Action Collection Box Only No Game Software Japan Collectible Rare"><img src="{{ '/assets/images/marketplace-covers/95edfb69886802aede05.jpg' | relative_url }}" alt="Listing image for Capcom Belt Action Collection Box Only No Game Software Japan Collectible Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Capcom Belt Action Collection Box Only No Game Software Japan Collectible Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software box collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: software box collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for God Box B2 Tapestry for PS5 Switch Software Mythology of Cube Collectible"><img src="{{ '/assets/images/marketplace-covers/c1eeb6033ace4f22b1c0.jpg' | relative_url }}" alt="Listing image for God Box B2 Tapestry for PS5 Switch Software Mythology of Cube Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">God Box B2 Tapestry for PS5 Switch Software Mythology of Cube Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software box collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: software box collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for God Box B2 Tapestry for PS5 Switch Software Mythology of Cube Collectible"><img src="{{ '/assets/images/marketplace-covers/c1eeb6033ace4f22b1c0.jpg' | relative_url }}" alt="Listing image for God Box B2 Tapestry for PS5 Switch Software Mythology of Cube Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">God Box B2 Tapestry for PS5 Switch Software Mythology of Cube Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software box collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: software box collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+box+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software box collectible -book -books" data-ebay-reference="plan-limits-when-cheap-plans-stop-being-cheap-making-money-from-software-box-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -648,7 +648,7 @@ Rather than presenting the cheapest option as the default recommendation, effect
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -668,7 +668,7 @@ Rather than presenting the cheapest option as the default recommendation, effect
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -700,7 +700,7 @@ Rather than presenting the cheapest option as the default recommendation, effect
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -752,7 +752,7 @@ Rather than presenting the cheapest option as the default recommendation, effect
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -797,7 +797,7 @@ Rather than presenting the cheapest option as the default recommendation, effect
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -838,72 +838,72 @@ Rather than presenting the cheapest option as the default recommendation, effect
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: stripe.com  
    Title: A Guide to Saa S Pricing and Packaging  
-   Link: <a href="https://stripe.com/resources/more/saas-pricing-and-packaging-strategy" target="_blank" rel="noopener noreferrer nofollow">https://stripe.com/resources/more/saas-pricing-and-packaging-strategy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to SaaS Pricing and Packaging - BillingApril 6, 2026 — 7 Apr 2026 — Here&#x27;s a guide to SaaS value metrics, pricing models, t...</p></details>
+   Link:<a href="https://stripe.com/resources/more/saas-pricing-and-packaging-strategy" target="_blank" rel="noopener noreferrer nofollow">https://stripe.com/resources/more/saas-pricing-and-packaging-strategy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to SaaS Pricing and Packaging - BillingApril 6, 2026 — 7 Apr 2026 — Here&#x27;s a guide to SaaS value metrics, pricing models, t...</p></details>
    Published: April 6, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: stigg.io  
    Title: 7 great saas pricing page examples and why they work  
-   Link: <a href="https://www.stigg.io/blog-posts/7-great-saas-pricing-page-examples-and-why-they-work" target="_blank" rel="noopener noreferrer nofollow">https://www.stigg.io/blog-posts/7-great-saas-pricing-page-examples-and-why-they-work</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25 SaaS pricing page examples that make complex...10 Mar 2026 — How do top SaaS companies structure pricing pages for multiple tiers, us...</p></details>
+   Link:<a href="https://www.stigg.io/blog-posts/7-great-saas-pricing-page-examples-and-why-they-work" target="_blank" rel="noopener noreferrer nofollow">https://www.stigg.io/blog-posts/7-great-saas-pricing-page-examples-and-why-they-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 SaaS pricing page examples that make complex...10 Mar 2026 — How do top SaaS companies structure pricing pages for multiple tiers, us...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cpl.thalesgroup.com  
-   Link: <a href="https://cpl.thalesgroup.com/software-monetization/saas-pricing-models-examples" target="_blank" rel="noopener noreferrer nofollow">https://cpl.thalesgroup.com/software-monetization/saas-pricing-models-examples</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thales Cyber Security8 Examples of SaaS Pricing Models to Drive Your SuccessHere are the eight SaaS pricing model examples to get you ins...</p></details>
+   Link:<a href="https://cpl.thalesgroup.com/software-monetization/saas-pricing-models-examples" target="_blank" rel="noopener noreferrer nofollow">https://cpl.thalesgroup.com/software-monetization/saas-pricing-models-examples</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thales Cyber Security8 Examples of SaaS Pricing Models to Drive Your SuccessHere are the eight SaaS pricing model examples to get you ins...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: atticusli.com  
-   Link: <a href="https://atticusli.com/blog/posts/how-to-use-price-anchoring-on-saas-pricing-pages-without-tricking-buyers/" target="_blank" rel="noopener noreferrer nofollow">https://atticusli.com/blog/posts/how-to-use-price-anchoring-on-saas-pricing-pages-without-tricking-buyers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Use Price Anchoring On SaaS Pricing Pages...7 Apr 2026 — Storage limits, user seats, and advanced features work...</p></details>
+   Link:<a href="https://atticusli.com/blog/posts/how-to-use-price-anchoring-on-saas-pricing-pages-without-tricking-buyers/" target="_blank" rel="noopener noreferrer nofollow">https://atticusli.com/blog/posts/how-to-use-price-anchoring-on-saas-pricing-pages-without-tricking-buyers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Use Price Anchoring On SaaS Pricing Pages...7 Apr 2026 — Storage limits, user seats, and advanced features work...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=McFoQctTXUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=McFoQctTXUQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Webinar 2 of 6: B2B SaaS Pricing ModelsIn this video, I explore effective pricing strategies, including flat rate, tiered, and usage-base...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=McFoQctTXUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=McFoQctTXUQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Webinar 2 of 6: B2B SaaS Pricing ModelsIn this video, I explore effective pricing strategies, including flat rate, tiered, and usage-base...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Best web hosting plan for business | How to Choose the Right Web Hosting Plan  
-   Link: <a href="https://www.youtube.com/watch?v=ylm183Nkixw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ylm183Nkixw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Saas tiered pricing models explained tiers limits 8 SaaS pricing models explained in under 3 minutes Binary Stream Software...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ylm183Nkixw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ylm183Nkixw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saas tiered pricing models explained tiers limits 8 SaaS pricing models explained in under 3 minutes Binary Stream Software...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: moesif.com  
-   Link: <a href="https://www.moesif.com/blog/technical/api-development/SaaS-Pricing-Models/" target="_blank" rel="noopener noreferrer nofollow">https://www.moesif.com/blog/technical/api-development/SaaS-Pricing-Models/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best SaaS Pricing Models: Strategies and Examples to...13 Jan 2025 — In this blog post, we&#x27;ll explore the best SaaS pricing models a...</p></details>
+   Link:<a href="https://www.moesif.com/blog/technical/api-development/SaaS-Pricing-Models/" target="_blank" rel="noopener noreferrer nofollow">https://www.moesif.com/blog/technical/api-development/SaaS-Pricing-Models/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Best SaaS Pricing Models: Strategies and Examples to...13 Jan 2025 — In this blog post, we&#x27;ll explore the best SaaS pricing models a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: smartsaas.works  
    Title: how to structure saas pricing tiers  
-   Link: <a href="https://smartsaas.works/blog/post/how-to-structure-saas-pricing-tiers/117" target="_blank" rel="noopener noreferrer nofollow">https://smartsaas.works/blog/post/how-to-structure-saas-pricing-tiers/117</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2025 — For example, a mid‐tier plan might specify a limit of 15 seats or a certain number of gigabytes, with transparent overage fees...</p></details>
+   Link:<a href="https://smartsaas.works/blog/post/how-to-structure-saas-pricing-tiers/117" target="_blank" rel="noopener noreferrer nofollow">https://smartsaas.works/blog/post/how-to-structure-saas-pricing-tiers/117</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2025 — For example, a mid‐tier plan might specify a limit of 15 seats or a certain number of gigabytes, with transparent overage fees...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: paddle.com  
    Title: saas pricing models strategies fltr  
-   Link: <a href="https://www.paddle.com/blog/saas-pricing-models-strategies-fltr" target="_blank" rel="noopener noreferrer nofollow">https://www.paddle.com/blog/saas-pricing-models-strategies-fltr</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SaaS Pricing Models and Strategies13 Mar 2026 — The free tier gets users in, and storage limits drive upgrades. Hybrid models. Most succe...</p></details>
+   Link:<a href="https://www.paddle.com/blog/saas-pricing-models-strategies-fltr" target="_blank" rel="noopener noreferrer nofollow">https://www.paddle.com/blog/saas-pricing-models-strategies-fltr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SaaS Pricing Models and Strategies13 Mar 2026 — The free tier gets users in, and storage limits drive upgrades. Hybrid models. Most succe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: chartmogul.com  
    Title: saas pricing models  
-   Link: <a href="https://chartmogul.com/blog/saas-pricing-models/" target="_blank" rel="noopener noreferrer nofollow">https://chartmogul.com/blog/saas-pricing-models/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A guide to SaaS pricing models30 Jan 2025 — We&#x27;ll walk you through today&#x27;s most popular SaaS pricing models and help you figure out which...</p></details>
+   Link:<a href="https://chartmogul.com/blog/saas-pricing-models/" target="_blank" rel="noopener noreferrer nofollow">https://chartmogul.com/blog/saas-pricing-models/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A guide to SaaS pricing models30 Jan 2025 — We&#x27;ll walk you through today&#x27;s most popular SaaS pricing models and help you figure out which...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3x-44lDEIS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3x-44lDEIS4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best web hosting plan for business | How to Choose the Right Web Hosting Plan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3x-44lDEIS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3x-44lDEIS4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best web hosting plan for business | How to Choose the Right Web Hosting Plan...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Hostinger Plans Explained — Understand Which Plan You Need  
-   Link: <a href="https://www.youtube.com/watch?v=Tc9dhYAVywE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tc9dhYAVywE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 SaaS pricing models explained in under 3 minutes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Tc9dhYAVywE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tc9dhYAVywE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 SaaS pricing models explained in under 3 minutes...</p></details>

@@ -371,7 +371,7 @@ Simple statements like these answer the questions readers actually have.
 
 Where affiliate links are also present, disclosures should distinguish between the source of the product and the way the website earns money. Receiving a review sample and earning affiliate commission are separate relationships, and readers benefit from understanding both.
 
-Regulators have consistently emphasised that material relationships capable of influencing credibility should be disclosed clearly and conspicuously. The US Federal Trade Commission's endorsement guidance similarly expects audiences to be informed about relationships that would not otherwise be obvious, including free products where relevant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionThe Consumer Reviews and Testimonials Rule: Questions...8 Nov 2024 — The rule prohibits businesses from implying...</span></span></span>
+Regulators have consistently emphasised that material relationships capable of influencing credibility should be disclosed clearly and conspicuously. The US Federal Trade Commission's endorsement guidance similarly expects audiences to be informed about relationships that would not otherwise be obvious, including free products where relevant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionThe Consumer Reviews and Testimonials Rule: Questions...8 Nov 2024 — The rule prohibits businesses from implying...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L2K0bblsdlk" title="The Fake Reviews Industrial Complex: Why Nothing You Read Is Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L2K0bblsdlk" target="_blank" rel="noopener noreferrer">The Fake Reviews Industrial Complex: Why Nothing You Read Is Real</a></p><p class="youtube-embed-meta">Channel: Logically Answered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L2K0bblsdlk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L2K0bblsdlk">Open on YouTube</a></p></div></div></div>
@@ -420,194 +420,194 @@ Over time, readers judge review sites less by whether every product was purchase
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Free Review Samples Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Free Review Samples Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Helps readers understand how incentives can influence published content and why transparency matters in reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how incentives can influence published content and why transparency matters in reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
-        </h4>
-        <p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
+</h4>
+<p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
         
-        <p class="fr-book-desc">Explains editorial independence, transparency, and ethical standards directly relevant to trustworthy product reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains editorial independence, transparency, and ethical standards directly relevant to trustworthy product reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Shows how credible, reader-focused content builds long-term trust rather than relying on promotional tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how credible, reader-focused content builds long-term trust rather than relying on promotional tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
-        </h4>
-        <p class="fr-book-author">By Andy Crestodina</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
+</h4>
+<p class="fr-book-author">By Andy Crestodina</p>
         
-        <p class="fr-book-desc">Provides practical guidance on creating authoritative web content that supports credibility and audience trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical guidance on creating authoritative web content that supports credibility and audience trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b717c57f4f0c6262ef10.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b717c57f4f0c6262ef10.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/824ec0ed09e82ffcc375.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/824ec0ed09e82ffcc375.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b0ee76e0b81d3bc1f511.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b0ee76e0b81d3bc1f511.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="free-samples-can-free-review-samples-be-trusted-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -623,7 +623,7 @@ Over time, readers judge review sites less by whether every product was purchase
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -643,7 +643,7 @@ Over time, readers judge review sites less by whether every product was purchase
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -675,7 +675,7 @@ Over time, readers judge review sites less by whether every product was purchase
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -727,7 +727,7 @@ Over time, readers judge review sites less by whether every product was purchase
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -772,7 +772,7 @@ Over time, readers judge review sites less by whether every product was purchase
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -813,74 +813,74 @@ Over time, readers judge review sites less by whether every product was purchase
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Consumer Reviews and Testimonials Rule: Questions...8 Nov 2024 — The rule prohibits businesses from implying...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Consumer Reviews and Testimonials Rule: Questions...8 Nov 2024 — The rule prohibits businesses from implying...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: Even without that condition,  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/soliciting-paying-online-reviews-guide-marketers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/soliciting-paying-online-reviews-guide-marketers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionSoliciting and Paying for Online Reviews: A Guide...25 Jan 2022 — If you offer an incentive for a review, don&#x27;t...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/soliciting-paying-online-reviews-guide-marketers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/soliciting-paying-online-reviews-guide-marketers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionSoliciting and Paying for Online Reviews: A Guide...25 Jan 2022 — If you offer an incentive for a review, don&#x27;t...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: law.stackexchange.com  
    Title: is it legal for businesses to give financial incentives for leaving positive rev  
-   Link: <a href="https://law.stackexchange.com/questions/110358/is-it-legal-for-businesses-to-give-financial-incentives-for-leaving-positive-rev" target="_blank" rel="noopener noreferrer nofollow">https://law.stackexchange.com/questions/110358/is-it-legal-for-businesses-to-give-financial-incentives-for-leaving-positive-rev</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>it legal for businesses to give financial incentives...20 Jul 2025 — Is it legal for businesses to give financial incentives for leaving...</p></details>
+   Link:<a href="https://law.stackexchange.com/questions/110358/is-it-legal-for-businesses-to-give-financial-incentives-for-leaving-positive-rev" target="_blank" rel="noopener noreferrer nofollow">https://law.stackexchange.com/questions/110358/is-it-legal-for-businesses-to-give-financial-incentives-for-leaving-positive-rev</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it legal for businesses to give financial incentives...20 Jul 2025 — Is it legal for businesses to give financial incentives for leaving...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bclplaw.com  
    Title: part 3 what the ftcs final rule means for incentivized reviews  
-   Link: <a href="https://www.bclplaw.com/en-US/events-insights-news/part-3-what-the-ftcs-final-rule-means-for-incentivized-reviews.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bclplaw.com/en-US/events-insights-news/part-3-what-the-ftcs-final-rule-means-for-incentivized-reviews.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Part 3: What the FTC&#x27;s final rule means for incentivized...9 Sept 2024 — The Final Rule prohibits businesses from providing compensation...</p></details>
+   Link:<a href="https://www.bclplaw.com/en-US/events-insights-news/part-3-what-the-ftcs-final-rule-means-for-incentivized-reviews.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bclplaw.com/en-US/events-insights-news/part-3-what-the-ftcs-final-rule-means-for-incentivized-reviews.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part 3: What the FTC&#x27;s final rule means for incentivized...9 Sept 2024 — The Final Rule prohibits businesses from providing compensation...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bhfs.com  
    Title: ftc finalizes rule to combat deceptive online reviews  
-   Link: <a href="https://www.bhfs.com/insight/ftc-finalizes-rule-to-combat-deceptive-online-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.bhfs.com/insight/ftc-finalizes-rule-to-combat-deceptive-online-reviews/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Aug 2024 — The new rule makes clear that businesses cannot offer compensation or incentives in exchange for reviews expressing a senti...</p></details>
+   Link:<a href="https://www.bhfs.com/insight/ftc-finalizes-rule-to-combat-deceptive-online-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.bhfs.com/insight/ftc-finalizes-rule-to-combat-deceptive-online-reviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28 Aug 2024 — The new rule makes clear that businesses cannot offer compensation or incentives in exchange for reviews expressing a senti...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/alvintxsmb/posts/1557795015631734/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/alvintxsmb/posts/1557795015631734/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>or reviews tied to a *specific sentiment*—whether that’s positive...</p></details>
+   Link:<a href="https://www.facebook.com/groups/alvintxsmb/posts/1557795015631734/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/alvintxsmb/posts/1557795015631734/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>or reviews tied to a *specific sentiment*—whether that’s positive...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nector.io  
    Title: incentivized reviews ftc guidelines  
-   Link: <a href="https://www.nector.io/blog/incentivized-reviews-ftc-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.nector.io/blog/incentivized-reviews-ftc-guidelines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Incentivized Reviews and FTC Guidelines7 Jul 2025 — Incentivized reviews are customer reviews where the reviewer receives a...</p></details>
+   Link:<a href="https://www.nector.io/blog/incentivized-reviews-ftc-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.nector.io/blog/incentivized-reviews-ftc-guidelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Incentivized Reviews and FTC Guidelines7 Jul 2025 — Incentivized reviews are customer reviews where the reviewer receives a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: yotpo.com  
    Title: incentivized reviews  
-   Link: <a href="https://www.yotpo.com/blog/incentivized-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.yotpo.com/blog/incentivized-reviews/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risks &amp; Best Practices24 Sept 2025 — Honest Opinions Required: You absolutely cannot condition the incentive on the review being positive...</p></details>
+   Link:<a href="https://www.yotpo.com/blog/incentivized-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.yotpo.com/blog/incentivized-reviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risks &amp; Best Practices24 Sept 2025 — Honest Opinions Required: You absolutely cannot condition the incentive on the review being positive...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Your Guide to Free Samples | Affiliate Marketing | Tik Tok Shop UK  
-   Link: <a href="https://www.youtube.com/watch?v=QpefR93MnH4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpefR93MnH4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Apply for Free Samples from Your TikTok Creator Shop...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QpefR93MnH4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpefR93MnH4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Apply for Free Samples from Your TikTok Creator Shop...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Fake Reviews Industrial Complex: Why Nothing You Read Is Real  
-   Link: <a href="https://www.youtube.com/watch?v=L2K0bblsdlk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L2K0bblsdlk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Create a Winning WordPress Affiliate Website In 15 Minutes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=L2K0bblsdlk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L2K0bblsdlk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Create a Winning WordPress Affiliate Website In 15 Minutes...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to Apply for Free Samples from Your Tik Tok Creator Shop  
-   Link: <a href="https://www.youtube.com/watch?v=phZiFCN1nZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=phZiFCN1nZQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Money Reviewing Products on [Amazon](&amp;#123;&amp;#123; &#x27;amazon/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=phZiFCN1nZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=phZiFCN1nZQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Money Reviewing Products on [Amazon](&amp;#123;&amp;#123; &#x27;amazon/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How to Make Money Reviewing Products on Amazon  
-   Link: <a href="https://www.youtube.com/watch?v=29OqJH72Zck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=29OqJH72Zck</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fake Reviews Industrial Complex: Why Nothing You Read Is Real...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=29OqJH72Zck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=29OqJH72Zck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fake Reviews Industrial Complex: Why Nothing You Read Is Real...</p></details>

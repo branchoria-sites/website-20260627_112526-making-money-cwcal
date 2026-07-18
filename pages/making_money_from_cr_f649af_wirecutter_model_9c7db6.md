@@ -445,7 +445,7 @@ Wirecutter is the clearest modern example of affiliate review publishing done as
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6-overview.webp" | relative_url }}" alt="Overview image for Wirecutter" loading="eager" decoding="sync" fetchpriority="high">
-Founded by Brian Lam in 2011 and later bought by The New York Times for a reported sum of more than $30 million, Wirecutter showed that product guidance could become a serious media business when readers believed the recommendations saved them time, reduced risk, and were not simply paid placements. Poynter described its appeal to the Times partly in commercial terms: Wirecutter made most of its money from affiliate-link fees at a time when publishers were searching for revenue beyond advertising. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/business-work/2016/why-the-new-york-times-is-buying-the-wirecutter-for-30-million/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">why the new york times is buying the wirecutter for 30 million</span><span class="citation-popover-snippet">why the new york times is buying the wirecutter for 30 million</span></span></span>
+Founded by Brian Lam in 2011 and later bought by The New York Times for a reported sum of more than $30 million, Wirecutter showed that product guidance could become a serious media business when readers believed the recommendations saved them time, reduced risk, and were not simply paid placements. Poynter described its appeal to the Times partly in commercial terms: Wirecutter made most of its money from affiliate-link fees at a time when publishers were searching for revenue beyond advertising.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/business-work/2016/why-the-new-york-times-is-buying-the-wirecutter-for-30-million/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">why the new york times is buying the wirecutter for 30 million</span><span class="citation-popover-snippet">why the new york times is buying the wirecutter for 30 million</span></span></span>
 
 For beginners building websites containing affiliate links, Wirecutter is best understood as a high-end case study. It proves that [affiliate revenue]({{ 'revenue-math/' | relative_url }}) can support editorial work, but it also shows why durable affiliate sites are expensive in time, expertise, and [credibility]({{ 'credibility/' | relative_url }}).
 
@@ -453,9 +453,9 @@ For beginners building websites containing affiliate links, Wirecutter is best u
 
 Before Wirecutter became part of The New York Times, many affiliate sites followed a familiar pattern: target a buying keyword, summarise products from retailer pages, add tracked links, and optimise for search [traffic]({{ 'traffic/' | relative_url }}). Wirecutter’s original difference was that it framed the product page as a reader service. Instead of listing dozens of options, it usually tried to answer the practical question a buyer actually had: “What should I buy, and why?”
 
-That sounds simple, but it changed the reader experience. A conventional affiliate page often leaves the reader comparing tables, star ratings, and vague pros and cons. Wirecutter made the choice itself, while explaining its reasoning. In an interview-era summary of Brian Lam’s model, the site was described as having no venture-capital funding and no advertising-dependent media treadmill, with affiliate income attached to a site that readers used because it was concise, useful, and research-led. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://observer.com/2016/04/meet-the-man-who-rejected-advertising-and-still-runs-a-profitable-media-site/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: observer.com">[Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">observer.com</span><span class="citation-popover-title">Meet the Man Who Rejected Ads and Still Runs a Profitable</span><span class="citation-popover-snippet">Meet the Man Who Rejected Ads and Still Runs a Profitable</span></span></span>
+That sounds simple, but it changed the reader experience. A conventional affiliate page often leaves the reader comparing tables, star ratings, and vague pros and cons. Wirecutter made the choice itself, while explaining its reasoning. In an interview-era summary of Brian Lam’s model, the site was described as having no venture-capital funding and no advertising-dependent media treadmill, with affiliate income attached to a site that readers used because it was concise, useful, and research-led.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://observer.com/2016/04/meet-the-man-who-rejected-advertising-and-still-runs-a-profitable-media-site/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: observer.com">[Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">observer.com</span><span class="citation-popover-title">Meet the Man Who Rejected Ads and Still Runs a Profitable</span><span class="citation-popover-snippet">Meet the Man Who Rejected Ads and Still Runs a Profitable</span></span></span>
 
-The New York Times acquisition mattered because it signalled that affiliate commerce was no longer only a blogger side hustle or a search-engine tactic. A major news company saw product-review journalism as a revenue line that could sit alongside subscriptions and advertising. The Times’ own 2023 annual report later listed Wirecutter affiliate referrals as part of “other revenues”, and said that other revenue increased 13.8% year on year partly because of continued strength in Wirecutter affiliate referral revenues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://s23.q4cdn.com/152113917/files/doc_events/2024/Apr/24/the-new-york-times-company-2023-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s23.q4cdn.com">[s23.q4cdn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s23.q4cdn.com</span><span class="citation-popover-title">the new york times company 2023 annual report</span><span class="citation-popover-snippet">the new york times company 2023 annual report</span></span></span>
+The New York Times acquisition mattered because it signalled that affiliate commerce was no longer only a blogger side hustle or a search-engine tactic. A major news company saw product-review journalism as a revenue line that could sit alongside subscriptions and advertising. The Times’ own 2023 annual report later listed Wirecutter affiliate referrals as part of “other revenues”, and said that other revenue increased 13.8% year on year partly because of continued strength in Wirecutter affiliate referral revenues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://s23.q4cdn.com/152113917/files/doc_events/2024/Apr/24/the-new-york-times-company-2023-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s23.q4cdn.com">[s23.q4cdn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s23.q4cdn.com</span><span class="citation-popover-title">the new york times company 2023 annual report</span><span class="citation-popover-snippet">the new york times company 2023 annual report</span></span></span>
 
 The deeper lesson is that Wirecutter monetised decision fatigue. It did not merely say, “Here are products you can buy.” It said, in effect, “We have done the annoying part for you.” That is the editorial value.
 
@@ -465,7 +465,7 @@ The deeper lesson is that Wirecutter monetised decision fatigue. It did not mere
 
 Wirecutter’s most important contribution to affiliate publishing is the idea that testing is not decoration; it is the product. A review page becomes more defensible when it explains how the reviewer chose contenders, what was tested, what failed, what trade-offs mattered, and why the recommended product is not necessarily the most expensive or most heavily promoted.
 
-Columbia Journalism Review captured the scale of this approach in a 2023 piece on product-review verticals, noting that a Wirecutter air purifier guide took months to complete and ran to around 22,000 words, including detailed analysis such as ozone concerns and durability in a household setting. It also described these guides as “living documents”, updated as products and testing methods change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">Under Review</span><span class="citation-popover-snippet">Under Review</span></span></span>
+Columbia Journalism Review captured the scale of this approach in a 2023 piece on product-review verticals, noting that a Wirecutter air purifier guide took months to complete and ran to around 22,000 words, including detailed analysis such as ozone concerns and durability in a household setting. It also described these guides as “living documents”, updated as products and testing methods change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">Under Review</span><span class="citation-popover-snippet">Under Review</span></span></span>
 
 That “living document” model is especially relevant to affiliate sites. A buying guide is not like a news article that expires after publication. Products go out of stock, prices change, models are discontinued, retailers alter warranties, and user complaints accumulate. A serious affiliate review site therefore has to maintain pages, not just publish them.
 
@@ -486,11 +486,11 @@ The commercial value comes from the trust created by that labour. A reader who b
 
 Affiliate marketing creates an obvious conflict: the publisher earns money when a reader buys. Wirecutter’s model tries to reduce that conflict through disclosure, separation of editorial and commerce roles, and a reputation for leaving money on the table when a recommendation does not serve the reader.
 
-That separation is not a cosmetic detail. Columbia Journalism Review quoted Wirecutter leadership saying that writers and editors should not make decisions while knowing whether the publication has a monetary relationship with a business partner. AdExchanger reported a similar principle after the Times acquisition: the organisation was willing to leave money on the table if that was the right outcome for the reader. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">Under Review</span><span class="citation-popover-snippet">Under Review</span></span></span>
+That separation is not a cosmetic detail. Columbia Journalism Review quoted Wirecutter leadership saying that writers and editors should not make decisions while knowing whether the publication has a monetary relationship with a business partner. AdExchanger reported a similar principle after the Times acquisition: the organisation was willing to leave money on the table if that was the right outcome for the reader.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">Under Review</span><span class="citation-popover-snippet">Under Review</span></span></span>
 
-This matters because disclosure alone is a low bar. Regulators care about whether readers understand when a financial relationship exists. The US Federal Trade Commission says endorsement relationships need clear disclosure, and its guidance warns that vague labels such as “affiliate link” may not be enough because consumers may not understand that the publisher earns money from purchases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+This matters because disclosure alone is a low bar. Regulators care about whether readers understand when a financial relationship exists. The US Federal Trade Commission says endorsement relationships need clear disclosure, and its guidance warns that vague labels such as “affiliate link” may not be enough because consumers may not understand that the publisher earns money from purchases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
-UK guidance points in the same direction. The Advertising Standards Authority says affiliate content can appear alongside genuinely editorial material, but the parts containing affiliate links or brand promotion may fall under advertising rules and need to be identifiable as such. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span>
+UK guidance points in the same direction. The Advertising Standards Authority says affiliate content can appear alongside genuinely editorial material, but the parts containing affiliate links or brand promotion may fall under advertising rules and need to be identifiable as such.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span>
 
 For an affiliate website, this means trust has two layers. The first is legal and visible: make the commercial relationship clear. The second is editorial and structural: build a process that makes it believable that commissions do not decide the ranking. Wirecutter’s importance lies in that second layer.
 
@@ -498,13 +498,13 @@ For an affiliate website, this means trust has two layers. The first is legal an
 <img src="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6-Illustration-2-dark.svg" | relative_url }}" alt="Wirecutter illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The business model is powerful but fragile
 
-Wirecutter’s history shows why affiliate review journalism is attractive to publishers. It can monetise readers at the moment they are close to buying, rather than relying only on display advertising or general subscriptions. During the 2016 acquisition coverage, Poynter noted that Wirecutter’s affiliate model was part of a wider publisher search for new digital revenue streams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/business-work/2016/why-the-new-york-times-is-buying-the-wirecutter-for-30-million/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">why the new york times is buying the wirecutter for 30 million</span><span class="citation-popover-snippet">why the new york times is buying the wirecutter for 30 million</span></span></span>
+Wirecutter’s history shows why affiliate review journalism is attractive to publishers. It can monetise readers at the moment they are close to buying, rather than relying only on display advertising or general subscriptions. During the 2016 acquisition coverage, Poynter noted that Wirecutter’s affiliate model was part of a wider publisher search for new digital revenue streams.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/business-work/2016/why-the-new-york-times-is-buying-the-wirecutter-for-30-million/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">why the new york times is buying the wirecutter for 30 million</span><span class="citation-popover-snippet">why the new york times is buying the wirecutter for 30 million</span></span></span>
 
 The model also scales well when a trusted recommendation ranks in search results for high-intent queries. Someone searching for the best air purifier, standing desk, coffee grinder, or noise-cancelling headphones is not browsing casually; they may be ready to spend. A trusted page at that moment can generate meaningful revenue.
 
-But the same model has weaknesses. First, it depends heavily on platforms: search engines, retailer affiliate programmes, and reader habits. Second, it is vulnerable to suspicion. If readers start to believe recommendations are shaped by commissions, the whole asset weakens. Third, genuine testing is labour-intensive. Wirecutter’s Black Friday and Cyber Monday coverage illustrates the operational burden: AdExchanger reported that Wirecutter had more than 60 people involved and reduced a pool of 78,000 deals to 455 picks for its deals page. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adexchanger.com/publishers/wirecutter-plots-affiliate-future-wing-nyt-parent-company/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adexchanger.com">[AdExchanger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adexchanger.com</span><span class="citation-popover-title">wirecutter plots affiliate future wing nyt parent company</span><span class="citation-popover-snippet">wirecutter plots affiliate future wing nyt parent company</span></span></span>
+But the same model has weaknesses. First, it depends heavily on platforms: search engines, retailer affiliate programmes, and reader habits. Second, it is vulnerable to suspicion. If readers start to believe recommendations are shaped by commissions, the whole asset weakens. Third, genuine testing is labour-intensive. Wirecutter’s Black Friday and Cyber Monday coverage illustrates the operational burden: AdExchanger reported that Wirecutter had more than 60 people involved and reduced a pool of 78,000 deals to 455 picks for its deals page.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adexchanger.com/publishers/wirecutter-plots-affiliate-future-wing-nyt-parent-company/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adexchanger.com">[AdExchanger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adexchanger.com</span><span class="citation-popover-title">wirecutter plots affiliate future wing nyt parent company</span><span class="citation-popover-snippet">wirecutter plots affiliate future wing nyt parent company</span></span></span>
 
-The New York Times later added subscriptions to Wirecutter, showing that even a strong affiliate model may be combined with direct reader revenue. Nieman Lab reported in 2021 that Wirecutter introduced a subscription priced at $5 a month or $40 a year, while still being included in Times all-access digital subscriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2021/08/wirecutter-which-makes-money-when-you-shop-is-going-behind-the-new-york-times-paywall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Open source on niemanlab.org.</span></span></span>
+The New York Times later added subscriptions to Wirecutter, showing that even a strong affiliate model may be combined with direct reader revenue. Nieman Lab reported in 2021 that Wirecutter introduced a subscription priced at $5 a month or $40 a year, while still being included in Times all-access digital subscriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niemanlab.org/2021/08/wirecutter-which-makes-money-when-you-shop-is-going-behind-the-new-york-times-paywall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Open source on niemanlab.org.</span></span></span>
 
 That shift is important for smaller publishers to understand. Affiliate income can be valuable, but it should not be treated as invulnerable. A resilient review site may eventually combine affiliate revenue with newsletters, memberships, sponsorships, paid tools, or other reader-supported products — but only if trust is strong enough to carry those extensions.
 
@@ -515,7 +515,7 @@ That shift is important for smaller publishers to understand. Affiliate income c
 
 Wirecutter is often compared with Consumer Reports, shopping magazines, review blogs, and commerce verticals inside news organisations. The comparison is useful because it shows what review journalism is trying to balance.
 
-Consumer Reports has historically relied on subscriptions, laboratory testing, and a reputation for independence from advertising. Commerce sites such as Wirecutter use affiliate links, but try to preserve editorial credibility through testing and process. CJR noted that Consumer Reports has its own real-world testing and rating system, while also showing that newer recommendation sites have turned household product inspection into a highly systematised form of digital publishing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">Under Review</span><span class="citation-popover-snippet">Under Review</span></span></span>
+Consumer Reports has historically relied on subscriptions, laboratory testing, and a reputation for independence from advertising. Commerce sites such as Wirecutter use affiliate links, but try to preserve editorial credibility through testing and process. CJR noted that Consumer Reports has its own real-world testing and rating system, while also showing that newer recommendation sites have turned household product inspection into a highly systematised form of digital publishing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">Under Review</span><span class="citation-popover-snippet">Under Review</span></span></span>
 
 The difference for affiliate-site builders is practical. A thin affiliate post asks, “Which products can I rank for and monetise?” A review-journalism page asks, “What decision can I help a reader make better than they could alone?” That shift changes everything: product selection, testing method, update schedule, disclosure language, page design, and even which products are worth covering.
 
@@ -540,7 +540,7 @@ Beginners do not need a Wirecutter-sized operation, but they can borrow several 
 
 **Say who should not buy.** This is one of the easiest ways to stand apart from generic affiliate content. Honest exclusions make recommendations more believable.
 
-These habits also align with the broader regulatory and platform environment. Research on affiliate marketing disclosures has repeatedly found that many creators fail to disclose commercial relationships clearly; one empirical study of YouTube and Pinterest found that only about a tenth of affiliate content contained disclosures, and that short, unclear disclosures were poorly understood by users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+These habits also align with the broader regulatory and platform environment. Research on affiliate marketing disclosures has repeatedly found that many creators fail to disclose commercial relationships clearly; one empirical study of YouTube and Pinterest found that only about a tenth of affiliate content contained disclosures, and that short, unclear disclosures were poorly understood by users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6-Illustration-3-dark.svg" | relative_url }}" alt="Wirecutter illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -553,194 +553,194 @@ For a beginner, the useful goal is not to become “the next Wirecutter”. It i
 In affiliate publishing, Wirecutter’s central lesson is simple: the commission is strongest when it looks like a by-product of good advice.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Can Beginners Learn From Wirecutter?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Can Beginners Learn From Wirecutter?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Everything Store: Jeff Bezos and the Age of Amazon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yG3PAK6ZOucC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Everything Store: Jeff Bezos and the Age of Amazon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Everything Store: Jeff Bezos and the Age of Amazon">The Everything Store: Jeff Bezos and the Age of Amazon</a>
-        </h4>
-        <p class="fr-book-author">By Brad Stone</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Everything Store: Jeff Bezos and the Age of Amazon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yG3PAK6ZOucC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Everything Store: Jeff Bezos and the Age of Amazon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Everything Store: Jeff Bezos and the Age of Amazon">The Everything Store: Jeff Bezos and the Age of Amazon</a>
+</h4>
+<p class="fr-book-author">By Brad Stone</p>
         
-        <p class="fr-book-desc">Provides essential context for understanding the retail platform that underpins much affiliate marketing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential context for understanding the retail platform that underpins much affiliate marketing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Teaches clear, reader-focused publishing practices that align with high-quality review content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches clear, reader-focused publishing practices that align with high-quality review content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Highlights the importance of credibility and editorial integrity, reinforcing Wirecutter&#x27;s trust-first model.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of credibility and editorial integrity, reinforcing Wirecutter&#x27;s trust-first model.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains why trustworthy recommendations persuade readers more effectively than aggressive selling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why trustworthy recommendations persuade readers more effectively than aggressive selling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Everything Store: Jeff Bezos and the Age of Amazon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Everything Store: Jeff Bezos and the Age of Amazon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/35f9dc063caa54e75964.jpg' | relative_url }}" alt="Listing image for Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/35f9dc063caa54e75964.jpg' | relative_url }}" alt="Listing image for Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Badass Birthday F Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e7e683fb9799855740ec.jpg' | relative_url }}" alt="Listing image for Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e7e683fb9799855740ec.jpg' | relative_url }}" alt="Listing image for Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Being A Marketing Manager Is Like T Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af8938b0d611d4bb33dc.jpg' | relative_url }}" alt="Listing image for Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af8938b0d611d4bb33dc.jpg' | relative_url }}" alt="Listing image for Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Badass Funny Birt Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5fef2d3b11d4ce3704b7.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5fef2d3b11d4ce3704b7.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing poster" data-ebay-reference="wirecutter-what-can-beginners-learn-from-wirecutter-making-money-from-marketing-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -756,7 +756,7 @@ In affiliate publishing, Wirecutter’s central lesson is simple: the commission
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -776,7 +776,7 @@ In affiliate publishing, Wirecutter’s central lesson is simple: the commission
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -808,7 +808,7 @@ In affiliate publishing, Wirecutter’s central lesson is simple: the commission
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -860,7 +860,7 @@ In affiliate publishing, Wirecutter’s central lesson is simple: the commission
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -905,7 +905,7 @@ In affiliate publishing, Wirecutter’s central lesson is simple: the commission
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -946,185 +946,185 @@ In affiliate publishing, Wirecutter’s central lesson is simple: the commission
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: poynter.org  
    Title: why the new york times is buying the wirecutter for 30 million  
-   Link: <a href="https://www.poynter.org/business-work/2016/why-the-new-york-times-is-buying-the-wirecutter-for-30-million/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/business-work/2016/why-the-new-york-times-is-buying-the-wirecutter-for-30-million/</a>  
+   Link:<a href="https://www.poynter.org/business-work/2016/why-the-new-york-times-is-buying-the-wirecutter-for-30-million/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/business-work/2016/why-the-new-york-times-is-buying-the-wirecutter-for-30-million/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: observer.com  
    Title: Meet the Man Who Rejected Ads and Still Runs a Profitable  
-   Link: <a href="https://observer.com/2016/04/meet-the-man-who-rejected-advertising-and-still-runs-a-profitable-media-site/" target="_blank" rel="noopener noreferrer nofollow">https://observer.com/2016/04/meet-the-man-who-rejected-advertising-and-still-runs-a-profitable-media-site/</a>  
+   Link:<a href="https://observer.com/2016/04/meet-the-man-who-rejected-advertising-and-still-runs-a-profitable-media-site/" target="_blank" rel="noopener noreferrer nofollow">https://observer.com/2016/04/meet-the-man-who-rejected-advertising-and-still-runs-a-profitable-media-site/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: s23.q4cdn.com  
    Title: the new york times company 2023 annual report  
-   Link: <a href="https://s23.q4cdn.com/152113917/files/doc_events/2024/Apr/24/the-new-york-times-company-2023-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s23.q4cdn.com/152113917/files/doc_events/2024/Apr/24/the-new-york-times-company-2023-annual-report.pdf</a>  
+   Link:<a href="https://s23.q4cdn.com/152113917/files/doc_events/2024/Apr/24/the-new-york-times-company-2023-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s23.q4cdn.com/152113917/files/doc_events/2024/Apr/24/the-new-york-times-company-2023-annual-report.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cjr.org  
    Title: Under Review  
-   Link: <a href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php</a>  
+   Link:<a href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: adexchanger.com  
    Title: wirecutter plots affiliate future wing nyt parent company  
-   Link: <a href="https://www.adexchanger.com/publishers/wirecutter-plots-affiliate-future-wing-nyt-parent-company/" target="_blank" rel="noopener noreferrer nofollow">https://www.adexchanger.com/publishers/wirecutter-plots-affiliate-future-wing-nyt-parent-company/</a>  
+   Link:<a href="https://www.adexchanger.com/publishers/wirecutter-plots-affiliate-future-wing-nyt-parent-company/" target="_blank" rel="noopener noreferrer nofollow">https://www.adexchanger.com/publishers/wirecutter-plots-affiliate-future-wing-nyt-parent-company/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+   Link:<a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
+   Link:<a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rjvIph3Sx4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rjvIph3Sx4c</a>  
+   Link:<a href="https://www.youtube.com/watch?v=rjvIph3Sx4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rjvIph3Sx4c</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Affiliate Site Case Study  
-   Link: <a href="https://www.youtube.com/watch?v=a9CT_Vd_118" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a9CT_Vd_118</a>  
+   Link:<a href="https://www.youtube.com/watch?v=a9CT_Vd_118" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a9CT_Vd_118</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZdKNgX-C5Lg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZdKNgX-C5Lg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ZdKNgX-C5Lg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZdKNgX-C5Lg</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: World's Largest Affiliate Site Review: Wirecutter  
-   Link: <a href="https://www.youtube.com/watch?v=i9UjSms_Fsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i9UjSms_Fsc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Micro-Niche Affiliate Strategy: How I Beat Wirecutter at Their Own Game...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i9UjSms_Fsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i9UjSms_Fsc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Micro-Niche Affiliate Strategy: How I Beat Wirecutter at Their Own Game...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Micro-Niche Affiliate Strategy: How I Beat Wirecutter at Their Own Game  
-   Link: <a href="https://www.youtube.com/watch?v=Wal1KKI-9eE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wal1KKI-9eE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Amazon](&amp;#123;&amp;#123; &#x27;amazon/&#x27; | relative_url &amp;#125;&amp;#125;) Affiliate Marketing for Beginners - The Wirecutter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Wal1KKI-9eE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wal1KKI-9eE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Amazon](&amp;#123;&amp;#123; &#x27;amazon/&#x27; | relative_url &amp;#125;&amp;#125;) Affiliate Marketing for Beginners - The Wirecutter...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Amazon Affiliate Marketing for Beginners  
-   Link: <a href="https://www.youtube.com/watch?v=QHu4-ag0-nA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QHu4-ag0-nA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introducing: The Wirecutter Show...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QHu4-ag0-nA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QHu4-ag0-nA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introducing: The Wirecutter Show...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Introducing: The Wirecutter Show  
-   Link: <a href="https://www.youtube.com/watch?v=Ocr5K91ZT8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ocr5K91ZT8k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Wirecutter&quot; business model product reviews This Wirecutter Expert Cleans (Almost) Everything with Dish Soap New York Times Podcasts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ocr5K91ZT8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ocr5K91ZT8k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Wirecutter&quot; business model product reviews This Wirecutter Expert Cleans (Almost) Everything with Dish Soap New York Times Podcasts...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2021/08/wirecutter-which-makes-money-when-you-shop-is-going-behind-the-new-york-times-paywall/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/08/wirecutter-which-makes-money-when-you-shop-is-going-behind-the-new-york-times-paywall/</a>  
+   Link:<a href="https://www.niemanlab.org/2021/08/wirecutter-which-makes-money-when-you-shop-is-going-behind-the-new-york-times-paywall/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/08/wirecutter-which-makes-money-when-you-shop-is-going-behind-the-new-york-times-paywall/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: news.ycombinator.com  
-   Link: <a href="https://news.ycombinator.com/item?id=37272214" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=37272214</a>  
+   Link:<a href="https://news.ycombinator.com/item?id=37272214" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=37272214</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: news.ycombinator.com  
-   Link: <a href="https://news.ycombinator.com/item?id=28409586" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=28409586</a>  
+   Link:<a href="https://news.ycombinator.com/item?id=28409586" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=28409586</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf</a>  
+   Link:<a href="https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2016/10/the-new-york-times-is-buying-the-gadget-and-technology-review-site-the-wirecutter-for-30-million/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2016/10/the-new-york-times-is-buying-the-gadget-and-technology-review-site-the-wirecutter-for-30-million/</a>  
+   Link:<a href="https://www.niemanlab.org/2016/10/the-new-york-times-is-buying-the-gadget-and-technology-review-site-the-wirecutter-for-30-million/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2016/10/the-new-york-times-is-buying-the-gadget-and-technology-review-site-the-wirecutter-for-30-million/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: niemanlab.org  
    Title: wirecutters union staffers will strike from thanksgiving through cyber monday  
-   Link: <a href="https://www.niemanlab.org/2021/11/wirecutters-union-staffers-will-strike-from-thanksgiving-through-cyber-monday/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/11/wirecutters-union-staffers-will-strike-from-thanksgiving-through-cyber-monday/</a>  
+   Link:<a href="https://www.niemanlab.org/2021/11/wirecutters-union-staffers-will-strike-from-thanksgiving-through-cyber-monday/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/11/wirecutters-union-staffers-will-strike-from-thanksgiving-through-cyber-monday/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
+   Link:<a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: asa.org.uk  
-   Link: <a href="https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf</a>  
+   Link:<a href="https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: asa.org.uk  
    Title: remit social media  
-   Link: <a href="https://www.asa.org.uk/advice-online/remit-social-media.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/remit-social-media.html</a>  
+   Link:<a href="https://www.asa.org.uk/advice-online/remit-social-media.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/remit-social-media.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Brian Lam  
-   Link: <a href="https://en.wikipedia.org/wiki/Brian_Lam" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brian_Lam</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Brian_Lam" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brian_Lam</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: bogleheads.org  
-   Link: <a href="https://www.bogleheads.org/forum/viewtopic.php?t=357451" target="_blank" rel="noopener noreferrer nofollow">https://www.bogleheads.org/forum/viewtopic.php?t=357451</a>  
+   Link:<a href="https://www.bogleheads.org/forum/viewtopic.php?t=357451" target="_blank" rel="noopener noreferrer nofollow">https://www.bogleheads.org/forum/viewtopic.php?t=357451</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: GOV.UK  
    Title: social media endorsements being transparent with your followers  
-   Link: <a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
+   Link:<a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/edzitron/2012/06/25/wirecutter/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/edzitron/2012/06/25/wirecutter/</a>  
+   Link:<a href="https://www.forbes.com/sites/edzitron/2012/06/25/wirecutter/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/edzitron/2012/06/25/wirecutter/</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mediapost.com  
-   Link: <a href="https://www.mediapost.com/publications/article/366523/new-york-times-extends-paywall-strategy-to-wire.html?edition=" target="_blank" rel="noopener noreferrer nofollow">https://www.mediapost.com/publications/article/366523/new-york-times-extends-paywall-strategy-to-wire.html?edition=</a>  
+   Link:<a href="https://www.mediapost.com/publications/article/366523/new-york-times-extends-paywall-strategy-to-wire.html?edition=" target="_blank" rel="noopener noreferrer nofollow">https://www.mediapost.com/publications/article/366523/new-york-times-extends-paywall-strategy-to-wire.html?edition=</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: tsenta.com  
-   Link: <a href="https://tsenta.com/jobs/the-new-york-times-director-licensing-nyt-wirecutter-e09e878c-0f1c-470f-a8cc-b9e428bb639c" target="_blank" rel="noopener noreferrer nofollow">https://tsenta.com/jobs/the-new-york-times-director-licensing-nyt-wirecutter-e09e878c-0f1c-470f-a8cc-b9e428bb639c</a>  
+   Link:<a href="https://tsenta.com/jobs/the-new-york-times-director-licensing-nyt-wirecutter-e09e878c-0f1c-470f-a8cc-b9e428bb639c" target="_blank" rel="noopener noreferrer nofollow">https://tsenta.com/jobs/the-new-york-times-director-licensing-nyt-wirecutter-e09e878c-0f1c-470f-a8cc-b9e428bb639c</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-business-of-content/inside-the-new-york-timess-post-acquisition-strategy-for-wirecutter-f6123b5f285f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-business-of-content/inside-the-new-york-timess-post-acquisition-strategy-for-wirecutter-f6123b5f285f</a>  
+   Link:<a href="https://medium.com/the-business-of-content/inside-the-new-york-timess-post-acquisition-strategy-for-wirecutter-f6123b5f285f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-business-of-content/inside-the-new-york-timess-post-acquisition-strategy-for-wirecutter-f6123b5f285f</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: bebee.com  
-   Link: <a href="https://bebee.com/us/jobs/operations-director-advertising-nyt-wirecutter-the-new-york-times-new-york-ny--theirstack-688762864" target="_blank" rel="noopener noreferrer nofollow">https://bebee.com/us/jobs/operations-director-advertising-nyt-wirecutter-the-new-york-times-new-york-ny--theirstack-688762864</a>  
+   Link:<a href="https://bebee.com/us/jobs/operations-director-advertising-nyt-wirecutter-the-new-york-times-new-york-ny--theirstack-688762864" target="_blank" rel="noopener noreferrer nofollow">https://bebee.com/us/jobs/operations-director-advertising-nyt-wirecutter-the-new-york-times-new-york-ny--theirstack-688762864</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Anticonsumption/comments/1pitgbz/opinion_on_nyt_wirecutter_and_alternative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Anticonsumption/comments/1pitgbz/opinion_on_nyt_wirecutter_and_alternative/</a>  
+   Link:<a href="https://www.reddit.com/r/Anticonsumption/comments/1pitgbz/opinion_on_nyt_wirecutter_and_alternative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Anticonsumption/comments/1pitgbz/opinion_on_nyt_wirecutter_and_alternative/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ViperChill/status/1722275242239012999?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ViperChill/status/1722275242239012999?lang=en</a>  
+   Link:<a href="https://x.com/ViperChill/status/1722275242239012999?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ViperChill/status/1722275242239012999?lang=en</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: macsparky.com  
-   Link: <a href="https://www.macsparky.com/blog/2016/10/2016-10-the-wirecutter-an-internet-success-story/" target="_blank" rel="noopener noreferrer nofollow">https://www.macsparky.com/blog/2016/10/2016-10-the-wirecutter-an-internet-success-story/</a>  
+   Link:<a href="https://www.macsparky.com/blog/2016/10/2016-10-the-wirecutter-an-internet-success-story/" target="_blank" rel="noopener noreferrer nofollow">https://www.macsparky.com/blog/2016/10/2016-10-the-wirecutter-an-internet-success-story/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/juststart/comments/595kau/thoughts_on_nytimes_buying_wirecutter_for_30m/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/juststart/comments/595kau/thoughts_on_nytimes_buying_wirecutter_for_30m/</a>  
+   Link:<a href="https://www.reddit.com/r/juststart/comments/595kau/thoughts_on_nytimes_buying_wirecutter_for_30m/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/juststart/comments/595kau/thoughts_on_nytimes_buying_wirecutter_for_30m/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: blog.promise.legal  
-   Link: <a href="https://blog.promise.legal/startup-central/ftc-endorsement-guides-for-startups-practical-disclosure-review-controls-built-for-global-scale/" target="_blank" rel="noopener noreferrer nofollow">https://blog.promise.legal/startup-central/ftc-endorsement-guides-for-startups-practical-disclosure-review-controls-built-for-global-scale/</a>  
+   Link:<a href="https://blog.promise.legal/startup-central/ftc-endorsement-guides-for-startups-practical-disclosure-review-controls-built-for-global-scale/" target="_blank" rel="noopener noreferrer nofollow">https://blog.promise.legal/startup-central/ftc-endorsement-guides-for-startups-practical-disclosure-review-controls-built-for-global-scale/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: job-boards.greenhouse.io  
-   Link: <a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4695487005" target="_blank" rel="noopener noreferrer nofollow">https://job-boards.greenhouse.io/thenewyorktimes/jobs/4695487005</a>  
+   Link:<a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4695487005" target="_blank" rel="noopener noreferrer nofollow">https://job-boards.greenhouse.io/thenewyorktimes/jobs/4695487005</a>  

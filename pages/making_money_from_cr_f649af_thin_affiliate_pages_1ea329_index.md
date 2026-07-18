@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-thin/
 description: Focused pages that expand on Thin Pages.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_thin_affiliate_pages_1ea329
 parent_title: Thin Pages
@@ -16,7 +16,7 @@ parent_permalink: /thin-pages/
 
 # Explore Topics in Thin Pages
 
-The following pages expand on the main **[Thin Pages]({{ '/thin-pages/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Thin Pages]({{ '/thin-pages/' | relative_url }})** page and cover its key branches in.
 
 - [Best Criteria]({{ '/best-criteria/' | relative_url }})
 - [Copied Copy]({{ '/copied-copy/' | relative_url }})

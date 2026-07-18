@@ -284,7 +284,7 @@ image: /assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_sof
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_software_switching_c_847980-Illustration-1-dark.svg" | relative_url }}" alt="Switching Costs illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_software_switching_c_847980-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_software_switching_c_847980-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate publishers, this creates both an opportunity and a challenge. Readers who are making high-value software decisions often spend longer researching and are willing to follow detailed comparisons. However, they are also far less likely to trust reviews that appear superficial, promotional, or copied from vendor marketing. Trust is earned by demonstrating real use, acknowledging [trade-offs]({{ 'trade-offs/' | relative_url }}), and showing evidence that the reviewer understands the practical consequences of adopting—and eventually leaving—a piece of software. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/318880729_A_Holistic_Decision_Framework_to_Avoid_Vendor_Lock-in_for_Cloud_SaaS_Migration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2eprints.bournemouth.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Holistic Decision Framework to Avoid Vendor Lock-in for...July 31, 2017 — This paper proposes a holistic 6-step decision f...</span><span class="citation-popover-meta">Published: July 31, 2017</span></span></span>
+For affiliate publishers, this creates both an opportunity and a challenge. Readers who are making high-value software decisions often spend longer researching and are willing to follow detailed comparisons. However, they are also far less likely to trust reviews that appear superficial, promotional, or copied from vendor marketing. Trust is earned by demonstrating real use, acknowledging [trade-offs]({{ 'trade-offs/' | relative_url }}), and showing evidence that the reviewer understands the practical consequences of adopting—and eventually leaving—a piece of software.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/318880729_A_Holistic_Decision_Framework_to_Avoid_Vendor_Lock-in_for_Cloud_SaaS_Migration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2eprints.bournemouth.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Holistic Decision Framework to Avoid Vendor Lock-in for...July 31, 2017 — This paper proposes a holistic 6-step decision f...</span><span class="citation-popover-meta">Published: July 31, 2017</span></span></span>
 
 ## Why software mistakes cost more than product returns
 
@@ -303,7 +303,7 @@ These costs usually appear in several forms:
 
 </div>
 
-Research into SaaS vendor lock-in consistently identifies technical integration, proprietary formats, operational dependency, and retraining as major contributors to switching costs. Academic work on cloud migration similarly notes that organisations should evaluate portability and interoperability before adoption because migration complexity often becomes visible only after implementation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/318880729_A_Holistic_Decision_Framework_to_Avoid_Vendor_Lock-in_for_Cloud_SaaS_Migration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2eprints.bournemouth.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Holistic Decision Framework to Avoid Vendor Lock-in for...July 31, 2017 — This paper proposes a holistic 6-step decision f...</span><span class="citation-popover-meta">Published: July 31, 2017</span></span></span>
+Research into SaaS vendor lock-in consistently identifies technical integration, proprietary formats, operational dependency, and retraining as major contributors to switching costs. Academic work on cloud migration similarly notes that organisations should evaluate portability and interoperability before adoption because migration complexity often becomes visible only after implementation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/318880729_A_Holistic_Decision_Framework_to_Avoid_Vendor_Lock-in_for_Cloud_SaaS_Migration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2eprints.bournemouth.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Holistic Decision Framework to Avoid Vendor Lock-in for...July 31, 2017 — This paper proposes a holistic 6-step decision f...</span><span class="citation-popover-meta">Published: July 31, 2017</span></span></span>
 
 For affiliate sites, this means readers are rarely asking only, "Is this software good?" Instead, they are asking questions such as:
 
@@ -362,7 +362,7 @@ Useful reviews explain:
 * which [integrations]({{ 'integrations/' | relative_url }}) worked immediately;
 * what unexpectedly delayed deployment.
 
-Even academic work examining onboarding in software environments notes that onboarding remains a lengthy, costly process with significant barriers despite growing technological support. That reinforces why implementation experience is often more valuable than simply listing features. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2408.15989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Software Solutions for Newcomers&#x27; Onboarding in Software Projects: A Systematic Literature ReviewAugust 28, 2024...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
+Even academic work examining onboarding in software environments notes that onboarding remains a lengthy, costly process with significant barriers despite growing technological support. That reinforces why implementation experience is often more valuable than simply listing features.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2408.15989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Software Solutions for Newcomers&#x27; Onboarding in Software Projects: A Systematic Literature ReviewAugust 28, 2024...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_software_switching_c_847980-Illustration-2-dark.svg" | relative_url }}" alt="Switching Costs illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_software_switching_c_847980-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_software_switching_c_847980-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -395,7 +395,7 @@ When software [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }})
 
 The most persuasive trust signals include:
 
-**Clear affiliate disclosure.** Readers should understand that commission may be earned without feeling that the disclosure is hidden. Regulatory guidance from the US Federal Trade Commission requires material relationships affecting endorsements to be disclosed clearly and conspicuously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">Open source on ecfr.gov.</span></span></span>
+**Clear affiliate disclosure.** Readers should understand that commission may be earned without feeling that the disclosure is hidden. Regulatory guidance from the US Federal Trade Commission requires material relationships affecting endorsements to be disclosed clearly and conspicuously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">Open source on ecfr.gov.</span></span></span>
 
 **Evidence of independent testing.** Reviews become more credible when they include original observations, practical examples, performance measurements, or documented limitations that are absent from vendor marketing.
 
@@ -446,197 +446,197 @@ Software affiliate marketing benefits from long buying cycles because readers in
 
 Reviews that acknowledge switching costs, demonstrate real workflows, explain onboarding experience, discuss migration risks, and disclose commercial relationships clearly are more likely to become trusted decision resources. They also attract the type of reader who is prepared to commit to a subscription after careful evaluation rather than making an impulsive purchase.
 
-In software affiliate publishing, credibility is not simply an ethical advantage. It directly supports long-term performance because recommendations that help readers avoid costly implementation mistakes are more likely to generate satisfied customers who remain subscribed, benefiting both the buyer and, where applicable, the affiliate programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/318880729_A_Holistic_Decision_Framework_to_Avoid_Vendor_Lock-in_for_Cloud_SaaS_Migration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2nedigital.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Holistic Decision Framework to Avoid Vendor Lock-in for...July 31, 2017 — This paper proposes a holistic 6-step decision f...</span><span class="citation-popover-meta">Published: July 31, 2017</span></span></span>
+In software affiliate publishing, credibility is not simply an ethical advantage. It directly supports long-term performance because recommendations that help readers avoid costly implementation mistakes are more likely to generate satisfied customers who remain subscribed, benefiting both the buyer and, where applicable, the affiliate programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/318880729_A_Holistic_Decision_Framework_to_Avoid_Vendor_Lock-in_for_Cloud_SaaS_Migration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2nedigital.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Holistic Decision Framework to Avoid Vendor Lock-in for...July 31, 2017 — This paper proposes a holistic 6-step decision f...</span><span class="citation-popover-meta">Published: July 31, 2017</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Software Review Trust Is Harder to Earn. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Software Review Trust Is Harder to Earn. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
-        </h4>
-        <p class="fr-book-author">By April Dunford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
+</h4>
+<p class="fr-book-author">By April Dunford</p>
         
-        <p class="fr-book-desc">Provides context for evaluating software products beyond marketing claims, helping reviewers understand meaningful differentiation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating software products beyond marketing claims, helping reviewers understand meaningful differentiation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
-        </h4>
-        <p class="fr-book-author">By Steve Krug</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
+</h4>
+<p class="fr-book-author">By Steve Krug</p>
         
-        <p class="fr-book-desc">Helps reviewers evaluate software from real user workflow and usability perspectives instead of feature checklists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps reviewers evaluate software from real user workflow and usability perspectives instead of feature checklists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crossing+the+Chasm+by+Geoffrey+A.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crossing the Chasm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BvG1EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crossing the Chasm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crossing+the+Chasm+by+Geoffrey+A.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crossing the Chasm">Crossing the Chasm</a>
-        </h4>
-        <p class="fr-book-author">By Geoffrey A. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crossing+the+Chasm+by+Geoffrey+A.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crossing the Chasm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BvG1EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crossing the Chasm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crossing+the+Chasm+by+Geoffrey+A.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crossing the Chasm">Crossing the Chasm</a>
+</h4>
+<p class="fr-book-author">By Geoffrey A. Moore</p>
         
-        <p class="fr-book-desc">Offers insight into enterprise software adoption, risk, and why buyers require stronger evidence before committing to major platforms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crossing+the+Chasm+by+Geoffrey+A.+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers insight into enterprise software adoption, risk, and why buyers require stronger evidence before committing to major platforms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crossing+the+Chasm+by+Geoffrey+A.+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mom Test on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mom Test">The Mom Test</a>
-        </h4>
-        <p class="fr-book-author">By Rob Fitzpatrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mom Test on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mom Test">The Mom Test</a>
+</h4>
+<p class="fr-book-author">By Rob Fitzpatrick</p>
         
-        <p class="fr-book-desc">Highlights techniques for uncovering genuine user experience rather than relying on biased or promotional feedback.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights techniques for uncovering genuine user experience rather than relying on biased or promotional feedback.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crossing+the+Chasm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crossing the Chasm</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crossing+the+Chasm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crossing the Chasm</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/824ec0ed09e82ffcc375.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/824ec0ed09e82ffcc375.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm"><img src="{{ '/assets/images/marketplace-covers/d09e7e7a40c101faf0a9.jpg' | relative_url }}" alt="Listing image for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm"><img src="{{ '/assets/images/marketplace-covers/d09e7e7a40c101faf0a9.jpg' | relative_url }}" alt="Listing image for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b717c57f4f0c6262ef10.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b717c57f4f0c6262ef10.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b0ee76e0b81d3bc1f511.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product"><img src="{{ '/assets/images/marketplace-covers/b0ee76e0b81d3bc1f511.jpg' | relative_url }}" alt="Listing image for 40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm/16inch Photo LED Light Box Tent Portable Studio Shooting for Product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="switching-costs-why-software-review-trust-is-harder-to-earn-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -652,7 +652,7 @@ In software affiliate publishing, credibility is not simply an ethical advantage
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -672,7 +672,7 @@ In software affiliate publishing, credibility is not simply an ethical advantage
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -704,7 +704,7 @@ In software affiliate publishing, credibility is not simply an ethical advantage
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -756,7 +756,7 @@ In software affiliate publishing, credibility is not simply an ethical advantage
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -801,7 +801,7 @@ In software affiliate publishing, credibility is not simply an ethical advantage
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -842,97 +842,97 @@ In software affiliate publishing, credibility is not simply an ethical advantage
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/318880729_A_Holistic_Decision_Framework_to_Avoid_Vendor_Lock-in_for_Cloud_SaaS_Migration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318880729_A_Holistic_Decision_Framework_to_Avoid_Vendor_Lock-in_for_Cloud_SaaS_Migration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Holistic Decision Framework to Avoid Vendor Lock-in for...July 31, 2017 — This paper proposes a holistic 6-step decision f...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/318880729_A_Holistic_Decision_Framework_to_Avoid_Vendor_Lock-in_for_Cloud_SaaS_Migration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318880729_A_Holistic_Decision_Framework_to_Avoid_Vendor_Lock-in_for_Cloud_SaaS_Migration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Holistic Decision Framework to Avoid Vendor Lock-in for...July 31, 2017 — This paper proposes a holistic 6-step decision f...</p></details>
    Published: July 31, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: eprints.bournemouth.ac.uk  
    Title: Critical Review of Vendor Lock in and Its Impact on Adoption of Cloud Computing  
-   Link: <a href="https://eprints.bournemouth.ac.uk/22467/1/Critical%20Review%20of%20Vendor%20Lock-in%20and%20Its%20Impact%20on%20Adoption%20of%20Cloud%20Computing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.bournemouth.ac.uk/22467/1/Critical%20Review%20of%20Vendor%20Lock-in%20and%20Its%20Impact%20on%20Adoption%20of%20Cloud%20Computing.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://eprints.bournemouth.ac.uk/22467/1/Critical%20Review%20of%20Vendor%20Lock-in%20and%20Its%20Impact%20on%20Adoption%20of%20Cloud%20Computing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.bournemouth.ac.uk/22467/1/Critical%20Review%20of%20Vendor%20Lock-in%20and%20Its%20Impact%20on%20Adoption%20of%20Cloud%20Computing.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
+   Link:<a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nedigital.com  
-   Link: <a href="https://www.nedigital.com/en/blog/assessing-vendor-lock-in-and-exit-costs-in-saas-centric-it-environments" target="_blank" rel="noopener noreferrer nofollow">https://www.nedigital.com/en/blog/assessing-vendor-lock-in-and-exit-costs-in-saas-centric-it-environments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing Vendor Lock-in and Exit Costs in SaaS-Centric...This article explores how to assess vendor lock-in risks, identify hidden exit...</p></details>
+   Link:<a href="https://www.nedigital.com/en/blog/assessing-vendor-lock-in-and-exit-costs-in-saas-centric-it-environments" target="_blank" rel="noopener noreferrer nofollow">https://www.nedigital.com/en/blog/assessing-vendor-lock-in-and-exit-costs-in-saas-centric-it-environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing Vendor Lock-in and Exit Costs in SaaS-Centric...This article explores how to assess vendor lock-in risks, identify hidden exit...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2408.15989" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.15989</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Software Solutions for Newcomers&#x27; Onboarding in Software Projects: A Systematic Literature ReviewAugust 28, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2408.15989" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.15989</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Software Solutions for Newcomers&#x27; Onboarding in Software Projects: A Systematic Literature ReviewAugust 28, 2024...</p></details>
    Published: August 28, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/327435272_Endorsements_on_Social_Media_An_Empirical_Study_of_Affiliate_Marketing_Disclosures_on_YouTube_and_[Pinterest" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327435272_Endorsements_on_Social_Media_An_Empirical_Study_of_Affiliate_Marketing_Disclosures_on_YouTube_and_[Pinterest</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ment-based advertising strategy used by social media content creators.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/327435272_Endorsements_on_Social_Media_An_Empirical_Study_of_Affiliate_Marketing_Disclosures_on_YouTube_and_[Pinterest" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327435272_Endorsements_on_Social_Media_An_Empirical_Study_of_Affiliate_Marketing_Disclosures_on_YouTube_and_[Pinterest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ment-based advertising strategy used by social media content creators.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5329db41e5274a226800002b/switching_costs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5329db41e5274a226800002b/switching_costs.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on switching costs (and implications for barriers...Switching costs are likely to affect a company&#x27;s willingness to change auditor, and...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5329db41e5274a226800002b/switching_costs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5329db41e5274a226800002b/switching_costs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on switching costs (and implications for barriers...Switching costs are likely to affect a company&#x27;s willingness to change auditor, and...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/design-bootcamp/vendor-lock-in-in-saas-trap-or-strategy-fbac1369d201" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/vendor-lock-in-in-saas-trap-or-strategy-fbac1369d201</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vendor Lock-In in SaaS: Trap or Strategy?Economic: Migration costs, retraining staff, and the learning curve for new software. Not all lo...</p></details>
+   Link:<a href="https://medium.com/design-bootcamp/vendor-lock-in-in-saas-trap-or-strategy-fbac1369d201" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/vendor-lock-in-in-saas-trap-or-strategy-fbac1369d201</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vendor Lock-In in SaaS: Trap or Strategy?Economic: Migration costs, retraining staff, and the learning curve for new software. Not all lo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/management-matters/the-real-cost-of-software-beyond-the-price-tag-7410c38822bc" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/management-matters/the-real-cost-of-software-beyond-the-price-tag-7410c38822bc</a>  
+   Link:<a href="https://medium.com/management-matters/the-real-cost-of-software-beyond-the-price-tag-7410c38822bc" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/management-matters/the-real-cost-of-software-beyond-the-price-tag-7410c38822bc</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: craftindustryalliance.org  
-   Link: <a href="https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/" target="_blank" rel="noopener noreferrer nofollow">https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Common Mistakes Involving FTC Disclosures for...24 Jun 2024 — Learn the common mistakes involving FTC disclosures for affiliates and h...</p></details>
+   Link:<a href="https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/" target="_blank" rel="noopener noreferrer nofollow">https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Common Mistakes Involving FTC Disclosures for...24 Jun 2024 — Learn the common mistakes involving FTC disclosures for affiliates and h...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blogs.lse.ac.uk  
-   Link: <a href="https://blogs.lse.ac.uk/businessreview/2019/09/24/how-digital-businesses-can-leverage-the-high-cost-for-consumers-to-switch-platforms/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/businessreview/2019/09/24/how-digital-businesses-can-leverage-the-high-cost-for-consumers-to-switch-platforms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>digital businesses can leverage the high cost for...24 Sept 2019 — The Digital Lock-in/VEIF model outlines two main types of digital swi...</p></details>
+   Link:<a href="https://blogs.lse.ac.uk/businessreview/2019/09/24/how-digital-businesses-can-leverage-the-high-cost-for-consumers-to-switch-platforms/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/businessreview/2019/09/24/how-digital-businesses-can-leverage-the-high-cost-for-consumers-to-switch-platforms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>digital businesses can leverage the high cost for...24 Sept 2019 — The Digital Lock-in/VEIF model outlines two main types of digital swi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Even an incentive with no financial value might affect the weight or credib...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Even an incentive with no financial value might affect the weight or credib...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: softwareadvice.com  
    Title: Learn how to identify and avoid unnecessary costs with our expert tips  
-   Link: <a href="https://www.softwareadvice.com/resources/how-to-avoid-software-switching-costs/" target="_blank" rel="noopener noreferrer nofollow">https://www.softwareadvice.com/resources/how-to-avoid-software-switching-costs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Avoid Unnecessary Costs When Switching Software26 Oct 2023 — Switching software can be expensive, but it doesn&#x27;t have to be...</p></details>
+   Link:<a href="https://www.softwareadvice.com/resources/how-to-avoid-software-switching-costs/" target="_blank" rel="noopener noreferrer nofollow">https://www.softwareadvice.com/resources/how-to-avoid-software-switching-costs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Avoid Unnecessary Costs When Switching Software26 Oct 2023 — Switching software can be expensive, but it doesn&#x27;t have to be...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
    Title: synthetic endorsements affiliate links ftcs quiet phil gcose  
-   Link: <a href="https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On synthetic endorsements, affiliate links, and the FTC&#x27;s...In June 2023, the FTC finalised its first material update to the Guides Conc...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On synthetic endorsements, affiliate links, and the FTC&#x27;s...In June 2023, the FTC finalised its first material update to the Guides Conc...</p></details>
    Published: June 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: propeltech.co.uk  
    Title: the cost of software migration is it worth the investment  
-   Link: <a href="https://propeltech.co.uk/insight/the-cost-of-software-migration-is-it-worth-the-investment/" target="_blank" rel="noopener noreferrer nofollow">https://propeltech.co.uk/insight/the-cost-of-software-migration-is-it-worth-the-investment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The cost of software migration: Is it worth the investment?27 Aug 2024 — In this blog, we&#x27;ll explore the costs involved in supplier and s...</p></details>
+   Link:<a href="https://propeltech.co.uk/insight/the-cost-of-software-migration-is-it-worth-the-investment/" target="_blank" rel="noopener noreferrer nofollow">https://propeltech.co.uk/insight/the-cost-of-software-migration-is-it-worth-the-investment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The cost of software migration: Is it worth the investment?27 Aug 2024 — In this blog, we&#x27;ll explore the costs involved in supplier and s...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: martech.org  
    Title: ftc disclosure guidelines affiliates merchants need know  
-   Link: <a href="https://martech.org/ftc-disclosure-guidelines-affiliates-merchants-need-know/" target="_blank" rel="noopener noreferrer nofollow">https://martech.org/ftc-disclosure-guidelines-affiliates-merchants-need-know/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The FTC disclosure guidelines: An in-depth exploration of...9 Aug 2016 — The goal of this article is to help affiliates and merchants be...</p></details>
+   Link:<a href="https://martech.org/ftc-disclosure-guidelines-affiliates-merchants-need-know/" target="_blank" rel="noopener noreferrer nofollow">https://martech.org/ftc-disclosure-guidelines-affiliates-merchants-need-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FTC disclosure guidelines: An in-depth exploration of...9 Aug 2016 — The goal of this article is to help affiliates and merchants be...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-who-should/
 description: Focused pages that expand on Do Not Buy.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_who_should_not_buy_53dcfe
 parent_title: Do Not Buy
@@ -16,7 +16,7 @@ parent_permalink: /do-not-buy/
 
 # Explore Topics in Do Not Buy
 
-The following pages expand on the main **[Do Not Buy]({{ '/do-not-buy/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Do Not Buy]({{ '/do-not-buy/' | relative_url }})** page and cover its key branches in.
 
 - [Overkill Picks]({{ '/overkill-picks/' | relative_url }})
 - [Missing Features]({{ '/missing-features/' | relative_url }})

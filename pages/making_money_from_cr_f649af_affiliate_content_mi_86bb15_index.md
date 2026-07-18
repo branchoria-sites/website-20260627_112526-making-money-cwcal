@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-affiliate/
 description: Focused pages that expand on Content Mix.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_affiliate_content_mi_86bb15
 parent_title: Content Mix
@@ -16,7 +16,7 @@ parent_permalink: /content-mix/
 
 # Explore Topics in Content Mix
 
-The following pages expand on the main **[Content Mix]({{ '/content-mix/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Content Mix]({{ '/content-mix/' | relative_url }})** page and cover its key branches in.
 
 - [Air Fryer Cluster]({{ '/air-fryer-cluster/' | relative_url }})
 - [Best For Picks]({{ '/best-for-picks/' | relative_url }})

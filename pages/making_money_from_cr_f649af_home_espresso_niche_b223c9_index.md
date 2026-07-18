@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-home/
 description: Focused pages that expand on Espresso.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_home_espresso_niche_b223c9
 parent_title: Espresso
@@ -16,7 +16,7 @@ parent_permalink: /espresso/
 
 # Explore Topics in Espresso
 
-The following pages expand on the main **[Espresso]({{ '/espresso/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Espresso]({{ '/espresso/' | relative_url }})** page and cover its key branches in.
 
 - [Bambino vs Gaggia]({{ '/bambino-vs-gaggia/' | relative_url }})
 - [Accessories]({{ '/accessories/' | relative_url }})

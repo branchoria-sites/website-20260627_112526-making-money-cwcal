@@ -296,7 +296,7 @@ A Black Friday discount only has meaning when viewed against a longer price hist
 
 </div>
 
-Consumer research consistently shows that many heavily promoted Black Friday discounts are not unique. Which? analysed 175 products across major UK retailers and found that 83% were the same price or cheaper at another point outside the Black Friday sales period, while 42% were actually cheaper at least once elsewhere during the year. None of the products examined reached their lowest annual price on Black Friday itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-title">Which?Are the Black Friday sales worth the hype?</span><span class="citation-popover-snippet">Which?November 25, 2025 — 24 Nov 2025 — The vast majority of products on offer for Black Friday 2024 were cheaper or the same price at ot...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
+Consumer research consistently shows that many heavily promoted Black Friday discounts are not unique. Which? analysed 175 products across major UK retailers and found that 83% were the same price or cheaper at another point outside the Black Friday sales period, while 42% were actually cheaper at least once elsewhere during the year. None of the products examined reached their lowest annual price on Black Friday itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-title">Which?Are the Black Friday sales worth the hype?</span><span class="citation-popover-snippet">Which?November 25, 2025 — 24 Nov 2025 — The vast majority of products on offer for Black Friday 2024 were cheaper or the same price at ot...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
 
 For an affiliate publisher, these findings provide a strong editorial angle. Instead of simply highlighting percentage discounts, explain whether the offer is historically unusual.
 
@@ -309,7 +309,7 @@ A common mistake is comparing Black Friday only with the previous week. Retail p
 
 A fair comparison usually considers:
 
-* the six months before Black Friday <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/bbcscotlandnews/posts/black-friday-is-it-worth-the-hyperesearch-from-consumer-group-which-reveals-that/849405194343994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Black Friday</span><span class="citation-popover-snippet">is it worth the hype? Research...Just one in 20 Black Friday deals are cheaper than at other times of the year, according to research by...</span></span></span> * the Black Friday promotional window itself <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/bbcscotlandnews/posts/black-friday-is-it-worth-the-hyperesearch-from-consumer-group-which-reveals-that/849405194343994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Black Friday</span><span class="citation-popover-snippet">is it worth the hype? Research...Just one in 20 Black Friday deals are cheaper than at other times of the year, according to research by...</span></span></span>
+* the six months before Black Friday<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/bbcscotlandnews/posts/black-friday-is-it-worth-the-hyperesearch-from-consumer-group-which-reveals-that/849405194343994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Black Friday</span><span class="citation-popover-snippet">is it worth the hype? Research...Just one in 20 Black Friday deals are cheaper than at other times of the year, according to research by...</span></span></span> * the Black Friday promotional window itself<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/bbcscotlandnews/posts/black-friday-is-it-worth-the-hyperesearch-from-consumer-group-which-reveals-that/849405194343994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Black Friday</span><span class="citation-popover-snippet">is it worth the hype? Research...Just one in 20 Black Friday deals are cheaper than at other times of the year, according to research by...</span></span></span>
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -320,7 +320,7 @@ A fair comparison usually considers:
 
 This matters because retailers increasingly spread promotions across several weeks rather than concentrating discounts on one day.
 
-Which? compared prices not only on Black Friday itself but across the wider promotional period from mid-November into December. This broader approach reflects how modern retailers actually run sales and avoids exaggerating differences caused by one-day price changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-title">Which?Are the Black Friday sales worth the hype?</span><span class="citation-popover-snippet">Which?November 25, 2025 — 24 Nov 2025 — The vast majority of products on offer for Black Friday 2024 were cheaper or the same price at ot...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
+Which? compared prices not only on Black Friday itself but across the wider promotional period from mid-November into December. This broader approach reflects how modern retailers actually run sales and avoids exaggerating differences caused by one-day price changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-title">Which?Are the Black Friday sales worth the hype?</span><span class="citation-popover-snippet">Which?November 25, 2025 — 24 Nov 2025 — The vast majority of products on offer for Black Friday 2024 were cheaper or the same price at ot...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
 
 For [affiliate content]({{ 'content-mix/' | relative_url }}), this means avoiding headlines such as "Lowest Black Friday price" unless the historical data genuinely supports that claim.
 
@@ -336,7 +336,7 @@ Which? highlighted several products where the marketing message differed substan
 * A Samsung Jet Bot Robot Vacuum Cleaner sold for £350 during Black Friday but had previously been available for £299 for almost a month earlier in the year.
 * A Samsung Series 5 washing machine matched its Black Friday price on hundreds of separate days before and after the event.
 * A Dyson V11 vacuum cleaner was available at exactly the same Black Friday price for weeks both before and after the sale.
-* An Oral-B electric toothbrush advertised with a large saving had spent almost the entire year selling at the discounted price rather than its stated recommended retail price. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-title">Which?Are the Black Friday sales worth the hype?</span><span class="citation-popover-snippet">Which?November 25, 2025 — 24 Nov 2025 — The vast majority of products on offer for Black Friday 2024 were cheaper or the same price at ot...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
+* An Oral-B electric toothbrush advertised with a large saving had spent almost the entire year selling at the discounted price rather than its stated recommended retail price.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: which.co.uk">[Which?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">which.co.uk</span><span class="citation-popover-title">Which?Are the Black Friday sales worth the hype?</span><span class="citation-popover-snippet">Which?November 25, 2025 — 24 Nov 2025 — The vast majority of products on offer for Black Friday 2024 were cheaper or the same price at ot...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
 
 These examples illustrate why affiliate pages should discuss pricing behaviour rather than simply copying retailer discount percentages.
 
@@ -379,7 +379,7 @@ Counter-intuitively, telling readers to wait can improve long-term [credibility]
 
 Several established tools make historical verification possible.
 
-For Amazon products, services such as CamelCamelCamel and Keepa provide historical price charts and price-drop records covering long periods rather than individual sales events. These allow publishers to identify recurring discount patterns, estimate realistic "buy" prices and distinguish genuine lows from routine promotions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.camelcamelcamel.com">[camelcamelcamel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.camelcamelcamel.com</span><span class="citation-popover-snippet">camelcamelcamel.comcamelcamelcamel.com: Amazon UK price tracker, price history...camelcamelcamel is a free Amazon price tracker, alertin...</span></span></span>
+For Amazon products, services such as CamelCamelCamel and Keepa provide historical price charts and price-drop records covering long periods rather than individual sales events. These allow publishers to identify recurring discount patterns, estimate realistic "buy" prices and distinguish genuine lows from routine promotions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.camelcamelcamel.com">[camelcamelcamel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.camelcamelcamel.com</span><span class="citation-popover-snippet">camelcamelcamel.comcamelcamelcamel.com: Amazon UK price tracker, price history...camelcamelcamel is a free Amazon price tracker, alertin...</span></span></span>
 
 Retailers outside Amazon often require manual tracking or specialist price-comparison services because pricing histories are not always publicly available.
 
@@ -419,178 +419,178 @@ Rather than encouraging every purchase, they answer the more valuable questions:
 Those answers transform Black Friday [coverage]({{ 'coverage/' | relative_url }}) from promotional content into practical consumer guidance, creating pages that remain useful long after the sale has ended while supporting stronger trust and more informed affiliate purchasing decisions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Black Friday Really The Cheapest Time?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Black Friday Really The Cheapest Time?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Priceless%3A+The+Myth+of+Fair+Value+%28and+How+to+Take+Advantage+of+It%29+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Priceless: The Myth of Fair Value (and How to Take Advantage of It) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Priceless%3A+The+Myth+of+Fair+Value+%28and+How+to+Take+Advantage+of+It%29+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Priceless: The Myth of Fair Value (and How to Take Advantage of It)">Priceless: The Myth of Fair Value (and How to Take Advantage...</a>
-        </h4>
-        <p class="fr-book-author">By William Poundstone</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Priceless%3A+The+Myth+of+Fair+Value+%28and+How+to+Take+Advantage+of+It%29+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Priceless: The Myth of Fair Value (and How to Take Advantage of It) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Priceless%3A+The+Myth+of+Fair+Value+%28and+How+to+Take+Advantage+of+It%29+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Priceless: The Myth of Fair Value (and How to Take Advantage of It)">Priceless: The Myth of Fair Value (and How to Take Advantage...</a>
+</h4>
+<p class="fr-book-author">By William Poundstone</p>
         
-        <p class="fr-book-desc">Shows how pricing strategies influence purchasing decisions and perceived bargains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Priceless%3A+The+Myth+of+Fair+Value+%28and+How+to+Take+Advantage+of+It%29+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how pricing strategies influence purchasing decisions and perceived bargains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Priceless%3A+The+Myth+of+Fair+Value+%28and+How+to+Take+Advantage+of+It%29+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
-        </h4>
-        <p class="fr-book-author">By Martin Lindstrom</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains the psychological tactics behind promotions and consumer buying behaviour, including seasonal sales.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
+</h4>
+<p class="fr-book-author">By Martin Lindstrom</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains the psychological tactics behind promotions and consumer buying behaviour, including seasonal sales.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Buyology+by+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology: Truth and Lies About Why We Buy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology: Truth and Lies About Why We Buy">Buyology: Truth and Lies About Why We Buy</a>
-        </h4>
-        <p class="fr-book-author">By Martin Lindstrom</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology: Truth and Lies About Why We Buy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology: Truth and Lies About Why We Buy">Buyology: Truth and Lies About Why We Buy</a>
+</h4>
+<p class="fr-book-author">By Martin Lindstrom</p>
         
-        <p class="fr-book-desc">Explains the psychological tactics behind promotions and consumer buying behaviour, including seasonal sales.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the psychological tactics behind promotions and consumer buying behaviour, including seasonal sales.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
-        </h4>
-        <p class="fr-book-author">By Morgan Housel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
+</h4>
+<p class="fr-book-author">By Morgan Housel</p>
         
-        <p class="fr-book-desc">Provides the mindset for making better long-term purchasing decisions instead of chasing sales hype.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the mindset for making better long-term purchasing decisions instead of chasing sales hype.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Priceless%3A+The+Myth+of+Fair+Value+%28and+How+to+Take+Advantage+of+It%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Priceless: The Myth of Fair Value (and How to Take Advantage of It)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology: Truth and Lies About Why We Buy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Priceless%3A+The+Myth+of+Fair+Value+%28and+How+to+Take+Advantage+of+It%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Priceless: The Myth of Fair Value (and How to Take Advantage of It)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology: Truth and Lies About Why We Buy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Friday Sticker Shop Window Sign Savings Retail Display Vinyl Stickers"><img src="{{ '/assets/images/marketplace-covers/d28563de19cae6a9b07b.jpg' | relative_url }}" alt="Listing image for Black Friday Sticker Shop Window Sign Savings Retail Display Vinyl Stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer">Black Friday Sticker Shop Window Sign Savings Retail Display Vinyl Stickers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Black Friday sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Black Friday sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Friday Sticker Shop Window Sign Savings Retail Display Vinyl Stickers"><img src="{{ '/assets/images/marketplace-covers/d28563de19cae6a9b07b.jpg' | relative_url }}" alt="Listing image for Black Friday Sticker Shop Window Sign Savings Retail Display Vinyl Stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer">Black Friday Sticker Shop Window Sign Savings Retail Display Vinyl Stickers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Black Friday sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Black Friday sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Friday Sale Adverts Sign Poster Print - Sale Now On - A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/a9c1c39eac63e8226355.jpg' | relative_url }}" alt="Listing image for Black Friday Sale Adverts Sign Poster Print - Sale Now On - A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer">Black Friday Sale Adverts Sign Poster Print - Sale Now On - A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Black Friday sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Black Friday sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Friday Sale Adverts Sign Poster Print - Sale Now On - A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/a9c1c39eac63e8226355.jpg' | relative_url }}" alt="Listing image for Black Friday Sale Adverts Sign Poster Print - Sale Now On - A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer">Black Friday Sale Adverts Sign Poster Print - Sale Now On - A5 A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Black Friday sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Black Friday sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterproof indoor and outdoor Black Friday sale poster display sign shop adverts"><img src="{{ '/assets/images/marketplace-covers/525598b98cc3d905b53b.jpg' | relative_url }}" alt="Listing image for Waterproof indoor and outdoor Black Friday sale poster display sign shop adverts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer">Waterproof indoor and outdoor Black Friday sale poster display sign shop adverts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Black Friday sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Black Friday sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterproof indoor and outdoor Black Friday sale poster display sign shop adverts"><img src="{{ '/assets/images/marketplace-covers/525598b98cc3d905b53b.jpg' | relative_url }}" alt="Listing image for Waterproof indoor and outdoor Black Friday sale poster display sign shop adverts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer">Waterproof indoor and outdoor Black Friday sale poster display sign shop adverts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Black Friday sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Black Friday sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Black+Friday+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Black Friday sign" data-ebay-reference="black-friday-is-black-friday-really-the-cheapest-time-making-money-from-black-friday-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ Those answers transform Black Friday [coverage]({{ 'coverage/' | relative_url }}
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ Those answers transform Black Friday [coverage]({{ 'coverage/' | relative_url }}
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ Those answers transform Black Friday [coverage]({{ 'coverage/' | relative_url }}
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ Those answers transform Black Friday [coverage]({{ 'coverage/' | relative_url }}
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ Those answers transform Black Friday [coverage]({{ 'coverage/' | relative_url }}
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,94 +796,94 @@ Those answers transform Black Friday [coverage]({{ 'coverage/' | relative_url }}
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uk.camelcamelcamel.com  
-   Link: <a href="https://uk.camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow">https://uk.camelcamelcamel.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>camelcamelcamel.comcamelcamelcamel.com: Amazon UK price tracker, price history...camelcamelcamel is a free Amazon price tracker, alertin...</p></details>
+   Link:<a href="https://uk.camelcamelcamel.com/" target="_blank" rel="noopener noreferrer nofollow">https://uk.camelcamelcamel.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>camelcamelcamel.comcamelcamelcamel.com: Amazon UK price tracker, price history...camelcamelcamel is a free Amazon price tracker, alertin...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: keepa.com  
-   Link: <a href="https://keepa.com/" target="_blank" rel="noopener noreferrer nofollow">https://keepa.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Price TrackerKeepa tracks over 5 billion Amazon products. We provide Amazon price history charts and price drop alerts...</p></details>
+   Link:<a href="https://keepa.com/" target="_blank" rel="noopener noreferrer nofollow">https://keepa.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Price TrackerKeepa tracks over 5 billion Amazon products. We provide Amazon price history charts and price drop alerts...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uk.camelcamelcamel.com  
-   Link: <a href="https://uk.camelcamelcamel.com/product/1133629601" target="_blank" rel="noopener noreferrer nofollow">https://uk.camelcamelcamel.com/product/1133629601</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analytics: Data Analysis &amp; Decision Makingcamelcamelcamel monitors individual product prices across three Price Types: Amazon, Third Part...</p></details>
+   Link:<a href="https://uk.camelcamelcamel.com/product/1133629601" target="_blank" rel="noopener noreferrer nofollow">https://uk.camelcamelcamel.com/product/1133629601</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analytics: Data Analysis &amp; Decision Makingcamelcamelcamel monitors individual product prices across three Price Types: Amazon, Third Part...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: which.co.uk  
    Title: Which?Are the Black Friday sales worth the hype?  
-   Link: <a href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Which?November 25, 2025 — 24 Nov 2025 — The vast majority of products on offer for Black Friday 2024 were cheaper or the same price at ot...</p></details>
+   Link:<a href="https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/news/article/are-the-black-friday-sales-worth-the-hype-aUT1h6T5aLgj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Which?November 25, 2025 — 24 Nov 2025 — The vast majority of products on offer for Black Friday 2024 were cheaper or the same price at ot...</p></details>
    Published: November 25, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: Black Friday  
-   Link: <a href="https://www.facebook.com/bbcscotlandnews/posts/black-friday-is-it-worth-the-hyperesearch-from-consumer-group-which-reveals-that/849405194343994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcscotlandnews/posts/black-friday-is-it-worth-the-hyperesearch-from-consumer-group-which-reveals-that/849405194343994/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>is it worth the hype? Research...Just one in 20 Black Friday [deals](&amp;#123;&amp;#123; &#x27;deals/&#x27; | relative_url &amp;#125;&amp;#125;) are cheaper than at other times of the year, according to research by...</p></details>
+   Link:<a href="https://www.facebook.com/bbcscotlandnews/posts/black-friday-is-it-worth-the-hyperesearch-from-consumer-group-which-reveals-that/849405194343994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcscotlandnews/posts/black-friday-is-it-worth-the-hyperesearch-from-consumer-group-which-reveals-that/849405194343994/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is it worth the hype? Research...Just one in 20 Black Friday [deals](&amp;#123;&amp;#123; &#x27;deals/&#x27; | relative_url &amp;#125;&amp;#125;) are cheaper than at other times of the year, according to research by...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: taskmonkey.ai  
    Title: keepa vs camelcamelcamel vs honey  
-   Link: <a href="https://taskmonkey.ai/blog/amazon-price-tracker/keepa-vs-camelcamelcamel-vs-honey" target="_blank" rel="noopener noreferrer nofollow">https://taskmonkey.ai/blog/amazon-price-tracker/keepa-vs-camelcamelcamel-vs-honey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Which Amazon...7 Jan 2026 — TL;DR: Keepa offers the most detailed price data (but costs $20/month for premium features), CamelCamelCamel...</p></details>
+   Link:<a href="https://taskmonkey.ai/blog/amazon-price-tracker/keepa-vs-camelcamelcamel-vs-honey" target="_blank" rel="noopener noreferrer nofollow">https://taskmonkey.ai/blog/amazon-price-tracker/keepa-vs-camelcamelcamel-vs-honey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Which Amazon...7 Jan 2026 — TL;DR: Keepa offers the most detailed price data (but costs $20/month for premium features), CamelCamelCamel...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: 83 of black friday deals we looked at in 2024 were actually the same price or ch  
-   Link: <a href="https://www.facebook.com/whichuk/posts/83-of-black-friday-deals-we-looked-at-in-2024-were-actually-the-same-price-or-ch/1280044484157094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whichuk/posts/83-of-black-friday-deals-we-looked-at-in-2024-were-actually-the-same-price-or-ch/1280044484157094/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>83% of Black Friday &#x27;deals&#x27; we looked at in 2024 were...We analysed nearly 200 Black Friday deals from 2024 and found that 83% of the &#x27;d...</p></details>
+   Link:<a href="https://www.facebook.com/whichuk/posts/83-of-black-friday-deals-we-looked-at-in-2024-were-actually-the-same-price-or-ch/1280044484157094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whichuk/posts/83-of-black-friday-deals-we-looked-at-in-2024-were-actually-the-same-price-or-ch/1280044484157094/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>83% of Black Friday &#x27;deals&#x27; we looked at in 2024 were...We analysed nearly 200 Black Friday deals from 2024 and found that 83% of the &#x27;d...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: we analysed nearly 200 black friday deals from 2024 and found that 83 of the dea  
-   Link: <a href="https://www.facebook.com/whichuk/posts/we-analysed-nearly-200-black-friday-deals-from-2024-and-found-that-83-of-the-dea/1280117504149792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whichuk/posts/we-analysed-nearly-200-black-friday-deals-from-2024-and-found-that-83-of-the-dea/1280117504149792/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We analysed nearly 200 Black Friday deals from 2024 and...25 Nov 2025 — We analysed nearly 200 Black Friday deals from 2024 and found th...</p></details>
+   Link:<a href="https://www.facebook.com/whichuk/posts/we-analysed-nearly-200-black-friday-deals-from-2024-and-found-that-83-of-the-dea/1280117504149792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whichuk/posts/we-analysed-nearly-200-black-friday-deals-from-2024-and-found-that-83-of-the-dea/1280117504149792/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We analysed nearly 200 Black Friday deals from 2024 and...25 Nov 2025 — We analysed nearly 200 Black Friday deals from 2024 and found th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.sky.com  
    Title: most black friday offers are not as good as you think survey shows 13475179  
-   Link: <a href="https://news.sky.com/story/most-black-friday-offers-are-not-as-good-as-you-think-survey-shows-13475179" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/most-black-friday-offers-are-not-as-good-as-you-think-survey-shows-13475179</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Black Friday offers are not as good as you think...25 Nov 2025 — Amazon&#x27;s Black Friday deals were cheaper or the same price in 88% of c...</p></details>
+   Link:<a href="https://news.sky.com/story/most-black-friday-offers-are-not-as-good-as-you-think-survey-shows-13475179" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/most-black-friday-offers-are-not-as-good-as-you-think-survey-shows-13475179</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black Friday offers are not as good as you think...25 Nov 2025 — Amazon&#x27;s Black Friday deals were cheaper or the same price in 88% of c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: The Guardian Black Friday discounts fail to offer cheapest prices, Which?  
-   Link: <a href="https://www.theguardian.com/business/2025/nov/25/black-friday-discounts-fail-to-offer-cheapest-prices-which-research-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/nov/25/black-friday-discounts-fail-to-offer-cheapest-prices-which-research-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>research findsA Which? consumer group study has revealed that Black Friday 2024 did not offer the lowest prices of the year across 175 po...</p></details>
+   Link:<a href="https://www.theguardian.com/business/2025/nov/25/black-friday-discounts-fail-to-offer-cheapest-prices-which-research-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/nov/25/black-friday-discounts-fail-to-offer-cheapest-prices-which-research-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>research findsA Which? consumer group study has revealed that Black Friday 2024 did not offer the lowest prices of the year across 175 po...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UKFrugal/comments/1p4y7jj/is_black_friday_better_on_the_actual_day_or_is_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UKFrugal/comments/1p4y7jj/is_black_friday_better_on_the_actual_day_or_is_it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the actual day still offer bigger discounts, or is everything basically the same as the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UKFrugal/comments/1p4y7jj/is_black_friday_better_on_the_actual_day_or_is_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UKFrugal/comments/1p4y7jj/is_black_friday_better_on_the_actual_day_or_is_it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the actual day still offer bigger discounts, or is everything basically the same as the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: independent.co.uk  
    Title: black friday vs boxing day sales cheapest b2875131  
-   Link: <a href="https://www.independent.co.uk/extras/indybest/black-friday/black-friday-vs-boxing-day-sales-cheapest-b2875131.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/extras/indybest/black-friday/black-friday-vs-boxing-day-sales-cheapest-b2875131.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Black Friday vs Boxing Day sales: when is the best time to...30 Nov 2025 — According to my research, more than half (52 per cent) of Ind...</p></details>
+   Link:<a href="https://www.independent.co.uk/extras/indybest/black-friday/black-friday-vs-boxing-day-sales-cheapest-b2875131.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/extras/indybest/black-friday/black-friday-vs-boxing-day-sales-cheapest-b2875131.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black Friday vs Boxing Day sales: when is the best time to...30 Nov 2025 — According to my research, more than half (52 per cent) of Ind...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/InternetIsBeautiful/comments/z3r90x/camelcamelcamel_analyzes_amazon_black_friday/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/InternetIsBeautiful/comments/z3r90x/camelcamelcamel_analyzes_amazon_black_friday/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ce history, this can help show if you are actually getting a deal.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/InternetIsBeautiful/comments/z3r90x/camelcamelcamel_analyzes_amazon_black_friday/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/InternetIsBeautiful/comments/z3r90x/camelcamelcamel_analyzes_amazon_black_friday/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ce history, this can help show if you are actually getting a deal.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: moneysavingexpert.com  
    Title: christmas presents black friday sales  
-   Link: <a href="https://www.moneysavingexpert.com/news/2025/11/christmas-presents-black-friday-sales/" target="_blank" rel="noopener noreferrer nofollow">https://www.moneysavingexpert.com/news/2025/11/christmas-presents-black-friday-sales/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>found that, out of 227 products, nine in 10 of them were cheaper or the same price at other times of the year.Read more...</p></details>
+   Link:<a href="https://www.moneysavingexpert.com/news/2025/11/christmas-presents-black-friday-sales/" target="_blank" rel="noopener noreferrer nofollow">https://www.moneysavingexpert.com/news/2025/11/christmas-presents-black-friday-sales/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>found that, out of 227 products, nine in 10 of them were cheaper or the same price at other times of the year.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: trustedreviews.com  
-   Link: <a href="https://www.trustedreviews.com/how-to/easily-track-price-history-on-amazon-4282715" target="_blank" rel="noopener noreferrer nofollow">https://www.trustedreviews.com/how-to/easily-track-price-history-on-amazon-4282715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to find price history on Amazon this Black Friday1 Nov 2023 — We&#x27;ll be using CamelCamelCamel in this guide, but another popular exten...</p></details>
+   Link:<a href="https://www.trustedreviews.com/how-to/easily-track-price-history-on-amazon-4282715" target="_blank" rel="noopener noreferrer nofollow">https://www.trustedreviews.com/how-to/easily-track-price-history-on-amazon-4282715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to find price history on Amazon this Black Friday1 Nov 2023 — We&#x27;ll be using CamelCamelCamel in this guide, but another popular exten...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9nA9-oJSftU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9nA9-oJSftU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Black Friday &quot;Deals&quot; [suspicious link removed]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9nA9-oJSftU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9nA9-oJSftU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Black Friday &quot;Deals&quot; [suspicious link removed]...</p></details>

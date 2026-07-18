@@ -290,11 +290,11 @@ That is the purpose of **Earnings Per Click (EPC)**. Rather than judging a page 
 
 EPC is simply the average commission earned for each affiliate click:
 
-**EPC = Total affiliate commission ÷ Total affiliate clicks** <span class="citation-chip-wrap"><a class="citation-chip" href="https://success.awin.com/s/article/What-metrics-can-I-find-in-Awin-s-reports?language=en_GB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[success.awin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">EPC shows your average earnings per click. It&#x27;s calculated by dividing total commission by the number of clicks over a given period.Read...</span></span></span>
+**EPC = Total affiliate commission ÷ Total affiliate clicks**<span class="citation-chip-wrap"><a class="citation-chip" href="https://success.awin.com/s/article/What-metrics-can-I-find-in-Awin-s-reports?language=en_GB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[success.awin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">EPC shows your average earnings per click. It&#x27;s calculated by dividing total commission by the number of clicks over a given period.Read...</span></span></span>
 
 If a page sends 800 tracked affiliate clicks during a month and earns £480 in approved commissions, its EPC is £0.60. On average, every click leaving that page generated 60 pence.
 
-Affiliate networks such as Awin define EPC in exactly this way: average earnings generated per click over a given reporting period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/What-metrics-can-I-find-in-Awin-s-reports?language=en_GB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[Awin Partner Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">EPC shows your average earnings per click. It&#x27;s calculated by dividing total commission by the number of clicks over a given period.Read...</span></span></span>
+Affiliate networks such as Awin define EPC in exactly this way: average earnings generated per click over a given reporting period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://success.awin.com/s/article/What-metrics-can-I-find-in-Awin-s-reports?language=en_GB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: success.awin.com">[Awin Partner Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">success.awin.com</span><span class="citation-popover-snippet">EPC shows your average earnings per click. It&#x27;s calculated by dividing total commission by the number of clicks over a given period.Read...</span></span></span>
 
 The strength of EPC is that it silently incorporates several variables at once. Instead of separately tracking:
 
@@ -302,7 +302,7 @@ The strength of EPC is that it silently incorporates several variables at once. 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * merchant conversion rate
-* average order value <span class="citation-chip-wrap"><a class="citation-chip" href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnerstack.com">[partnerstack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnerstack.com</span><span class="citation-popover-title">Partner Stack Earnings Per Click (EPC) Definition &amp; Meaning</span><span class="citation-popover-snippet">Earnings Per Click (EPC) Definition &amp; MeaningMarch 14, 2025 — Earnings per click (EPC) is a key performance indicator in affi...</span><span class="citation-popover-meta">Published: March 14, 2025</span></span></span>
+* average order value<span class="citation-chip-wrap"><a class="citation-chip" href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnerstack.com">[partnerstack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnerstack.com</span><span class="citation-popover-title">Partner Stack Earnings Per Click (EPC) Definition &amp; Meaning</span><span class="citation-popover-snippet">Earnings Per Click (EPC) Definition &amp; MeaningMarch 14, 2025 — Earnings per click (EPC) is a key performance indicator in affi...</span><span class="citation-popover-meta">Published: March 14, 2025</span></span></span>
 * commission percentage or fixed payout
 * approved commissions after adjustments
 * click volume
@@ -343,7 +343,7 @@ The higher EPC could result from:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * a merchant with better conversion rates
-* larger average purchases <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.awin.com/docs/glossary-overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.awin.com">[help.awin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.awin.com</span><span class="citation-popover-title">glossary overview</span><span class="citation-popover-snippet">type that offers discount codes to incentivize purchases. E. Earnings per click (EPC). Average earnings per click sent to an advertiser...</span></span></span>
+* larger average purchases<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.awin.com/docs/glossary-overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.awin.com">[help.awin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.awin.com</span><span class="citation-popover-title">glossary overview</span><span class="citation-popover-snippet">type that offers discount codes to incentivize purchases. E. Earnings per click (EPC). Average earnings per click sent to an advertiser...</span></span></span>
 * higher commission rates
 * fewer cancelled transactions
 
@@ -396,7 +396,7 @@ Affiliate marketers often compare several merchants selling similar products.
 
 Looking only at commission percentages can be misleading.
 
-For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[endorsely.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</span></span></span>
+For example:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[endorsely.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -409,7 +409,7 @@ For example: <span class="citation-chip-wrap"><a class="citation-chip" href="htt
 
 The highest advertised commission is not automatically the most profitable choice.
 
-Network-reported EPC provides a rough indication of how effectively an offer converts across participating affiliates, although it represents an average rather than a guarantee of individual performance. Your own audience, traffic quality and content can produce substantially different EPC values from the network average. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnerstack.com">[PartnerStack+2Endorsely]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnerstack.com</span><span class="citation-popover-title">Partner Stack Earnings Per Click (EPC) Definition &amp; Meaning</span><span class="citation-popover-snippet">Earnings Per Click (EPC) Definition &amp; MeaningMarch 14, 2025 — Earnings per click (EPC) is a key performance indicator in affi...</span><span class="citation-popover-meta">Published: March 14, 2025</span></span></span>
+Network-reported EPC provides a rough indication of how effectively an offer converts across participating affiliates, although it represents an average rather than a guarantee of individual performance. Your own audience, traffic quality and content can produce substantially different EPC values from the network average.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnerstack.com">[PartnerStack+2Endorsely]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnerstack.com</span><span class="citation-popover-title">Partner Stack Earnings Per Click (EPC) Definition &amp; Meaning</span><span class="citation-popover-snippet">Earnings Per Click (EPC) Definition &amp; MeaningMarch 14, 2025 — Earnings per click (EPC) is a key performance indicator in affi...</span><span class="citation-popover-meta">Published: March 14, 2025</span></span></span>
 
 For this reason, many affiliates use network EPC as an initial screening metric before validating performance with their own data.
 
@@ -450,7 +450,7 @@ More stable comparisons come from reviewing EPC across:
 * consistent reporting periods
 * similar seasonal conditions
 
-Many affiliate networks also display rolling periods such as 7-day or 30-day EPC to smooth short-term fluctuations while still highlighting recent performance trends. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[Endorsely]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</span></span></span>
+Many affiliate networks also display rolling periods such as 7-day or 30-day EPC to smooth short-term fluctuations while still highlighting recent performance trends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[Endorsely]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_earnings_per_click_s_b71160-Illustration-3-dark.svg" | relative_url }}" alt="Earnings Per Click illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_earnings_per_click_s_b71160-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_earnings_per_click_s_b71160-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -476,178 +476,178 @@ It should not replace detailed funnel analysis, especially when diagnosing probl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Cleaner Number Than Traffic. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Cleaner Number Than Traffic. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
-        </h4>
-        <p class="fr-book-author">By Evgenii Prussakov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
+</h4>
+<p class="fr-book-author">By Evgenii Prussakov</p>
         
-        <p class="fr-book-desc">Directly covers affiliate programme metrics, optimisation and performance analysis including EPC-related thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers affiliate programme metrics, optimisation and performance analysis including EPC-related thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Web Analytics 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IykGCqV1v20C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Web Analytics 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Web Analytics 2.0">Web Analytics 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Avinash Kaushik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Web Analytics 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IykGCqV1v20C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Web Analytics 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Web Analytics 2.0">Web Analytics 2.0</a>
+</h4>
+<p class="fr-book-author">By Avinash Kaushik</p>
         
-        <p class="fr-book-desc">Teaches KPI selection, conversion measurement and evaluating page performance using meaningful metrics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches KPI selection, conversion measurement and evaluating page performance using meaningful metrics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+by+Chandler+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fzXsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Marketing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Affiliate+Marketing+by+Chandler+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing">Affiliate Marketing</a>
-        </h4>
-        <p class="fr-book-author">By Chandler Wright</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+by+Chandler+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fzXsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Marketing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Affiliate+Marketing+by+Chandler+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing">Affiliate Marketing</a>
+</h4>
+<p class="fr-book-author">By Chandler Wright</p>
         
-        <p class="fr-book-desc">Explains affiliate funnels, conversions and measuring profitability beyond raw traffic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Affiliate+Marketing+by+Chandler+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains affiliate funnels, conversions and measuring profitability beyond raw traffic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Affiliate+Marketing+by+Chandler+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Websites Win on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aqXctAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Making Websites Win" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Websites Win">Making Websites Win</a>
-        </h4>
-        <p class="fr-book-author">By Karl Blanks, Ben Jesson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Websites Win on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aqXctAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Making Websites Win" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Websites Win">Making Websites Win</a>
+</h4>
+<p class="fr-book-author">By Karl Blanks, Ben Jesson</p>
         
-        <p class="fr-book-desc">Focuses on improving conversion rates and commercial outcomes that ultimately increase EPC.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on improving conversion rates and commercial outcomes that ultimately increase EPC.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Web+Analytics+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Web Analytics 2.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Marketing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Marketing</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Web+Analytics+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Web Analytics 2.0</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Marketing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Marketing</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options"><img src="{{ '/assets/images/marketplace-covers/39f1c1791fd8ad2996ba.jpg' | relative_url }}" alt="Listing image for Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options"><img src="{{ '/assets/images/marketplace-covers/39f1c1791fd8ad2996ba.jpg' | relative_url }}" alt="Listing image for Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Home Office Desk Drawer Organizer – Modular Storage Box, Multi-Colour Options</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk"><img src="{{ '/assets/images/marketplace-covers/c49e531cf1863fd785b7.jpg' | relative_url }}" alt="Listing image for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk"><img src="{{ '/assets/images/marketplace-covers/c49e531cf1863fd785b7.jpg' | relative_url }}" alt="Listing image for Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Deli Desktop Organizer Z00220 5-Section Stationery Holder for Home Office Desk</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand"><img src="{{ '/assets/images/marketplace-covers/9bf609a895f258eb28eb.jpg' | relative_url }}" alt="Listing image for Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand"><img src="{{ '/assets/images/marketplace-covers/9bf609a895f258eb28eb.jpg' | relative_url }}" alt="Listing image for Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Desk Organizer Stationary Storage Home Tidy Storage Tabletop Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for home office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: home office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=home+office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="home office desk organizer" data-ebay-reference="earnings-per-click-the-cleaner-number-than-traffic-making-money-from-home-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -663,7 +663,7 @@ It should not replace detailed funnel analysis, especially when diagnosing probl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -683,7 +683,7 @@ It should not replace detailed funnel analysis, especially when diagnosing probl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -715,7 +715,7 @@ It should not replace detailed funnel analysis, especially when diagnosing probl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -767,7 +767,7 @@ It should not replace detailed funnel analysis, especially when diagnosing probl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -812,7 +812,7 @@ It should not replace detailed funnel analysis, especially when diagnosing probl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -853,85 +853,85 @@ It should not replace detailed funnel analysis, especially when diagnosing probl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: success.awin.com  
-   Link: <a href="https://success.awin.com/s/article/What-metrics-can-I-find-in-Awin-s-reports?language=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/What-metrics-can-I-find-in-Awin-s-reports?language=en_GB</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EPC shows your average earnings per click. It&#x27;s calculated by dividing total commission by the number of clicks over a given period.Read...</p></details>
+   Link:<a href="https://success.awin.com/s/article/What-metrics-can-I-find-in-Awin-s-reports?language=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/What-metrics-can-I-find-in-Awin-s-reports?language=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EPC shows your average earnings per click. It&#x27;s calculated by dividing total commission by the number of clicks over a given period.Read...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: success.awin.com  
-   Link: <a href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Awin Partner Success CenterThe Essential Affiliate Marketing GlossaryThis Affiliate Marketing Glossary will allow you to get to know an a...</p></details>
+   Link:<a href="https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/Terminology-used-in-affiliate-marketing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Awin Partner Success CenterThe Essential Affiliate Marketing GlossaryThis Affiliate Marketing Glossary will allow you to get to know an a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: partnerstack.com  
    Title: Partner Stack Earnings Per Click (EPC) Definition & Meaning  
-   Link: <a href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow">https://partnerstack.com/glossary/earnings-per-click-epc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click (EPC) Definition &amp; MeaningMarch 14, 2025 — Earnings per click (EPC) is a key performance indicator in affi...</p></details>
+   Link:<a href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow">https://partnerstack.com/glossary/earnings-per-click-epc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click (EPC) Definition &amp; MeaningMarch 14, 2025 — Earnings per click (EPC) is a key performance indicator in affi...</p></details>
    Published: March 14, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: endorsely.com  
-   Link: <a href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</p></details>
+   Link:<a href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example: $350 in commissions from 500 clicks over the past week = $0.70 EPC (7-day). ‍.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: success.awin.com  
    Title: Welche Kennzahlen finde ich in den Reports von Awin  
-   Link: <a href="https://success.awin.com/s/article/Welche-Kennzahlen-finde-ich-in-den-Reports-von-Awin?language=de" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/Welche-Kennzahlen-finde-ich-in-den-Reports-von-Awin?language=de</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EPC zeigt deine durchschnittlichen Einnahmen pro Klick. Er wird berechnet, indem die gesamte Provision durch die Anzahl der Klicks...Rea...</p></details>
+   Link:<a href="https://success.awin.com/s/article/Welche-Kennzahlen-finde-ich-in-den-Reports-von-Awin?language=de" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/Welche-Kennzahlen-finde-ich-in-den-Reports-von-Awin?language=de</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EPC zeigt deine durchschnittlichen Einnahmen pro Klick. Er wird berechnet, indem die gesamte Provision durch die Anzahl der Klicks...Rea...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: help.awin.com  
    Title: glossary overview  
-   Link: <a href="https://help.awin.com/docs/glossary-overview" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/glossary-overview</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>type that offers discount codes to incentivize purchases. E. Earnings per click (EPC). Average earnings per click sent to an advertiser...</p></details>
+   Link:<a href="https://help.awin.com/docs/glossary-overview" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/glossary-overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>type that offers discount codes to incentivize purchases. E. Earnings per click (EPC). Average earnings per click sent to an advertiser...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medienpilot.de  
-   Link: <a href="https://www.medienpilot.de/glossar/earnings-per-click/" target="_blank" rel="noopener noreferrer nofollow">https://www.medienpilot.de/glossar/earnings-per-click/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r Suchmaschinenwerbung verdienen. Der EPC ist besonders...Read more...</p></details>
+   Link:<a href="https://www.medienpilot.de/glossar/earnings-per-click/" target="_blank" rel="noopener noreferrer nofollow">https://www.medienpilot.de/glossar/earnings-per-click/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r Suchmaschinenwerbung verdienen. Der EPC ist besonders...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: What is Earning Per Click (EPC) and How Do We Calculate It?  
-   Link: <a href="https://www.youtube.com/watch?v=juvbhOPJJUY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=juvbhOPJJUY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings per click affiliate marketing epc explained What is Earnings Per Click (EPC) in Online Marketing? [Explainer] Deberoo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=juvbhOPJJUY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=juvbhOPJJUY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings per click affiliate marketing epc explained What is Earnings Per Click (EPC) in Online Marketing? [Explainer] Deberoo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: postaffiliatepro.com  
    Title: epc affiliate marketing  
-   Link: <a href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It measures the average amount of money you earn each time someone clicks on your affiliate link. This...Read more...</p></details>
+   Link:<a href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It measures the average amount of money you earn each time someone clicks on your affiliate link. This...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: crakrevenue.com  
    Title: epc in affiliate marketing  
-   Link: <a href="https://www.crakrevenue.com/blog/epc-in-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.crakrevenue.com/blog/epc-in-affiliate-marketing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It refers to the average amount of money you earn each time someone clicks on one of your...Read more...</p></details>
+   Link:<a href="https://www.crakrevenue.com/blog/epc-in-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.crakrevenue.com/blog/epc-in-affiliate-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It refers to the average amount of money you earn each time someone clicks on one of your...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Earnings Per Click Explained  
-   Link: <a href="https://www.youtube.com/watch?v=tkiUM_pp7G4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tkiUM_pp7G4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Earning Per Click (EPC) and How Do We Calculate It?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tkiUM_pp7G4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tkiUM_pp7G4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Earning Per Click (EPC) and How Do We Calculate It?...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: 3x Affiliate Marketing Revenue by Calculating EPC (Earning Per Click)  
-   Link: <a href="https://www.youtube.com/watch?v=sGTd0szG9YM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sGTd0szG9YM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click? Pay Attention to This Metric...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sGTd0szG9YM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sGTd0szG9YM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click? Pay Attention to This Metric...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: What is Earnings Per Click (EPC) in Online Marketing?  
-   Link: <a href="https://www.youtube.com/watch?v=RZeMfa1VpW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RZeMfa1VpW8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click Explained - How Conversion Rates Help Your EPC...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RZeMfa1VpW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RZeMfa1VpW8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click Explained - How Conversion Rates Help Your EPC...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Earnings Per Click? Pay Attention to This Metric!  
-   Link: <a href="https://www.youtube.com/watch?v=bpPY5wGy5mQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bpPY5wGy5mQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Earnings Per Click (EPC) in Online Marketing?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bpPY5wGy5mQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bpPY5wGy5mQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Earnings Per Click (EPC) in Online Marketing?...</p></details>

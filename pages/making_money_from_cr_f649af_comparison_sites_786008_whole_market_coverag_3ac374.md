@@ -284,7 +284,7 @@ Comparison pages are one of the most effective affiliate formats because they he
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374-Illustration-1-dark.svg" | relative_url }}" alt="Coverage illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate publishers, the safest approach is to explain the scope of coverage before readers interpret [rankings]({{ 'rankings/' | relative_url }}). A page does not need to include every available product to be useful, but it should accurately describe what it does and does not cover. Regulators examining digital comparison tools have repeatedly highlighted transparency around market coverage as an important consumer protection issue because incomplete comparisons can influence purchasing decisions without readers realising important [alternatives]({{ 'alternatives/' | relative_url }}) have been excluded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fca.org.uk/news/press-releases/fca-consult-additional-standards-price-comparison-websites-displaying-payday" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fca.org.uk">[FCA+2FCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fca.org.uk</span><span class="citation-popover-title">fca consult additional standards price comparison websites displaying payday</span><span class="citation-popover-snippet">FCA to consult on additional standards for price...28 Oct 2015 — The CMA recommended that the FCA review its standards for price comp...</span></span></span>
+For affiliate publishers, the safest approach is to explain the scope of coverage before readers interpret [rankings]({{ 'rankings/' | relative_url }}). A page does not need to include every available product to be useful, but it should accurately describe what it does and does not cover. Regulators examining digital comparison tools have repeatedly highlighted transparency around market coverage as an important consumer protection issue because incomplete comparisons can influence purchasing decisions without readers realising important [alternatives]({{ 'alternatives/' | relative_url }}) have been excluded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fca.org.uk/news/press-releases/fca-consult-additional-standards-price-comparison-websites-displaying-payday" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fca.org.uk">[FCA+2FCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fca.org.uk</span><span class="citation-popover-title">fca consult additional standards price comparison websites displaying payday</span><span class="citation-popover-snippet">FCA to consult on additional standards for price...28 Oct 2015 — The CMA recommended that the FCA review its standards for price comp...</span></span></span>
 
 ## Does "whole market" really mean every option?
 
@@ -304,7 +304,7 @@ Many affiliate [comparison sites]({{ 'comparisons/' | relative_url }}) include o
 
 None of these limitations automatically make a comparison poor. Problems arise when those limits are hidden or unclear.
 
-The UK's Competition and Markets [Authority]({{ 'authority/' | relative_url }}) (CMA) has stressed that comparison tools should clearly explain how many products they compare, how rankings are determined and how they generate revenue. Its CARE principles—Clear, Accurate, Responsible and Easy to Use—are intended to reduce consumer misunderstanding about the scope and neutrality of comparison services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.insideglobaltech.com/2017/10/03/price-comparison-websites-the-uks-cma-weighs-in-on-the-competition-law-data-protection-and-consumer-protection-requirements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insideglobaltech.com">[Inside Global Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insideglobaltech.com</span><span class="citation-popover-snippet">Inside Global TechPrice comparison websites: the UK&#x27;s CMA weighs in on...3 Oct 2017 — Price comparison websites: the UK&#x27;s CMA weighs in...</span></span></span>
+The UK's Competition and Markets [Authority]({{ 'authority/' | relative_url }}) (CMA) has stressed that comparison tools should clearly explain how many products they compare, how rankings are determined and how they generate revenue. Its CARE principles—Clear, Accurate, Responsible and Easy to Use—are intended to reduce consumer misunderstanding about the scope and neutrality of comparison services.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.insideglobaltech.com/2017/10/03/price-comparison-websites-the-uks-cma-weighs-in-on-the-competition-law-data-protection-and-consumer-protection-requirements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insideglobaltech.com">[Inside Global Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insideglobaltech.com</span><span class="citation-popover-snippet">Inside Global TechPrice comparison websites: the UK&#x27;s CMA weighs in on...3 Oct 2017 — Price comparison websites: the UK&#x27;s CMA weighs in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AIdAFxkJZZA" title="How to Make a Price Comparison Website from Scratch | Earn Affiliate Money on Auto Pilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AIdAFxkJZZA" target="_blank" rel="noopener noreferrer">How to Make a Price Comparison Website from Scratch | Earn Affiliate Money on Auto Pilot</a></p><p class="youtube-embed-meta">Channel: Mr Web</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AIdAFxkJZZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AIdAFxkJZZA">Open on YouTube</a></p></div></div></div>
@@ -313,7 +313,7 @@ The UK's Competition and Markets [Authority]({{ 'authority/' | relative_url }}) 
 
 Different comparison models serve different purposes. The important point is that the label matches reality.
 
-**Whole-market comparison** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/c829b83c-b89f-43e4-aa17-97d64e1ebea2?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[ft.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">Compare the Market fined £17.9m for breach of...19 Nov 2020 — Price comparison site prevented home insurers from offering cheaper rates...</span></span></span>
+**Whole-market comparison**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/c829b83c-b89f-43e4-aa17-97d64e1ebea2?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[ft.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">Compare the Market fined £17.9m for breach of...19 Nov 2020 — Price comparison site prevented home insurers from offering cheaper rates...</span></span></span>
 
 A genuine whole-market comparison attempts to include all significant providers within a clearly defined market, subject to objective inclusion [criteria]({{ 'criteria/' | relative_url }}). Maintaining this standard requires constant updating because products, prices and providers change frequently.
 
@@ -349,7 +349,7 @@ Readers rarely know what has been excluded. They judge the market based on what 
 
 This creates an "availability bias": products included in the comparison receive attention simply because they are visible, while omitted alternatives effectively disappear from consideration.
 
-The FCA has previously highlighted an "expectation gap" in comparison websites, where consumers assume they are receiving complete or sufficient information when important differences or limitations remain undisclosed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fca.org.uk/news/press-releases/fca-launches-review-price-comparison-websites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fca.org.uk">[FCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fca.org.uk</span><span class="citation-popover-title">fca launches review price comparison websites</span><span class="citation-popover-snippet">The FCA launches review into price comparison websites24 Nov 2013 — The thematic review will focus on motor, travel and home insurance...</span></span></span>
+The FCA has previously highlighted an "expectation gap" in comparison websites, where consumers assume they are receiving complete or sufficient information when important differences or limitations remain undisclosed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fca.org.uk/news/press-releases/fca-launches-review-price-comparison-websites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fca.org.uk">[FCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fca.org.uk</span><span class="citation-popover-title">fca launches review price comparison websites</span><span class="citation-popover-snippet">The FCA launches review into price comparison websites24 Nov 2013 — The thematic review will focus on motor, travel and home insurance...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374-Illustration-2-dark.svg" | relative_url }}" alt="Coverage illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -395,7 +395,7 @@ Signals that may create this impression include:
 
 Instead, explain the selection process near the beginning of the page, where readers make initial trust judgments rather than hiding it in a footer or disclosure page.
 
-Research and regulatory [reviews]({{ 'reviews/' | relative_url }}) of comparison tools have consistently found that consumers often misunderstand how results are selected, ranked and monetised unless this information is presented prominently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pinsentmasons.com/out-law/news/price-comparison-sites-falling-short-of-regulatory-standards-warns-fca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pinsentmasons.com">[Pinsent Masons+2Inside Global Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pinsentmasons.com</span><span class="citation-popover-title">price comparison sites falling short of regulatory standards warns fca</span><span class="citation-popover-snippet">Pinsent MasonsPrice comparison sites falling short of regulatory standards...18 Jul 2014 — Some of the price comparison websites (PCWs)...</span></span></span>
+Research and regulatory [reviews]({{ 'reviews/' | relative_url }}) of comparison tools have consistently found that consumers often misunderstand how results are selected, ranked and monetised unless this information is presented prominently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pinsentmasons.com/out-law/news/price-comparison-sites-falling-short-of-regulatory-standards-warns-fca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pinsentmasons.com">[Pinsent Masons+2Inside Global Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pinsentmasons.com</span><span class="citation-popover-title">price comparison sites falling short of regulatory standards warns fca</span><span class="citation-popover-snippet">Pinsent MasonsPrice comparison sites falling short of regulatory standards...18 Jul 2014 — Some of the price comparison websites (PCWs)...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ES8F_idAJI" title="Exclusive: Google &#x27;trying to circumvent EU ruling&#x27; with price comparison sites run by ad agencies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ES8F_idAJI" target="_blank" rel="noopener noreferrer">Exclusive: Google &#x27;trying to circumvent EU ruling&#x27; with price comparison sites run by ad agencies</a></p><p class="youtube-embed-meta">Channel: Sky News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ES8F_idAJI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ES8F_idAJI">Open on YouTube</a></p></div></div></div>
@@ -413,162 +413,162 @@ A transparent comparison also becomes easier to maintain. Instead of chasing imp
 For affiliate businesses seeking long-term search visibility and reader trust, a clearly labelled curated comparison is usually more sustainable than implying whole-market coverage that cannot realistically be supported.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does This Comparison Cover the Whole Market?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does This Comparison Cover the Whole Market?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Explores incentives and biases that can shape online recommendations and comparisons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores incentives and biases that can shape online recommendations and comparisons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me, I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7888907-M.jpg" alt="Cover for Trust Me, I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me, I&#x27;m Lying">Trust Me, I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me, I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7888907-M.jpg" alt="Cover for Trust Me, I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me, I&#x27;m Lying">Trust Me, I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Public relations, Marketing, Blogs, Economic aspects, Social media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Public relations, Marketing, Blogs, Economic aspects, Social media.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded+Robert+B+Cialdini+PhD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence, New and Expanded on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10873276-M.jpg" alt="Cover for Influence, New and Expanded" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded+Robert+B+Cialdini+PhD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence, New and Expanded">Influence, New and Expanded</a>
-        </h4>
-        <p class="fr-book-author">By Robert B Cialdini PhD</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded+Robert+B+Cialdini+PhD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence, New and Expanded on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10873276-M.jpg" alt="Cover for Influence, New and Expanded" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded+Robert+B+Cialdini+PhD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence, New and Expanded">Influence, New and Expanded</a>
+</h4>
+<p class="fr-book-author">By Robert B Cialdini PhD</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Psychology, Influence (Psychology), Persuasion (Psychology), Compliance, Sociale bei͏̈nvloeding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded+Robert+B+Cialdini+PhD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Psychology, Influence (Psychology), Persuasion (Psychology), Compliance, Sociale bei͏̈nvloeding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded+Robert+B+Cialdini+PhD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Buyer+Personas+Adele+Revella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyer Personas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buyer+Personas+Adele+Revella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyer Personas">Buyer Personas</a>
-        </h4>
-        <p class="fr-book-author">By Adele Revella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Buyer+Personas+Adele+Revella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyer Personas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Buyer+Personas+Adele+Revella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyer Personas">Buyer Personas</a>
+</h4>
+<p class="fr-book-author">By Adele Revella</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Consumer behavior, Marketing, Management, BUSINESS &amp; ECONOMICS / Marketing / General, BUSINESS &amp; ECONOMIC...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buyer+Personas+Adele+Revella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Consumer behavior, Marketing, Management, BUSINESS &amp; ECONOMICS / Marketing / General, BUSINESS &amp; ECONOMIC...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Buyer+Personas+Adele+Revella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me, I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence, New and Expanded</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me, I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence, New and Expanded</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy"><img src="{{ '/assets/images/marketplace-covers/191b343a7501bed5fefa.jpg' | relative_url }}" alt="Listing image for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy"><img src="{{ '/assets/images/marketplace-covers/191b343a7501bed5fefa.jpg' | relative_url }}" alt="Listing image for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="coverage-does-this-comparison-cover-the-whole-market-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ For affiliate businesses seeking long-term search visibility and reader trust, a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ For affiliate businesses seeking long-term search visibility and reader trust, a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ For affiliate businesses seeking long-term search visibility and reader trust, a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ For affiliate businesses seeking long-term search visibility and reader trust, a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ For affiliate businesses seeking long-term search visibility and reader trust, a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,83 +774,83 @@ For affiliate businesses seeking long-term search visibility and reader trust, a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fca.org.uk  
    Title: fca consult additional standards price comparison websites displaying payday  
-   Link: <a href="https://www.fca.org.uk/news/press-releases/fca-consult-additional-standards-price-comparison-websites-displaying-payday" target="_blank" rel="noopener noreferrer nofollow">https://www.fca.org.uk/news/press-releases/fca-consult-additional-standards-price-comparison-websites-displaying-payday</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FCA to consult on additional standards for price...28 Oct 2015 — The CMA recommended that the FCA review its standards for price comp...</p></details>
+   Link:<a href="https://www.fca.org.uk/news/press-releases/fca-consult-additional-standards-price-comparison-websites-displaying-payday" target="_blank" rel="noopener noreferrer nofollow">https://www.fca.org.uk/news/press-releases/fca-consult-additional-standards-price-comparison-websites-displaying-payday</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FCA to consult on additional standards for price...28 Oct 2015 — The CMA recommended that the FCA review its standards for price comp...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fca.org.uk  
    Title: fca launches review price comparison websites  
-   Link: <a href="https://www.fca.org.uk/news/press-releases/fca-launches-review-price-comparison-websites" target="_blank" rel="noopener noreferrer nofollow">https://www.fca.org.uk/news/press-releases/fca-launches-review-price-comparison-websites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The FCA launches review into price comparison websites24 Nov 2013 — The thematic review will focus on motor, travel and home insurance...</p></details>
+   Link:<a href="https://www.fca.org.uk/news/press-releases/fca-launches-review-price-comparison-websites" target="_blank" rel="noopener noreferrer nofollow">https://www.fca.org.uk/news/press-releases/fca-launches-review-price-comparison-websites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FCA launches review into price comparison websites24 Nov 2013 — The thematic review will focus on motor, travel and home insurance...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: insideglobaltech.com  
-   Link: <a href="https://www.insideglobaltech.com/2017/10/03/price-comparison-websites-the-uks-cma-weighs-in-on-the-competition-law-data-protection-and-consumer-protection-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://www.insideglobaltech.com/2017/10/03/price-comparison-websites-the-uks-cma-weighs-in-on-the-competition-law-data-protection-and-consumer-protection-requirements/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Global TechPrice comparison websites: the UK&#x27;s CMA weighs in on...3 Oct 2017 — Price comparison websites: the UK&#x27;s CMA weighs in...</p></details>
+   Link:<a href="https://www.insideglobaltech.com/2017/10/03/price-comparison-websites-the-uks-cma-weighs-in-on-the-competition-law-data-protection-and-consumer-protection-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://www.insideglobaltech.com/2017/10/03/price-comparison-websites-the-uks-cma-weighs-in-on-the-competition-law-data-protection-and-consumer-protection-requirements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Global TechPrice comparison websites: the UK&#x27;s CMA weighs in on...3 Oct 2017 — Price comparison websites: the UK&#x27;s CMA weighs in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pinsentmasons.com  
    Title: price comparison sites falling short of regulatory standards warns fca  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/price-comparison-sites-falling-short-of-regulatory-standards-warns-fca" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/price-comparison-sites-falling-short-of-regulatory-standards-warns-fca</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pinsent MasonsPrice comparison sites falling short of regulatory standards...18 Jul 2014 — Some of the price comparison websites (PCWs)...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/price-comparison-sites-falling-short-of-regulatory-standards-warns-fca" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/price-comparison-sites-falling-short-of-regulatory-standards-warns-fca</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pinsent MasonsPrice comparison sites falling short of regulatory standards...18 Jul 2014 — Some of the price comparison websites (PCWs)...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tlt.com  
    Title: fca consults on overhaul of consumer credit financial promotion rules  
-   Link: <a href="https://www.tlt.com/insights-and-events/insight/fca-consults-on-overhaul-of-consumer-credit-financial-promotion-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.tlt.com/insights-and-events/insight/fca-consults-on-overhaul-of-consumer-credit-financial-promotion-rules</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FCA consults on overhaul of consumer credit financial...7 May 2026 — The FCA has published CP26/15, which reviews and proposes to simpli...</p></details>
+   Link:<a href="https://www.tlt.com/insights-and-events/insight/fca-consults-on-overhaul-of-consumer-credit-financial-promotion-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.tlt.com/insights-and-events/insight/fca-consults-on-overhaul-of-consumer-credit-financial-promotion-rules</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FCA consults on overhaul of consumer credit financial...7 May 2026 — The FCA has published CP26/15, which reviews and proposes to simpli...</p></details>
    Published: May 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: price comparison website use of most favoured nation clauses  
-   Link: <a href="https://www.gov.uk/cma-cases/price-comparison-website-use-of-most-favoured-nation-clauses" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/price-comparison-website-use-of-most-favoured-nation-clauses</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>comparison website: use of most favoured nation...The CMA found that, between 1 December 2015 and 1 December 2017, BGL infringed competi...</p></details>
+   Link:<a href="https://www.gov.uk/cma-cases/price-comparison-website-use-of-most-favoured-nation-clauses" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/price-comparison-website-use-of-most-favoured-nation-clauses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comparison website: use of most favoured nation...The CMA found that, between 1 December 2015 and 1 December 2017, BGL infringed competi...</p></details>
    Published: December 2015  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abi.org.uk  
-   Link: <a href="https://www.abi.org.uk/globalassets/sitecore/files/documents/consultation-papers/2014/03/fca-thematic-review-of-price-comparison-websites.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.abi.org.uk/globalassets/sitecore/files/documents/consultation-papers/2014/03/fca-thematic-review-of-price-comparison-websites.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Websites. What is your overall view of Price Comparison Websites? Price...Read more...</p></details>
+   Link:<a href="https://www.abi.org.uk/globalassets/sitecore/files/documents/consultation-papers/2014/03/fca-thematic-review-of-price-comparison-websites.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.abi.org.uk/globalassets/sitecore/files/documents/consultation-papers/2014/03/fca-thematic-review-of-price-comparison-websites.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Websites. What is your overall view of Price Comparison Websites? Price...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Which?  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/54b78bc9ed915d1594000005/Which_Response_to_remedies_consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/54b78bc9ed915d1594000005/Which_Response_to_remedies_consultation.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>response to CMA consultation on amendments to...We welcome the aims of the CMA&#x27;s revised remedy on price comparison websites (PCWs), and...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/54b78bc9ed915d1594000005/Which_Response_to_remedies_consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/54b78bc9ed915d1594000005/Which_Response_to_remedies_consultation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>response to CMA consultation on amendments to...We welcome the aims of the CMA&#x27;s revised remedy on price comparison websites (PCWs), and...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pa2oUZIJzg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pa2oUZIJzg0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make a Price Comparison Website from Scratch | Earn Affiliate Money on Auto Pilot...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pa2oUZIJzg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pa2oUZIJzg0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make a Price Comparison Website from Scratch | Earn Affiliate Money on Auto Pilot...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AIdAFxkJZZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AIdAFxkJZZA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Duped&#x27; energy comparison site customers should get money back, MPs say...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AIdAFxkJZZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AIdAFxkJZZA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Duped&#x27; energy comparison site customers should get money back, MPs say...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: 'Duped' energy comparison site customers should get money back, MPs say  
-   Link: <a href="https://www.youtube.com/watch?v=rjMDuiuu6eE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rjMDuiuu6eE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusive: Google &#x27;trying to circumvent EU ruling&#x27; with price comparison sites run by ad agencies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rjMDuiuu6eE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rjMDuiuu6eE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusive: Google &#x27;trying to circumvent EU ruling&#x27; with price comparison sites run by ad agencies...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9ES8F_idAJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ES8F_idAJI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Payday Lenders Required to Feature Price Comparison Websites...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9ES8F_idAJI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ES8F_idAJI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Payday Lenders Required to Feature Price Comparison Websites...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/w-010-5524?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-010-5524?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical Law UK Legal Update w-010-5524; (Approx. 4 pages).Read more...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/w-010-5524?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-010-5524?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practical Law UK Legal Update w-010-5524; (Approx. 4 pages).Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ft.com  
-   Link: <a href="https://www.ft.com/content/c829b83c-b89f-43e4-aa17-97d64e1ebea2?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/c829b83c-b89f-43e4-aa17-97d64e1ebea2?syn-25a6b1a6=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Compare the Market fined £17.9m for breach of...19 Nov 2020 — Price comparison site prevented home insurers from offering cheaper rates...</p></details>
+   Link:<a href="https://www.ft.com/content/c829b83c-b89f-43e4-aa17-97d64e1ebea2?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/c829b83c-b89f-43e4-aa17-97d64e1ebea2?syn-25a6b1a6=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compare the Market fined £17.9m for breach of...19 Nov 2020 — Price comparison site prevented home insurers from offering cheaper rates...</p></details>

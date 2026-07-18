@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-price/
 description: Focused pages that expand on Price Help.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_price_history_altern_e8d036
 parent_title: Price Help
@@ -16,7 +16,7 @@ parent_permalink: /price-help/
 
 # Explore Topics in Price Help
 
-The following pages expand on the main **[Price Help]({{ '/price-help/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Price Help]({{ '/price-help/' | relative_url }})** page and cover its key branches in.
 
 - [Black Friday]({{ '/black-friday/' | relative_url }})
 - [Comparison Tables]({{ '/comparison-tables/' | relative_url }})

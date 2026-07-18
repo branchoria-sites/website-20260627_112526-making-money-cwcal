@@ -284,7 +284,7 @@ Affiliate [reviews]({{ 'reviews/' | relative_url }}) are most valuable when they
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_risky_category_bad_f_1f328c-Illustration-1-dark.svg" | relative_url }}" alt="Risky Categories illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_risky_category_bad_f_1f328c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_risky_category_bad_f_1f328c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate publishers, this changes the purpose of a "Who should not buy this" section. Instead of being a marketing device, it becomes a risk-management tool for readers. The more serious the possible consequences of a poor product match, the stronger the [evidence]({{ 'evidence/' | relative_url }}), [testing]({{ 'testing/' | relative_url }}), disclosure, and caution should be. This is consistent with guidance from both Google, which encourages reviews that explain limitations and appropriate use cases, and regulators that require truthful, well-supported product claims and transparent commercial relationships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
+For affiliate publishers, this changes the purpose of a "Who should not buy this" section. Instead of being a marketing device, it becomes a risk-management tool for readers. The more serious the possible consequences of a poor product match, the stronger the [evidence]({{ 'evidence/' | relative_url }}), [testing]({{ 'testing/' | relative_url }}), disclosure, and caution should be. This is consistent with guidance from both Google, which encourages reviews that explain limitations and appropriate use cases, and regulators that require truthful, well-supported product claims and transparent commercial relationships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
 ## Categories Where a Bad Recommendation Has Bigger Consequences
 
@@ -304,12 +304,12 @@ Good affiliate reviews therefore:
 * distinguish between consumer convenience and medical effectiveness;
 * identify who should avoid the product;
 * explain where evidence is limited;
-* avoid unsupported health claims; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
+* avoid unsupported health claims;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 * link product capabilities to published evidence rather than manufacturer promises.
 
 </div>
 
-Regulators have repeatedly emphasised that health claims must be truthful, not misleading, and supported by appropriate scientific evidence across supplements, devices, health apps and related products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
+Regulators have repeatedly emphasised that health claims must be truthful, not misleading, and supported by appropriate scientific evidence across supplements, devices, health apps and related products.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
 ### Personal finance
 
@@ -445,7 +445,7 @@ Useful safeguards include:
 
 </div>
 
-Transparent affiliate disclosures also matter. Readers should understand that commissions may be earned while still receiving balanced information about who should not purchase the product. Regulatory guidance on endorsements consistently stresses that commercial relationships should be clearly disclosed and that endorsements must reflect honest opinions rather than misleading marketing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Transparent affiliate disclosures also matter. Readers should understand that commissions may be earned while still receiving balanced information about who should not purchase the product. Regulatory guidance on endorsements consistently stresses that commercial relationships should be clearly disclosed and that endorsements must reflect honest opinions rather than misleading marketing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ijnT5SfjknM" title="Achieve 77x Growth in 1 Year with Topical Authority: YMYL SEO for Health Industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ijnT5SfjknM" target="_blank" rel="noopener noreferrer">Achieve 77x Growth in 1 Year with Topical Authority: YMYL SEO for Health Industry</a></p><p class="youtube-embed-meta">Channel: Koray Tuğberk GÜBÜR</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ijnT5SfjknM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ijnT5SfjknM">Open on YouTube</a></p></div></div></div>
@@ -459,194 +459,194 @@ Readers quickly notice when a review acknowledges meaningful limitations instead
 In categories involving health, finance, childcare, electrical safety, or privacy, the strongest recommendation is often not a recommendation at all. Sometimes the most valuable service an affiliate review can provide is helping the wrong buyer avoid making the wrong purchase.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Bad Advice Can Do Real Harm. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Bad Advice Can Do Real Harm. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Promotes clear, trustworthy communication for sensitive topics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes clear, trustworthy communication for sensitive topics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Copywriter&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q0JZm4Qu8R0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Copywriter&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Copywriter&#x27;s Handbook">The Copywriter&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Robert W. Bly</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages accurate benefit claims and responsible marketing language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Copywriter&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q0JZm4Qu8R0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Copywriter&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Copywriter&#x27;s Handbook">The Copywriter&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Robert W. Bly</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Encourages accurate benefit claims and responsible marketing language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Helps communicate evidence-based advice clearly without exaggeration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps communicate evidence-based advice clearly without exaggeration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Provides a framework for ethical persuasion and avoiding manipulative recommendations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for ethical persuasion and avoiding manipulative recommendations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Copywriter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Copywriter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Copywriter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Copywriter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 360° All Metal Portable Laptop Stand Riser Tablet Adjustable Holder For Desk"><img src="{{ '/assets/images/marketplace-covers/401bc5ba511fcde25863.jpg' | relative_url }}" alt="Listing image for 360° All Metal Portable Laptop Stand Riser Tablet Adjustable Holder For Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer">360° All Metal Portable Laptop Stand Riser Tablet Adjustable Holder For Desk</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laptop stand">Search <span data-ebay-domain-label>eBay.co.uk</span>: laptop stand</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 360° All Metal Portable Laptop Stand Riser Tablet Adjustable Holder For Desk"><img src="{{ '/assets/images/marketplace-covers/401bc5ba511fcde25863.jpg' | relative_url }}" alt="Listing image for 360° All Metal Portable Laptop Stand Riser Tablet Adjustable Holder For Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer">360° All Metal Portable Laptop Stand Riser Tablet Adjustable Holder For Desk</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laptop stand">Search<span data-ebay-domain-label>eBay.co.uk</span>: laptop stand</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 360° All Metal Portable Laptop Tablet Stand Riser Adjustable Holder For Desk"><img src="{{ '/assets/images/marketplace-covers/9555d9ad45153c1f5ac0.jpg' | relative_url }}" alt="Listing image for 360° All Metal Portable Laptop Tablet Stand Riser Adjustable Holder For Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer">360° All Metal Portable Laptop Tablet Stand Riser Adjustable Holder For Desk</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laptop stand">Search <span data-ebay-domain-label>eBay.co.uk</span>: laptop stand</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 360° All Metal Portable Laptop Tablet Stand Riser Adjustable Holder For Desk"><img src="{{ '/assets/images/marketplace-covers/9555d9ad45153c1f5ac0.jpg' | relative_url }}" alt="Listing image for 360° All Metal Portable Laptop Tablet Stand Riser Adjustable Holder For Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer">360° All Metal Portable Laptop Tablet Stand Riser Adjustable Holder For Desk</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laptop stand">Search<span data-ebay-domain-label>eBay.co.uk</span>: laptop stand</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pivot Laptop Stand for Desk – Adjustable Aluminium Laptop Grey And Black"><img src="{{ '/assets/images/marketplace-covers/699d00eef5acb8ab47d2.jpg' | relative_url }}" alt="Listing image for Pivot Laptop Stand for Desk – Adjustable Aluminium Laptop Grey And Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer">Pivot Laptop Stand for Desk – Adjustable Aluminium Laptop Grey And Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laptop stand">Search <span data-ebay-domain-label>eBay.co.uk</span>: laptop stand</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pivot Laptop Stand for Desk – Adjustable Aluminium Laptop Grey And Black"><img src="{{ '/assets/images/marketplace-covers/699d00eef5acb8ab47d2.jpg' | relative_url }}" alt="Listing image for Pivot Laptop Stand for Desk – Adjustable Aluminium Laptop Grey And Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer">Pivot Laptop Stand for Desk – Adjustable Aluminium Laptop Grey And Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laptop stand">Search<span data-ebay-domain-label>eBay.co.uk</span>: laptop stand</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adjustable Laptop Stand for Desk – Portable Aluminum Riser, Foldable Ergonomic"><img src="{{ '/assets/images/marketplace-covers/e3e262b7cb0afa4d26cc.jpg' | relative_url }}" alt="Listing image for Adjustable Laptop Stand for Desk – Portable Aluminum Riser, Foldable Ergonomic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer">Adjustable Laptop Stand for Desk – Portable Aluminum Riser, Foldable Ergonomic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laptop stand">Search <span data-ebay-domain-label>eBay.co.uk</span>: laptop stand</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adjustable Laptop Stand for Desk – Portable Aluminum Riser, Foldable Ergonomic"><img src="{{ '/assets/images/marketplace-covers/e3e262b7cb0afa4d26cc.jpg' | relative_url }}" alt="Listing image for Adjustable Laptop Stand for Desk – Portable Aluminum Riser, Foldable Ergonomic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer">Adjustable Laptop Stand for Desk – Portable Aluminum Riser, Foldable Ergonomic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laptop stand">Search<span data-ebay-domain-label>eBay.co.uk</span>: laptop stand</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laptop+stand&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laptop stand" data-ebay-reference="risky-categories-where-bad-advice-can-do-real-harm-making-money-from-laptop-stand" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -662,7 +662,7 @@ In categories involving health, finance, childcare, electrical safety, or privac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -682,7 +682,7 @@ In categories involving health, finance, childcare, electrical safety, or privac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -714,7 +714,7 @@ In categories involving health, finance, childcare, electrical safety, or privac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -766,7 +766,7 @@ In categories involving health, finance, childcare, electrical safety, or privac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -811,7 +811,7 @@ In categories involving health, finance, childcare, electrical safety, or privac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -852,88 +852,88 @@ In categories involving health, finance, childcare, electrical safety, or privac
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/mobile-health-apps-interactive-tool" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/mobile-health-apps-interactive-tool</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionMobile Health App Interactive ToolThis tool is meant to help you figure out the federal regulatory, privacy, and...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/mobile-health-apps-interactive-tool" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/mobile-health-apps-interactive-tool</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionMobile Health App Interactive ToolThis tool is meant to help you figure out the federal regulatory, privacy, and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ftc.gov  
    Title: advertisement endorsements  
-   Link: <a href="https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertisement EndorsementsThe FTC revised its Endorsement Guides in June 2023 to keep them up-to-date with the wa...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertisement EndorsementsThe FTC revised its Endorsement Guides in June 2023 to keep them up-to-date with the wa...</p></details>
    Published: June 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ftc.gov  
    Title: consumer reviews testimonials rule questions answers  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Consumer Reviews and Testimonials Rule: Questions...8 Nov 2024 — The Commission&#x27;s Rule on the Use of Consumer Reviews and Testimonia...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Consumer Reviews and Testimonials Rule: Questions...8 Nov 2024 — The Commission&#x27;s Rule on the Use of Consumer Reviews and Testimonia...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: federal-lawyer.com  
-   Link: <a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
+   Link:<a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ropesgray.com  
-   Link: <a href="https://www.ropesgray.com/en/insights/alerts/2023/01/consumer-products-in-focus-new-ftc-and-fda-guidances-address-the-marketing-of-health-products" target="_blank" rel="noopener noreferrer nofollow">https://www.ropesgray.com/en/insights/alerts/2023/01/consumer-products-in-focus-new-ftc-and-fda-guidances-address-the-marketing-of-health-products</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Products in Focus: New FTC and FDA...10 Jan 2023 — This Alert analyzes both new guidances and provides the key takeaways that l...</p></details>
+   Link:<a href="https://www.ropesgray.com/en/insights/alerts/2023/01/consumer-products-in-focus-new-ftc-and-fda-guidances-address-the-marketing-of-health-products" target="_blank" rel="noopener noreferrer nofollow">https://www.ropesgray.com/en/insights/alerts/2023/01/consumer-products-in-focus-new-ftc-and-fda-guidances-address-the-marketing-of-health-products</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Products in Focus: New FTC and FDA...10 Jan 2023 — This Alert analyzes both new guidances and provides the key takeaways that l...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: kslaw.com  
-   Link: <a href="https://www.kslaw.com/news-and-insights/ftc-revamps-the-guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.kslaw.com/news-and-insights/ftc-revamps-the-guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revamps the “Guides Concerning the Use of...10 Aug 2023 — The revised Guides clarify advertisers&#x27; responsibilities to substantiate c...</p></details>
+   Link:<a href="https://www.kslaw.com/news-and-insights/ftc-revamps-the-guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.kslaw.com/news-and-insights/ftc-revamps-the-guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revamps the “Guides Concerning the Use of...10 Aug 2023 — The revised Guides clarify advertisers&#x27; responsibilities to substantiate c...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: marketinglaw.osborneclarke.com  
    Title: us ftc guides businesses on combatting deceptive reviews and endorsements  
-   Link: <a href="https://marketinglaw.osborneclarke.com/advertising-regulation/us-ftc-guides-businesses-on-combatting-deceptive-reviews-and-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://marketinglaw.osborneclarke.com/advertising-regulation/us-ftc-guides-businesses-on-combatting-deceptive-reviews-and-endorsements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC &#x27;guides&#x27; businesses on combatting deceptive...30 Oct 2023 — The FTC has issued advertisers with Guides Concerning the Use of Endorse...</p></details>
+   Link:<a href="https://marketinglaw.osborneclarke.com/advertising-regulation/us-ftc-guides-businesses-on-combatting-deceptive-reviews-and-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://marketinglaw.osborneclarke.com/advertising-regulation/us-ftc-guides-businesses-on-combatting-deceptive-reviews-and-endorsements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC &#x27;guides&#x27; businesses on combatting deceptive...30 Oct 2023 — The FTC has issued advertisers with Guides Concerning the Use of Endorse...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: elevarelaw.com  
    Title: Learn how digital health companies can avoid legal risk using NIST's AI Risk  
-   Link: <a href="https://www.elevarelaw.com/blog-articles/ai-ftc-regulation-digital-health-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.elevarelaw.com/blog-articles/ai-ftc-regulation-digital-health-strategy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Avoiding the AI Bullseye: How Digital Health Companies...6 Apr 2025 — FTC enforcement on AI is ramping up as federal policy shifts...</p></details>
+   Link:<a href="https://www.elevarelaw.com/blog-articles/ai-ftc-regulation-digital-health-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.elevarelaw.com/blog-articles/ai-ftc-regulation-digital-health-strategy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avoiding the AI Bullseye: How Digital Health Companies...6 Apr 2025 — FTC enforcement on AI is ramping up as federal policy shifts...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: kelleydrye.com  
    Title: new endorsement guides include big changes but few surprises  
-   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Endorsement Guides Include Big Changes, But Few...29 Jun 2023 — The new Guides address so-called “independent review sites” that hav...</p></details>
+   Link:<a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/new-endorsement-guides-include-big-changes-but-few-surprises</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Endorsement Guides Include Big Changes, But Few...29 Jun 2023 — The new Guides address so-called “independent review sites” that hav...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
    Title: synthetic endorsements affiliate links ftcs quiet phil gcose  
-   Link: <a href="https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On synthetic endorsements, affiliate links, and the FTC&#x27;s...In June 2023, the FTC finalised its first material update to the Guides Conc...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On synthetic endorsements, affiliate links, and the FTC&#x27;s...In June 2023, the FTC finalised its first material update to the Guides Conc...</p></details>
    Published: June 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hchlawyers.com  
-   Link: <a href="https://www.hchlawyers.com/social-media-law/ftc-compliance/" target="_blank" rel="noopener noreferrer nofollow">https://www.hchlawyers.com/social-media-law/ftc-compliance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If you create sponsored content, use affiliate links, or accept free products in exchange...</p></details>
+   Link:<a href="https://www.hchlawyers.com/social-media-law/ftc-compliance/" target="_blank" rel="noopener noreferrer nofollow">https://www.hchlawyers.com/social-media-law/ftc-compliance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If you create sponsored content, use affiliate links, or accept free products in exchange...</p></details>

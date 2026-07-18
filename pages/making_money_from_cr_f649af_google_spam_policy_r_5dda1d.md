@@ -447,7 +447,7 @@ image: /assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d-ov
 
 ## Introduction
 
-Affiliate sites are not automatically spam in Google Search. The risk begins when the page exists mainly to capture [rankings]({{ 'rankings/' | relative_url }}) and send the visitor elsewhere, without adding enough independent value to justify its place in the results. Google’s own spam policies identify “thin affiliate” pages as a problem when they reuse merchant or affiliate-network material across many similar pages, sites, languages, or domains without adding meaningful information for users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchAffiliate pages can be considered thin if they are a part of a program that distr...</span></span></span>
+Affiliate sites are not automatically spam in Google Search. The risk begins when the page exists mainly to capture [rankings]({{ 'rankings/' | relative_url }}) and send the visitor elsewhere, without adding enough independent value to justify its place in the results. Google’s own spam policies identify “thin affiliate” pages as a problem when they reuse merchant or affiliate-network material across many similar pages, sites, languages, or domains without adding meaningful information for users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchAffiliate pages can be considered thin if they are a part of a program that distr...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d-overview.webp" | relative_url }}" alt="Overview image for Spam Risk" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,7 +455,7 @@ That matters for anyone trying to make money from websites containing affiliate 
 
 ## Why Google Treats Thin Affiliate Pages as a Search Quality Problem
 
-Google’s concern is not the commission itself. The problem is duplication and lack of independent usefulness. If a search results page shows several affiliate sites with the same product feed, the same merchant description, the same stock images, and no original judgement, the user has not gained a useful range of answers. Google describes this kind of experience as frustrating because the pages are effectively cookie-cutter versions of the same content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchAffiliate pages can be considered thin if they are a part of a program that distr...</span></span></span>
+Google’s concern is not the commission itself. The problem is duplication and lack of independent usefulness. If a search results page shows several affiliate sites with the same product feed, the same merchant description, the same stock images, and no original judgement, the user has not gained a useful range of answers. Google describes this kind of experience as frustrating because the pages are effectively cookie-cutter versions of the same content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchAffiliate pages can be considered thin if they are a part of a program that distr...</span></span></span>
 
 For affiliate publishers, the practical line is fairly clear: a page becomes risky when the affiliate relationship is the main substance of the page rather than the monetisation layer on top of real advice. A short introduction, a rewritten manufacturer blurb, five “buy now” buttons, and a table of specifications copied from a retailer rarely answer the buyer’s real question. It may still index for a while, but it gives Google little reason to keep ranking it once stronger pages appear.
 
@@ -474,17 +474,17 @@ Thin affiliate warning signs include:
 
 </div>
 
-The important distinction is value added before the click. A page can contain affiliate links and still be useful if it helps the reader choose, avoid a bad fit, understand trade-offs, compare [alternatives]({{ 'alternatives/' | relative_url }}), or learn something the merchant page does not say. Google’s product review guidance has repeatedly pushed in this direction, favouring reviews that show expert knowledge, first-hand research, and evidence of real product experience rather than thin summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">More helpful product reviews on Search</span><span class="citation-popover-snippet">March 23, 2022 — 23 Mar 2022 — Our first updates were designed to, among other things, help ensure reviews come from people who demonstra...</span><span class="citation-popover-meta">Published: March 23, 2022</span></span></span>
+The important distinction is value added before the click. A page can contain affiliate links and still be useful if it helps the reader choose, avoid a bad fit, understand trade-offs, compare [alternatives]({{ 'alternatives/' | relative_url }}), or learn something the merchant page does not say. Google’s product review guidance has repeatedly pushed in this direction, favouring reviews that show expert knowledge, first-hand research, and evidence of real product experience rather than thin summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">More helpful product reviews on Search</span><span class="citation-popover-snippet">March 23, 2022 — 23 Mar 2022 — Our first updates were designed to, among other things, help ensure reviews come from people who demonstra...</span><span class="citation-popover-meta">Published: March 23, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d-Illustration-1-dark.svg" | relative_url }}" alt="Spam Risk illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2024 Spam Updates Raised the Stakes for Affiliate SEO
 
-Google’s March 2024 Search update made affiliate risk more visible because it combined core ranking changes with new or clarified spam policies. Google said the update was designed to reduce low-quality, unoriginal content in search results and introduced policies against scaled content abuse, expired domain abuse, and site reputation abuse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google search update march 2024</span><span class="citation-popover-snippet">We&#x27;ve long had a policy against using automation to generate low-quality or unoriginal content at scale with the goal of...Read more...</span><span class="citation-popover-meta">Published: march 2024</span></span></span>
+Google’s March 2024 Search update made affiliate risk more visible because it combined core ranking changes with new or clarified spam policies. Google said the update was designed to reduce low-quality, unoriginal content in search results and introduced policies against scaled content abuse, expired domain abuse, and site reputation abuse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google search update march 2024</span><span class="citation-popover-snippet">We&#x27;ve long had a policy against using automation to generate low-quality or unoriginal content at scale with the goal of...Read more...</span><span class="citation-popover-meta">Published: march 2024</span></span></span>
 
 For affiliate sites, the most relevant lesson is that Google is looking beyond obvious old-fashioned spam. A page does not need to be gibberish, hacked, or keyword-stuffed to be vulnerable. It can be neatly designed, grammatically correct, and commercially polished while still being low-value if it is mass-produced, substantially unoriginal, or built to exploit ranking signals rather than serve readers.
 
-Scaled content abuse is especially relevant to affiliate publishing because many affiliate models are tempted by scale: thousands of “best X in Y” pages, automated product comparisons, AI-generated review summaries, or location pages that exist only to rank for [long-tail]({{ 'long-tail/' | relative_url }}) searches. Google’s policy is method-neutral: the issue is not simply whether automation was used, but whether large volumes of pages were created mainly to manipulate rankings and provide little or no value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google search update march 2024</span><span class="citation-popover-snippet">We&#x27;ve long had a policy against using automation to generate low-quality or unoriginal content at scale with the goal of...Read more...</span><span class="citation-popover-meta">Published: march 2024</span></span></span>
+Scaled content abuse is especially relevant to affiliate publishing because many affiliate models are tempted by scale: thousands of “best X in Y” pages, automated product comparisons, AI-generated review summaries, or location pages that exist only to rank for [long-tail]({{ 'long-tail/' | relative_url }}) searches. Google’s policy is method-neutral: the issue is not simply whether automation was used, but whether large volumes of pages were created mainly to manipulate rankings and provide little or no value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google search update march 2024</span><span class="citation-popover-snippet">We&#x27;ve long had a policy against using automation to generate low-quality or unoriginal content at scale with the goal of...Read more...</span><span class="citation-popover-meta">Published: march 2024</span></span></span>
 
 The commercial risk is asymmetrical. A publisher may spend months building a content library that performs well under one ranking environment, but if most of the value is template-driven rather than editorially earned, a policy update or manual action can remove the traffic that made the affiliate model work. That is why affiliate SEO should be judged not only by current rankings, but by how defensible the pages would look if reviewed against Google’s spam policies.
 
@@ -493,13 +493,13 @@ The commercial risk is asymmetrical. A publisher may spend months building a con
 
 ## Site Reputation Abuse: The Affiliate Risk for Big Domains and Partner Sections
 
-Site reputation abuse is the policy that most directly changed the calculus for publishers hosting third-party affiliate, coupon, or commercial content. Google defines the abuse as publishing third-party pages on a host site mainly because that host site has already earned ranking signals from its first-party content. The goal is for the third-party material to rank better than it could on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/webmasters/answer/13580519?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
+Site reputation abuse is the policy that most directly changed the calculus for publishers hosting third-party affiliate, coupon, or commercial content. Google defines the abuse as publishing third-party pages on a host site mainly because that host site has already earned ranking signals from its first-party content. The goal is for the third-party material to rank better than it could on its own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/webmasters/answer/13580519?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
 
 This matters because affiliate monetisation often moved beyond small independent review sites. Large media brands, news sites, and specialist publishers created shopping verticals, coupon sections, marketplace pages, and product recommendation hubs, sometimes with outside partners producing or operating much of the content. That arrangement could be commercially attractive: the publisher lends its domain strength and audience trust; the partner supplies affiliate content and revenue operations.
 
-Google’s November 2024 clarification narrowed the room for manoeuvre. It said using third-party content to exploit a site’s ranking signals can violate the policy regardless of first-party involvement or oversight. Google specifically mentioned arrangements such as white-label services, licensing agreements, partial ownership agreements, and other complex business relationships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2024/11/site-reputation-abuse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
+Google’s November 2024 clarification narrowed the room for manoeuvre. It said using third-party content to exploit a site’s ranking signals can violate the policy regardless of first-party involvement or oversight. Google specifically mentioned arrangements such as white-label services, licensing agreements, partial ownership agreements, and other complex business relationships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2024/11/site-reputation-abuse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
 
-The point is not that every partner article, freelance review, or affiliate page is forbidden. Google has stated that third-party content alone is not the violation; the violation arises when the content is published to take advantage of the host site’s ranking signals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchenginejournal.com/google-site-reputation-abuse-faq-addresses-concerns/535003/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchenginejournal.com">[Search Engine Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchenginejournal.com</span><span class="citation-popover-title">Search Engine Journal Google Site Reputation Abuse: FAQ Addresses Concerns</span><span class="citation-popover-snippet">Search Engine Journal Google Site Reputation Abuse: FAQ Addresses Concerns</span></span></span> The difficulty is proving, in practice, that the content genuinely belongs on the site and serves its audience rather than simply renting authority.
+The point is not that every partner article, freelance review, or affiliate page is forbidden. Google has stated that third-party content alone is not the violation; the violation arises when the content is published to take advantage of the host site’s ranking signals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchenginejournal.com/google-site-reputation-abuse-faq-addresses-concerns/535003/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchenginejournal.com">[Search Engine Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchenginejournal.com</span><span class="citation-popover-title">Search Engine Journal Google Site Reputation Abuse: FAQ Addresses Concerns</span><span class="citation-popover-snippet">Search Engine Journal Google Site Reputation Abuse: FAQ Addresses Concerns</span></span></span> The difficulty is proving, in practice, that the content genuinely belongs on the site and serves its audience rather than simply renting authority.
 
 Concrete examples make the issue easier to see:
 
@@ -513,14 +513,14 @@ Concrete examples make the issue easier to see:
 
 </div>
 
-Reporting after Google’s policy changes showed how seriously publishers took the threat. The Verge reported that Google’s crackdown on “parasite SEO” targeted pages that misuse a reputable site’s ranking power, including examples such as shopping coupon pages on news sites or unrelated affiliate content on educational sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/2024/11/19/24299762/google-search-parasite-seo-publishers-advon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Open source on theverge.com.</span></span></span> Business Insider later reported that some media outlets were reducing reliance on freelance or outsourced affiliate content in an attempt to protect search visibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/google-spam-crackdown-digital-media-hurting-freelancers-2025-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Open source on businessinsider.com.</span></span></span>
+Reporting after Google’s policy changes showed how seriously publishers took the threat. The Verge reported that Google’s crackdown on “parasite SEO” targeted pages that misuse a reputable site’s ranking power, including examples such as shopping coupon pages on news sites or unrelated affiliate content on educational sites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/2024/11/19/24299762/google-search-parasite-seo-publishers-advon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Open source on theverge.com.</span></span></span> Business Insider later reported that some media outlets were reducing reliance on freelance or outsourced affiliate content in an attempt to protect search visibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/google-spam-crackdown-digital-media-hurting-freelancers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Open source on businessinsider.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhoRyQSki-U" title="NEW Spam Policies for Google Web Search: How To Avoid That?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhoRyQSki-U" target="_blank" rel="noopener noreferrer">NEW Spam Policies for Google Web Search: How To Avoid That?</a></p><p class="youtube-embed-meta">Channel: Kasra Dash &middot; Views: 710 &middot; Uploaded: May 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhoRyQSki-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhoRyQSki-U">Open on YouTube</a></p></div></div></div>
 
 ## Affiliate Links Need Clear Technical and Editorial Signals
 
-Google’s link rules are separate from thin-content rules, but they matter because affiliate links are commercial links. Google says paid or sponsored links should be marked with `rel="sponsored"`, while `nofollow` remains acceptable, though `sponsored` is preferred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
+Google’s link rules are separate from thin-content rules, but they matter because affiliate links are commercial links. Google says paid or sponsored links should be marked with `rel="sponsored"`, while `nofollow` remains acceptable, though `sponsored` is preferred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
 
 This technical tag does not make a thin page high quality. It simply tells Google the nature of the outbound link. A weak affiliate page with perfectly tagged links can still be unhelpful. Likewise, a strong review page should still qualify its affiliate links properly because the commercial relationship is real. The safest pattern is to combine clear link qualification with visible reader-facing disclosure and strong editorial substance.
 
@@ -531,7 +531,7 @@ Good signals include:
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
-* a visible affiliate disclosure near the point where commercial links appear; <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/webmasters/thread/265967320/affiliate-links?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[support.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">affiliate links</span><span class="citation-popover-snippet">affiliate links</span></span></span>
+* a visible affiliate disclosure near the point where commercial links appear;<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/webmasters/thread/265967320/affiliate-links?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[support.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">affiliate links</span><span class="citation-popover-snippet">affiliate links</span></span></span>
 * `rel="sponsored"` or `rel="nofollow"` on monetised outbound links;
 * author credentials or relevant experience where the topic needs expertise;
 * original product photos, screenshots, measurements, tests, or usage notes;
@@ -549,7 +549,7 @@ The deeper governance point is that affiliate SEO is not just a content-writing 
 
 Adding real value does not mean making every affiliate site look like a laboratory. The right evidence depends on the niche. A mattress site may need long-term sleep testing, weight and firmness comparisons, delivery notes, and return-policy interpretation. A software affiliate site may need screenshots, workflow testing, pricing analysis, integration checks, and support-quality notes. A gardening tool site may need terrain, battery life, repairability, [spare parts]({{ 'spare-parts/' | relative_url }}), and wet-weather performance.
 
-Google’s product review direction has consistently favoured first-hand experience and deeper evaluation. In its product review update guidance, Google encouraged content that demonstrates expert knowledge and first-hand research, and later updates continued to reward reviews that help users make better product choices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">More helpful product reviews on Search</span><span class="citation-popover-snippet">March 23, 2022 — 23 Mar 2022 — Our first updates were designed to, among other things, help ensure reviews come from people who demonstra...</span><span class="citation-popover-meta">Published: March 23, 2022</span></span></span>
+Google’s product review direction has consistently favoured first-hand experience and deeper evaluation. In its product review update guidance, Google encouraged content that demonstrates expert knowledge and first-hand research, and later updates continued to reward reviews that help users make better product choices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">More helpful product reviews on Search</span><span class="citation-popover-snippet">March 23, 2022 — 23 Mar 2022 — Our first updates were designed to, among other things, help ensure reviews come from people who demonstra...</span><span class="citation-popover-meta">Published: March 23, 2022</span></span></span>
 
 The most defensible affiliate pages usually answer questions the merchant page avoids:
 
@@ -572,7 +572,7 @@ This is where affiliate content becomes harder to copy. Anyone can reproduce a p
 
 ## Recovery Is Usually a Value Rebuild, Not a Quick Technical Fix
 
-When Google applies a manual action, the issue appears in Search Console’s Manual Actions report. Google says a site owner should fix all listed issues and then request review, explaining the exact quality issue, the steps taken to fix it, and the outcome of those efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">google.com</span><span class="citation-popover-title">Help Manual actions report</span><span class="citation-popover-snippet">Help Manual actions report</span></span></span>
+When Google applies a manual action, the issue appears in Search Console’s Manual Actions report. Google says a site owner should fix all listed issues and then request review, explaining the exact quality issue, the steps taken to fix it, and the outcome of those efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">google.com</span><span class="citation-popover-title">Help Manual actions report</span><span class="citation-popover-snippet">Help Manual actions report</span></span></span>
 
 For thin affiliate problems, recovery is rarely solved by changing a few tags, rewriting introductions, or moving pages into a different folder. The work is more fundamental: decide which pages deserve to exist, remove or noindex pages that do not, and rebuild the remaining pages around original value. If a site has hundreds of near-duplicate buying guides, the hard choice may be consolidation rather than cosmetic editing.
 
@@ -604,178 +604,178 @@ For a small affiliate site, the biggest risk is usually thinness: too many pages
 Affiliate links can still support a profitable website, but the durable asset is not the link. It is the reader’s reason to trust the page before they click.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Affiliate Pages Put Search Traffic at Risk?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Affiliate Pages Put Search Traffic at Risk?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Product-Led SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OcdkzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Product-Led SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Product-Led SEO">Product-Led SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eli Schwartz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Product-Led SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OcdkzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Product-Led SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Product-Led SEO">Product-Led SEO</a>
+</h4>
+<p class="fr-book-author">By Eli Schwartz</p>
         
-        <p class="fr-book-desc">Explains sustainable SEO strategies built on user value rather than thin, search-first content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sustainable SEO strategies built on user value rather than thin, search-first content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
+</h4>
+<p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
         
-        <p class="fr-book-desc">Covers technical SEO, content quality and long-term organic search practices relevant to avoiding search penalties.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers technical SEO, content quality and long-term organic search practices relevant to avoiding search penalties.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
-        </h4>
-        <p class="fr-book-author">By Andy Crestodina</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
+</h4>
+<p class="fr-book-author">By Andy Crestodina</p>
         
-        <p class="fr-book-desc">Focuses on creating genuinely useful content that earns traffic instead of relying on thin affiliate pages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on creating genuinely useful content that earns traffic instead of relying on thin affiliate pages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Sheridan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
+</h4>
+<p class="fr-book-author">By Marcus Sheridan</p>
         
-        <p class="fr-book-desc">Encourages authoritative, trust-building content that aligns with Google&#x27;s emphasis on helping users.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages authoritative, trust-building content that aligns with Google&#x27;s emphasis on helping users.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Product+Led+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Product Led SEO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Chemistry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Product+Led+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Product Led SEO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Chemistry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker"><img src="{{ '/assets/images/marketplace-covers/f1f981e029c56ef3dc85.jpg' | relative_url }}" alt="Listing image for Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker"><img src="{{ '/assets/images/marketplace-covers/f1f981e029c56ef3dc85.jpg' | relative_url }}" alt="Listing image for Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist"><img src="{{ '/assets/images/marketplace-covers/3dfb850ce62cef601203.jpg' | relative_url }}" alt="Listing image for World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist"><img src="{{ '/assets/images/marketplace-covers/3dfb850ce62cef601203.jpg' | relative_url }}" alt="Listing image for World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per"><img src="{{ '/assets/images/marketplace-covers/4bde9c4cdb7dfbf7dd96.jpg' | relative_url }}" alt="Listing image for SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per"><img src="{{ '/assets/images/marketplace-covers/4bde9c4cdb7dfbf7dd96.jpg' | relative_url }}" alt="Listing image for SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="spam-risk-what-affiliate-pages-put-search-traffic-at-risk-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -791,7 +791,7 @@ Affiliate links can still support a profitable website, but the durable asset is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -811,7 +811,7 @@ Affiliate links can still support a profitable website, but the durable asset is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -843,7 +843,7 @@ Affiliate links can still support a profitable website, but the durable asset is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -895,7 +895,7 @@ Affiliate links can still support a profitable website, but the durable asset is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -940,7 +940,7 @@ Affiliate links can still support a profitable website, but the durable asset is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -981,154 +981,154 @@ Affiliate links can still support a profitable website, but the durable asset is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchAffiliate pages can be considered thin if they are a part of a program that distr...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchAffiliate pages can be considered thin if they are a part of a program that distr...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: blog.google  
    Title: More helpful product reviews on Search  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 23, 2022 — 23 Mar 2022 — Our first updates were designed to, among other things, help ensure reviews come from people who demonstra...</p></details>
+   Link:<a href="https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/more-helpful-product-reviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 23, 2022 — 23 Mar 2022 — Our first updates were designed to, among other things, help ensure reviews come from people who demonstra...</p></details>
    Published: March 23, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: developers.google.com  
    Title: product reviews update and your site  
-   Link: <a href="https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersDecember 2021 Product reviews update and your site1 Dec 2021 — We are now rolling out a new update, the first major...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersDecember 2021 Product reviews update and your site1 Dec 2021 — We are now rolling out a new update, the first major...</p></details>
    Published: December 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blog.google  
    Title: google search update march 2024  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;ve long had a policy against using automation to generate low-quality or unoriginal content at scale with the goal of...Read more...</p></details>
+   Link:<a href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;ve long had a policy against using automation to generate low-quality or unoriginal content at scale with the goal of...Read more...</p></details>
    Published: march 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: developers.google.com  
    Title: core update spam policies  
-   Link: <a href="https://developers.google.com/search/blog/2024/03/core-update-spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2024/03/core-update-spam-policies</a>  
+   Link:<a href="https://developers.google.com/search/blog/2024/03/core-update-spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2024/03/core-update-spam-policies</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/answer/13580519?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/13580519?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/answer/13580519?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/13580519?hl=en</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/blog/2024/11/site-reputation-abuse" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2024/11/site-reputation-abuse</a>  
+   Link:<a href="https://developers.google.com/search/blog/2024/11/site-reputation-abuse" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2024/11/site-reputation-abuse</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links</a>  
+   Link:<a href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+   Link:<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: support.google.com  
    Title: my website got hit by google march 2024 core spam ai content updates  
-   Link: <a href="https://support.google.com/webmasters/thread/269943499/my-website-got-hit-by-google-march-2024-core-spam-ai-content-updates?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/269943499/my-website-got-hit-by-google-march-2024-core-spam-ai-content-updates?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/269943499/my-website-got-hit-by-google-march-2024-core-spam-ai-content-updates?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/269943499/my-website-got-hit-by-google-march-2024-core-spam-ai-content-updates?hl=en</a>  
    Published: march 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/updates" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/updates</a>  
+   Link:<a href="https://developers.google.com/search/updates" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/updates</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: support.google.com  
    Title: affiliate links  
-   Link: <a href="https://support.google.com/webmasters/thread/265967320/affiliate-links?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/265967320/affiliate-links?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/265967320/affiliate-links?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/265967320/affiliate-links?hl=en</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/merchants/answer/14620705?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/14620705?hl=en</a>  
+   Link:<a href="https://support.google.com/merchants/answer/14620705?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/14620705?hl=en</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: support.google.com  
    Title: manual spam action disappeared from search console  
-   Link: <a href="https://support.google.com/webmasters/thread/115708823/manual-spam-action-disappeared-from-search-console?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/115708823/manual-spam-action-disappeared-from-search-console?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/115708823/manual-spam-action-disappeared-from-search-console?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/115708823/manual-spam-action-disappeared-from-search-console?hl=en</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: searchenginejournal.com  
    Title: Search Engine Journal Google Site Reputation Abuse: FAQ Addresses Concerns  
-   Link: <a href="https://www.searchenginejournal.com/google-site-reputation-abuse-faq-addresses-concerns/535003/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchenginejournal.com/google-site-reputation-abuse-faq-addresses-concerns/535003/</a>  
+   Link:<a href="https://www.searchenginejournal.com/google-site-reputation-abuse-faq-addresses-concerns/535003/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchenginejournal.com/google-site-reputation-abuse-faq-addresses-concerns/535003/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/2024/11/19/24299762/google-search-parasite-seo-publishers-advon" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2024/11/19/24299762/google-search-parasite-seo-publishers-advon</a>  
+   Link:<a href="https://www.theverge.com/2024/11/19/24299762/google-search-parasite-seo-publishers-advon" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2024/11/19/24299762/google-search-parasite-seo-publishers-advon</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/google-spam-crackdown-digital-media-hurting-freelancers-2025-3" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/google-spam-crackdown-digital-media-hurting-freelancers-2025-3</a>  
+   Link:<a href="https://www.businessinsider.com/google-spam-crackdown-digital-media-hurting-freelancers" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/google-spam-crackdown-digital-media-hurting-freelancers</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: searchengineland.com  
    Title: Search Engine Land Google penalties, manual actions and notifications  
-   Link: <a href="https://searchengineland.com/google-penalties-manual-actions-notifications-guide-388509" target="_blank" rel="noopener noreferrer nofollow">https://searchengineland.com/google-penalties-manual-actions-notifications-guide-388509</a>  
+   Link:<a href="https://searchengineland.com/google-penalties-manual-actions-notifications-guide-388509" target="_blank" rel="noopener noreferrer nofollow">https://searchengineland.com/google-penalties-manual-actions-notifications-guide-388509</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: goup.co.uk  
-   Link: <a href="https://www.goup.co.uk/guides/spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.goup.co.uk/guides/spam/</a>  
+   Link:<a href="https://www.goup.co.uk/guides/spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.goup.co.uk/guides/spam/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: searchenginejournal.com  
    Title: google march 2024 core update  
-   Link: <a href="https://www.searchenginejournal.com/google-march-2024-core-update/510243/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchenginejournal.com/google-march-2024-core-update/510243/</a>  
+   Link:<a href="https://www.searchenginejournal.com/google-march-2024-core-update/510243/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchenginejournal.com/google-march-2024-core-update/510243/</a>  
    Published: march 2024  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: searchenginejournal.com  
    Title: the complete list of google penalties and how to recover  
-   Link: <a href="https://www.searchenginejournal.com/the-complete-list-of-google-penalties-and-how-to-recover/201510/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchenginejournal.com/the-complete-list-of-google-penalties-and-how-to-recover/201510/</a>  
+   Link:<a href="https://www.searchenginejournal.com/the-complete-list-of-google-penalties-and-how-to-recover/201510/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchenginejournal.com/the-complete-list-of-google-penalties-and-how-to-recover/201510/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: searchengineland.com  
-   Link: <a href="https://searchengineland.com/google-site-reputation-abuse-policy-now-includes-first-party-involvement-or-oversight-of-content-448432" target="_blank" rel="noopener noreferrer nofollow">https://searchengineland.com/google-site-reputation-abuse-policy-now-includes-first-party-involvement-or-oversight-of-content-448432</a>  
+   Link:<a href="https://searchengineland.com/google-site-reputation-abuse-policy-now-includes-first-party-involvement-or-oversight-of-content-448432" target="_blank" rel="noopener noreferrer nofollow">https://searchengineland.com/google-site-reputation-abuse-policy-now-includes-first-party-involvement-or-oversight-of-content-448432</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=nyZ24krQTMM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nyZ24krQTMM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Strikes Back: Spam Doesn&#x27;t Stand a Chance...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=nyZ24krQTMM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nyZ24krQTMM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Strikes Back: Spam Doesn&#x27;t Stand a Chance...</p></details>
    Published: March 2024  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/10-google-spam-policies-every-website-owner-should-know-bilal-izqhe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/10-google-spam-policies-every-website-owner-should-know-bilal-izqhe</a>  
+   Link:<a href="https://www.linkedin.com/pulse/10-google-spam-policies-every-website-owner-should-know-bilal-izqhe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/10-google-spam-policies-every-website-owner-should-know-bilal-izqhe</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/juststart/comments/zntbb2/do_we_need_to_change_nofollow_links_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/juststart/comments/zntbb2/do_we_need_to_change_nofollow_links_to/</a>  
+   Link:<a href="https://www.reddit.com/r/juststart/comments/zntbb2/do_we_need_to_change_nofollow_links_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/juststart/comments/zntbb2/do_we_need_to_change_nofollow_links_to/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: flashpointmarketing.biz  
-   Link: <a href="https://flashpointmarketing.biz/how-to-qualify-outbound-links/" target="_blank" rel="noopener noreferrer nofollow">https://flashpointmarketing.biz/how-to-qualify-outbound-links/</a>  
+   Link:<a href="https://flashpointmarketing.biz/how-to-qualify-outbound-links/" target="_blank" rel="noopener noreferrer nofollow">https://flashpointmarketing.biz/how-to-qualify-outbound-links/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/chrismwalkerentrepreneur/posts/ever-needed-to-write-a-product-review-the-superstar-seo-content-team-created-a-g/3019386048316747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chrismwalkerentrepreneur/posts/ever-needed-to-write-a-product-review-the-superstar-seo-content-team-created-a-g/3019386048316747/</a>  
+   Link:<a href="https://www.facebook.com/chrismwalkerentrepreneur/posts/ever-needed-to-write-a-product-review-the-superstar-seo-content-team-created-a-g/3019386048316747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chrismwalkerentrepreneur/posts/ever-needed-to-write-a-product-review-the-superstar-seo-content-team-created-a-g/3019386048316747/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/stronger-content/google-cracking-down-on-site-reputation-abuse-7e2b10c39652" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/stronger-content/google-cracking-down-on-site-reputation-abuse-7e2b10c39652</a>  
+   Link:<a href="https://medium.com/stronger-content/google-cracking-down-on-site-reputation-abuse-7e2b10c39652" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/stronger-content/google-cracking-down-on-site-reputation-abuse-7e2b10c39652</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: userp.io  
-   Link: <a href="https://userp.io/news/google-cracks-down-on-parasite-seo-in-site-reputation-abuse-policy-update/" target="_blank" rel="noopener noreferrer nofollow">https://userp.io/news/google-cracks-down-on-parasite-seo-in-site-reputation-abuse-policy-update/</a>  
+   Link:<a href="https://userp.io/news/google-cracks-down-on-parasite-seo-in-site-reputation-abuse-policy-update/" target="_blank" rel="noopener noreferrer nofollow">https://userp.io/news/google-cracks-down-on-parasite-seo-in-site-reputation-abuse-policy-update/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SEO/comments/1ix3bi1/google_penalty_resubmitted_tons_of_times_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SEO/comments/1ix3bi1/google_penalty_resubmitted_tons_of_times_but/</a>  
+   Link:<a href="https://www.reddit.com/r/SEO/comments/1ix3bi1/google_penalty_resubmitted_tons_of_times_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SEO/comments/1ix3bi1/google_penalty_resubmitted_tons_of_times_but/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/googles-site-reputation-abuse-policy-crackdown-sunil-ramlochan-enfpe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/googles-site-reputation-abuse-policy-crackdown-sunil-ramlochan-enfpe</a>  
+   Link:<a href="https://www.linkedin.com/pulse/googles-site-reputation-abuse-policy-crackdown-sunil-ramlochan-enfpe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/googles-site-reputation-abuse-policy-crackdown-sunil-ramlochan-enfpe</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SEO/comments/1gv380j/googles_site_reputation_abuse_policy_update/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SEO/comments/1gv380j/googles_site_reputation_abuse_policy_update/</a>  
+   Link:<a href="https://www.reddit.com/r/SEO/comments/1gv380j/googles_site_reputation_abuse_policy_update/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SEO/comments/1gv380j/googles_site_reputation_abuse_policy_update/</a>  

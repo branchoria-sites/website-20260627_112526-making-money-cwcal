@@ -284,11 +284,11 @@ image: /assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_ch
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_checkout_friction_ex_d96bf6-Illustration-1-dark.svg" | relative_url }}" alt="Checkout Risk illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_checkout_friction_ex_d96bf6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_checkout_friction_ex_d96bf6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters far more for expensive products than for low-cost purchases. As prices rise, shoppers spend more time checking for hidden risks, comparing [alternatives]({{ 'alternatives/' | relative_url }}) and looking for reassurance before committing. [Evidence]({{ 'evidence/' | relative_url }}) from large-scale ecommerce usability research shows that checkout friction remains one of the biggest causes of abandoned purchases, making it a critical consideration when choosing high-ticket affiliate programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-snippet">Baymard InstituteE-Commerce Cart &amp; Checkout Usability ResearchAt Baymard we&#x27;ve tracked the global average cart abandonment rate for 14 ye...</span></span></span>
+This matters far more for expensive products than for low-cost purchases. As prices rise, shoppers spend more time checking for hidden risks, comparing [alternatives]({{ 'alternatives/' | relative_url }}) and looking for reassurance before committing. [Evidence]({{ 'evidence/' | relative_url }}) from large-scale ecommerce usability research shows that checkout friction remains one of the biggest causes of abandoned purchases, making it a critical consideration when choosing high-ticket affiliate programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-snippet">Baymard InstituteE-Commerce Cart &amp; Checkout Usability ResearchAt Baymard we&#x27;ve tracked the global average cart abandonment rate for 14 ye...</span></span></span>
 
 ## Cart abandonment becomes more expensive with high-ticket referrals
 
-Industry-wide checkout research consistently finds that roughly seven in ten online shopping carts are abandoned before purchase, although some of those sessions reflect browsing rather than genuine buying intent. Even after accounting for comparison shopping, a substantial share of abandonment is linked to preventable checkout friction rather than lack of product interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-snippet">Baymard InstituteE-Commerce Cart &amp; Checkout Usability ResearchAt Baymard we&#x27;ve tracked the global average cart abandonment rate for 14 ye...</span></span></span>
+Industry-wide checkout research consistently finds that roughly seven in ten online shopping carts are abandoned before purchase, although some of those sessions reflect browsing rather than genuine buying intent. Even after accounting for comparison shopping, a substantial share of abandonment is linked to preventable checkout friction rather than lack of product interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-snippet">Baymard InstituteE-Commerce Cart &amp; Checkout Usability ResearchAt Baymard we&#x27;ve tracked the global average cart abandonment rate for 14 ye...</span></span></span>
 
 For affiliates promoting expensive products, every abandoned order has a disproportionate financial impact. Losing a £2,000 referral is not equivalent to losing dozens of £20 purchases because:
 
@@ -296,13 +296,13 @@ For affiliates promoting expensive products, every abandoned order has a disprop
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the commission forgone is much larger;
-* high-ticket buyers typically require more research before reaching checkout; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/ilyamikin_baymard-institute-2024-the-silent-killer-activity-7326210036576210945-nw_t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">The Silent Killer in Ecommerce</span><span class="citation-popover-snippet">Checkout Friction &#124; Ilya MikinTop reasons for cart abandonment due to checkout friction: • Checkout too long/complicated – 18% • Forced a...</span></span></span>
+* high-ticket buyers typically require more research before reaching checkout;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/ilyamikin_baymard-institute-2024-the-silent-killer-activity-7326210036576210945-nw_t" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">The Silent Killer in Ecommerce</span><span class="citation-popover-snippet">Checkout Friction &#124; Ilya MikinTop reasons for cart abandonment due to checkout friction: • Checkout too long/complicated – 18% • Forced a...</span></span></span>
 * replacing that visitor through SEO or paid promotion is usually more expensive;
 * long buying cycles increase the chance that attribution cookies expire or another publisher receives credit.
 
 </div>
 
-Research into high-consideration ecommerce queries also shows that expensive purchases naturally involve longer research journeys and greater engagement with decision-support content before conversion. That behaviour increases the number of opportunities for buyers to reconsider once checkout introduces additional uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2410.13951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Identifying High Consideration E-Commerce Search Queries</span><span class="citation-popover-snippet">Identifying High Consideration E-Commerce Search QueriesOctober 17, 2024...</span><span class="citation-popover-meta">Published: October 17, 2024</span></span></span>
+Research into high-consideration ecommerce queries also shows that expensive purchases naturally involve longer research journeys and greater engagement with decision-support content before conversion. That behaviour increases the number of opportunities for buyers to reconsider once checkout introduces additional uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2410.13951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Identifying High Consideration E-Commerce Search Queries</span><span class="citation-popover-snippet">Identifying High Consideration E-Commerce Search QueriesOctober 17, 2024...</span><span class="citation-popover-meta">Published: October 17, 2024</span></span></span>
 
 ## Why expensive purchases fail at checkout
 
@@ -310,7 +310,7 @@ The same checkout problems affect inexpensive products, but the psychological im
 
 ### Hidden costs create immediate doubt
 
-Unexpected shipping charges, taxes, installation fees or financing costs consistently rank as the leading reported reason for checkout abandonment. Baymard's ongoing research identifies additional costs as the single most common trigger, with delivery speed, returns and payment trust also contributing significantly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
+Unexpected shipping charges, taxes, installation fees or financing costs consistently rank as the leading reported reason for checkout abandonment. Baymard's ongoing research identifies additional costs as the single most common trigger, with delivery speed, returns and payment trust also contributing significantly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
 
 For high-ticket products, the issue extends beyond the amount itself. A customer considering a £3,000 purchase may interpret an unexpected £80 delivery charge as evidence that the merchant has not been transparent throughout the buying process. The hidden fee damages trust at precisely the point where confidence matters most.
 
@@ -334,7 +334,7 @@ Expensive items frequently involve:
 
 </div>
 
-If these details first appear during checkout, buyers often pause to investigate further instead of completing the order. In many cases they never return. Baymard identifies slow delivery expectations among the most common abandonment reasons across ecommerce. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
+If these details first appear during checkout, buyers often pause to investigate further instead of completing the order. In many cases they never return. Baymard identifies slow delivery expectations among the most common abandonment reasons across ecommerce.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5fQQpFn8J0I" title="How Abandoned Cart Recovery Boosts Affiliate Success | Wati" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5fQQpFn8J0I" target="_blank" rel="noopener noreferrer">How Abandoned Cart Recovery Boosts Affiliate Success | Wati</a></p><p class="youtube-embed-meta">Channel: Wati</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5fQQpFn8J0I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5fQQpFn8J0I">Open on YouTube</a></p></div></div></div>
@@ -363,7 +363,7 @@ many delay the purchase until they feel more certain.
 <img src="{{ "/assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_checkout_friction_ex_d96bf6-Illustration-2-dark.svg" | relative_url }}" alt="Checkout Risk illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_checkout_friction_ex_d96bf6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_checkout_friction_ex_d96bf6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Trust signals matter more as prices rise
 
-Research consistently identifies lack of payment trust as an important contributor to abandonment. Security concerns, unfamiliar payment pages or missing reassurance become more influential when shoppers are about to spend hundreds or thousands of pounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
+Research consistently identifies lack of payment trust as an important contributor to abandonment. Security concerns, unfamiliar payment pages or missing reassurance become more influential when shoppers are about to spend hundreds or thousands of pounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
 
 For affiliates, this creates an awkward reality: excellent pre-sale content cannot compensate if the merchant's checkout appears unreliable.
 
@@ -410,7 +410,7 @@ Warning signs include:
 
 </div>
 
-Conversely, merchants that publish transparent pricing, estimated delivery dates, comprehensive FAQs and straightforward returns policies reduce uncertainty before payment. Baymard's checkout research repeatedly concludes that making total costs, policies and expectations visible earlier in the buying journey removes major sources of friction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/learn/checkout-flow-ux-optimization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute Ecommerce Checkout UX Guide</span><span class="citation-popover-snippet">hiding &quot;Address Line 2&quot; transparency is required before a user commits to a payment method...</span></span></span>
+Conversely, merchants that publish transparent pricing, estimated delivery dates, comprehensive FAQs and straightforward returns policies reduce uncertainty before payment. Baymard's checkout research repeatedly concludes that making total costs, policies and expectations visible earlier in the buying journey removes major sources of friction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/learn/checkout-flow-ux-optimization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute Ecommerce Checkout UX Guide</span><span class="citation-popover-snippet">hiding &quot;Address Line 2&quot; transparency is required before a user commits to a payment method...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Df_caSe8F58" title="How to ACTUALLY Create High Converting Abandoned Cart and Checkout Flows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Df_caSe8F58" target="_blank" rel="noopener noreferrer">How to ACTUALLY Create High Converting Abandoned Cart and Checkout Flows</a></p><p class="youtube-embed-meta">Channel: Raymond Chen</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Df_caSe8F58" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Df_caSe8F58">Open on YouTube</a></p></div></div></div>
@@ -424,178 +424,178 @@ A merchant with a slightly lower commission but a transparent, trustworthy check
 For affiliates, this means evaluating the entire customer journey rather than only the commission percentage. Strong content can persuade visitors to click, but transparent checkout experiences are what ultimately convert expensive referrals into completed sales.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Expensive Clicks Fail at Checkout. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Expensive Clicks Fail at Checkout. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
-        </h4>
-        <p class="fr-book-author">By Steve Krug</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
+</h4>
+<p class="fr-book-author">By Steve Krug</p>
         
-        <p class="fr-book-desc">Explains usability principles that directly relate to reducing checkout friction and improving conversion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains usability principles that directly relate to reducing checkout friction and improving conversion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Webs+of+Influence+by+Nathalie+Nahai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Webs of Influence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NRTQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Webs of Influence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Webs+of+Influence+by+Nathalie+Nahai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Webs of Influence">Webs of Influence</a>
-        </h4>
-        <p class="fr-book-author">By Nathalie Nahai</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Webs+of+Influence+by+Nathalie+Nahai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Webs of Influence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NRTQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Webs of Influence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Webs+of+Influence+by+Nathalie+Nahai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Webs of Influence">Webs of Influence</a>
+</h4>
+<p class="fr-book-author">By Nathalie Nahai</p>
         
-        <p class="fr-book-desc">Focuses on the behavioural factors affecting online purchases, including credibility and hesitation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Webs+of+Influence+by+Nathalie+Nahai&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the behavioural factors affecting online purchases, including credibility and hesitation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Webs+of+Influence+by+Nathalie+Nahai&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Evil by Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=46Wl1G9yJUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Evil by Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Evil by Design">Evil by Design</a>
-        </h4>
-        <p class="fr-book-author">By Chris Nodder</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Evil by Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=46Wl1G9yJUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Evil by Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Evil by Design">Evil by Design</a>
+</h4>
+<p class="fr-book-author">By Chris Nodder</p>
         
-        <p class="fr-book-desc">Explores behavioural design patterns that influence user decisions throughout the buying journey.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores behavioural design patterns that influence user decisions throughout the buying journey.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Evil+by+Design+by+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Helps affiliates understand trust, risk reduction and persuasive techniques that encourage confident purchasing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps affiliates understand trust, risk reduction and persuasive techniques that encourage confident purchasing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Webs+of+Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Webs of Influence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Evil+by+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Evil by Design</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Webs+of+Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Webs of Influence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Evil+by+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Evil by Design</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grand Theft Auto Online Business Woman Yellow Framed Wall Art Print Large"><img src="{{ '/assets/images/marketplace-covers/05c93b4190646f861354.jpg' | relative_url }}" alt="Listing image for Grand Theft Auto Online Business Woman Yellow Framed Wall Art Print Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer">Grand Theft Auto Online Business Woman Yellow Framed Wall Art Print Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for online business wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: online business wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grand Theft Auto Online Business Woman Yellow Framed Wall Art Print Large"><img src="{{ '/assets/images/marketplace-covers/05c93b4190646f861354.jpg' | relative_url }}" alt="Listing image for Grand Theft Auto Online Business Woman Yellow Framed Wall Art Print Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer">Grand Theft Auto Online Business Woman Yellow Framed Wall Art Print Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for online business wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: online business wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grand Theft Auto Online Business Woman Black &amp; White Framed Wall Art Print Large"><img src="{{ '/assets/images/marketplace-covers/07c579273fc06f2d988c.jpg' | relative_url }}" alt="Listing image for Grand Theft Auto Online Business Woman Black &amp; White Framed Wall Art Print Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer">Grand Theft Auto Online Business Woman Black &amp; White Framed Wall Art Print Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for online business wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: online business wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grand Theft Auto Online Business Woman Black &amp; White Framed Wall Art Print Large"><img src="{{ '/assets/images/marketplace-covers/07c579273fc06f2d988c.jpg' | relative_url }}" alt="Listing image for Grand Theft Auto Online Business Woman Black &amp; White Framed Wall Art Print Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer">Grand Theft Auto Online Business Woman Black &amp; White Framed Wall Art Print Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for online business wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: online business wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grand Theft Auto Online Business Woman Blue Framed Wall Art Print Large Picture"><img src="{{ '/assets/images/marketplace-covers/4e28dbac3892de156cc1.jpg' | relative_url }}" alt="Listing image for Grand Theft Auto Online Business Woman Blue Framed Wall Art Print Large Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer">Grand Theft Auto Online Business Woman Blue Framed Wall Art Print Large Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for online business wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: online business wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grand Theft Auto Online Business Woman Blue Framed Wall Art Print Large Picture"><img src="{{ '/assets/images/marketplace-covers/4e28dbac3892de156cc1.jpg' | relative_url }}" alt="Listing image for Grand Theft Auto Online Business Woman Blue Framed Wall Art Print Large Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer">Grand Theft Auto Online Business Woman Blue Framed Wall Art Print Large Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for online business wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: online business wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=online+business+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="online business wall art" data-ebay-reference="checkout-risk-why-expensive-clicks-fail-at-checkout-making-money-from-online-business-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -611,7 +611,7 @@ For affiliates, this means evaluating the entire customer journey rather than on
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -631,7 +631,7 @@ For affiliates, this means evaluating the entire customer journey rather than on
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -663,7 +663,7 @@ For affiliates, this means evaluating the entire customer journey rather than on
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -715,7 +715,7 @@ For affiliates, this means evaluating the entire customer journey rather than on
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -760,7 +760,7 @@ For affiliates, this means evaluating the entire customer journey rather than on
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -801,108 +801,108 @@ For affiliates, this means evaluating the entire customer journey rather than on
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteE-Commerce Cart &amp; Checkout Usability ResearchAt Baymard we&#x27;ve tracked the global average cart abandonment rate for 14 ye...</p></details>
+   Link:<a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteE-Commerce Cart &amp; Checkout Usability ResearchAt Baymard we&#x27;ve tracked the global average cart abandonment rate for 14 ye...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: baymard.com  
    Title: cart abandonment rate  
-   Link: <a href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/lists/cart-abandonment-rate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</p></details>
+   Link:<a href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/lists/cart-abandonment-rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: baymard.com  
    Title: ecommerce checkout usability report and benchmark  
-   Link: <a href="https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteReasons for Cart Abandonment – Why 70% of Do So21 Sept 2016 — a large portion of cart abandonments are simply a natural...</p></details>
+   Link:<a href="https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteReasons for Cart Abandonment – Why 70% of Do So21 Sept 2016 — a large portion of cart abandonments are simply a natural...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Identifying High Consideration E-Commerce Search Queries  
-   Link: <a href="https://arxiv.org/abs/2410.13951" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.13951</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying High Consideration E-Commerce Search QueriesOctober 17, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2410.13951" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.13951</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying High Consideration E-Commerce Search QueriesOctober 17, 2024...</p></details>
    Published: October 17, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: baymard.com  
    Title: Institute Ecommerce Checkout UX Guide  
-   Link: <a href="https://baymard.com/learn/checkout-flow-ux-optimization" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/checkout-flow-ux-optimization</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>hiding &quot;Address Line 2&quot; transparency is required before a user commits to a payment method...</p></details>
+   Link:<a href="https://baymard.com/learn/checkout-flow-ux-optimization" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/checkout-flow-ux-optimization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hiding &quot;Address Line 2&quot; transparency is required before a user commits to a payment method...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/learn/reduce-cart-abandonment" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/reduce-cart-abandonment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>By addressing these five common friction points, you can build a more trustworthy...Read more...</p></details>
+   Link:<a href="https://baymard.com/learn/reduce-cart-abandonment" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/reduce-cart-abandonment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By addressing these five common friction points, you can build a more trustworthy...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecommerce UX Research &amp; Best Practice GuidelinesSolve real ecommerce UX challenges with 200000+ hours of research. Get clear ans...</p></details>
+   Link:<a href="https://baymard.com/" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecommerce UX Research &amp; Best Practice GuidelinesSolve real ecommerce UX challenges with 200000+ hours of research. Get clear ans...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/learn/audit-checkout-flow-hidden-friction" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/audit-checkout-flow-hidden-friction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Audit Your Checkout Flow for Hidden FrictionAnalytics show where users drop off; a UX audit tells you why. Use this research-backe...</p></details>
+   Link:<a href="https://baymard.com/learn/audit-checkout-flow-hidden-friction" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/audit-checkout-flow-hidden-friction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Audit Your Checkout Flow for Hidden FrictionAnalytics show where users drop off; a UX audit tells you why. Use this research-backe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: linkedin.com  
    Title: The Silent Killer in Ecommerce  
-   Link: <a href="https://www.linkedin.com/posts/ilyamikin_baymard-institute-2024-the-silent-killer-activity-7326210036576210945-nw_t" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ilyamikin_baymard-institute-2024-the-silent-killer-activity-7326210036576210945-nw_t</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Checkout Friction | Ilya MikinTop reasons for cart abandonment due to checkout friction: • Checkout too long/complicated – 18% • Forced a...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/ilyamikin_baymard-institute-2024-the-silent-killer-activity-7326210036576210945-nw_t" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ilyamikin_baymard-institute-2024-the-silent-killer-activity-7326210036576210945-nw_t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Checkout Friction | Ilya MikinTop reasons for cart abandonment due to checkout friction: • Checkout too long/complicated – 18% • Forced a...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT</a>  
+   Link:<a href="https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: supadu.com  
-   Link: <a href="https://www.supadu.com/post/reasons-for-cart-abandonment" target="_blank" rel="noopener noreferrer nofollow">https://www.supadu.com/post/reasons-for-cart-abandonment</a>  
+   Link:<a href="https://www.supadu.com/post/reasons-for-cart-abandonment" target="_blank" rel="noopener noreferrer nofollow">https://www.supadu.com/post/reasons-for-cart-abandonment</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: primer.io  
-   Link: <a href="https://primer.io/blog/top-reasons-for-cart-abandonment-and-how-to-address-them" target="_blank" rel="noopener noreferrer nofollow">https://primer.io/blog/top-reasons-for-cart-abandonment-and-how-to-address-them</a>  
+   Link:<a href="https://primer.io/blog/top-reasons-for-cart-abandonment-and-how-to-address-them" target="_blank" rel="noopener noreferrer nofollow">https://primer.io/blog/top-reasons-for-cart-abandonment-and-how-to-address-them</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: passportglobal.com  
    Title: why shoppers abandon carts and what they expect from international checkout  
-   Link: <a href="https://passportglobal.com/blog/why-shoppers-abandon-carts-and-what-they-expect-from-international-checkout/" target="_blank" rel="noopener noreferrer nofollow">https://passportglobal.com/blog/why-shoppers-abandon-carts-and-what-they-expect-from-international-checkout/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Shoppers Around the World Abandon Carts and What...18 Dec 2025 — Learn why global shoppers abandon carts and how international check...</p></details>
+   Link:<a href="https://passportglobal.com/blog/why-shoppers-abandon-carts-and-what-they-expect-from-international-checkout/" target="_blank" rel="noopener noreferrer nofollow">https://passportglobal.com/blog/why-shoppers-abandon-carts-and-what-they-expect-from-international-checkout/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Shoppers Around the World Abandon Carts and What...18 Dec 2025 — Learn why global shoppers abandon carts and how international check...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: shopify.com  
    Title: 44272899 how to reduce shopping cart abandonment by optimizing the checkout  
-   Link: <a href="https://www.shopify.com/enterprise/blog/44272899-how-to-reduce-shopping-cart-abandonment-by-optimizing-the-checkout" target="_blank" rel="noopener noreferrer nofollow">https://www.shopify.com/enterprise/blog/44272899-how-to-reduce-shopping-cart-abandonment-by-optimizing-the-checkout</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Reduce Shopping Cart Abandonment (2025)18 Feb 2025 — Baymard Institute&#x27;s research found the following common reasons: Extra costs...</p></details>
+   Link:<a href="https://www.shopify.com/enterprise/blog/44272899-how-to-reduce-shopping-cart-abandonment-by-optimizing-the-checkout" target="_blank" rel="noopener noreferrer nofollow">https://www.shopify.com/enterprise/blog/44272899-how-to-reduce-shopping-cart-abandonment-by-optimizing-the-checkout</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Reduce Shopping Cart Abandonment (2025)18 Feb 2025 — Baymard Institute&#x27;s research found the following common reasons: Extra costs...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: icreativetechnologies.com  
    Title: why shoppers leave and how to keep them understanding cart abandonment  
-   Link: <a href="https://www.icreativetechnologies.com/why-shoppers-leave-and-how-to-keep-them-understanding-cart-abandonment/" target="_blank" rel="noopener noreferrer nofollow">https://www.icreativetechnologies.com/why-shoppers-leave-and-how-to-keep-them-understanding-cart-abandonment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Cart Abandonment Rate.25 Sept 2023 — According to a study conducted by Baymard Institute, 56% of customers abandon their carts...</p></details>
+   Link:<a href="https://www.icreativetechnologies.com/why-shoppers-leave-and-how-to-keep-them-understanding-cart-abandonment/" target="_blank" rel="noopener noreferrer nofollow">https://www.icreativetechnologies.com/why-shoppers-leave-and-how-to-keep-them-understanding-cart-abandonment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring Cart Abandonment Rate.25 Sept 2023 — According to a study conducted by Baymard Institute, 56% of customers abandon their carts...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: growth-engines.com  
-   Link: <a href="https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization" target="_blank" rel="noopener noreferrer nofollow">https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Checkout Optimization: Recover 35% of Abandoned Carts20 Mar 2026 — What&#x27;s the best way to reduce unexpected costs at checkout?...</p></details>
+   Link:<a href="https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization" target="_blank" rel="noopener noreferrer nofollow">https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Checkout Optimization: Recover 35% of Abandoned Carts20 Mar 2026 — What&#x27;s the best way to reduce unexpected costs at checkout?...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: maropost.com  
    Title: ecommerce conversion rate optimization high impact strategies  
-   Link: <a href="https://maropost.com/blog/ecommerce-conversion-rate-optimization-high-impact-strategies" target="_blank" rel="noopener noreferrer nofollow">https://maropost.com/blog/ecommerce-conversion-rate-optimization-high-impact-strategies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecommerce conversion rate optimization: 5 high-impact...Discover top 5 ecommerce conversion rate optimization strategies for 2026, inclu...</p></details>
+   Link:<a href="https://maropost.com/blog/ecommerce-conversion-rate-optimization-high-impact-strategies" target="_blank" rel="noopener noreferrer nofollow">https://maropost.com/blog/ecommerce-conversion-rate-optimization-high-impact-strategies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecommerce conversion rate optimization: 5 high-impact...Discover top 5 ecommerce conversion rate optimization strategies for 2026, inclu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fyresite.com  
    Title: average ecommerce conversion rate for high ticket sales  
-   Link: <a href="https://www.fyresite.com/average-ecommerce-conversion-rate-for-high-ticket-sales/" target="_blank" rel="noopener noreferrer nofollow">https://www.fyresite.com/average-ecommerce-conversion-rate-for-high-ticket-sales/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Average Ecommerce Conversion Rate for High-Ticket Sales30 Jan 2026 — TL;DR: High-ticket ecommerce conversion rates are inherently lower b...</p></details>
+   Link:<a href="https://www.fyresite.com/average-ecommerce-conversion-rate-for-high-ticket-sales/" target="_blank" rel="noopener noreferrer nofollow">https://www.fyresite.com/average-ecommerce-conversion-rate-for-high-ticket-sales/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Average Ecommerce Conversion Rate for High-Ticket Sales30 Jan 2026 — TL;DR: High-ticket ecommerce conversion rates are inherently lower b...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: parahgroup.com  
    Title: what is a good ecommerce conversion rate in 2025  
-   Link: <a href="https://www.parahgroup.com/blogs/what-is-a-good-ecommerce-conversion-rate-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.parahgroup.com/blogs/what-is-a-good-ecommerce-conversion-rate-in-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?17 Jul 2025 — This article explores what a good ecommerce conversion rate looks like in 2025 across different industries, devices, and b...</p></details>
+   Link:<a href="https://www.parahgroup.com/blogs/what-is-a-good-ecommerce-conversion-rate-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.parahgroup.com/blogs/what-is-a-good-ecommerce-conversion-rate-in-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?17 Jul 2025 — This article explores what a good ecommerce conversion rate looks like in 2025 across different industries, devices, and b...</p></details>

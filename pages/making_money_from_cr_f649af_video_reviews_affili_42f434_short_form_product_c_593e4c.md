@@ -284,7 +284,7 @@ Short product videos can generate affiliate [traffic]({{ 'traffic/' | relative_u
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_short_form_product_c_593e4c-Illustration-1-dark.svg" | relative_url }}" alt="Short Clips illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_short_form_product_c_593e4c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_short_form_product_c_593e4c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate publishers, the goal is not to compress an entire review into a short [video]({{ 'video/' | relative_url }}). It is to prove one meaningful claim, build enough confidence for the viewer to seek more detail, and direct that interest towards a comprehensive review or comparison page. Research on short-form video consistently finds that usefulness is a stronger driver of trust than entertainment alone, with trust acting as an important bridge between viewing and purchase intention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</span></span></span>
+For affiliate publishers, the goal is not to compress an entire review into a short [video]({{ 'video/' | relative_url }}). It is to prove one meaningful claim, build enough confidence for the viewer to seek, and direct that interest towards a comprehensive review or comparison page. Research on short-form video consistently finds that usefulness is a stronger driver of trust than entertainment alone, with trust acting as an important bridge between viewing and purchase intention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</span></span></span>
 
 ## Pick One Decisive Product Moment
 
@@ -303,7 +303,7 @@ Instead of listing specifications, choose one observable moment that changes how
 
 </div>
 
-These demonstrations work because viewers can inspect the evidence themselves rather than relying solely on the creator's opinion. That aligns closely with Google's guidance for high-quality product [reviews]({{ 'reviews/' | relative_url }}), which encourages original evidence, first-hand experience and meaningful comparisons rather than recycled product descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</span></span></span>
+These demonstrations work because viewers can inspect the evidence themselves rather than relying solely on the creator's opinion. That aligns closely with Google's guidance for high-quality product [reviews]({{ 'reviews/' | relative_url }}), which encourages original evidence, first-hand experience and meaningful comparisons rather than recycled product descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</span></span></span>
 
 A useful mental test is simple: if the sound is muted and captions removed, can a viewer still understand the point being demonstrated? If the answer is yes, the clip is probably showing evidence rather than making unsupported claims.
 
@@ -314,7 +314,7 @@ A useful mental test is simple: if the sound is muted and captions removed, can 
 
 Short-form platforms reward novelty, humour and rapid editing, but affiliate publishers have a different objective from pure entertainment creators.
 
-Entertainment may increase viewing time, yet excessive effects, exaggerated reactions or dramatic claims can weaken [credibility]({{ 'credibility/' | relative_url }}). Research examining short-video commerce repeatedly finds that usefulness and ease of understanding contribute directly to consumer trust alongside entertainment, rather than entertainment replacing them. Trust then becomes an important predictor of purchase intention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</span></span></span>
+Entertainment may increase viewing time, yet excessive effects, exaggerated reactions or dramatic claims can weaken [credibility]({{ 'credibility/' | relative_url }}). Research examining short-video commerce repeatedly finds that usefulness and ease of understanding contribute directly to consumer trust alongside entertainment, rather than entertainment replacing them. Trust then becomes an important predictor of purchase intention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</span></span></span>
 
 Practical trust signals include:
 
@@ -377,7 +377,7 @@ Over time this library of focused demonstrations creates a stronger reputation t
 
 Trust is not built only through demonstrations. Viewers also need confidence that commercial relationships are being handled honestly.
 
-Affiliate links and sponsored relationships should be disclosed clearly and in language that ordinary viewers understand. Research examining affiliate disclosures has found that vague or abbreviated disclosures are often ineffective, while clearer explanations better help audiences recognise promotional content. More recent analysis of YouTube's affiliate ecosystem suggests disclosure compliance remains inconsistent despite regulatory guidance, making transparent creators more distinctive rather than less persuasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Affiliate links and sponsored relationships should be disclosed clearly and in language that ordinary viewers understand. Research examining affiliate disclosures has found that vague or abbreviated disclosures are often ineffective, while clearer explanations better help audiences recognise promotional content. More recent analysis of YouTube's affiliate ecosystem suggests disclosure compliance remains inconsistent despite regulatory guidance, making transparent creators more distinctive rather than less persuasive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
 For affiliate websites supported by short-form video, transparency complements rather than competes with trust. A visible disclosure, a genuine demonstration and a balanced review together create a more persuasive recommendation than aggressive sales language ever could.
 
@@ -386,194 +386,194 @@ For affiliate websites supported by short-form video, transparency complements r
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Short Product Videos Really Sell?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Short Product Videos Really Sell?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Helps readers understand what makes content spread while remaining useful and persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand what makes content spread while remaining useful and persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Donald Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
+</h4>
+<p class="fr-book-author">By Donald Miller</p>
         
-        <p class="fr-book-desc">Shows how to communicate product value clearly instead of overwhelming audiences with unnecessary detail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to communicate product value clearly instead of overwhelming audiences with unnecessary detail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains why trust, credibility, and evidence influence purchasing decisions, aligning with effective short product videos.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why trust, credibility, and evidence influence purchasing decisions, aligning with effective short product videos.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jab, Jab, Jab, Right Hook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jab, Jab, Jab, Right Hook">Jab, Jab, Jab, Right Hook</a>
-        </h4>
-        <p class="fr-book-author">By Gary Vaynerchuk</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jab, Jab, Jab, Right Hook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jab, Jab, Jab, Right Hook">Jab, Jab, Jab, Right Hook</a>
+</h4>
+<p class="fr-book-author">By Gary Vaynerchuk</p>
         
-        <p class="fr-book-desc">Focuses on producing platform-appropriate short-form content that earns attention before asking for conversions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on producing platform-appropriate short-form content that earns attention before asking for conversions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography"><img src="{{ '/assets/images/marketplace-covers/b0ddd076dac15c641a17.jpg' | relative_url }}" alt="Listing image for 100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography"><img src="{{ '/assets/images/marketplace-covers/b0ddd076dac15c641a17.jpg' | relative_url }}" alt="Listing image for 100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand"><img src="{{ '/assets/images/marketplace-covers/0797d1c99a379354b972.jpg' | relative_url }}" alt="Listing image for 2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand"><img src="{{ '/assets/images/marketplace-covers/0797d1c99a379354b972.jpg' | relative_url }}" alt="Listing image for 2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt"><img src="{{ '/assets/images/marketplace-covers/878b2d50bc382eb8e284.jpg' | relative_url }}" alt="Listing image for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt"><img src="{{ '/assets/images/marketplace-covers/878b2d50bc382eb8e284.jpg' | relative_url }}" alt="Listing image for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K"><img src="{{ '/assets/images/marketplace-covers/7b0678a4bccfbccb815d.jpg' | relative_url }}" alt="Listing image for W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K"><img src="{{ '/assets/images/marketplace-covers/7b0678a4bccfbccb815d.jpg' | relative_url }}" alt="Listing image for W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="short-clips-can-short-product-videos-really-sell-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ For affiliate websites supported by short-form video, transparency complements r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ For affiliate websites supported by short-form video, transparency complements r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ For affiliate websites supported by short-form video, transparency complements r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ For affiliate websites supported by short-form video, transparency complements r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ For affiliate websites supported by short-form video, transparency complements r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,106 +779,106 @@ For affiliate websites supported by short-form video, transparency complements r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.04383</a>  
+   Link:<a href="https://arxiv.org/abs/2603.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.04383</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2603.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2603.04383</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Affiliate Marketing and FTC Compliance in...by C Sun · 2026 — In parallel, we observed that product-focused categories rely mor...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2603.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2603.04383</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Affiliate Marketing and FTC Compliance in...by C Sun · 2026 — In parallel, we observed that product-focused categories rely mor...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Create Product Videos on You Tube & Get Paid by [Amazon](&#123;&#123; 'amazon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=nFZUrthRom8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nFZUrthRom8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Start a Product Review Channel and Make Money — 7 Tips...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nFZUrthRom8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nFZUrthRom8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Start a Product Review Channel and Make Money — 7 Tips...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: How to Start a Product Review Channel and Make Money — 7 Tips  
-   Link: <a href="https://www.youtube.com/watch?v=Y4cmLnIwKRg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y4cmLnIwKRg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Product Review Videos that STAND OUT...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y4cmLnIwKRg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y4cmLnIwKRg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Product Review Videos that STAND OUT...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: How to Make Product Review Videos that STAND OUT!  
-   Link: <a href="https://www.youtube.com/watch?v=l7WjdZBCUJk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7WjdZBCUJk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create a Product Review Video (That Actually Gets Views!)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l7WjdZBCUJk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l7WjdZBCUJk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create a Product Review Video (That Actually Gets Views!)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: How to Create a Product Review Video (That Actually Gets Views!)  
-   Link: <a href="https://www.youtube.com/watch?v=8SiRTLIXSzE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8SiRTLIXSzE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create a Viral Affiliate Product Video for Free with AI...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8SiRTLIXSzE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8SiRTLIXSzE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create a Viral Affiliate Product Video for Free with AI...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: How to Create a Viral Affiliate Product Video for Free with AI  
-   Link: <a href="https://www.youtube.com/watch?v=NKruSiyNAsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NKruSiyNAsc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=NKruSiyNAsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NKruSiyNAsc</a>  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ligsuniversity.com  
-   Link: <a href="https://ligsuniversity.com/impact-of-video-marketing-on-consumer-purchase-intention/" target="_blank" rel="noopener noreferrer nofollow">https://ligsuniversity.com/impact-of-video-marketing-on-consumer-purchase-intention/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Video Marketing on Consumer Purchase IntentionIt was found that there is a positive relationship between video marketing and cu...</p></details>
+   Link:<a href="https://ligsuniversity.com/impact-of-video-marketing-on-consumer-purchase-intention/" target="_blank" rel="noopener noreferrer nofollow">https://ligsuniversity.com/impact-of-video-marketing-on-consumer-purchase-intention/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Video Marketing on Consumer Purchase IntentionIt was found that there is a positive relationship between video marketing and cu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thesis.eur.nl  
-   Link: <a href="https://thesis.eur.nl/pub/45905/Kourelis_468390.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/45905/Kourelis_468390.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>study on the effects of YouTube metrics and review...The research focuses on the particular effects of the metrics, more specifically th...</p></details>
+   Link:<a href="https://thesis.eur.nl/pub/45905/Kourelis_468390.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/45905/Kourelis_468390.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>study on the effects of YouTube metrics and review...The research focuses on the particular effects of the metrics, more specifically th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391707426_Influence_of_short_video_content_on_consumers_purchase_intentions_on_social_media_platforms_with_trust_as_a_mediator" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391707426_Influence_of_short_video_content_on_consumers_purchase_intentions_on_social_media_platforms_with_trust_as_a_mediator</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and entertainment significantly affect consumers&#x27; trust and purchase intention.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391707426_Influence_of_short_video_content_on_consumers_purchase_intentions_on_social_media_platforms_with_trust_as_a_mediator" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391707426_Influence_of_short_video_content_on_consumers_purchase_intentions_on_social_media_platforms_with_trust_as_a_mediator</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and entertainment significantly affect consumers&#x27; trust and purchase intention.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: acr-journal.com  
-   Link: <a href="https://acr-journal.com/article/live-streaming-commerce-and-consumer-purchase-intentions-a-trust-based-analysis-1958/" target="_blank" rel="noopener noreferrer nofollow">https://acr-journal.com/article/live-streaming-commerce-and-consumer-purchase-intentions-a-trust-based-analysis-1958/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with trust in streamers acting as a mediating factor, and investigates...Read more...</p></details>
+   Link:<a href="https://acr-journal.com/article/live-streaming-commerce-and-consumer-purchase-intentions-a-trust-based-analysis-1958/" target="_blank" rel="noopener noreferrer nofollow">https://acr-journal.com/article/live-streaming-commerce-and-consumer-purchase-intentions-a-trust-based-analysis-1958/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with trust in streamers acting as a mediating factor, and investigates...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: digiday.com  
    Title: how brands are building consumer trust on youtube  
-   Link: <a href="https://digiday.com/sponsored/how-brands-are-building-consumer-trust-on-youtube/" target="_blank" rel="noopener noreferrer nofollow">https://digiday.com/sponsored/how-brands-are-building-consumer-trust-on-youtube/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jan 2023 — These shopping insights illustrate how marketers are building brand loyalty and creating repeat customers on YouTube.Read more...</p></details>
+   Link:<a href="https://digiday.com/sponsored/how-brands-are-building-consumer-trust-on-youtube/" target="_blank" rel="noopener noreferrer nofollow">https://digiday.com/sponsored/how-brands-are-building-consumer-trust-on-youtube/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jan 2023 — These shopping insights illustrate how marketers are building brand loyalty and creating repeat customers on YouTube.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blog.nobledesktop.com  
    Title: how youtube influences consumer buying behavior  
-   Link: <a href="https://blog.nobledesktop.com/learn/social-media-marketing/how-youtube-influences-consumer-buying-behavior" target="_blank" rel="noopener noreferrer nofollow">https://blog.nobledesktop.com/learn/social-media-marketing/how-youtube-influences-consumer-buying-behavior</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influences Consumer Buying Behavior19 Apr 2026 — Explore how YouTube shapes purchase decisions through influencer trust, visual s...</p></details>
+   Link:<a href="https://blog.nobledesktop.com/learn/social-media-marketing/how-youtube-influences-consumer-buying-behavior" target="_blank" rel="noopener noreferrer nofollow">https://blog.nobledesktop.com/learn/social-media-marketing/how-youtube-influences-consumer-buying-behavior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influences Consumer Buying Behavior19 Apr 2026 — Explore how YouTube shapes purchase decisions through influencer trust, visual s...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395995193_Understanding_the_Effect_of_Product_Reviews_on_YouTube_on_Consumers%27_Intention_to_Purchase_Electronic_Devices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395995193_Understanding_the_Effect_of_Product_Reviews_on_YouTube_on_Consumers%27_Intention_to_Purchase_Electronic_Devices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study examines how sensory marketing...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395995193_Understanding_the_Effect_of_Product_Reviews_on_YouTube_on_Consumers%27_Intention_to_Purchase_Electronic_Devices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395995193_Understanding_the_Effect_of_Product_Reviews_on_YouTube_on_Consumers%27_Intention_to_Purchase_Electronic_Devices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This study examines how sensory marketing...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wjarr.com  
-   Link: <a href="https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2026-0588.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2026-0588.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of TikTok affiliate video marketing strategies on...The study&#x27;s primary objective was to examine the influence of five key ind...</p></details>
+   Link:<a href="https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2026-0588.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2026-0588.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of TikTok affiliate video marketing strategies on...The study&#x27;s primary objective was to examine the influence of five key ind...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: buscompress.com  
    Title: riber 14 3 04 s24 129 52 67  
-   Link: <a href="https://buscompress.com/uploads/3/4/9/8/34980536/riber_14-3_04_s24-129_52-67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://buscompress.com/uploads/3/4/9/8/34980536/riber_14-3_04_s24-129_52-67.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Affiliate Posts as a Marketing Strategy Influence...by KTF Giron · 2025 · Cited by 2 — This study addresses the importance of consum...</p></details>
+   Link:<a href="https://buscompress.com/uploads/3/4/9/8/34980536/riber_14-3_04_s24-129_52-67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://buscompress.com/uploads/3/4/9/8/34980536/riber_14-3_04_s24-129_52-67.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Affiliate Posts as a Marketing Strategy Influence...by KTF Giron · 2025 · Cited by 2 — This study addresses the importance of consum...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: journals.researchsynergypress.com  
-   Link: <a href="https://journals.researchsynergypress.com/index.php/issues/article/download/2905/1636" target="_blank" rel="noopener noreferrer nofollow">https://journals.researchsynergypress.com/index.php/issues/article/download/2905/1636</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study on Consumer Purchase Intention Through TikTok...24 Dec 2024 — This demonstrates how active affiliate marketing influences consumer...</p></details>
+   Link:<a href="https://journals.researchsynergypress.com/index.php/issues/article/download/2905/1636" target="_blank" rel="noopener noreferrer nofollow">https://journals.researchsynergypress.com/index.php/issues/article/download/2905/1636</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study on Consumer Purchase Intention Through TikTok...24 Dec 2024 — This demonstrates how active affiliate marketing influences consumer...</p></details>

@@ -447,7 +447,7 @@ image: /assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b-over
 
 ## Introduction
 
-First-hand product testing makes an affiliate review stronger because it gives readers evidence that the recommendation is based on use, not commission potential. In a market full of rewritten product listings, AI-generated summaries, copied specifications, and questionable review practices, a credible affiliate page has to show what the product is like in real conditions: how it performs, where it fails, who it suits, and what the reviewer actually did with it. Google’s own review guidance asks publishers to evaluate products from a user’s perspective, show evidence such as original visuals or links to their own experience, include quantitative measurements, and explain [trade-offs]({{ 'trade-offs/' | relative_url }}) against [alternatives]({{ 'alternatives/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span>
+First-hand product testing makes an affiliate review stronger because it gives readers evidence that the recommendation is based on use, not commission potential. In a market full of rewritten product listings, AI-generated summaries, copied specifications, and questionable review practices, a credible affiliate page has to show what the product is like in real conditions: how it performs, where it fails, who it suits, and what the reviewer actually did with it. Google’s own review guidance asks publishers to evaluate products from a user’s perspective, show evidence such as original visuals or links to their own experience, include quantitative measurements, and explain [trade-offs]({{ 'trade-offs/' | relative_url }}) against [alternatives]({{ 'alternatives/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b-overview.webp" | relative_url }}" alt="Overview image for Testing" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,13 +455,13 @@ For websites that make money from affiliate links, this matters commercially as 
 
 ## Why testing changes the trust equation
 
-Affiliate reviews have an obvious credibility problem: the publisher may earn money if the reader buys. That does not make the recommendation dishonest, but it does mean the page has to work harder to prove that the advice is useful. Regulators and platforms increasingly treat hidden commercial influence, fake reviews, and misleading endorsement practices as real consumer harms. The UK Advertising Standards Authority says affiliate marketing must be obviously identifiable as marketing, and the CAP Code requires commercial intent to be clear when it is not apparent from the context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Rule 2.1 of the CAP Code requires that marketing communications are obviously identifiable as suc...</span></span></span>
+Affiliate reviews have an obvious credibility problem: the publisher may earn money if the reader buys. That does not make the recommendation dishonest, but it does mean the page has to work harder to prove that the advice is useful. Regulators and platforms increasingly treat hidden commercial influence, fake reviews, and misleading endorsement practices as real consumer harms. The UK Advertising Standards Authority says affiliate marketing must be obviously identifiable as marketing, and the CAP Code requires commercial intent to be clear when it is not apparent from the context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Rule 2.1 of the CAP Code requires that marketing communications are obviously identifiable as suc...</span></span></span>
 
 First-hand testing helps because it shifts the page from “trust my conclusion” to “look at the evidence behind my conclusion”. A rewritten listing usually repeats manufacturer claims: battery life, capacity, materials, compatibility, or headline features. A tested review can say what happened after three weeks of commuting with the backpack, how noisy the air fryer was beside a kitchen table, whether a budget microphone distorted speech in a small room, or how a software tool behaved when importing a messy spreadsheet.
 
-This distinction has become more important as online review trust has weakened. The UK Competition and Markets Authority has described fake reviews as striking “at the heart of consumer trust”, and in March 2026 opened investigations into five businesses over possible fake or misleading review practices, including concerns about suppressed negative reviews, staff-written positive reviews, manipulated ratings, and incentivised five-star reviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Fake and misleading reviews: 5 businesses under CMA</span><span class="citation-popover-snippet">March 27, 2026 — 27 Mar 2026 — Five companies now under investigation: Autotrader, Feefo, Dignity, Just Eat and Pasta Evangelists; Action...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span> For an independent affiliate website, original testing is one way to stand apart from that polluted review environment.
+This distinction has become more important as online review trust has weakened. The UK Competition and Markets Authority has described fake reviews as striking “at the heart of consumer trust”, and in March 2026 opened investigations into five businesses over possible fake or misleading review practices, including concerns about suppressed negative reviews, staff-written positive reviews, manipulated ratings, and incentivised five-star reviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Fake and misleading reviews: 5 businesses under CMA</span><span class="citation-popover-snippet">March 27, 2026 — 27 Mar 2026 — Five companies now under investigation: Autotrader, Feefo, Dignity, Just Eat and Pasta Evangelists; Action...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span> For an independent affiliate website, original testing is one way to stand apart from that polluted review environment.
 
-Research on review helpfulness points in the same direction. Studies of online reviews repeatedly find that concrete, factual, context-specific information is more useful to consumers than abstract praise. One study summarised in the Journal of Theoretical and Applied Electronic Commerce Research notes that consumers tend to find reviews more helpful when they include factual, specific, and contextually relevant information, although the value of photos and other features varies by product type. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/0718-1876/20/2/135" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Role of Product Type in Online Review Generation...by H Dong · 2025 · Cited by 5 — Consumers tend to perceive reviews as more he...</span></span></span> Another study on review source and content features found that consumers perceive concrete reviews as more helpful than abstract ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/275944869_Helpfulness_of_Online_Product_Reviews_as_Seen_by_Consumers_Source_and_Content_Features" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Helpfulness of Online Product Reviews as Seen by</span><span class="citation-popover-snippet">ResearchGate(PDF) Helpfulness of Online Product Reviews as Seen by...July 1, 2013 — 6 Mar 2016 — Consumers perceive customer-written pro...</span><span class="citation-popover-meta">Published: July 1, 2013</span></span></span>
+Research on review helpfulness points in the same direction. Studies of online reviews repeatedly find that concrete, factual, context-specific information is more useful to consumers than abstract praise. One study summarised in the Journal of Theoretical and Applied Electronic Commerce Research notes that consumers tend to find reviews more helpful when they include factual, specific, and contextually relevant information, although the value of photos and other features varies by product type.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/0718-1876/20/2/135" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Role of Product Type in Online Review Generation...by H Dong · 2025 · Cited by 5 — Consumers tend to perceive reviews as more he...</span></span></span> Another study on review source and content features found that consumers perceive concrete reviews as more helpful than abstract ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/275944869_Helpfulness_of_Online_Product_Reviews_as_Seen_by_Consumers_Source_and_Content_Features" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Helpfulness of Online Product Reviews as Seen by</span><span class="citation-popover-snippet">ResearchGate(PDF) Helpfulness of Online Product Reviews as Seen by...July 1, 2013 — 6 Mar 2016 — Consumers perceive customer-written pro...</span><span class="citation-popover-meta">Published: July 1, 2013</span></span></span>
 
 For affiliate publishers, the practical lesson is simple: trust is built through verifiable detail. “This is a great coffee grinder” is weak. “It produced consistent enough grounds for a cafetière, but the finest setting was still too coarse for espresso, and retention was about 1.5g per dose in our test” is more useful because it gives the reader a reason to believe the judgement.
 
@@ -475,13 +475,13 @@ A useful affiliate review usually tests five things.
 
 **Performance under normal use.** The review should show how the product behaves when used the way the target reader would use it. For a vacuum cleaner, that might mean dust, pet hair, stairs, carpet edges, battery drop-off, and emptying the bin. For software, it might mean onboarding time, export options, team permissions, integrations, and what happens when the user cancels.
 
-**Claims that can be measured.** Some claims are easy to test: charging time, weight, noise, run time, usable capacity, setup duration, speed, error rate, or temperature. Google specifically recommends sharing quantitative measurements about how something performs in different categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span> Measurements do not have to be perfect laboratory data, but they should be clear enough that the reader understands the method.
+**Claims that can be measured.** Some claims are easy to test: charging time, weight, noise, run time, usable capacity, setup duration, speed, error rate, or temperature. Google specifically recommends sharing quantitative measurements about how something performs in different categories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span> Measurements do not have to be perfect laboratory data, but they should be clear enough that the reader understands the method.
 
 **The first awkward moment.** Many weak reviews stop after unboxing. Better reviews record the first friction point: the unclear instruction step, the missing adapter, the uncomfortable handle, the app permission request, the flimsy hinge, the smell after first heating, or the setting that only makes sense after trial and error. These details are often more valuable than polished product benefits because they prepare the reader for ownership.
 
 **Who should not buy it.** Trust increases when a review rules out some readers. A standing desk converter may be good for renters but poor for a dual-monitor setup. A cheap blender may handle smoothies but not nut butter. A travel backpack may be excellent for light packers but too small for camera gear. This is especially important for affiliate sites because a universal recommendation looks suspicious; [real testing]({{ 'real-testing/' | relative_url }}) usually reveals boundaries.
 
-**Comparison against realistic alternatives.** A product rarely exists in isolation. Google’s review guidance asks publishers to explain what sets something apart from competitors and to cover comparable products or previous models where relevant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span> A first-hand comparison does not need to include every rival, but it should answer the reader’s likely alternative: cheaper version, premium version, older model, own-brand equivalent, or a subscription competitor.
+**Comparison against realistic alternatives.** A product rarely exists in isolation. Google’s review guidance asks publishers to explain what sets something apart from competitors and to cover comparable products or previous models where relevant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span> A first-hand comparison does not need to include every rival, but it should answer the reader’s likely alternative: cheaper version, premium version, older model, own-brand equivalent, or a subscription competitor.
 
 The strongest review pages often make the testing method visible in a short “how we tested” section. This should be specific rather than ceremonial: “We used this kettle twice daily for four weeks, timed five full boils, measured exterior temperature after boiling, and cleaned limescale once.” That sentence does more for credibility than a vague claim such as “our experts tested this thoroughly”.
 
@@ -490,7 +490,7 @@ The strongest review pages often make the testing method visible in a short “h
 
 ## Photos and usage notes readers trust
 
-Original photos are not just decoration. They help prove access, ownership, scale, context, and use. Google’s review guidance explicitly lists visuals, audio, or other links showing the publisher’s own experience as evidence that supports expertise and reinforces authenticity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span> For affiliate reviews, original imagery can also protect the page from looking like hundreds of other pages using the same manufacturer pack shots.
+Original photos are not just decoration. They help prove access, ownership, scale, context, and use. Google’s review guidance explicitly lists visuals, audio, or other links showing the publisher’s own experience as evidence that supports expertise and reinforces authenticity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span> For affiliate reviews, original imagery can also protect the page from looking like hundreds of other pages using the same manufacturer pack shots.
 
 The most useful photos are usually not the prettiest ones. A clean hero image can help, but trust is built by practical images:
 
@@ -509,7 +509,7 @@ The most useful photos are usually not the prettiest ones. A clean hero image ca
 
 Usage notes should do the same job in words. They should record the small observations a buyer would otherwise only learn after purchase: “the lid needs two hands”, “the app asks for location access before setup”, “the non-stick tray is easy to rinse but traps grease in the corners”, “the chair recline lever is hard to reach”, or “the free plan is usable until you need shared reporting”.
 
-This evidence is increasingly valuable because consumers are sceptical of review systems. Bazaarvoice reported that shoppers become suspicious when reviews use similar wording, do not match the product, or show an overwhelming number of five-star ratings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bazaarvoice.com/press/shoppers-demand-new-standards-to-combat-fake-reviews-as-importance-of-brand-trust-grows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bazaarvoice.com">[Bazaarvoice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bazaarvoice.com</span><span class="citation-popover-snippet">Open source on bazaarvoice.com.</span></span></span> Trustpilot’s consumer research has also found that a realistic mix of positive and negative reviews can be more persuasive than apparent perfection; in its cited global research, 53% of consumers said a realistic mix of positive and negative reviews was a top motivator to purchase, while far fewer saw a five-star review alone as proof that a product was a must-buy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.business.trustpilot.com/blog/build-trusted-brand/4-things-every-business-owner-should-know-about-the-state-of-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.business.trustpilot.com">[Trustpilot Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.business.trustpilot.com</span><span class="citation-popover-title">4 things every business owner should know about the state of reviews</span><span class="citation-popover-snippet">4 things every business owner should know about the state of reviews</span></span></span>
+This evidence is increasingly valuable because consumers are sceptical of review systems. Bazaarvoice reported that shoppers become suspicious when reviews use similar wording, do not match the product, or show an overwhelming number of five-star ratings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bazaarvoice.com/press/shoppers-demand-new-standards-to-combat-fake-reviews-as-importance-of-brand-trust-grows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bazaarvoice.com">[Bazaarvoice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bazaarvoice.com</span><span class="citation-popover-snippet">Open source on bazaarvoice.com.</span></span></span> Trustpilot’s consumer research has also found that a realistic mix of positive and negative reviews can be more persuasive than apparent perfection; in its cited global research, 53% of consumers said a realistic mix of positive and negative reviews was a top motivator to purchase, while far fewer saw a five-star review alone as proof that a product was a must-buy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.business.trustpilot.com/blog/build-trusted-brand/4-things-every-business-owner-should-know-about-the-state-of-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.business.trustpilot.com">[Trustpilot Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.business.trustpilot.com</span><span class="citation-popover-title">4 things every business owner should know about the state of reviews</span><span class="citation-popover-snippet">4 things every business owner should know about the state of reviews</span></span></span>
 
 That does not mean an affiliate review should imitate a customer review feed. It means it should feel specific enough to resist the “generic praise” pattern readers associate with low-trust content. Original photos and usage notes are especially useful in categories where manufacturer claims are vague: comfort, build quality, ease of cleaning, noise, taste, portability, fit, usability, durability, or software learning curve.
 
@@ -538,7 +538,7 @@ A useful long-term section might cover:
 
 This is where an affiliate review can become more honest than a standard merchant page. A merchant page has little incentive to dwell on compromises. A reader-focused affiliate page can say: “This is the best choice if counter space matters, but it is not the best value if you cook for four people.” That kind of trade-off may reduce clicks from the wrong readers, but it increases trust with the right ones.
 
-The wider regulatory climate makes this honesty commercially sensible. The FTC’s Consumer Reviews and Testimonials Rule, which went into effect on 21 October 2024, addresses deceptive and unfair conduct involving consumer reviews and testimonials and allows civil penalties for knowing violations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">consumer reviews testimonials rule questions answers</span><span class="citation-popover-snippet">consumer reviews testimonials rule questions answers</span></span></span> In the UK, the CMA’s fake reviews guidance under the Digital Markets, Competition and Consumers Act 2024 covers fake reviews, concealed incentivised reviews, and misleading publication of review information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> While these rules are not a substitute for editorial quality, they reinforce the same principle: review-based commerce depends on readers being able to tell what is genuine, incentivised, tested, or manipulated.
+The wider regulatory climate makes this honesty commercially sensible. The FTC’s Consumer Reviews and Testimonials Rule, which went into effect on 21 October 2024, addresses deceptive and unfair conduct involving consumer reviews and testimonials and allows civil penalties for knowing violations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">consumer reviews testimonials rule questions answers</span><span class="citation-popover-snippet">consumer reviews testimonials rule questions answers</span></span></span> In the UK, the CMA’s fake reviews guidance under the Digital Markets, Competition and Consumers Act 2024 covers fake reviews, concealed incentivised reviews, and misleading publication of review information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">Open source on service.gov.uk.</span></span></span> While these rules are not a substitute for editorial quality, they reinforce the same principle: review-based commerce depends on readers being able to tell what is genuine, incentivised, tested, or manipulated.
 
 Long-term flaws also make affiliate recommendations more resilient. A page that admits weaknesses can still convert, because readers do not need a perfect product; they need the right compromise. In fact, a review that says “excellent but noisy”, “cheap but fiddly”, or “premium but only worth it for heavy users” often feels more believable than one that frames every flaw as minor.
 
@@ -547,11 +547,11 @@ Long-term flaws also make affiliate recommendations more resilient. A page that 
 
 ## How first-hand testing supports search visibility
 
-First-hand testing is not only a conversion tactic. It is also aligned with how search engines describe high-quality review content. Google’s guidance for reviews asks publishers to evaluate from a user’s perspective, show knowledge, provide evidence of experience, include measurements, compare alternatives, discuss benefits and drawbacks based on original research, and explain why a product may be the best choice for certain uses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span>
+First-hand testing is not only a conversion tactic. It is also aligned with how search engines describe high-quality review content. Google’s guidance for reviews asks publishers to evaluate from a user’s perspective, show knowledge, provide evidence of experience, include measurements, compare alternatives, discuss benefits and drawbacks based on original research, and explain why a product may be the best choice for certain uses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span>
 
-Google’s broader people-first content guidance also tells creators to ask whether content provides original information, reporting, research, or analysis, and whether readers would leave feeling they had a satisfying experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span> For affiliate sites, this is a direct warning against pages that exist mainly to rank for “best” keywords while adding little beyond copied specifications and merchant summaries.
+Google’s broader people-first content guidance also tells creators to ask whether content provides original information, reporting, research, or analysis, and whether readers would leave feeling they had a satisfying experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span> For affiliate sites, this is a direct warning against pages that exist mainly to rank for “best” keywords while adding little beyond copied specifications and merchant summaries.
 
-The risk is especially clear in Google’s spam policies, which warn against “thin affiliate” pages that reuse merchant or network content without adding meaningful value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span> First-hand testing is one of the clearest ways to add that value, because it creates information the merchant page does not already contain.
+The risk is especially clear in Google’s spam policies, which warn against “thin affiliate” pages that reuse merchant or network content without adding meaningful value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</span></span></span> First-hand testing is one of the clearest ways to add that value, because it creates information the merchant page does not already contain.
 
 This does not mean every small affiliate publisher must copy the testing operations of a large review brand. A niche site can still produce credible evidence at a realistic scale. A home coffee site can test grind consistency, cleaning, noise, and taste notes across a small set of grinders. A gardening site can test tools across one growing season. A software affiliate site can document setup steps, feature limits, export quality, support response, and cancellation flow. The standard is not “be a laboratory”; it is “show the reader what you learned from use”.
 
@@ -561,7 +561,7 @@ The search value comes from specificity. A page with original data, photos, comp
 
 First-hand testing can build trust only if the page is transparent about the limits of that testing. A short trial is not the same as long-term ownership. A gifted sample is not the same as an anonymous retail purchase. A single-person comfort judgement is not universal. A home measurement is not a certified lab result. A good affiliate review explains these limits plainly.
 
-Disclosure is part of that trust. In the UK, [affiliate content]({{ 'content-mix/' | relative_url }}) must be identifiable as marketing when affiliate links are included, and the ASA’s guidance makes clear that commercial intent should not be hidden. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Rule 2.1 of the CAP Code requires that marketing communications are obviously identifiable as suc...</span></span></span> In the US, the FTC says that if someone receives free products or other perks with the expectation that they will promote or discuss an advertiser’s products, the FTC Act applies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span> Clear disclosure does not weaken a good review; it prevents the reader from feeling tricked.
+Disclosure is part of that trust. In the UK, [affiliate content]({{ 'content-mix/' | relative_url }}) must be identifiable as marketing when affiliate links are included, and the ASA’s guidance makes clear that commercial intent should not be hidden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Rule 2.1 of the CAP Code requires that marketing communications are obviously identifiable as suc...</span></span></span> In the US, the FTC says that if someone receives free products or other perks with the expectation that they will promote or discuss an advertiser’s products, the FTC Act applies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span> Clear disclosure does not weaken a good review; it prevents the reader from feeling tricked.
 
 Affiliate pages should also avoid common testing claims that sound impressive but are hard to trust:
 
@@ -612,194 +612,194 @@ The commercial payoff is not just higher trust on one page. It is cumulative. A 
 For an affiliate website, that is the durable advantage. Commission income depends on clicks, but clicks depend on belief. First-hand product testing gives readers something concrete to believe in: not a perfect product, not a sales pitch, but a recommendation grounded in visible experience.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why First Hand Testing Makes Affiliate Reviews Stronger. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why First Hand Testing Makes Affiliate Reviews Stronger. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Helps reviewers communicate genuine experience, clear evidence, and useful product evaluations that build reader trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps reviewers communicate genuine experience, clear evidence, and useful product evaluations that build reader trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Copywriter&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q0JZm4Qu8R0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Copywriter&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Copywriter&#x27;s Handbook">The Copywriter&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Robert W. Bly</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Provides practical guidance on writing persuasive, evidence-based product copy without sacrificing credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Copywriter&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q0JZm4Qu8R0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Copywriter&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Copywriter&#x27;s Handbook">The Copywriter&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Robert W. Bly</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Provides practical guidance on writing persuasive, evidence-based product copy without sacrificing credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Copywriter%27s+Handbook+by+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
-        </h4>
-        <p class="fr-book-author">By Andy Crestodina</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
+</h4>
+<p class="fr-book-author">By Andy Crestodina</p>
         
-        <p class="fr-book-desc">Covers creating higher-quality content that earns reader trust through depth, usefulness, and original value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers creating higher-quality content that earns reader trust through depth, usefulness, and original value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mom Test on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mom Test">The Mom Test</a>
-        </h4>
-        <p class="fr-book-author">By Rob Fitzpatrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mom Test on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mom Test">The Mom Test</a>
+</h4>
+<p class="fr-book-author">By Rob Fitzpatrick</p>
         
-        <p class="fr-book-desc">Demonstrates how to gather honest, real-world feedback and observations, complementing first-hand product testing principles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how to gather honest, real-world feedback and observations, complementing first-hand product testing principles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Copywriter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Copywriter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Chemistry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Copywriter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Copywriter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Chemistry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3b191bdc67a9e4a2cc6e.jpg' | relative_url }}" alt="Listing image for Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3b191bdc67a9e4a2cc6e.jpg' | relative_url }}" alt="Listing image for Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Business Team Work Motivational Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Motivation Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d3521ce73baa7710ac2.jpg' | relative_url }}" alt="Listing image for Business Motivation Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Business Motivation Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Motivation Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2d3521ce73baa7710ac2.jpg' | relative_url }}" alt="Listing image for Business Motivation Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Business Motivation Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962"><img src="{{ '/assets/images/marketplace-covers/0f437e3c3d91e391868f.jpg' | relative_url }}" alt="Listing image for SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962"><img src="{{ '/assets/images/marketplace-covers/0f437e3c3d91e391868f.jpg' | relative_url }}" alt="Listing image for SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">SHELDON CLAIRE VINTAGE POSTER - Business Mid Century Office Motivational 1962</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Motivation Work Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8cc2f1a5df8f7b52514d.jpg' | relative_url }}" alt="Listing image for Business Motivation Work Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Business Motivation Work Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Business Motivation Work Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8cc2f1a5df8f7b52514d.jpg' | relative_url }}" alt="Listing image for Business Motivation Work Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Business Motivation Work Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business motivational poster" data-ebay-reference="testing-why-first-hand-testing-makes-affiliate-reviews-stronger-making-money-from-business-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -815,7 +815,7 @@ For an affiliate website, that is the durable advantage. Commission income depen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -835,7 +835,7 @@ For an affiliate website, that is the durable advantage. Commission income depen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -867,7 +867,7 @@ For an affiliate website, that is the durable advantage. Commission income depen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -919,7 +919,7 @@ For an affiliate website, that is the durable advantage. Commission income depen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -964,7 +964,7 @@ For an affiliate website, that is the durable advantage. Commission income depen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1005,178 +1005,178 @@ For an affiliate website, that is the durable advantage. Commission income depen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWrite high quality reviewsWrite high quality reviews · Evaluate from a user&#x27;s perspective. · Demonstrate that you ar...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Affiliate Marketing22 Mar 2023 — Rule 2.1 of the CAP Code requires that marketing communications are obviously identifiable as suc...</p></details>
+   Link:<a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online Affiliate Marketing22 Mar 2023 — Rule 2.1 of the CAP Code requires that marketing communications are obviously identifiable as suc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Fake and misleading reviews: 5 businesses under CMA  
-   Link: <a href="https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2026 — 27 Mar 2026 — Five companies now under investigation: Autotrader, Feefo, Dignity, Just Eat and Pasta Evangelists; Action...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2026 — 27 Mar 2026 — Five companies now under investigation: Autotrader, Feefo, Dignity, Just Eat and Pasta Evangelists; Action...</p></details>
    Published: March 27, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/0718-1876/20/2/135" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/0718-1876/20/2/135</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Product Type in Online Review Generation...by H Dong · 2025 · Cited by 5 — Consumers tend to perceive reviews as more he...</p></details>
+   Link:<a href="https://www.mdpi.com/0718-1876/20/2/135" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/0718-1876/20/2/135</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Product Type in Online Review Generation...by H Dong · 2025 · Cited by 5 — Consumers tend to perceive reviews as more he...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Helpfulness of Online Product Reviews as Seen by  
-   Link: <a href="https://www.researchgate.net/publication/275944869_Helpfulness_of_Online_Product_Reviews_as_Seen_by_Consumers_Source_and_Content_Features" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275944869_Helpfulness_of_Online_Product_Reviews_as_Seen_by_Consumers_Source_and_Content_Features</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Helpfulness of Online Product Reviews as Seen by...July 1, 2013 — 6 Mar 2016 — Consumers perceive customer-written pro...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/275944869_Helpfulness_of_Online_Product_Reviews_as_Seen_by_Consumers_Source_and_Content_Features" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275944869_Helpfulness_of_Online_Product_Reviews_as_Seen_by_Consumers_Source_and_Content_Features</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Helpfulness of Online Product Reviews as Seen by...July 1, 2013 — 6 Mar 2016 — Consumers perceive customer-written pro...</p></details>
    Published: July 1, 2013  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bazaarvoice.com  
-   Link: <a href="https://www.bazaarvoice.com/press/shoppers-demand-new-standards-to-combat-fake-reviews-as-importance-of-brand-trust-grows/" target="_blank" rel="noopener noreferrer nofollow">https://www.bazaarvoice.com/press/shoppers-demand-new-standards-to-combat-fake-reviews-as-importance-of-brand-trust-grows/</a>  
+   Link:<a href="https://www.bazaarvoice.com/press/shoppers-demand-new-standards-to-combat-fake-reviews-as-importance-of-brand-trust-grows/" target="_blank" rel="noopener noreferrer nofollow">https://www.bazaarvoice.com/press/shoppers-demand-new-standards-to-combat-fake-reviews-as-importance-of-brand-trust-grows/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: uk.business.trustpilot.com  
    Title: 4 things every business owner should know about the state of reviews  
-   Link: <a href="https://uk.business.trustpilot.com/blog/build-trusted-brand/4-things-every-business-owner-should-know-about-the-state-of-reviews" target="_blank" rel="noopener noreferrer nofollow">https://uk.business.trustpilot.com/blog/build-trusted-brand/4-things-every-business-owner-should-know-about-the-state-of-reviews</a>  
+   Link:<a href="https://uk.business.trustpilot.com/blog/build-trusted-brand/4-things-every-business-owner-should-know-about-the-state-of-reviews" target="_blank" rel="noopener noreferrer nofollow">https://uk.business.trustpilot.com/blog/build-trusted-brand/4-things-every-business-owner-should-know-about-the-state-of-reviews</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ftc.gov  
    Title: consumer reviews testimonials rule questions answers  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
+   Link:<a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/221229110_Assessing_The_Helpfulness_Of_Online_Product_Review_A_Progressive_Experimental_Approach" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221229110_Assessing_The_Helpfulness_Of_Online_Product_Review_A_Progressive_Experimental_Approach</a>  
+   Link:<a href="https://www.researchgate.net/publication/221229110_Assessing_The_Helpfulness_Of_Online_Product_Review_A_Progressive_Experimental_Approach" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221229110_Assessing_The_Helpfulness_Of_Online_Product_Review_A_Progressive_Experimental_Approach</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387722823_The_Impact_of_Online_Reviews_and_Ratings_on_Consumer_Purchasing_Decisions_on_E-commerce_Platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387722823_The_Impact_of_Online_Reviews_and_Ratings_on_Consumer_Purchasing_Decisions_on_E-commerce_Platforms</a>  
+   Link:<a href="https://www.researchgate.net/publication/387722823_The_Impact_of_Online_Reviews_and_Ratings_on_Consumer_Purchasing_Decisions_on_E-commerce_Platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387722823_The_Impact_of_Online_Reviews_and_Ratings_on_Consumer_Purchasing_Decisions_on_E-commerce_Platforms</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
+   Link:<a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: asa.org.uk  
    Title: remit social media  
-   Link: <a href="https://www.asa.org.uk/advice-online/remit-social-media.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/remit-social-media.html</a>  
+   Link:<a href="https://www.asa.org.uk/advice-online/remit-social-media.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/remit-social-media.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: developers.google.com  
    Title: helpful content update  
-   Link: <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/helpful-content-update</a>  
+   Link:<a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/helpful-content-update</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results</a>  
+   Link:<a href="https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/merchants/answer/14620705?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/14620705?hl=en</a>  
+   Link:<a href="https://support.google.com/merchants/answer/14620705?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/14620705?hl=en</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: support.google.com  
    Title: low traffic affiliate site what can i do better  
-   Link: <a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: support.google.com  
    Title: is affiliate marketing dead  
-   Link: <a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: GOV.UK  
    Title: social media endorsements being transparent with your followers  
-   Link: <a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
+   Link:<a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: trustpilot.com  
-   Link: <a href="https://www.trustpilot.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.trustpilot.com/</a>  
+   Link:<a href="https://www.trustpilot.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.trustpilot.com/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: affiliate-program.[amazon](&#123;&#123; 'amazon/' | relative_url &#125;&#125;). co.uk  
-   Link: <a href="https://affiliate-program.amazon.co.uk/help/operating/policies?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/operating/policies?tag=searcht-20</a>  
+   Link:<a href="https://affiliate-program.amazon.co.uk/help/operating/policies?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/operating/policies?tag=searcht-20</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: one.oecd.org  
-   Link: <a href="https://one.oecd.org/document/DSTI/CP%282018%2921/FINAL/En/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/DSTI/CP%282018%2921/FINAL/En/pdf</a>  
+   Link:<a href="https://one.oecd.org/document/DSTI/CP%282018%2921/FINAL/En/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/DSTI/CP%282018%2921/FINAL/En/pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1460321/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1460321/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1460321/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1460321/full</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Cyrus Shepard on the Depth of Evidence Needed for Affiliate Sites to Survive  
-   Link: <a href="https://www.youtube.com/watch?v=uz6D4do_r-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uz6D4do_r-c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How I Make $200/Day Reviewing Stuff on YouTube (No Face Required)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uz6D4do_r-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uz6D4do_r-c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How I Make $200/Day Reviewing Stuff on YouTube (No Face Required)...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: How I Make $200/Day Reviewing Stuff on You Tube (No Face Required)  
-   Link: <a href="https://www.youtube.com/watch?v=nvzAnvZKLl8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nvzAnvZKLl8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Way To Viral Instagram Product Review Reels! | No One Will Tell You This...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nvzAnvZKLl8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nvzAnvZKLl8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Way To Viral Instagram Product Review Reels! | No One Will Tell You This...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Best Way To Viral Instagram Product Review Reels! | No One Will Tell You This!  
-   Link: <a href="https://www.youtube.com/watch?v=7Ewdw9FoaqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Ewdw9FoaqM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Include keywords in Google Reviews for Higher [Rankings](&amp;#123;&amp;#123; &#x27;rankings/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7Ewdw9FoaqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Ewdw9FoaqM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Include keywords in Google Reviews for Higher [Rankings](&amp;#123;&amp;#123; &#x27;rankings/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nAnT8hE8ANM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nAnT8hE8ANM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cyrus Shepard on the Depth of Evidence Needed for Affiliate Sites to Survive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nAnT8hE8ANM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nAnT8hE8ANM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cyrus Shepard on the Depth of Evidence Needed for Affiliate Sites to Survive...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: impact.com  
-   Link: <a href="https://impact.com/influencer/ai-overview-content-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/influencer/ai-overview-content-strategy/</a>  
+   Link:<a href="https://impact.com/influencer/ai-overview-content-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/influencer/ai-overview-content-strategy/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: bakerbotts.com  
-   Link: <a href="https://www.bakerbotts.com/thought-leadership/publications/2023/december/ftc-new-guidelines-for-endorsements-and-testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.bakerbotts.com/thought-leadership/publications/2023/december/ftc-new-guidelines-for-endorsements-and-testimonials</a>  
+   Link:<a href="https://www.bakerbotts.com/thought-leadership/publications/2023/december/ftc-new-guidelines-for-endorsements-and-testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.bakerbotts.com/thought-leadership/publications/2023/december/ftc-new-guidelines-for-endorsements-and-testimonials</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: geniuslink.com  
-   Link: <a href="https://geniuslink.com/blog/amazon-associates-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-associates-requirements/</a>  
+   Link:<a href="https://geniuslink.com/blog/amazon-associates-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-associates-requirements/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Affiliatemarketing/comments/e5wr1q/an_elegant_solution_for_affiliate_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Affiliatemarketing/comments/e5wr1q/an_elegant_solution_for_affiliate_disclosure/</a>  
+   Link:<a href="https://www.reddit.com/r/Affiliatemarketing/comments/e5wr1q/an_elegant_solution_for_affiliate_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Affiliatemarketing/comments/e5wr1q/an_elegant_solution_for_affiliate_disclosure/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Amazon_Influencer/comments/1hdq6up/any_idea_what_this_change_to_the_operating/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Amazon_Influencer/comments/1hdq6up/any_idea_what_this_change_to_the_operating/</a>  
+   Link:<a href="https://www.reddit.com/r/Amazon_Influencer/comments/1hdq6up/any_idea_what_this_change_to_the_operating/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Amazon_Influencer/comments/1hdq6up/any_idea_what_this_change_to_the_operating/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/googles-product-reviews-update-elevating-standards-review-ansari-i3qdf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/googles-product-reviews-update-elevating-standards-review-ansari-i3qdf</a>  
+   Link:<a href="https://www.linkedin.com/pulse/googles-product-reviews-update-elevating-standards-review-ansari-i3qdf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/googles-product-reviews-update-elevating-standards-review-ansari-i3qdf</a>  

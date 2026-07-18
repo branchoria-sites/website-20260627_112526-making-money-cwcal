@@ -330,7 +330,7 @@ For affiliate newsletters, this creates a damaging feedback loop:
 
 Once deliverability suffers, simply sending more promotions rarely solves the problem. Instead, it often reinforces negative engagement signals.
 
-Legal compliance also matters. Commercial email regulations such as the US CAN-SPAM Act require truthful subject lines, clear sender identification, and functioning unsubscribe mechanisms. Even when an affiliate newsletter complies with the law, respecting subscriber expectations remains essential because legal compliance alone does not create trust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission CAN-SPAM Act: A Compliance Guide for Business</span><span class="citation-popover-snippet">Federal Trade CommissionCAN-SPAM Act: A Compliance Guide for BusinessAugust 9, 2023 — The CAN-SPAM Act, a law that sets the rules for com...</span><span class="citation-popover-meta">Published: August 9, 2023</span></span></span>
+Legal compliance also matters. Commercial email regulations such as the US CAN-SPAM Act require truthful subject lines, clear sender identification, and functioning unsubscribe mechanisms. Even when an affiliate newsletter complies with the law, respecting subscriber expectations remains essential because legal compliance alone does not create trust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission CAN-SPAM Act: A Compliance Guide for Business</span><span class="citation-popover-snippet">Federal Trade CommissionCAN-SPAM Act: A Compliance Guide for BusinessAugust 9, 2023 — The CAN-SPAM Act, a law that sets the rules for com...</span><span class="citation-popover-meta">Published: August 9, 2023</span></span></span>
 
 ## Commercial Intensity Should Match Reader Expectations
 
@@ -365,7 +365,7 @@ Trust can erode through patterns such as:
 
 Once readers begin questioning a publisher's motives, every future recommendation faces greater scepticism. Even genuinely useful products may receive fewer clicks because confidence in the sender has weakened.
 
-Transparency also supports trust. Readers are generally more accepting of affiliate recommendations when publishers clearly explain why products are recommended and disclose affiliate relationships appropriately. Research into affiliate marketing disclosures has shown that clear explanations help audiences better recognise commercial relationships than vague or abbreviated disclosures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Transparency also supports trust. Readers are generally more accepting of affiliate recommendations when publishers clearly explain why products are recommended and disclose affiliate relationships appropriately. Research into affiliate marketing disclosures has shown that clear explanations help audiences better recognise commercial relationships than vague or abbreviated disclosures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V8XGgBGA8bM" title="Low marketing email open rates? Email deliverability tests and list validation reveal why 👀" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V8XGgBGA8bM" target="_blank" rel="noopener noreferrer">Low marketing email open rates? Email deliverability tests and list validation reveal why 👀</a></p><p class="youtube-embed-meta">Channel: InboundAV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V8XGgBGA8bM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V8XGgBGA8bM">Open on YouTube</a></p></div></div></div>
@@ -396,185 +396,185 @@ A useful principle is that every promotional email should still deliver standalo
 
 Affiliate newsletters succeed because they transform occasional search visitors into a loyal audience. Over-promotion undermines that advantage by replacing trusted recommendations with predictable sales messages.
 
-Publishers who maintain realistic commercial intensity, reserve urgency for genuinely limited opportunities, respect unsubscribe choices, and consistently provide useful editorial content are more likely to preserve both deliverability and subscriber confidence. That trust is a durable business asset: it supports repeated visits, stronger affiliate conversions, and a mailing list that continues generating [traffic]({{ 'traffic/' | relative_url }}) even when search rankings fluctuate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission CAN-SPAM Act: A Compliance Guide for Business</span><span class="citation-popover-snippet">Federal Trade CommissionCAN-SPAM Act: A Compliance Guide for BusinessAugust 9, 2023 — The CAN-SPAM Act, a law that sets the rules for com...</span><span class="citation-popover-meta">Published: August 9, 2023</span></span></span>
+Publishers who maintain realistic commercial intensity, reserve urgency for genuinely limited opportunities, respect unsubscribe choices, and consistently provide useful editorial content are more likely to preserve both deliverability and subscriber confidence. That trust is a durable business asset: it supports repeated visits, stronger affiliate conversions, and a mailing list that continues generating [traffic]({{ 'traffic/' | relative_url }}) even when search rankings fluctuate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission CAN-SPAM Act: A Compliance Guide for Business</span><span class="citation-popover-snippet">Federal Trade CommissionCAN-SPAM Act: A Compliance Guide for BusinessAugust 9, 2023 — The CAN-SPAM Act, a law that sets the rules for com...</span><span class="citation-popover-meta">Published: August 9, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JYIES5s0kD8" title="How To Fix Emails Going To Spam 2025 ( SPF/DMARC/DKIM RECORDS ) 💥 All VIP Settings💥 Complete" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JYIES5s0kD8" target="_blank" rel="noopener noreferrer">How To Fix Emails Going To Spam 2025 ( SPF/DMARC/DKIM RECORDS ) 💥 All VIP Settings💥 Complete</a></p><p class="youtube-embed-meta">Channel: Keshav Dimri</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JYIES5s0kD8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JYIES5s0kD8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Affiliate Newsletters Lose Reader Trust. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Affiliate Newsletters Lose Reader Trust. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Helps marketers produce valuable emails that readers want to open instead of constant promotional messages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps marketers produce valuable emails that readers want to open instead of constant promotional messages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Donald Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
+</h4>
+<p class="fr-book-author">By Donald Miller</p>
         
-        <p class="fr-book-desc">Encourages customer-focused communication that strengthens long-term audience relationships rather than short-term sales pressure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages customer-focused communication that strengthens long-term audience relationships rather than short-term sales pressure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Provides context for ethical persuasion and avoiding overuse of urgency and scarcity tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for ethical persuasion and avoiding overuse of urgency and scarcity tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Email+Marketing+Rules+Chad+S.+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Email Marketing Rules on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Email+Marketing+Rules+Chad+S.+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Email Marketing Rules">Email Marketing Rules</a>
-        </h4>
-        <p class="fr-book-author">By Chad S. White</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Email+Marketing+Rules+Chad+S.+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Email Marketing Rules on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Email+Marketing+Rules+Chad+S.+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Email Marketing Rules">Email Marketing Rules</a>
+</h4>
+<p class="fr-book-author">By Chad S. White</p>
         
-        <p class="fr-book-desc">First published 2017.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Email+Marketing+Rules+Chad+S.+White&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Email+Marketing+Rules+Chad+S.+White&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy"><img src="{{ '/assets/images/marketplace-covers/191b343a7501bed5fefa.jpg' | relative_url }}" alt="Listing image for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy"><img src="{{ '/assets/images/marketplace-covers/191b343a7501bed5fefa.jpg' | relative_url }}" alt="Listing image for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="over-promotion-how-affiliate-newsletters-lose-reader-trust-making-money-from-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ Publishers who maintain realistic commercial intensity, reserve urgency for genu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ Publishers who maintain realistic commercial intensity, reserve urgency for genu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ Publishers who maintain realistic commercial intensity, reserve urgency for genu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ Publishers who maintain realistic commercial intensity, reserve urgency for genu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ Publishers who maintain realistic commercial intensity, reserve urgency for genu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,71 +780,71 @@ Publishers who maintain realistic commercial intensity, reserve urgency for genu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission CAN-SPAM Act: A Compliance Guide for Business  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionCAN-SPAM Act: A Compliance Guide for BusinessAugust 9, 2023 — The CAN-SPAM Act, a law that sets the rules for com...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionCAN-SPAM Act: A Compliance Guide for BusinessAugust 9, 2023 — The CAN-SPAM Act, a law that sets the rules for com...</p></details>
    Published: August 9, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fairfield.edu  
-   Link: <a href="https://www.fairfield.edu/about/offices-and-departments/marketing-and-communications/anti-spam-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.fairfield.edu/about/offices-and-departments/marketing-and-communications/anti-spam-guidance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Spam GuidanceWhat is the CAN-SPAM Act? The CAN-SPAM Act, a law that sets the rules for commercial email, establishes requirements fo...</p></details>
+   Link:<a href="https://www.fairfield.edu/about/offices-and-departments/marketing-and-communications/anti-spam-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.fairfield.edu/about/offices-and-departments/marketing-and-communications/anti-spam-guidance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Spam GuidanceWhat is the CAN-SPAM Act? The CAN-SPAM Act, a law that sets the rules for commercial email, establishes requirements fo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: joinbreaker.ai  
-   Link: <a href="https://joinbreaker.ai/blog-posts/can-spam-act-requirements-b2b-marketers-know" target="_blank" rel="noopener noreferrer nofollow">https://joinbreaker.ai/blog-posts/can-spam-act-requirements-b2b-marketers-know</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAN-SPAM Act Requirements: What B2B Marketers Must KnowThe CAN-SPAM Act holds both the promoting company and the third-party email sender...</p></details>
+   Link:<a href="https://joinbreaker.ai/blog-posts/can-spam-act-requirements-b2b-marketers-know" target="_blank" rel="noopener noreferrer nofollow">https://joinbreaker.ai/blog-posts/can-spam-act-requirements-b2b-marketers-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAN-SPAM Act Requirements: What B2B Marketers Must KnowThe CAN-SPAM Act holds both the promoting company and the third-party email sender...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: optizmo.com  
-   Link: <a href="https://optizmo.com/resources/email-compliance/" target="_blank" rel="noopener noreferrer nofollow">https://optizmo.com/resources/email-compliance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Email ComplianceThe CAN-SPAM Act is built on the principle of providing all commercial email recipients with a method to Opt-Out or Unsub...</p></details>
+   Link:<a href="https://optizmo.com/resources/email-compliance/" target="_blank" rel="noopener noreferrer nofollow">https://optizmo.com/resources/email-compliance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Email ComplianceThe CAN-SPAM Act is built on the principle of providing all commercial email recipients with a method to Opt-Out or Unsub...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: loeb.com  
-   Link: <a href="https://www.loeb.com/en/insights/publications/2005/05/ftc-proposes-rule-clarifications-for-can-spam" target="_blank" rel="noopener noreferrer nofollow">https://www.loeb.com/en/insights/publications/2005/05/ftc-proposes-rule-clarifications-for-can-spam</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Proposes Rule Clarifications for CAN-SPAMThe FTC proposed modifying the definition of “sender” to make it clear which advertiser must...</p></details>
+   Link:<a href="https://www.loeb.com/en/insights/publications/2005/05/ftc-proposes-rule-clarifications-for-can-spam" target="_blank" rel="noopener noreferrer nofollow">https://www.loeb.com/en/insights/publications/2005/05/ftc-proposes-rule-clarifications-for-can-spam</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Proposes Rule Clarifications for CAN-SPAMThe FTC proposed modifying the definition of “sender” to make it clear which advertiser must...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The complete guide to troubleshooting email deliverability issues  
-   Link: <a href="https://www.youtube.com/watch?v=c9Tr_xTMEZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c9Tr_xTMEZs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This guide on fixing low marketing email open rates explores how poor audience management and spam [placement](&amp;#123;&amp;#123; &#x27;placement/&#x27; | relative_url &amp;#125;&amp;#125;) can kill campaign performanc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c9Tr_xTMEZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c9Tr_xTMEZs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This guide on fixing low marketing email open rates explores how poor audience management and spam [placement](&amp;#123;&amp;#123; &#x27;placement/&#x27; | relative_url &amp;#125;&amp;#125;) can kill campaign performanc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=V8XGgBGA8bM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V8XGgBGA8bM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We Did It All Wrong... Why I&#x27;d Use a Separate Domain for Email Marketing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V8XGgBGA8bM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V8XGgBGA8bM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Did It All Wrong... Why I&#x27;d Use a Separate Domain for Email Marketing...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JYIES5s0kD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JYIES5s0kD8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The complete guide to troubleshooting email deliverability issues...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JYIES5s0kD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JYIES5s0kD8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The complete guide to troubleshooting email deliverability issues...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instantly.ai  
    Title: what are the legal requirements for follow up emails  
-   Link: <a href="https://instantly.ai/blog/what-are-the-legal-requirements-for-follow-up-emails/" target="_blank" rel="noopener noreferrer nofollow">https://instantly.ai/blog/what-are-the-legal-requirements-for-follow-up-emails/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Each separate email in violation carries penalties up to $53,088. The law makes...Read more...</p></details>
+   Link:<a href="https://instantly.ai/blog/what-are-the-legal-requirements-for-follow-up-emails/" target="_blank" rel="noopener noreferrer nofollow">https://instantly.ai/blog/what-are-the-legal-requirements-for-follow-up-emails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Each separate email in violation carries penalties up to $53,088. The law makes...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: usercentrics.com  
    Title: can spam compliance  
-   Link: <a href="https://usercentrics.com/knowledge-hub/can-spam-compliance/" target="_blank" rel="noopener noreferrer nofollow">https://usercentrics.com/knowledge-hub/can-spam-compliance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The CAN-SPAM Act: Compliance Guide with Best Practices31 Jul 2025 — In this guide, you&#x27;ll learn about the CAN-SPAM Act and how to achieve...</p></details>
+   Link:<a href="https://usercentrics.com/knowledge-hub/can-spam-compliance/" target="_blank" rel="noopener noreferrer nofollow">https://usercentrics.com/knowledge-hub/can-spam-compliance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CAN-SPAM Act: Compliance Guide with Best Practices31 Jul 2025 — In this guide, you&#x27;ll learn about the CAN-SPAM Act and how to achieve...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Complying with the CAN SPAM Act  
-   Link: <a href="https://www.youtube.com/watch?v=31bX_i9p8pc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=31bX_i9p8pc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Tips | Federal...If you use email to promote your products or services, there are seven things you need to know to comply with...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=31bX_i9p8pc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=31bX_i9p8pc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business Tips | Federal...If you use email to promote your products or services, there are seven things you need to know to comply with...</p></details>

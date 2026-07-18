@@ -284,7 +284,7 @@ The most persuasive affiliate product videos are not polished adverts. They are 
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_real_product_demos_67115c-Illustration-1-dark.svg" | relative_url }}" alt="Demo Proof illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_real_product_demos_67115c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_real_product_demos_67115c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach also aligns with Google's guidance on high-quality product reviews, which encourages original research, first-hand experience, meaningful comparisons, and [evidence]({{ 'evidence/' | relative_url }}) that helps users make informed decisions rather than repeating [manufacturer claims]({{ 'claims-test/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
+This approach also aligns with Google's guidance on high-quality product reviews, which encourages original research, first-hand experience, meaningful comparisons, and [evidence]({{ 'evidence/' | relative_url }}) that helps users make informed decisions rather than repeating [manufacturer claims]({{ 'claims-test/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 
 ## What Should an Affiliate Video Actually Show?
 
@@ -409,7 +409,7 @@ Useful demonstrations include:
 
 Showing disadvantages does not necessarily reduce conversions. Instead, it helps viewers decide whether those compromises matter for their own needs. A reviewer who openly discusses drawbacks appears significantly more trustworthy than one who presents every product as excellent.
 
-Google's review guidance similarly encourages discussing benefits and drawbacks while explaining how products compare with competing options and which users they suit best. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
+Google's review guidance similarly encourages discussing benefits and drawbacks while explaining how products compare with competing options and which users they suit best.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_real_product_demos_67115c-Illustration-2-dark.svg" | relative_url }}" alt="Demo Proof illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_real_product_demos_67115c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_real_product_demos_67115c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -507,199 +507,199 @@ This pairing allows each format to do what it does best. Video establishes credi
 
 ## Why Demonstration Builds More Trust Than Promotion
 
-Research into short-form video marketing consistently finds that usefulness and trust strongly influence purchase intention. Viewers respond most positively when videos provide practical information rather than entertainment alone, with trust acting as a key mechanism linking useful demonstrations to buying decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</span></span></span>
+Research into short-form video marketing consistently finds that usefulness and trust strongly influence purchase intention. Viewers respond most positively when videos provide practical information rather than entertainment alone, with trust acting as a key mechanism linking useful demonstrations to buying decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</span></span></span>
 
 For affiliate publishers, the implication is straightforward. The camera should not be used to repeat product descriptions already available on retailer websites. Its real value lies in making uncertain aspects visible. Every genuine demonstration—whether showing setup difficulties, operational noise, durability, or real results—reduces unanswered questions and strengthens confidence before the viewer follows through to the written review and, ultimately, the affiliate link.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Should an Affiliate Video Actually Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Should an Affiliate Video Actually Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Provides the persuasion principles behind trustworthy demonstrations and buyer confidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the persuasion principles behind trustworthy demonstrations and buyer confidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epic Content Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epic Content Marketing">Epic Content Marketing</a>
-        </h4>
-        <p class="fr-book-author">By Joe Pulizzi, Brian W. Piper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epic Content Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epic Content Marketing">Epic Content Marketing</a>
+</h4>
+<p class="fr-book-author">By Joe Pulizzi, Brian W. Piper</p>
         
-        <p class="fr-book-desc">Shows how valuable educational content outperforms promotional messaging, aligning with authentic product reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how valuable educational content outperforms promotional messaging, aligning with authentic product reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jab, Jab, Jab, Right Hook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jab, Jab, Jab, Right Hook">Jab, Jab, Jab, Right Hook</a>
-        </h4>
-        <p class="fr-book-author">By Gary Vaynerchuk</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jab, Jab, Jab, Right Hook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jab, Jab, Jab, Right Hook">Jab, Jab, Jab, Right Hook</a>
+</h4>
+<p class="fr-book-author">By Gary Vaynerchuk</p>
         
-        <p class="fr-book-desc">Emphasizes delivering genuine value before asking for action, matching effective affiliate video strategy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes delivering genuine value before asking for action, matching effective affiliate video strategy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open YouTube Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8778900-M.jpg" alt="Cover for YouTube Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="YouTube Secrets">YouTube Secrets</a>
-        </h4>
-        <p class="fr-book-author">By Sean Cannell, Benji Travis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open YouTube Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8778900-M.jpg" alt="Cover for YouTube Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="YouTube Secrets">YouTube Secrets</a>
+</h4>
+<p class="fr-book-author">By Sean Cannell, Benji Travis</p>
         
-        <p class="fr-book-desc">First published 2018.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Epic+Content+Marketing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Epic Content Marketing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jab, Jab, Jab, Right Hook</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Epic+Content+Marketing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Epic Content Marketing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jab, Jab, Jab, Right Hook</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography"><img src="{{ '/assets/images/marketplace-covers/b0ddd076dac15c641a17.jpg' | relative_url }}" alt="Listing image for 100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography"><img src="{{ '/assets/images/marketplace-covers/b0ddd076dac15c641a17.jpg' | relative_url }}" alt="Listing image for 100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">100W Studio LED Video Light Continuous Spotlight COB Bowens Studio Photography</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand"><img src="{{ '/assets/images/marketplace-covers/0797d1c99a379354b972.jpg' | relative_url }}" alt="Listing image for 2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand"><img src="{{ '/assets/images/marketplace-covers/0797d1c99a379354b972.jpg' | relative_url }}" alt="Listing image for 2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">2PCS 8&quot; LED Video Lighting Kit Light Photography Studio Photo Lamp Live 1m Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand"><img src="{{ '/assets/images/marketplace-covers/e45c06b7aea349d6fc20.jpg' | relative_url }}" alt="Listing image for 2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand"><img src="{{ '/assets/images/marketplace-covers/e45c06b7aea349d6fc20.jpg' | relative_url }}" alt="Listing image for 2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt"><img src="{{ '/assets/images/marketplace-covers/878b2d50bc382eb8e284.jpg' | relative_url }}" alt="Listing image for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt"><img src="{{ '/assets/images/marketplace-covers/878b2d50bc382eb8e284.jpg' | relative_url }}" alt="Listing image for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="demo-proof-what-should-an-affiliate-video-actually-show-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -715,7 +715,7 @@ For affiliate publishers, the implication is straightforward. The camera should 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -735,7 +735,7 @@ For affiliate publishers, the implication is straightforward. The camera should 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -767,7 +767,7 @@ For affiliate publishers, the implication is straightforward. The camera should 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -819,7 +819,7 @@ For affiliate publishers, the implication is straightforward. The camera should 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -864,7 +864,7 @@ For affiliate publishers, the implication is straightforward. The camera should 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -905,78 +905,78 @@ For affiliate publishers, the implication is straightforward. The camera should 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
    Title: product reviews update  
-   Link: <a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</p></details>
    Published: April 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12075488/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of short video content on consumers purchase...by C Luo · 2025 · Cited by 86 — The study results show that short-form video...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cloud.google.com  
    Title: 101 real world generative ai use cases from industry leaders  
-   Link: <a href="https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comReal-world gen AI use cases from the world&#x27;s leading...22 Apr 2026 — AI is here, AI is everywhere: Top companies, governments...</p></details>
+   Link:<a href="https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders" target="_blank" rel="noopener noreferrer nofollow">https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.comReal-world gen AI use cases from the world&#x27;s leading...22 Apr 2026 — AI is here, AI is everywhere: Top companies, governments...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391707426_Influence_of_short_video_content_on_consumers_purchase_intentions_on_social_media_platforms_with_trust_as_a_mediator" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391707426_Influence_of_short_video_content_on_consumers_purchase_intentions_on_social_media_platforms_with_trust_as_a_mediator</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of short video content on consumers purchase...The study results show that short-form video content&#x27;s usefulness, ease of use...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391707426_Influence_of_short_video_content_on_consumers_purchase_intentions_on_social_media_platforms_with_trust_as_a_mediator" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391707426_Influence_of_short_video_content_on_consumers_purchase_intentions_on_social_media_platforms_with_trust_as_a_mediator</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of short video content on consumers purchase...The study results show that short-form video content&#x27;s usefulness, ease of use...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: impact.com  
-   Link: <a href="https://impact.com/influencer/ai-overview-content-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/influencer/ai-overview-content-strategy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A 5-Step Human-First AI Content Checklist for Affiliate...AI won&#x27;t kill affiliate marketing, but it will kill lazy strategies...</p></details>
+   Link:<a href="https://impact.com/influencer/ai-overview-content-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/influencer/ai-overview-content-strategy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 5-Step Human-First AI Content Checklist for Affiliate...AI won&#x27;t kill affiliate marketing, but it will kill lazy strategies...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398489770_How_Does_Short-Form_Video_Marketing_Influence_Consumers%27_Purchase_Intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398489770_How_Does_Short-Form_Video_Marketing_Influence_Consumers%27_Purchase_Intention</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How Does Short-Form Video Marketing Influence...9 Jun 2026 — RQ1: How does short-form video content quality influence consumers&#x27; p...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398489770_How_Does_Short-Form_Video_Marketing_Influence_Consumers%27_Purchase_Intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398489770_How_Does_Short-Form_Video_Marketing_Influence_Consumers%27_Purchase_Intention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How Does Short-Form Video Marketing Influence...9 Jun 2026 — RQ1: How does short-form video content quality influence consumers&#x27; p...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: yotpo.com  
    Title: product video reviews guide  
-   Link: <a href="https://www.yotpo.com/blog/product-video-reviews-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.yotpo.com/blog/product-video-reviews-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get Product Video Reviews That Convert Sales28 Jan 2026 — Drive sales with authentic product video reviews. Learn expert strategie...</p></details>
+   Link:<a href="https://www.yotpo.com/blog/product-video-reviews-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.yotpo.com/blog/product-video-reviews-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get Product Video Reviews That Convert Sales28 Jan 2026 — Drive sales with authentic product video reviews. Learn expert strategie...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: yotpo.com  
    Title: review rich [snippets](&#123;&#123; 'snippets/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.yotpo.com/blog/review-rich-snippets/" target="_blank" rel="noopener noreferrer nofollow">https://www.yotpo.com/blog/review-rich-snippets/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide To Boosting CTR &amp; Loyalty29 Oct 2025 — Unlock the power of review rich snippets. This guide explains how to get Google star ratin...</p></details>
+   Link:<a href="https://www.yotpo.com/blog/review-rich-snippets/" target="_blank" rel="noopener noreferrer nofollow">https://www.yotpo.com/blog/review-rich-snippets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide To Boosting CTR &amp; Loyalty29 Oct 2025 — Unlock the power of review rich snippets. This guide explains how to get Google star ratin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: How To Write Product Reviews (For Affiliate Websites) That Convert Like Crazy  
-   Link: <a href="https://www.youtube.com/watch?v=PKSQrwDXFgQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PKSQrwDXFgQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Start a Product Review Channel and Make Money — 7 Tips...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PKSQrwDXFgQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PKSQrwDXFgQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Start a Product Review Channel and Make Money — 7 Tips...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: How to Make Money Reviewing Products on Amazon  
-   Link: <a href="https://www.youtube.com/watch?v=29OqJH72Zck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=29OqJH72Zck</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Write Product Reviews (For Affiliate Websites) That Convert Like Crazy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=29OqJH72Zck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=29OqJH72Zck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Write Product Reviews (For Affiliate Websites) That Convert Like Crazy...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to Start a Product Review Channel and Make Money — 7 Tips  
-   Link: <a href="https://www.youtube.com/watch?v=Y4cmLnIwKRg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y4cmLnIwKRg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create a Professional Product Review Video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y4cmLnIwKRg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y4cmLnIwKRg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create a Professional Product Review Video...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: 4 Types of [Affiliate Content](&#123;&#123; 'content-mix/' | relative_url &#125;&#125;) that Convert  
-   Link: <a href="https://www.youtube.com/watch?v=HKVQdlHM_Mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKVQdlHM_Mo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Money Reviewing Products on Amazon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HKVQdlHM_Mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKVQdlHM_Mo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Money Reviewing Products on Amazon...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How to Create a Professional Product Review Video  
-   Link: <a href="https://www.youtube.com/watch?v=l0unOlBnFb4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l0unOlBnFb4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=l0unOlBnFb4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l0unOlBnFb4</a>  

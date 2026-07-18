@@ -293,14 +293,14 @@ The difference between an enjoyable morning routine and an annoying one is often
 Traditional espresso machines require several small tasks after almost every drink:
 
 * Knock out the used coffee puck.
-* Rinse the portafilter. * Flush the group head. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Coffee/comments/ijm0f8/what_is_your_daily_weekly_monthly_cleaning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">August 30, 2020 — Wipe down the group head and portafilter daily after use. · Backflush weekly/bi-monthly · Descale once a month to...</span><span class="citation-popover-meta">Published: August 30, 2020</span></span></span> * Wipe coffee splashes from the machine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://javabar.com/how-to-maintain-your-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: javabar.com">[javabar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">javabar.com</span><span class="citation-popover-title">How To Maintain Your Espresso Machine</span><span class="citation-popover-snippet">Making clean water backflush every ten or so cups can help reduce the grime build-up. Scrub out all of the loose coffee from your...</span></span></span>
+* Rinse the portafilter. * Flush the group head.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Coffee/comments/ijm0f8/what_is_your_daily_weekly_monthly_cleaning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">August 30, 2020 — Wipe down the group head and portafilter daily after use. · Backflush weekly/bi-monthly · Descale once a month to...</span><span class="citation-popover-meta">Published: August 30, 2020</span></span></span> * Wipe coffee splashes from the machine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://javabar.com/how-to-maintain-your-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: javabar.com">[javabar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">javabar.com</span><span class="citation-popover-title">How To Maintain Your Espresso Machine</span><span class="citation-popover-snippet">Making clean water backflush every ten or so cups can help reduce the grime build-up. Scrub out all of the loose coffee from your...</span></span></span>
 * Empty the drip tray as required.
 
-Individually these tasks are minor. Together they become noticeable for households making several drinks every day. Coffee oils quickly become sticky, and leaving them in place affects both flavour and machine cleanliness over time. Espresso specialists consistently recommend flushing the group head immediately after brewing and rinsing the portafilter after each use to prevent residue accumulating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOoqkaiKmX3481QnPeuW8JR2NuLWe2ycq37KhNU5kc6Rvau1Kc-2e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-title">Clive Coffee Espresso Machine Cleaning &amp; Maintenance Guide</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance Guide - Clive CoffeeLearn how to clean your espresso machine, prevent scale buildup...</span></span></span>
+Individually these tasks are minor. Together they become noticeable for households making several drinks every day. Coffee oils quickly become sticky, and leaving them in place affects both flavour and machine cleanliness over time. Espresso specialists consistently recommend flushing the group head immediately after brewing and rinsing the portafilter after each use to prevent residue accumulating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOoqkaiKmX3481QnPeuW8JR2NuLWe2ycq37KhNU5kc6Rvau1Kc-2e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-title">Clive Coffee Espresso Machine Cleaning &amp; Maintenance Guide</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance Guide - Clive CoffeeLearn how to clean your espresso machine, prevent scale buildup...</span></span></span>
 
 Milk drinks create an even larger [maintenance]({{ 'maintenance/' | relative_url }}) burden.
 
-A steam wand cannot simply be left until later. Milk proteins harden rapidly once heated, making them difficult to remove and increasing the risk of blocked steam tips and unpleasant odours. Manufacturers and service technicians routinely recommend wiping and purging the wand immediately after every use rather than waiting until the end of the day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOoqkaiKmX3481QnPeuW8JR2NuLWe2ycq37KhNU5kc6Rvau1Kc-2e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee+2GoFoodservice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-title">Clive Coffee Espresso Machine Cleaning &amp; Maintenance Guide</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance Guide - Clive CoffeeLearn how to clean your espresso machine, prevent scale buildup...</span></span></span>
+A steam wand cannot simply be left until later. Milk proteins harden rapidly once heated, making them difficult to remove and increasing the risk of blocked steam tips and unpleasant odours. Manufacturers and service technicians routinely recommend wiping and purging the wand immediately after every use rather than waiting until the end of the day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOoqkaiKmX3481QnPeuW8JR2NuLWe2ycq37KhNU5kc6Rvau1Kc-2e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee+2GoFoodservice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-title">Clive Coffee Espresso Machine Cleaning &amp; Maintenance Guide</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance Guide - Clive CoffeeLearn how to clean your espresso machine, prevent scale buildup...</span></span></span>
 
 For buyers who mainly drink cappuccinos or flat whites, this changes the ownership experience dramatically. A machine that produces excellent milk texture may still feel inconvenient if every drink is followed by wiping, purging and occasional dismantling of milk components.
 
@@ -317,7 +317,7 @@ The visible mess is only part of coffee machine ownership. The maintenance that 
 
 Hard water gradually deposits mineral scale inside boilers, pipes and heating systems. Left untreated, scale reduces heating efficiency, affects brewing performance and can eventually require expensive servicing.
 
-How often descaling is needed depends largely on local water hardness and whether filtered water is used. Many modern machines provide reminders, but automatic prompts do not eliminate the work—they simply schedule it. Service specialists consistently identify scale as one of the leading causes of espresso machine problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOoqkaiKmX3481QnPeuW8JR2NuLWe2ycq37KhNU5kc6Rvau1Kc-2e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-title">Clive Coffee Espresso Machine Cleaning &amp; Maintenance Guide</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance Guide - Clive CoffeeLearn how to clean your espresso machine, prevent scale buildup...</span></span></span>
+How often descaling is needed depends largely on local water hardness and whether filtered water is used. Many modern machines provide reminders, but automatic prompts do not eliminate the work—they simply schedule it. Service specialists consistently identify scale as one of the leading causes of espresso machine problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOoqkaiKmX3481QnPeuW8JR2NuLWe2ycq37KhNU5kc6Rvau1Kc-2e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clivecoffee.com">[Clive Coffee+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clivecoffee.com</span><span class="citation-popover-title">Clive Coffee Espresso Machine Cleaning &amp; Maintenance Guide</span><span class="citation-popover-snippet">Clive CoffeeEspresso Machine Cleaning &amp; Maintenance Guide - Clive CoffeeLearn how to clean your espresso machine, prevent scale buildup...</span></span></span>
 
 For affiliate reviewers, the useful question is not merely whether a machine supports descaling, but:
 
@@ -372,7 +372,7 @@ Machines with integrated milk carafes appear convenient because they automate fr
 
 However, convenience during brewing often shifts work to cleaning afterwards.
 
-Some systems require the milk container, lid, tubes and connectors to be dismantled and washed. Others perform automatic milk rinses but still require periodic deep cleaning with dedicated detergent. Warm milk residue trapped inside enclosed tubing creates hygiene concerns if ignored. Experts generally recommend daily cleaning of milk containers and regular deep cleaning even on self-rinsing systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.idealhome.co.uk/house-manual/cleaning/how-to-clean-a-coffee-machine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idealhome.co.uk">[Ideal Home+2Livingetc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idealhome.co.uk</span><span class="citation-popover-title">Ideal Home How to clean a coffee machine</span><span class="citation-popover-snippet">Cleaning is essential to prevent residue buildup, especially from coffee oils and limescale. The article emphasizes using filtered water...</span></span></span>
+Some systems require the milk container, lid, tubes and connectors to be dismantled and washed. Others perform automatic milk rinses but still require periodic deep cleaning with dedicated detergent. Warm milk residue trapped inside enclosed tubing creates hygiene concerns if ignored. Experts generally recommend daily cleaning of milk containers and regular deep cleaning even on self-rinsing systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.idealhome.co.uk/house-manual/cleaning/how-to-clean-a-coffee-machine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idealhome.co.uk">[Ideal Home+2Livingetc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idealhome.co.uk</span><span class="citation-popover-title">Ideal Home How to clean a coffee machine</span><span class="citation-popover-snippet">Cleaning is essential to prevent residue buildup, especially from coffee oils and limescale. The article emphasizes using filtered water...</span></span></span>
 
 This is one reason why a manual steam wand can actually suit some buyers better despite requiring more skill.
 
@@ -381,13 +381,13 @@ This is one reason why a manual steam wand can actually suit some buyers better 
 
 ## How cleaning burden changes the best buyer match
 
-Cleaning effort should influence recommendations just as much as espresso quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.home-barista.com/espresso-machine-cleaning-schedule.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: home-barista.com">[home-barista.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">home-barista.com</span><span class="citation-popover-title">Espresso Machine Cleaning</span><span class="citation-popover-snippet">When and Why • Home-Barista.comI&#x27;m going to outline a schedule for cleaning your machine on a yearly, monthly, weekly, daily and even hou...</span></span></span>
+Cleaning effort should influence recommendations just as much as espresso quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.home-barista.com/espresso-machine-cleaning-schedule.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: home-barista.com">[home-barista.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">home-barista.com</span><span class="citation-popover-title">Espresso Machine Cleaning</span><span class="citation-popover-snippet">When and Why • Home-Barista.comI&#x27;m going to outline a schedule for cleaning your machine on a yearly, monthly, weekly, daily and even hou...</span></span></span>
 
 **Traditional manual espresso machines** suit enthusiasts who enjoy the preparation process. Daily cleaning is predictable and straightforward, but every step depends on the user.
 
 **Bean-to-cup machines** reduce brewing effort but often replace manual work with automated cleaning programmes, frequent rinsing cycles and maintenance prompts. The routine is easier but not necessarily shorter.
 
-**Pod machines** usually involve the least daily cleaning because there are no coffee pucks or grinders. However, they still require regular descaling, water-tank cleaning and drip-tray maintenance, while used capsule containers can become damp and mould-prone if neglected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.idealhome.co.uk/house-manual/cleaning/how-to-clean-a-coffee-machine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idealhome.co.uk">[Ideal Home]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idealhome.co.uk</span><span class="citation-popover-title">Ideal Home How to clean a coffee machine</span><span class="citation-popover-snippet">Cleaning is essential to prevent residue buildup, especially from coffee oils and limescale. The article emphasizes using filtered water...</span></span></span>
+**Pod machines** usually involve the least daily cleaning because there are no coffee pucks or grinders. However, they still require regular descaling, water-tank cleaning and drip-tray maintenance, while used capsule containers can become damp and mould-prone if neglected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.idealhome.co.uk/house-manual/cleaning/how-to-clean-a-coffee-machine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idealhome.co.uk">[Ideal Home]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idealhome.co.uk</span><span class="citation-popover-title">Ideal Home How to clean a coffee machine</span><span class="citation-popover-snippet">Cleaning is essential to prevent residue buildup, especially from coffee oils and limescale. The article emphasizes using filtered water...</span></span></span>
 
 The "best" machine therefore depends on which type of maintenance the buyer is willing to tolerate.
 
@@ -399,187 +399,187 @@ For [affiliate content]({{ 'content-mix/' | relative_url }}), this creates a mor
 <img src="{{ "/assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_coffee_machine_clean_cde4bf-Illustration-3-dark.svg" | relative_url }}" alt="Coffee Cleaning illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_coffee_machine_clean_cde4bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_coffee_machine_clean_cde4bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Coffee Machines Become Cleaning Projects. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Coffee Machines Become Cleaning Projects. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
-        </h4>
-        <p class="fr-book-author">By James Hoffmann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
+</h4>
+<p class="fr-book-author">By James Hoffmann</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Coffee industry, Coffee, Café, Commerce, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Coffee industry, Coffee, Café, Commerce, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
-        </h4>
-        <p class="fr-book-author">By Scott Rao</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
+</h4>
+<p class="fr-book-author">By Scott Rao</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Tea, Coffee, Espresso.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Tea, Coffee, Espresso.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
-        </h4>
-        <p class="fr-book-author">By Anette Moldvaer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
+</h4>
+<p class="fr-book-author">By Anette Moldvaer</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Coffee, Cooking (coffee), Coffee brewing, Espresso.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Coffee, Cooking (coffee), Coffee brewing, Espresso.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Craft coffee on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Craft coffee">Craft coffee</a>
-        </h4>
-        <p class="fr-book-author">By Jessica Easto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Craft coffee on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Craft coffee">Craft coffee</a>
+</h4>
+<p class="fr-book-author">By Jessica Easto</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Coffee making paraphernalia, Coffee brewing, Handbooks, manuals, Coffee.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Coffee making paraphernalia, Coffee brewing, Handbooks, manuals, Coffee.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Coffee+Obsession&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coffee Obsession</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Coffee+Obsession&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coffee Obsession</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gofoodservice.com  
-   Link: <a href="https://www.gofoodservice.com/blog/5-easy-tips-cleaning-espresso-machine?srsltid=AfmBOoo2_qeKCEjvnJ2ls9-s_PpwunrGNoDRxbFpqP8yO38Q1_D3zFaY" target="_blank" rel="noopener noreferrer nofollow">https://www.gofoodservice.com/blog/5-easy-tips-cleaning-espresso-machine?srsltid=AfmBOoo2_qeKCEjvnJ2ls9-s_PpwunrGNoDRxbFpqP8yO38Q1_D3zFaY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Clean an Espresso Machine | Safe Maintenance StepsMarch 10, 2026 — The safest way to approach the job is simple: follow the machin...</p></details>
+   Link:<a href="https://www.gofoodservice.com/blog/5-easy-tips-cleaning-espresso-machine?srsltid=AfmBOoo2_qeKCEjvnJ2ls9-s_PpwunrGNoDRxbFpqP8yO38Q1_D3zFaY" target="_blank" rel="noopener noreferrer nofollow">https://www.gofoodservice.com/blog/5-easy-tips-cleaning-espresso-machine?srsltid=AfmBOoo2_qeKCEjvnJ2ls9-s_PpwunrGNoDRxbFpqP8yO38Q1_D3zFaY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Clean an Espresso Machine | Safe Maintenance StepsMarch 10, 2026 — The safest way to approach the job is simple: follow the machin...</p></details>
    Published: March 10, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: livingetc.com  
-   Link: <a href="https://www.livingetc.com/advice/how-often-should-you-clean-a-coffee-machine" target="_blank" rel="noopener noreferrer nofollow">https://www.livingetc.com/advice/how-often-should-you-clean-a-coffee-machine</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I Asked the ExpertsTo maintain optimal performance and flavor, coffee machines require regular cleaning, though the tasks can be divided...</p></details>
+   Link:<a href="https://www.livingetc.com/advice/how-often-should-you-clean-a-coffee-machine" target="_blank" rel="noopener noreferrer nofollow">https://www.livingetc.com/advice/how-often-should-you-clean-a-coffee-machine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Asked the ExpertsTo maintain optimal performance and flavor, coffee machines require regular cleaning, though the tasks can be divided...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: clivecoffee.com  
    Title: Clive Coffee Espresso Machine Cleaning & Maintenance Guide  
-   Link: <a href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOoqkaiKmX3481QnPeuW8JR2NuLWe2ycq37KhNU5kc6Rvau1Kc-2e" target="_blank" rel="noopener noreferrer nofollow">https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOoqkaiKmX3481QnPeuW8JR2NuLWe2ycq37KhNU5kc6Rvau1Kc-2e</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clive CoffeeEspresso Machine Cleaning &amp; Maintenance Guide - Clive CoffeeLearn how to clean your espresso machine, prevent scale buildup...</p></details>
+   Link:<a href="https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOoqkaiKmX3481QnPeuW8JR2NuLWe2ycq37KhNU5kc6Rvau1Kc-2e" target="_blank" rel="noopener noreferrer nofollow">https://clivecoffee.com/blogs/learn/espresso-machine-cleaning-maintenance?srsltid=AfmBOoqkaiKmX3481QnPeuW8JR2NuLWe2ycq37KhNU5kc6Rvau1Kc-2e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clive CoffeeEspresso Machine Cleaning &amp; Maintenance Guide - Clive CoffeeLearn how to clean your espresso machine, prevent scale buildup...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Want Better Coffee?  
-   Link: <a href="https://www.popularmechanics.com/home/food-drink/a69107910/how-to-clean-an-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/home/food-drink/a69107910/how-to-clean-an-espresso-machine/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s How to Clean Your Espresso Machine Like a ProThis article provides a comprehensive guide on how to clean and maintain your espress...</p></details>
+   Link:<a href="https://www.popularmechanics.com/home/food-drink/a69107910/how-to-clean-an-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/home/food-drink/a69107910/how-to-clean-an-espresso-machine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s How to Clean Your Espresso Machine Like a ProThis article provides a comprehensive guide on how to clean and maintain your espress...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: idealhome.co.uk  
    Title: Ideal Home How to clean a coffee machine  
-   Link: <a href="https://www.idealhome.co.uk/house-manual/cleaning/how-to-clean-a-coffee-machine" target="_blank" rel="noopener noreferrer nofollow">https://www.idealhome.co.uk/house-manual/cleaning/how-to-clean-a-coffee-machine</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleaning is essential to prevent residue buildup, especially from coffee oils and limescale. The article emphasizes using filtered water...</p></details>
+   Link:<a href="https://www.idealhome.co.uk/house-manual/cleaning/how-to-clean-a-coffee-machine" target="_blank" rel="noopener noreferrer nofollow">https://www.idealhome.co.uk/house-manual/cleaning/how-to-clean-a-coffee-machine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cleaning is essential to prevent residue buildup, especially from coffee oils and limescale. The article emphasizes using filtered water...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: home-barista.com  
    Title: Espresso Machine Cleaning  
-   Link: <a href="https://www.home-barista.com/espresso-machine-cleaning-schedule.html" target="_blank" rel="noopener noreferrer nofollow">https://www.home-barista.com/espresso-machine-cleaning-schedule.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When and Why • Home-Barista.comI&#x27;m going to outline a schedule for cleaning your machine on a yearly, monthly, weekly, daily and even hou...</p></details>
+   Link:<a href="https://www.home-barista.com/espresso-machine-cleaning-schedule.html" target="_blank" rel="noopener noreferrer nofollow">https://www.home-barista.com/espresso-machine-cleaning-schedule.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When and Why • Home-Barista.comI&#x27;m going to outline a schedule for cleaning your machine on a yearly, monthly, weekly, daily and even hou...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: southernliving.com  
-   Link: <a href="https://www.southernliving.com/how-to-clean-a-nespresso-machine-11711648" target="_blank" rel="noopener noreferrer nofollow">https://www.southernliving.com/how-to-clean-a-nespresso-machine-11711648</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleaning, which removes coffee residue, oils, and mold, should be done weekly or more frequently depending on usage. Descaling, which eli...</p></details>
+   Link:<a href="https://www.southernliving.com/how-to-clean-a-nespresso-machine-11711648" target="_blank" rel="noopener noreferrer nofollow">https://www.southernliving.com/how-to-clean-a-nespresso-machine-11711648</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cleaning, which removes coffee residue, oils, and mold, should be done weekly or more frequently depending on usage. Descaling, which eli...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: espresso-works.com  
    Title: Fill the water tank with descaling liquid and water to the MAX line  
-   Link: <a href="https://espresso-works.com/blogs/coffee-life/clean-descale-espresso-coffee-maker-machine?srsltid=AfmBOooyFZQbVjwOL_D6d00nrT9vwstgbsqhVaBD_G5ZjQG4Aoc9sKQt" target="_blank" rel="noopener noreferrer nofollow">https://espresso-works.com/blogs/coffee-life/clean-descale-espresso-coffee-maker-machine?srsltid=AfmBOooyFZQbVjwOL_D6d00nrT9vwstgbsqhVaBD_G5ZjQG4Aoc9sKQt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Clean an Espresso Machine the Right Way - EspressoWorksMay 26, 2026 — Every 4-6 weeks in hard water, every 2-3 months in soft, run...</p></details>
+   Link:<a href="https://espresso-works.com/blogs/coffee-life/clean-descale-espresso-coffee-maker-machine?srsltid=AfmBOooyFZQbVjwOL_D6d00nrT9vwstgbsqhVaBD_G5ZjQG4Aoc9sKQt" target="_blank" rel="noopener noreferrer nofollow">https://espresso-works.com/blogs/coffee-life/clean-descale-espresso-coffee-maker-machine?srsltid=AfmBOooyFZQbVjwOL_D6d00nrT9vwstgbsqhVaBD_G5ZjQG4Aoc9sKQt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Clean an Espresso Machine the Right Way - EspressoWorksMay 26, 2026 — Every 4-6 weeks in hard water, every 2-3 months in soft, run...</p></details>
    Published: May 26, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wholelattelove.com  
-   Link: <a href="https://www.wholelattelove.com/blogs/tech-tips/how-to-backflush-your-espresso-machine?srsltid=AfmBOorLvAqGX2VacpG26eXufaJB1mokkeWlK2kpXYWBS7yE2ESYIW0H" target="_blank" rel="noopener noreferrer nofollow">https://www.wholelattelove.com/blogs/tech-tips/how-to-backflush-your-espresso-machine?srsltid=AfmBOorLvAqGX2VacpG26eXufaJB1mokkeWlK2kpXYWBS7yE2ESYIW0H</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2026 — Milk Frother Cleaning Liquid is an alkaline cleaning solution to break down built up milk solids in the frothers of espr...</p></details>
+   Link:<a href="https://www.wholelattelove.com/blogs/tech-tips/how-to-backflush-your-espresso-machine?srsltid=AfmBOorLvAqGX2VacpG26eXufaJB1mokkeWlK2kpXYWBS7yE2ESYIW0H" target="_blank" rel="noopener noreferrer nofollow">https://www.wholelattelove.com/blogs/tech-tips/how-to-backflush-your-espresso-machine?srsltid=AfmBOorLvAqGX2VacpG26eXufaJB1mokkeWlK2kpXYWBS7yE2ESYIW0H</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2026 — Milk Frother Cleaning Liquid is an alkaline cleaning solution to break down built up milk solids in the frothers of espr...</p></details>
    Published: March 18, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Coffee/comments/ijm0f8/what_is_your_daily_weekly_monthly_cleaning/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Coffee/comments/ijm0f8/what_is_your_daily_weekly_monthly_cleaning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2020 — Wipe down the group head and portafilter daily after use. · Backflush weekly/bi-monthly · Descale once a month to...</p></details>
+   Link:<a href="https://www.reddit.com/r/Coffee/comments/ijm0f8/what_is_your_daily_weekly_monthly_cleaning/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Coffee/comments/ijm0f8/what_is_your_daily_weekly_monthly_cleaning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2020 — Wipe down the group head and portafilter daily after use. · Backflush weekly/bi-monthly · Descale once a month to...</p></details>
    Published: August 30, 2020  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: How often should I clean the milk frother system?  
-   Link: <a href="https://www.facebook.com/groups/526724898563529/posts/1330682278167783/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/526724898563529/posts/1330682278167783/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2025 — Use mini pellets daily (end day) for deep milk clean Use 3 in 1 tablet when machine asks Use water filter Prev...</p></details>
+   Link:<a href="https://www.facebook.com/groups/526724898563529/posts/1330682278167783/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/526724898563529/posts/1330682278167783/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2025 — Use mini pellets daily (end day) for deep milk clean Use 3 in 1 tablet when machine asks Use water filter Prev...</p></details>
    Published: March 15, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: coffeefriend.co.uk  
    Title: ffee Friend Espresso Machine Cleaning Guide  
-   Link: <a href="https://www.coffeefriend.co.uk/blog/how-to-clean-an-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeefriend.co.uk/blog/how-to-clean-an-espresso-machine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Espresso Machine Cleaning Guide - Coffee FriendBefore you start frothing milk, release some steam into a cloth. This will help you get ri...</p></details>
+   Link:<a href="https://www.coffeefriend.co.uk/blog/how-to-clean-an-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeefriend.co.uk/blog/how-to-clean-an-espresso-machine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Espresso Machine Cleaning Guide - Coffee FriendBefore you start frothing milk, release some steam into a cloth. This will help you get ri...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: javabar.com  
    Title: How To Maintain Your Espresso Machine  
-   Link: <a href="https://javabar.com/how-to-maintain-your-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow">https://javabar.com/how-to-maintain-your-espresso-machine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Making clean water backflush every ten or so cups can help reduce the grime build-up. Scrub out all of the loose coffee from your...</p></details>
+   Link:<a href="https://javabar.com/how-to-maintain-your-espresso-machine/" target="_blank" rel="noopener noreferrer nofollow">https://javabar.com/how-to-maintain-your-espresso-machine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making clean water backflush every ten or so cups can help reduce the grime build-up. Scrub out all of the loose coffee from your...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Beginner's Guide to Coffee Machine Maintenance  
-   Link: <a href="https://www.youtube.com/watch?v=Bl7kuC1IQ-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Bl7kuC1IQ-g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cleaning and maintenance! [Video](&amp;#123;&amp;#123; &#x27;video/&#x27; | relative_url &amp;#125;&amp;#125;) Mentioned: The Moka Pot Series: [https://www.youtube.com/playlist?list=PLxz0FjZMVOl1Zot3qiJ-wseRXyO-XoVNx](https://www.youtube.com/playlist?list=PLxz0Fj...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Bl7kuC1IQ-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Bl7kuC1IQ-g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cleaning and maintenance! [Video](&amp;#123;&amp;#123; &#x27;video/&#x27; | relative_url &amp;#125;&amp;#125;) Mentioned: The Moka Pot Series: [https://www.youtube.com/playlist?list=PLxz0FjZMVOl1Zot3qiJ-wseRXyO-XoVNx](https://www.youtube.com/playlist?list=PLxz0Fj...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Best Way To Clean Your Coffee Maker  
-   Link: <a href="https://www.youtube.com/watch?v=408up1UIldM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=408up1UIldM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlock Your Espresso Machine&#x27;s Potential: The Ultimate Cleaning Guide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=408up1UIldM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=408up1UIldM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlock Your Espresso Machine&#x27;s Potential: The Ultimate Cleaning Guide...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Deep Cleaning & Maintenance for Your Meraki  
-   Link: <a href="https://www.youtube.com/watch?v=3QVBOJVfKAI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3QVBOJVfKAI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Essential Home Espresso Care in Under 10 Minutes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3QVBOJVfKAI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3QVBOJVfKAI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Essential Home Espresso Care in Under 10 Minutes...</p></details>

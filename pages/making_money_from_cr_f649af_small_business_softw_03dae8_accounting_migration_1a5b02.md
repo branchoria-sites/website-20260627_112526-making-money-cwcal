@@ -280,7 +280,7 @@ image: /assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_ac
 
 ## Introduction
 
-Switching accounting [software]({{ 'software/' | relative_url }}) can be a sensible move for a growing small business, but it is rarely as simple as exporting one file and importing it into another. Financial records, bank feeds, unpaid invoices, tax settings and accountant access all need to continue working without interrupting day-to-day operations. A poorly planned migration can leave businesses with missing transactions, incorrect opening balances, duplicated records or reporting problems that only become obvious at tax time. Vendor guidance and accounting specialists consistently recommend treating migration as an accounting project rather than an IT task, with careful planning, [testing]({{ 'testing/' | relative_url }}) and reconciliation before relying on the new system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://quickbooks.intuit.com/global/accountants-software/migrating-accounting-practice-to-accounting-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quickbooks.intuit.com">[QuickBooks+2numeric.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quickbooks.intuit.com</span><span class="citation-popover-snippet">Here are the steps to transition your accounting practice to new accounting software: Set a data...Read more...</span></span></span>
+Switching accounting [software]({{ 'software/' | relative_url }}) can be a sensible move for a growing small business, but it is rarely as simple as exporting one file and importing it into another. Financial records, bank feeds, unpaid invoices, tax settings and accountant access all need to continue working without interrupting day-to-day operations. A poorly planned migration can leave businesses with missing transactions, incorrect opening balances, duplicated records or reporting problems that only become obvious at tax time. Vendor guidance and accounting specialists consistently recommend treating migration as an accounting project rather than an IT task, with careful planning, [testing]({{ 'testing/' | relative_url }}) and reconciliation before relying on the new system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://quickbooks.intuit.com/global/accountants-software/migrating-accounting-practice-to-accounting-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quickbooks.intuit.com">[QuickBooks+2numeric.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quickbooks.intuit.com</span><span class="citation-popover-snippet">Here are the steps to transition your accounting practice to new accounting software: Set a data...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02-Illustration-1-dark.svg" | relative_url }}" alt="Migration Risk illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,20 +295,20 @@ At a minimum, businesses should expect to preserve:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* The chart of accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wowbookswitch.com/blog/switching-from-quickbooks-to-xero-what-free-tools-get-wrong-on-complex-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wowbookswitch.com">[wowbookswitch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wowbookswitch.com</span><span class="citation-popover-snippet">Switching from QuickBooks to Xero: What Free Tools Get...8 days ago — Xero migration is the chart of accounts, historical transactions...</span></span></span>
+* The chart of accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wowbookswitch.com/blog/switching-from-quickbooks-to-xero-what-free-tools-get-wrong-on-complex-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wowbookswitch.com">[wowbookswitch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wowbookswitch.com</span><span class="citation-popover-snippet">Switching from QuickBooks to Xero: What Free Tools Get...8 days ago — Xero migration is the chart of accounts, historical transactions...</span></span></span>
 * Customer and supplier records.
-* Opening balances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.accres.eu/articles/en/opening-balances-and-data-migration-after-changing-accountant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.accres.eu">[blog.accres.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.accres.eu</span><span class="citation-popover-title">Opening Balances and Data Migration After Accountant Change</span><span class="citation-popover-snippet">June 17, 2026 — 17 Jun 2026 — Opening balances after changing accountant: check old balances, access, source documents and unresolved ite...</span><span class="citation-popover-meta">Published: June 17, 2026</span></span></span>
+* Opening balances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.accres.eu/articles/en/opening-balances-and-data-migration-after-changing-accountant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.accres.eu">[blog.accres.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.accres.eu</span><span class="citation-popover-title">Opening Balances and Data Migration After Accountant Change</span><span class="citation-popover-snippet">June 17, 2026 — 17 Jun 2026 — Opening balances after changing accountant: check old balances, access, source documents and unresolved ite...</span><span class="citation-popover-meta">Published: June 17, 2026</span></span></span>
 * General ledger transactions.
-* Outstanding invoices and bills. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wowbookswitch.com/blog/switching-from-quickbooks-to-xero-what-free-tools-get-wrong-on-complex-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wowbookswitch.com">[wowbookswitch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wowbookswitch.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* Outstanding invoices and bills.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wowbookswitch.com/blog/switching-from-quickbooks-to-xero-what-free-tools-get-wrong-on-complex-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wowbookswitch.com">[wowbookswitch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wowbookswitch.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * VAT or sales tax history where supported.
 * Payment allocations and reconciliations where available.
 * Historical reports needed for compliance and auditing.
 
 </div>
 
-Before migration, businesses should produce a complete set of reports from the existing system, including a trial balance, balance sheet, profit and loss statement and aged receivables and payables. These become the benchmark for confirming that the new system matches the old one after conversion. Professional migration [checklists]({{ 'checklists/' | relative_url }}) consistently recommend reconciling these reports before switching off the previous system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://quickbooks.intuit.com/global/accountants-software/migrating-accounting-practice-to-accounting-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quickbooks.intuit.com">[QuickBooks+2AccountingWEB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quickbooks.intuit.com</span><span class="citation-popover-snippet">Here are the steps to transition your accounting practice to new accounting software: Set a data...Read more...</span></span></span>
+Before migration, businesses should produce a complete set of reports from the existing system, including a trial balance, balance sheet, profit and loss statement and aged receivables and payables. These become the benchmark for confirming that the new system matches the old one after conversion. Professional migration [checklists]({{ 'checklists/' | relative_url }}) consistently recommend reconciling these reports before switching off the previous system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://quickbooks.intuit.com/global/accountants-software/migrating-accounting-practice-to-accounting-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quickbooks.intuit.com">[QuickBooks+2AccountingWEB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quickbooks.intuit.com</span><span class="citation-popover-snippet">Here are the steps to transition your accounting practice to new accounting software: Set a data...Read more...</span></span></span>
 
-One common mistake is attempting to migrate poor-quality data. Duplicate contacts, unreconciled bank transactions and incorrect account mappings become harder—not easier—to fix once they have been imported into a new platform. Several migration specialists recommend cleaning historical data before exporting it rather than treating migration as an opportunity to "sort it out later". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://citadelfiscaal.nl/en/risk-file-control/8-tips-to-prevent-errors-and-data-loss-during-migration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citadelfiscaal.nl">[Citadel Fiscaal+2numeric.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citadelfiscaal.nl</span><span class="citation-popover-snippet">Citadel Fiscaal8 tips to prevent errors and data loss during migration.January 26, 2026 — Incomplete data analysis: Critical quality erro...</span><span class="citation-popover-meta">Published: January 26, 2026</span></span></span>
+One common mistake is attempting to migrate poor-quality data. Duplicate contacts, unreconciled bank transactions and incorrect account mappings become harder—not easier—to fix once they have been imported into a new platform. Several migration specialists recommend cleaning historical data before exporting it rather than treating migration as an opportunity to "sort it out later".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://citadelfiscaal.nl/en/risk-file-control/8-tips-to-prevent-errors-and-data-loss-during-migration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citadelfiscaal.nl">[Citadel Fiscaal+2numeric.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citadelfiscaal.nl</span><span class="citation-popover-snippet">Citadel Fiscaal8 tips to prevent errors and data loss during migration.January 26, 2026 — Incomplete data analysis: Critical quality erro...</span><span class="citation-popover-meta">Published: January 26, 2026</span></span></span>
 
 ## Bank feeds, invoices and tax records require extra attention
 
@@ -316,7 +316,7 @@ Many business owners assume that if transactions appear in one accounting system
 
 ### Bank feeds usually need reconnecting
 
-Direct bank connections normally rely on separate authorisations between the accounting platform and the bank. These connections generally do not transfer during migration and must be established again in the new software after the move. This means businesses should plan for a short period of verification before relying entirely on automated transaction imports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wowbookswitch.com/blog/switching-from-quickbooks-to-xero-what-free-tools-get-wrong-on-complex-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wowbookswitch.com">[wowbookswitch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wowbookswitch.com</span><span class="citation-popover-snippet">Open source on wowbookswitch.com.</span></span></span>
+Direct bank connections normally rely on separate authorisations between the accounting platform and the bank. These connections generally do not transfer during migration and must be established again in the new software after the move. This means businesses should plan for a short period of verification before relying entirely on automated transaction imports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wowbookswitch.com/blog/switching-from-quickbooks-to-xero-what-free-tools-get-wrong-on-complex-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wowbookswitch.com">[wowbookswitch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wowbookswitch.com</span><span class="citation-popover-snippet">Open source on wowbookswitch.com.</span></span></span>
 
 Businesses should also confirm:
 
@@ -350,7 +350,7 @@ The migration should preserve:
 
 </div>
 
-If allocations between invoices and payments are lost, businesses can end up chasing customers who have already paid or incorrectly paying suppliers twice. Reconciliation reports should therefore be checked before normal trading resumes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accountingweb.co.uk/community/industry-insights/switching-accounting-software-a-practical-migration-checklist-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accountingweb.co.uk">[AccountingWEB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accountingweb.co.uk</span><span class="citation-popover-title">Accounting WEBSwitching Accounting Software?</span><span class="citation-popover-snippet">A Practical Migration...7 days ago — Checklist for Successful Accounting Software Migration · Audit and Clean Your Data Before You Impor...</span></span></span>
+If allocations between invoices and payments are lost, businesses can end up chasing customers who have already paid or incorrectly paying suppliers twice. Reconciliation reports should therefore be checked before normal trading resumes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accountingweb.co.uk/community/industry-insights/switching-accounting-software-a-practical-migration-checklist-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accountingweb.co.uk">[AccountingWEB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accountingweb.co.uk</span><span class="citation-popover-title">Accounting WEBSwitching Accounting Software?</span><span class="citation-popover-snippet">A Practical Migration...7 days ago — Checklist for Successful Accounting Software Migration · Audit and Clean Your Data Before You Impor...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02-Illustration-2-dark.svg" | relative_url }}" alt="Migration Risk illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -367,12 +367,12 @@ Businesses should verify:
 * Filing periods.
 * Tax codes.
 * Historical returns.
-* Opening tax balances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.accres.eu/articles/en/opening-balances-and-data-migration-after-changing-accountant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.accres.eu">[blog.accres.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.accres.eu</span><span class="citation-popover-title">Opening Balances and Data Migration After Accountant Change</span><span class="citation-popover-snippet">June 17, 2026 — 17 Jun 2026 — Opening balances after changing accountant: check old balances, access, source documents and unresolved ite...</span><span class="citation-popover-meta">Published: June 17, 2026</span></span></span>
+* Opening tax balances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.accres.eu/articles/en/opening-balances-and-data-migration-after-changing-accountant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.accres.eu">[blog.accres.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.accres.eu</span><span class="citation-popover-title">Opening Balances and Data Migration After Accountant Change</span><span class="citation-popover-snippet">June 17, 2026 — 17 Jun 2026 — Opening balances after changing accountant: check old balances, access, source documents and unresolved ite...</span><span class="citation-popover-meta">Published: June 17, 2026</span></span></span>
 * Payroll tax settings where payroll is included.
 
 </div>
 
-Migration experts commonly recommend changing systems immediately after a VAT period or financial year end where practical, reducing the number of partially completed reporting periods that must be reconstructed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ouryclark.com/resources/how-to-migrate-accounting-software-key-tips-methods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ouryclark.com">[Oury Clark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ouryclark.com</span><span class="citation-popover-snippet">Oury ClarkHow to Migrate Accounting Software: Key Tips &amp; MethodsMake sure you are migrating on either a year-end or VAT (sales tax) perio...</span></span></span>
+Migration experts commonly recommend changing systems immediately after a VAT period or financial year end where practical, reducing the number of partially completed reporting periods that must be reconstructed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ouryclark.com/resources/how-to-migrate-accounting-software-key-tips-methods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ouryclark.com">[Oury Clark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ouryclark.com</span><span class="citation-popover-snippet">Oury ClarkHow to Migrate Accounting Software: Key Tips &amp; MethodsMake sure you are migrating on either a year-end or VAT (sales tax) perio...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wj8g089Z_Xs" title="QBO to NetSuite Four accounting cleanup tasks to complete before starting the data migration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wj8g089Z_Xs" target="_blank" rel="noopener noreferrer">QBO to NetSuite Four accounting cleanup tasks to complete before starting the data migration</a></p><p class="youtube-embed-meta">Channel: OptimalData Consulting</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wj8g089Z_Xs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wj8g089Z_Xs">Open on YouTube</a></p></div></div></div>
@@ -397,7 +397,7 @@ A practical testing sequence includes:
 
 </div>
 
-This verification process is repeatedly recommended in vendor guidance because mapping differences between software packages can produce subtle errors that are not immediately visible. A successful import is not necessarily an accurate accounting system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://quickbooks.intuit.com/global/accountants-software/migrating-accounting-practice-to-accounting-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quickbooks.intuit.com">[QuickBooks+2AccountingWEB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quickbooks.intuit.com</span><span class="citation-popover-snippet">Here are the steps to transition your accounting practice to new accounting software: Set a data...Read more...</span></span></span>
+This verification process is repeatedly recommended in vendor guidance because mapping differences between software packages can produce subtle errors that are not immediately visible. A successful import is not necessarily an accurate accounting system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://quickbooks.intuit.com/global/accountants-software/migrating-accounting-practice-to-accounting-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quickbooks.intuit.com">[QuickBooks+2AccountingWEB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quickbooks.intuit.com</span><span class="citation-popover-snippet">Here are the steps to transition your accounting practice to new accounting software: Set a data...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02-Illustration-3-dark.svg" | relative_url }}" alt="Migration Risk illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -421,9 +421,9 @@ Professional assistance becomes much more valuable when a business has:
 
 </div>
 
-Some software providers also distinguish between "fresh start" migrations using opening balances and full historical conversions containing several years of transaction data. Full history conversions often require specialist tools or accounting expertise because every transaction, journal and reconciliation must remain internally consistent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.xero.com/us/accounting-software/convert-from-quickbooks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: xero.com">[Xero+2ecloud-experts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">xero.com</span><span class="citation-popover-snippet">Move from QuickBooks to Xero US &#124; Free Conversion ToolEasily convert from QuickBooks to Xero&#x27;s user-friendly software with Jet Conver...</span></span></span>
+Some software providers also distinguish between "fresh start" migrations using opening balances and full historical conversions containing several years of transaction data. Full history conversions often require specialist tools or accounting expertise because every transaction, journal and reconciliation must remain internally consistent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.xero.com/us/accounting-software/convert-from-quickbooks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: xero.com">[Xero+2ecloud-experts.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">xero.com</span><span class="citation-popover-snippet">Move from QuickBooks to Xero US &#124; Free Conversion ToolEasily convert from QuickBooks to Xero&#x27;s user-friendly software with Jet Conver...</span></span></span>
 
-Businesses should also consider professional support if the migration coincides with changing accountants. Besides transferring accounting records, access rights to banking portals, document storage, tax accounts and supporting documentation all need to be handed over to avoid delays during the next reporting cycle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.accres.eu/articles/en/opening-balances-and-data-migration-after-changing-accountant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.accres.eu">[blog.accres.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.accres.eu</span><span class="citation-popover-title">Opening Balances and Data Migration After Accountant Change</span><span class="citation-popover-snippet">June 17, 2026 — 17 Jun 2026 — Opening balances after changing accountant: check old balances, access, source documents and unresolved ite...</span><span class="citation-popover-meta">Published: June 17, 2026</span></span></span>
+Businesses should also consider professional support if the migration coincides with changing accountants. Besides transferring accounting records, access rights to banking portals, document storage, tax accounts and supporting documentation all need to be handed over to avoid delays during the next reporting cycle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.accres.eu/articles/en/opening-balances-and-data-migration-after-changing-accountant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.accres.eu">[blog.accres.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.accres.eu</span><span class="citation-popover-title">Opening Balances and Data Migration After Accountant Change</span><span class="citation-popover-snippet">June 17, 2026 — 17 Jun 2026 — Opening balances after changing accountant: check old balances, access, source documents and unresolved ite...</span><span class="citation-popover-meta">Published: June 17, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VQ_50L4-Ggg" title="The Biggest Historical Data Migration Mistakes in QuickBooks Online And How to Avoid Them!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VQ_50L4-Ggg" target="_blank" rel="noopener noreferrer">The Biggest Historical Data Migration Mistakes in QuickBooks Online And How to Avoid Them!</a></p><p class="youtube-embed-meta">Channel: Tariq Talks Education</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VQ_50L4-Ggg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VQ_50L4-Ggg">Open on YouTube</a></p></div></div></div>
@@ -438,7 +438,7 @@ Useful comparison points include:
 * Supported import formats.
 * Limits on historical transaction imports.
 * Ability to preserve attachments.
-* Bank feed compatibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mindspaceoutsourcing.com/cloud-accounting-bank-feed-setup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindspaceoutsourcing.com">[mindspaceoutsourcing.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindspaceoutsourcing.com</span><span class="citation-popover-title">cloud accounting bank feed setup</span><span class="citation-popover-snippet">MindspaceHow to Connect Bank Accounts to Cloud Accounting Software?17 Jun 2026 — Learn how to securely connect your bank account to Xero...</span></span></span>
+* Bank feed compatibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mindspaceoutsourcing.com/cloud-accounting-bank-feed-setup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindspaceoutsourcing.com">[mindspaceoutsourcing.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindspaceoutsourcing.com</span><span class="citation-popover-title">cloud accounting bank feed setup</span><span class="citation-popover-snippet">MindspaceHow to Connect Bank Accounts to Cloud Accounting Software?17 Jun 2026 — Learn how to securely connect your bank account to Xero...</span></span></span>
 * Accountant collaboration features.
 * Export options if the business switches again later.
 * Availability of migration documentation and support.
@@ -446,194 +446,194 @@ Useful comparison points include:
 A platform that makes it straightforward to import and later export accounting records reduces vendor lock-in and lowers the cost of future business growth. For readers researching accounting software through affiliate sites, migration capability is therefore not merely a setup feature—it is an important measure of how practical the software will remain over the life of the business.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Safely Switch Accounting Software?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Safely Switch Accounting Software?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Accounting made simple on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9270154-M.jpg" alt="Cover for Accounting made simple" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Accounting made simple">Accounting made simple</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Accounting made simple on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9270154-M.jpg" alt="Cover for Accounting made simple" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Accounting made simple">Accounting made simple</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Helps readers understand the accounting concepts needed to verify balances and reconcile data during software migration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the accounting concepts needed to verify balances and reconcile data during software migration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bookkeeping+all-in-one+for+dummies+Lita+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bookkeeping all-in-one for dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12487860-M.jpg" alt="Cover for Bookkeeping all-in-one for dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bookkeeping+all-in-one+for+dummies+Lita+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bookkeeping all-in-one for dummies">Bookkeeping all-in-one for dummies</a>
-        </h4>
-        <p class="fr-book-author">By Lita Epstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bookkeeping+all-in-one+for+dummies+Lita+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bookkeeping all-in-one for dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12487860-M.jpg" alt="Cover for Bookkeeping all-in-one for dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bookkeeping+all-in-one+for+dummies+Lita+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bookkeeping all-in-one for dummies">Bookkeeping all-in-one for dummies</a>
+</h4>
+<p class="fr-book-author">By Lita Epstein</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Accounting, Bookkeeping, Handbooks, manuals, Small business.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bookkeeping+all-in-one+for+dummies+Lita+Epstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Accounting, Bookkeeping, Handbooks, manuals, Small business.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bookkeeping+all-in-one+for+dummies+Lita+Epstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Profit First on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13193805-M.jpg" alt="Cover for Profit First" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Profit First">Profit First</a>
-        </h4>
-        <p class="fr-book-author">By Mike Michalowicz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Profit First on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13193805-M.jpg" alt="Cover for Profit First" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Profit First">Profit First</a>
+</h4>
+<p class="fr-book-author">By Mike Michalowicz</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Exito en los negocios, Ganancia, Finance, Success in business, Profit.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Exito en los negocios, Ganancia, Finance, Success in business, Profit.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Small+Time+Operator+Bernard+B.+Kamoroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Small Time Operator on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/707007-M.jpg" alt="Cover for Small Time Operator" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Small+Time+Operator+Bernard+B.+Kamoroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Small Time Operator">Small Time Operator</a>
-        </h4>
-        <p class="fr-book-author">By Bernard B. Kamoroff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Small+Time+Operator+Bernard+B.+Kamoroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Small Time Operator on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/707007-M.jpg" alt="Cover for Small Time Operator" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Small+Time+Operator+Bernard+B.+Kamoroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Small Time Operator">Small Time Operator</a>
+</h4>
+<p class="fr-book-author">By Bernard B. Kamoroff</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Accounting, New business enterprises, Small business, Electronic commerce, Self-employed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Small+Time+Operator+Bernard+B.+Kamoroff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Accounting, New business enterprises, Small business, Electronic commerce, Self-employed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Small+Time+Operator+Bernard+B.+Kamoroff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Accounting made simple</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bookkeeping+all+in+one+for+dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bookkeeping all in one for dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Profit+First&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Profit First</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Accounting made simple</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bookkeeping+all+in+one+for+dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bookkeeping all in one for dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Profit+First&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Profit First</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Garage Business Card Holder Office Desk Organiser Garage Desk Decoration"><img src="{{ '/assets/images/marketplace-covers/e4d1e3464b14fcf3c2bf.jpg' | relative_url }}" alt="Listing image for Garage Business Card Holder Office Desk Organiser Garage Desk Decoration" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Garage Business Card Holder Office Desk Organiser Garage Desk Decoration</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Garage Business Card Holder Office Desk Organiser Garage Desk Decoration"><img src="{{ '/assets/images/marketplace-covers/e4d1e3464b14fcf3c2bf.jpg' | relative_url }}" alt="Listing image for Garage Business Card Holder Office Desk Organiser Garage Desk Decoration" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Garage Business Card Holder Office Desk Organiser Garage Desk Decoration</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Any Names Home Office Sign Personalised Funny Business Door Sign Home Decor"><img src="{{ '/assets/images/marketplace-covers/6c2d9b0e5d1ee8cd1cd1.jpg' | relative_url }}" alt="Listing image for Any Names Home Office Sign Personalised Funny Business Door Sign Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Any Names Home Office Sign Personalised Funny Business Door Sign Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Any Names Home Office Sign Personalised Funny Business Door Sign Home Decor"><img src="{{ '/assets/images/marketplace-covers/6c2d9b0e5d1ee8cd1cd1.jpg' | relative_url }}" alt="Listing image for Any Names Home Office Sign Personalised Funny Business Door Sign Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Any Names Home Office Sign Personalised Funny Business Door Sign Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office"><img src="{{ '/assets/images/marketplace-covers/38e7e04925d707312069.jpg' | relative_url }}" alt="Listing image for Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office"><img src="{{ '/assets/images/marketplace-covers/38e7e04925d707312069.jpg' | relative_url }}" alt="Listing image for Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Personalised Metal Sign Plaque Any Text Logo Image Customised Business Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office business sign 20 mm deep signage company logo reception desk office decor"><img src="{{ '/assets/images/marketplace-covers/06eaf8eddaa28c084388.jpg' | relative_url }}" alt="Listing image for Office business sign 20 mm deep signage company logo reception desk office decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Office business sign 20 mm deep signage company logo reception desk office decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office business sign 20 mm deep signage company logo reception desk office decor"><img src="{{ '/assets/images/marketplace-covers/06eaf8eddaa28c084388.jpg' | relative_url }}" alt="Listing image for Office business sign 20 mm deep signage company logo reception desk office decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">Office business sign 20 mm deep signage company logo reception desk office decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business office decor" data-ebay-reference="migration-risk-can-you-safely-switch-accounting-software-making-money-from-business-office-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -649,7 +649,7 @@ A platform that makes it straightforward to import and later export accounting r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -669,7 +669,7 @@ A platform that makes it straightforward to import and later export accounting r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -701,7 +701,7 @@ A platform that makes it straightforward to import and later export accounting r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -753,7 +753,7 @@ A platform that makes it straightforward to import and later export accounting r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -798,7 +798,7 @@ A platform that makes it straightforward to import and later export accounting r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -839,129 +839,129 @@ A platform that makes it straightforward to import and later export accounting r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: numeric.io  
    Title: accounting data migration  
-   Link: <a href="https://www.numeric.io/blog/accounting-data-migration" target="_blank" rel="noopener noreferrer nofollow">https://www.numeric.io/blog/accounting-data-migration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Step-by-Step Roadmap27 Mar 2025 — What are the biggest risks in accounting data migration?Common risks include losing data, transferrin...</p></details>
+   Link:<a href="https://www.numeric.io/blog/accounting-data-migration" target="_blank" rel="noopener noreferrer nofollow">https://www.numeric.io/blog/accounting-data-migration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Step-by-Step Roadmap27 Mar 2025 — What are the biggest risks in accounting data migration?Common risks include losing data, transferrin...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wowbookswitch.com  
-   Link: <a href="https://wowbookswitch.com/blog/switching-from-quickbooks-to-xero-what-free-tools-get-wrong-on-complex-files" target="_blank" rel="noopener noreferrer nofollow">https://wowbookswitch.com/blog/switching-from-quickbooks-to-xero-what-free-tools-get-wrong-on-complex-files</a>  
+   Link:<a href="https://wowbookswitch.com/blog/switching-from-quickbooks-to-xero-what-free-tools-get-wrong-on-complex-files" target="_blank" rel="noopener noreferrer nofollow">https://wowbookswitch.com/blog/switching-from-quickbooks-to-xero-what-free-tools-get-wrong-on-complex-files</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ecloud-experts.com  
    Title: Quick Books Historical Data Migration: Options & Limitations1  
-   Link: <a href="https://ecloud-experts.com/quickbooks-historical-data-migration-options-limitations/" target="_blank" rel="noopener noreferrer nofollow">https://ecloud-experts.com/quickbooks-historical-data-migration-options-limitations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clean Your Old Data First. Review and reconcile accounts in your legacy system · 2. Choose the Right Migration Method. Summary balances f...</p></details>
+   Link:<a href="https://ecloud-experts.com/quickbooks-historical-data-migration-options-limitations/" target="_blank" rel="noopener noreferrer nofollow">https://ecloud-experts.com/quickbooks-historical-data-migration-options-limitations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clean Your Old Data First. Review and reconcile accounts in your legacy system · 2. Choose the Right Migration Method. Summary balances f...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: xero.com  
-   Link: <a href="https://www.xero.com/us/accounting-software/convert-from-quickbooks/" target="_blank" rel="noopener noreferrer nofollow">https://www.xero.com/us/accounting-software/convert-from-quickbooks/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Move from QuickBooks to Xero US | Free Conversion ToolEasily convert from QuickBooks to Xero&#x27;s user-friendly software with Jet Conver...</p></details>
+   Link:<a href="https://www.xero.com/us/accounting-software/convert-from-quickbooks/" target="_blank" rel="noopener noreferrer nofollow">https://www.xero.com/us/accounting-software/convert-from-quickbooks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Move from QuickBooks to Xero US | Free Conversion ToolEasily convert from QuickBooks to Xero&#x27;s user-friendly software with Jet Conver...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: blog.accres.eu  
    Title: Opening Balances and Data Migration After Accountant Change  
-   Link: <a href="https://blog.accres.eu/articles/en/opening-balances-and-data-migration-after-changing-accountant" target="_blank" rel="noopener noreferrer nofollow">https://blog.accres.eu/articles/en/opening-balances-and-data-migration-after-changing-accountant</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 17, 2026 — 17 Jun 2026 — Opening balances after changing accountant: check old balances, access, source documents and unresolved ite...</p></details>
+   Link:<a href="https://blog.accres.eu/articles/en/opening-balances-and-data-migration-after-changing-accountant" target="_blank" rel="noopener noreferrer nofollow">https://blog.accres.eu/articles/en/opening-balances-and-data-migration-after-changing-accountant</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 17, 2026 — 17 Jun 2026 — Opening balances after changing accountant: check old balances, access, source documents and unresolved ite...</p></details>
    Published: June 17, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: quickbooks.intuit.com  
-   Link: <a href="https://quickbooks.intuit.com/global/accountants-software/migrating-accounting-practice-to-accounting-software/" target="_blank" rel="noopener noreferrer nofollow">https://quickbooks.intuit.com/global/accountants-software/migrating-accounting-practice-to-accounting-software/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here are the steps to transition your accounting practice to new accounting software: Set a data...Read more...</p></details>
+   Link:<a href="https://quickbooks.intuit.com/global/accountants-software/migrating-accounting-practice-to-accounting-software/" target="_blank" rel="noopener noreferrer nofollow">https://quickbooks.intuit.com/global/accountants-software/migrating-accounting-practice-to-accounting-software/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here are the steps to transition your accounting practice to new accounting software: Set a data...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ouryclark.com  
-   Link: <a href="https://ouryclark.com/resources/how-to-migrate-accounting-software-key-tips-methods/" target="_blank" rel="noopener noreferrer nofollow">https://ouryclark.com/resources/how-to-migrate-accounting-software-key-tips-methods/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oury ClarkHow to Migrate Accounting Software: Key Tips &amp; MethodsMake sure you are migrating on either a year-end or VAT (sales tax) perio...</p></details>
+   Link:<a href="https://ouryclark.com/resources/how-to-migrate-accounting-software-key-tips-methods/" target="_blank" rel="noopener noreferrer nofollow">https://ouryclark.com/resources/how-to-migrate-accounting-software-key-tips-methods/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oury ClarkHow to Migrate Accounting Software: Key Tips &amp; MethodsMake sure you are migrating on either a year-end or VAT (sales tax) perio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: accountingweb.co.uk  
    Title: Accounting WEBSwitching Accounting Software?  
-   Link: <a href="https://www.accountingweb.co.uk/community/industry-insights/switching-accounting-software-a-practical-migration-checklist-for" target="_blank" rel="noopener noreferrer nofollow">https://www.accountingweb.co.uk/community/industry-insights/switching-accounting-software-a-practical-migration-checklist-for</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Migration...7 days ago — Checklist for Successful Accounting Software Migration · Audit and Clean Your Data Before You Impor...</p></details>
+   Link:<a href="https://www.accountingweb.co.uk/community/industry-insights/switching-accounting-software-a-practical-migration-checklist-for" target="_blank" rel="noopener noreferrer nofollow">https://www.accountingweb.co.uk/community/industry-insights/switching-accounting-software-a-practical-migration-checklist-for</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Migration...7 days ago — Checklist for Successful Accounting Software Migration · Audit and Clean Your Data Before You Impor...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: citadelfiscaal.nl  
-   Link: <a href="https://citadelfiscaal.nl/en/risk-file-control/8-tips-to-prevent-errors-and-data-loss-during-migration/" target="_blank" rel="noopener noreferrer nofollow">https://citadelfiscaal.nl/en/risk-file-control/8-tips-to-prevent-errors-and-data-loss-during-migration/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Citadel Fiscaal8 tips to prevent errors and data loss during migration.January 26, 2026 — Incomplete data analysis: Critical quality erro...</p></details>
+   Link:<a href="https://citadelfiscaal.nl/en/risk-file-control/8-tips-to-prevent-errors-and-data-loss-during-migration/" target="_blank" rel="noopener noreferrer nofollow">https://citadelfiscaal.nl/en/risk-file-control/8-tips-to-prevent-errors-and-data-loss-during-migration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Citadel Fiscaal8 tips to prevent errors and data loss during migration.January 26, 2026 — Incomplete data analysis: Critical quality erro...</p></details>
    Published: January 26, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mindspaceoutsourcing.com  
    Title: cloud accounting bank feed setup  
-   Link: <a href="https://www.mindspaceoutsourcing.com/cloud-accounting-bank-feed-setup/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindspaceoutsourcing.com/cloud-accounting-bank-feed-setup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MindspaceHow to Connect Bank Accounts to Cloud Accounting Software?17 Jun 2026 — Learn how to securely connect your bank account to Xero...</p></details>
+   Link:<a href="https://www.mindspaceoutsourcing.com/cloud-accounting-bank-feed-setup/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindspaceoutsourcing.com/cloud-accounting-bank-feed-setup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MindspaceHow to Connect Bank Accounts to Cloud Accounting Software?17 Jun 2026 — Learn how to securely connect your bank account to Xero...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jacrox.co  
-   Link: <a href="https://jacrox.co/quickbooks-to-xero/" target="_blank" rel="noopener noreferrer nofollow">https://jacrox.co/quickbooks-to-xero/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>QuickBooks to Xero: UK Migration Guide &amp; Conversion ToolThis guide covers the migration process step by step, what data transfers, common...</p></details>
+   Link:<a href="https://jacrox.co/quickbooks-to-xero/" target="_blank" rel="noopener noreferrer nofollow">https://jacrox.co/quickbooks-to-xero/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>QuickBooks to Xero: UK Migration Guide &amp; Conversion ToolThis guide covers the migration process step by step, what data transfers, common...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: smartaccounts.ie  
    Title: Xero Migration  
-   Link: <a href="https://smartaccounts.ie/smart-xero-training/xero-migration/" target="_blank" rel="noopener noreferrer nofollow">https://smartaccounts.ie/smart-xero-training/xero-migration/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart AccountsHMRC &amp; Revenue-Compliant. We configure bank feeds, invoicing, tax settings, and opening balances to ensure a smooth transit...</p></details>
+   Link:<a href="https://smartaccounts.ie/smart-xero-training/xero-migration/" target="_blank" rel="noopener noreferrer nofollow">https://smartaccounts.ie/smart-xero-training/xero-migration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smart AccountsHMRC &amp; Revenue-Compliant. We configure bank feeds, invoicing, tax settings, and opening balances to ensure a smooth transit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: quickbooks.intuit.com  
    Title: data migration  
-   Link: <a href="https://quickbooks.intuit.com/learn-support/en-us/account-management/data-migration/00/1526324" target="_blank" rel="noopener noreferrer nofollow">https://quickbooks.intuit.com/learn-support/en-us/account-management/data-migration/00/1526324</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>intuit.comSolved: Data Migration | QuickBooks Community - Intuit31 Jan 2025 — I&#x27;m here to guide you through each step and offer recommend...</p></details>
+   Link:<a href="https://quickbooks.intuit.com/learn-support/en-us/account-management/data-migration/00/1526324" target="_blank" rel="noopener noreferrer nofollow">https://quickbooks.intuit.com/learn-support/en-us/account-management/data-migration/00/1526324</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intuit.comSolved: Data Migration | QuickBooks Community - Intuit31 Jan 2025 — I&#x27;m here to guide you through each step and offer recommend...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: accountio.co.uk  
-   Link: <a href="https://accountio.co.uk/cloud/6-critical-steps-for-successful-data-migration-accounting-firms/" target="_blank" rel="noopener noreferrer nofollow">https://accountio.co.uk/cloud/6-critical-steps-for-successful-data-migration-accounting-firms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Critical Steps That Make Accounting Data Migrations WorkUnderstand data migration for accounting firms. Learn essential steps to ensure...</p></details>
+   Link:<a href="https://accountio.co.uk/cloud/6-critical-steps-for-successful-data-migration-accounting-firms/" target="_blank" rel="noopener noreferrer nofollow">https://accountio.co.uk/cloud/6-critical-steps-for-successful-data-migration-accounting-firms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Critical Steps That Make Accounting Data Migrations WorkUnderstand data migration for accounting firms. Learn essential steps to ensure...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: advancetrack.com  
-   Link: <a href="https://www.advancetrack.com/accounting-software-migration/" target="_blank" rel="noopener noreferrer nofollow">https://www.advancetrack.com/accounting-software-migration/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tips for smooth accounting software migrationIn this guide, we&#x27;ll share essential tips and a practical checklist to help you manage accou...</p></details>
+   Link:<a href="https://www.advancetrack.com/accounting-software-migration/" target="_blank" rel="noopener noreferrer nofollow">https://www.advancetrack.com/accounting-software-migration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tips for smooth accounting software migrationIn this guide, we&#x27;ll share essential tips and a practical checklist to help you manage accou...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/895416704784270/posts/1208356976823573/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/895416704784270/posts/1208356976823573/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Migrating data from Xero to QuickBooks Online step-by-stepHere&#x27;s a step-by-step guide to help you through the migration: Step 1: Prepare...</p></details>
+   Link:<a href="https://www.facebook.com/groups/895416704784270/posts/1208356976823573/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/895416704784270/posts/1208356976823573/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Migrating data from Xero to QuickBooks Online step-by-stepHere&#x27;s a step-by-step guide to help you through the migration: Step 1: Prepare...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VQ_50L4-Ggg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VQ_50L4-Ggg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to switch accounting software small business risks data migration How to Replace QuickBooks [Technology and ERP Software Strategies f...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VQ_50L4-Ggg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VQ_50L4-Ggg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to switch accounting software small business risks data migration How to Replace QuickBooks [Technology and ERP Software Strategies f...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: getboxkite.com  
    Title: migrating from xero to quickbooks don t lose your history  
-   Link: <a href="https://www.getboxkite.com/blog/migrating-from-xero-to-quickbooks-don-t-lose-your-history" target="_blank" rel="noopener noreferrer nofollow">https://www.getboxkite.com/blog/migrating-from-xero-to-quickbooks-don-t-lose-your-history</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Migrating from Xero to QuickBooks: Don&#x27;t Lose Your History3 Mar 2026 — This guide will walk you through the process of migrating your dat...</p></details>
+   Link:<a href="https://www.getboxkite.com/blog/migrating-from-xero-to-quickbooks-don-t-lose-your-history" target="_blank" rel="noopener noreferrer nofollow">https://www.getboxkite.com/blog/migrating-from-xero-to-quickbooks-don-t-lose-your-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Migrating from Xero to QuickBooks: Don&#x27;t Lose Your History3 Mar 2026 — This guide will walk you through the process of migrating your dat...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: beancount.io  
-   Link: <a href="https://beancount.io/blog/2026/03/16/how-to-switch-accounting-software-migration-guide-small-business" target="_blank" rel="noopener noreferrer nofollow">https://beancount.io/blog/2026/03/16/how-to-switch-accounting-software-migration-guide-small-business</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Switch Accounting Software: A Complete Migration...16 Mar 2026 — Migrating to a new accounting software can be a daunting task fo...</p></details>
+   Link:<a href="https://beancount.io/blog/2026/03/16/how-to-switch-accounting-software-migration-guide-small-business" target="_blank" rel="noopener noreferrer nofollow">https://beancount.io/blog/2026/03/16/how-to-switch-accounting-software-migration-guide-small-business</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Switch Accounting Software: A Complete Migration...16 Mar 2026 — Migrating to a new accounting software can be a daunting task fo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: outoftheboxtechnology.com  
-   Link: <a href="https://outoftheboxtechnology.com/blog/best-practices-seamless-bookkeeping-data-migration-process/" target="_blank" rel="noopener noreferrer nofollow">https://outoftheboxtechnology.com/blog/best-practices-seamless-bookkeeping-data-migration-process/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anything + Everything QuickBooksBest Practices for a Seamless Bookkeeping Data Migration...10 Oct 2024 — Before beginning the migration...</p></details>
+   Link:<a href="https://outoftheboxtechnology.com/blog/best-practices-seamless-bookkeeping-data-migration-process/" target="_blank" rel="noopener noreferrer nofollow">https://outoftheboxtechnology.com/blog/best-practices-seamless-bookkeeping-data-migration-process/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anything + Everything QuickBooksBest Practices for a Seamless Bookkeeping Data Migration...10 Oct 2024 — Before beginning the migration...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wj8g089Z_Xs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wj8g089Z_Xs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Historical Data Migration Mistakes in QuickBooks Online And How to Avoid Them...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wj8g089Z_Xs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wj8g089Z_Xs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Historical Data Migration Mistakes in QuickBooks Online And How to Avoid Them...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gogravity.com  
-   Link: <a href="https://www.gogravity.com/blog/upgrading-accounting-system-converting-data" target="_blank" rel="noopener noreferrer nofollow">https://www.gogravity.com/blog/upgrading-accounting-system-converting-data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>onversion when upgrading to a new accounting system.Read more...</p></details>
+   Link:<a href="https://www.gogravity.com/blog/upgrading-accounting-system-converting-data" target="_blank" rel="noopener noreferrer nofollow">https://www.gogravity.com/blog/upgrading-accounting-system-converting-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onversion when upgrading to a new accounting system.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dataexcellence.nl  
    Title: de 5 belangrijkste valkuilen van een datamigratie  
-   Link: <a href="https://dataexcellence.nl/2018/07/05/de-5-belangrijkste-valkuilen-van-een-datamigratie/" target="_blank" rel="noopener noreferrer nofollow">https://dataexcellence.nl/2018/07/05/de-5-belangrijkste-valkuilen-van-een-datamigratie/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If issues do not manifest themselves until the acceptance tests in the new system or, worse still, when...Read more...</p></details>
+   Link:<a href="https://dataexcellence.nl/2018/07/05/de-5-belangrijkste-valkuilen-van-een-datamigratie/" target="_blank" rel="noopener noreferrer nofollow">https://dataexcellence.nl/2018/07/05/de-5-belangrijkste-valkuilen-van-een-datamigratie/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If issues do not manifest themselves until the acceptance tests in the new system or, worse still, when...Read more...</p></details>

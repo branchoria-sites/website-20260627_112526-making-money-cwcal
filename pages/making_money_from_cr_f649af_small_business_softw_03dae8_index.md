@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-small/
 description: Focused pages that expand on Business Tools.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_small_business_softw_03dae8
 parent_title: Business Tools
@@ -16,7 +16,7 @@ parent_permalink: /business-tools/
 
 # Explore Topics in Business Tools
 
-The following pages expand on the main **[Business Tools]({{ '/business-tools/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Business Tools]({{ '/business-tools/' | relative_url }})** page and cover its key branches in.
 
 - [Migration Risk]({{ '/migration-risk/' | relative_url }})
 - [CRM Setup]({{ '/crm-setup/' | relative_url }})

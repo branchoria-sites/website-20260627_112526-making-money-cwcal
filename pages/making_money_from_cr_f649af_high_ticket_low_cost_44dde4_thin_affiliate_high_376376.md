@@ -274,7 +274,7 @@ image: /assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_th
 
 ## Introduction
 
-High-commission affiliate programmes are attractive because a single sale can generate more income than dozens of low-value purchases. That commercial incentive also creates one of the biggest quality risks in affiliate publishing: the temptation to build pages that contribute almost nothing beyond encouraging a click to the merchant. For expensive products, this strategy is particularly weak. Buyers making decisions worth hundreds or thousands of pounds expect detailed comparisons, [evidence]({{ 'evidence/' | relative_url }}), and trustworthy guidance rather than lightly rewritten marketing copy. Search engines increasingly reward that same expectation, making "thin affiliate" pages one of the highest-risk models in premium affiliate niches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+High-commission affiliate programmes are attractive because a single sale can generate more income than dozens of low-value purchases. That commercial incentive also creates one of the biggest quality risks in affiliate publishing: the temptation to build pages that contribute almost nothing beyond encouraging a click to the merchant. For expensive products, this strategy is particularly weak. Buyers making decisions worth hundreds or thousands of pounds expect detailed comparisons, [evidence]({{ 'evidence/' | relative_url }}), and trustworthy guidance rather than lightly rewritten marketing copy. Search engines increasingly reward that same expectation, making "thin affiliate" pages one of the highest-risk models in premium affiliate niches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_thin_affiliate_high_376376-Illustration-1-dark.svg" | relative_url }}" alt="Thin Risk illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_thin_affiliate_high_376376-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_thin_affiliate_high_376376-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -305,7 +305,7 @@ High-ticket products therefore raise the standard for what counts as useful affi
 
 ## Search quality risks for rewritten merchant copy
 
-Google has consistently distinguished between affiliate marketing itself and affiliate pages that add little original value. The presence of affiliate links is not the problem. The problem arises when numerous websites reproduce substantially the same descriptions, images, specifications, or promotional claims without meaningful editorial contribution. Google's long-standing guidance specifically warns against affiliate pages with thin or scraped content that lack substantial added value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">Google for DevelopersAffiliate programs and added value27 Jan 2014 — Our quality guidelines warn against running a site with thin or scra...</span></span></span>
+Google has consistently distinguished between affiliate marketing itself and affiliate pages that add little original value. The presence of affiliate links is not the problem. The problem arises when numerous websites reproduce substantially the same descriptions, images, specifications, or promotional claims without meaningful editorial contribution. Google's long-standing guidance specifically warns against affiliate pages with thin or scraped content that lack substantial added value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">Google for DevelopersAffiliate programs and added value27 Jan 2014 — Our quality guidelines warn against running a site with thin or scra...</span></span></span>
 
 This matters even more in high-commission sectors because commercial incentives often encourage mass production. Publishers may create hundreds of pages covering expensive products by combining:
 
@@ -314,9 +314,9 @@ This matters even more in high-commission sectors because commercial incentives 
 * publicly available feature lists;
 * generic buying advice generated from common [templates]({{ 'templates/' | relative_url }}).
 
-Although these pages may contain many words, word count alone does not make content valuable. Google's guidance focuses on whether the page helps users beyond information already available elsewhere. Pages that simply paraphrase merchant material can still be regarded as low-value despite being lengthy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+Although these pages may contain many words, word count alone does not make content valuable. Google's guidance focuses on whether the page helps users beyond information already available elsewhere. Pages that simply paraphrase merchant material can still be regarded as low-value despite being lengthy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
-Recent search quality improvements have continued to target large volumes of low-value content and spam, reinforcing the importance of original contribution rather than formulaic affiliate publishing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google search update march 2024</span><span class="citation-popover-snippet">New ways we&#x27;re tackling spammy, low-quality content on...5 Mar 2024 — For decades, we&#x27;ve relied on advanced spam-fighting systems and sp...</span><span class="citation-popover-meta">Published: march 2024</span></span></span>
+Recent search quality improvements have continued to target large volumes of low-value content and spam, reinforcing the importance of original contribution rather than formulaic affiliate publishing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google search update march 2024</span><span class="citation-popover-snippet">New ways we&#x27;re tackling spammy, low-quality content on...5 Mar 2024 — For decades, we&#x27;ve relied on advanced spam-fighting systems and sp...</span><span class="citation-popover-meta">Published: march 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w3-obcXkyA4" title="Thin content with little or no added value" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer">Thin content with little or no added value</a></p><p class="youtube-embed-meta">Channel: Google Search Central &middot; Views: 179.9K &middot; Uploaded: August 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w3-obcXkyA4">Open on YouTube</a></p></div></div></div>
@@ -364,7 +364,7 @@ Examples of meaningful added value include:
 
 These additions transform the page from a referral mechanism into an independent decision resource.
 
-Google's guidance for creating helpful, people-first content similarly encourages publishers to focus on satisfying users through original insight, expertise, and useful information rather than producing pages primarily designed to attract search traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+Google's guidance for creating helpful, people-first content similarly encourages publishers to focus on satisfying users through original insight, expertise, and useful information rather than producing pages primarily designed to attract search traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7OH7G2pfY5w" title="SEO for Affiliate Marketing Blogs (5 Steps To Rank on Google)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7OH7G2pfY5w" target="_blank" rel="noopener noreferrer">SEO for Affiliate Marketing Blogs (5 Steps To Rank on Google)</a></p><p class="youtube-embed-meta">Channel: Santrel Media &middot; Views: 12.2K &middot; Uploaded: February 2024 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7OH7G2pfY5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7OH7G2pfY5w">Open on YouTube</a></p></div></div></div>
@@ -388,7 +388,7 @@ Publishers strengthen trust when they:
 
 </div>
 
-Transparent disclosure also aligns with advertising guidance requiring material relationships to be made clear so readers understand the commercial connection behind recommendations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Transparent disclosure also aligns with advertising guidance requiring material relationships to be made clear so readers understand the commercial connection behind recommendations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 Counterintuitively, acknowledging weaknesses often increases credibility. A review that concludes an expensive product is unsuitable for many buyers may earn fewer immediate commissions but is more likely to build long-term audience trust than a page presenting every premium product as an obvious purchase.
 
@@ -400,183 +400,183 @@ Thin affiliate pages may appear inexpensive to produce because they can be publi
 
 First, they struggle to persuade cautious buyers who expect detailed evidence before spending significant sums.
 
-Second, they compete in search results against publishers that provide substantially richer comparisons, practical experience, and independent analysis—qualities increasingly emphasised by Google's search systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+Second, they compete in search results against publishers that provide substantially richer comparisons, practical experience, and independent analysis—qualities increasingly emphasised by Google's search systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
 For expensive affiliate products, the commission size raises both the commercial opportunity and the quality threshold. The publishers most likely to succeed are those who reduce uncertainty for buyers through expertise, testing, comparison, and honest judgement, rather than simply acting as another route to the merchant's checkout.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The High Commission Thin Affiliate Problem. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The High Commission Thin Affiliate Problem. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Focuses on creating genuinely useful content instead of thin, rewritten promotional copy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on creating genuinely useful content instead of thin, rewritten promotional copy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Sheridan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
+</h4>
+<p class="fr-book-author">By Marcus Sheridan</p>
         
-        <p class="fr-book-desc">Shows how comprehensive buyer-focused content outperforms sales-first approaches for expensive purchases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how comprehensive buyer-focused content outperforms sales-first approaches for expensive purchases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
+</h4>
+<p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
         
-        <p class="fr-book-desc">Provides a strong foundation for building authoritative, high-quality search content rather than thin affiliate pages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a strong foundation for building authoritative, high-quality search content rather than thin affiliate pages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains persuasive marketing while highlighting the importance of trust and credibility over shallow sales tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains persuasive marketing while highlighting the importance of trust and credibility over shallow sales tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Title Example: Polo Ralph Lauren Classic Fit Orange Striped XL T-shirt | 100"><img src="{{ '/assets/images/marketplace-covers/019338e74902f520f204.jpg' | relative_url }}" alt="Listing image for SEO Title Example: Polo Ralph Lauren Classic Fit Orange Striped XL T-shirt | 100" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SEO Title Example: Polo Ralph Lauren Classic Fit Orange Striped XL T-shirt | 100</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Title Example: Polo Ralph Lauren Classic Fit Orange Striped XL T-shirt | 100"><img src="{{ '/assets/images/marketplace-covers/019338e74902f520f204.jpg' | relative_url }}" alt="Listing image for SEO Title Example: Polo Ralph Lauren Classic Fit Orange Striped XL T-shirt | 100" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SEO Title Example: Polo Ralph Lauren Classic Fit Orange Striped XL T-shirt | 100</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: SEO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HYEIN SEO White 100% Cotton &quot;Save Yourself&quot; Embroidered Chain T-Shirt, Size M"><img src="{{ '/assets/images/marketplace-covers/75b60b6d24f6459aec6f.jpg' | relative_url }}" alt="Listing image for HYEIN SEO White 100% Cotton &quot;Save Yourself&quot; Embroidered Chain T-Shirt, Size M" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HYEIN SEO White 100% Cotton &quot;Save Yourself&quot; Embroidered Chain T-Shirt, Size M</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HYEIN SEO White 100% Cotton &quot;Save Yourself&quot; Embroidered Chain T-Shirt, Size M"><img src="{{ '/assets/images/marketplace-covers/75b60b6d24f6459aec6f.jpg' | relative_url }}" alt="Listing image for HYEIN SEO White 100% Cotton &quot;Save Yourself&quot; Embroidered Chain T-Shirt, Size M" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HYEIN SEO White 100% Cotton &quot;Save Yourself&quot; Embroidered Chain T-Shirt, Size M</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: SEO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love SEO T shirt I Heart SEO Tee"><img src="{{ '/assets/images/marketplace-covers/a201308b5cc645ebb8fd.jpg' | relative_url }}" alt="Listing image for I Love SEO T shirt I Heart SEO Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">I Love SEO T shirt I Heart SEO Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love SEO T shirt I Heart SEO Tee"><img src="{{ '/assets/images/marketplace-covers/a201308b5cc645ebb8fd.jpg' | relative_url }}" alt="Listing image for I Love SEO T shirt I Heart SEO Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">I Love SEO T shirt I Heart SEO Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: SEO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SEO t shirt" data-ebay-reference="thin-risk-the-high-commission-thin-affiliate-problem-making-money-from-seo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ For expensive affiliate products, the commission size raises both the commercial
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ For expensive affiliate products, the commission size raises both the commercial
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ For expensive affiliate products, the commission size raises both the commercial
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ For expensive affiliate products, the commission size raises both the commercial
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ For expensive affiliate products, the commission size raises both the commercial
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,141 +782,141 @@ For expensive affiliate products, the commission size raises both the commercial
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: developers.google.com  
    Title: affiliate programs and added value  
-   Link: <a href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersAffiliate programs and added value27 Jan 2014 — Our quality guidelines warn against running a site with thin or scra...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersAffiliate programs and added value27 Jan 2014 — Our quality guidelines warn against running a site with thin or scra...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/essentials" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/essentials" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: blog.google  
    Title: google search update march 2024  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New ways we&#x27;re tackling spammy, low-quality content on...5 Mar 2024 — For decades, we&#x27;ve relied on advanced spam-fighting systems and sp...</p></details>
+   Link:<a href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New ways we&#x27;re tackling spammy, low-quality content on...5 Mar 2024 — For decades, we&#x27;ve relied on advanced spam-fighting systems and sp...</p></details>
    Published: march 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: support.google.com  
    Title: thin content  
-   Link: <a href="https://support.google.com/webmasters/thread/261563965/thin-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/261563965/thin-content?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The content is written by me personally and from my own experience. Everything written is supported...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/261563965/thin-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/261563965/thin-content?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The content is written by me personally and from my own experience. Everything written is supported...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
+   Link:<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: support.google.com  
    Title: is affiliate marketing dead  
-   Link: <a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>affiliate marketing dead?4 Feb 2024 — Given Google&#x27;s recent algorithm [updates](&amp;#123;&amp;#123; &#x27;updates/&#x27; | relative_url &amp;#125;&amp;#125;), how feasible it is for beginners to succeed in affiliate m...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>affiliate marketing dead?4 Feb 2024 — Given Google&#x27;s recent algorithm [updates](&amp;#123;&amp;#123; &#x27;updates/&#x27; | relative_url &amp;#125;&amp;#125;), how feasible it is for beginners to succeed in affiliate m...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For example a website used a ad network...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example a website used a ad network...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/websearch/answer/10622781?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/websearch/answer/10622781?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>policies for Google SearchWe issue a manual action against a site after Google human reviewers determine that its pages are engaged in sp...</p></details>
+   Link:<a href="https://support.google.com/websearch/answer/10622781?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/websearch/answer/10622781?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>policies for Google SearchWe issue a manual action against a site after Google human reviewers determine that its pages are engaged in sp...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: support.google.com  
    Title: comhow do affiliate sites rank?  
-   Link: <a href="https://support.google.com/webmasters/thread/133249383/how-do-affiliate-sites-rank-do-affiliate-links-affect-the-ranking?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/133249383/how-do-affiliate-sites-rank-do-affiliate-links-affect-the-ranking?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do affiliate links affect the...Oct 31, 2021 — If one site contains the affiliate links and one doesn&#x27;t which performs better? I heard a...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/133249383/how-do-affiliate-sites-rank-do-affiliate-links-affect-the-ranking?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/133249383/how-do-affiliate-sites-rank-do-affiliate-links-affect-the-ranking?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do affiliate links affect the...Oct 31, 2021 — If one site contains the affiliate links and one doesn&#x27;t which performs better? I heard a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: developers.google.com  
    Title: site reputation abuse  
-   Link: <a href="https://developers.google.com/search/blog/2024/11/site-reputation-abuse" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2024/11/site-reputation-abuse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>our site reputation abuse policyWe&#x27;re making it clear that using third-party content on a site in an attempt to exploit the site&#x27;s rankin...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2024/11/site-reputation-abuse" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2024/11/site-reputation-abuse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>our site reputation abuse policyWe&#x27;re making it clear that using third-party content on a site in an attempt to exploit the site&#x27;s rankin...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</p></details>
    Published: September 7, 2017  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: seo-revolution.com  
-   Link: <a href="https://seo-revolution.com/glossar/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://seo-revolution.com/glossar/thin-content/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thin Content: erkennen und vermeidenWas ist Thin Content und wie können „dünne Inhalte“ vermieden werden? Erhalte wertvolle Tipps zur Ver...</p></details>
+   Link:<a href="https://seo-revolution.com/glossar/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://seo-revolution.com/glossar/thin-content/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thin Content: erkennen und vermeidenWas ist Thin Content und wie können „dünne Inhalte“ vermieden werden? Erhalte wertvolle Tipps zur Ver...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: affiversemedia.com  
-   Link: <a href="https://www.affiversemedia.com/googles-march-2026-core-update-hit-affiliate-sites-harder-than-any-other-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/googles-march-2026-core-update-hit-affiliate-sites-harder-than-any-other-category/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s March 2026 Core Update Hit Affiliate Sites Harder...9 Apr 2026 — Removing or consolidating thin pages, adding verified author c...</p></details>
+   Link:<a href="https://www.affiversemedia.com/googles-march-2026-core-update-hit-affiliate-sites-harder-than-any-other-category/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/googles-march-2026-core-update-hit-affiliate-sites-harder-than-any-other-category/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s March 2026 Core Update Hit Affiliate Sites Harder...9 Apr 2026 — Removing or consolidating thin pages, adding verified author c...</p></details>
    Published: march 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wiley.law  
    Title: alert FTC Seeks Comment on Updating Endorsement Guides on Digital Advertising  
-   Link: <a href="https://www.wiley.law/alert-FTC-Seeks-Comment-on-Updating-Endorsement-Guides-on-Digital-Advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.wiley.law/alert-FTC-Seeks-Comment-on-Updating-Endorsement-Guides-on-Digital-Advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Seeks Comment on Updating Endorsement Guides...27 Jul 2022 — The Endorsement Guides currently cover advertising endorsements and tes...</p></details>
+   Link:<a href="https://www.wiley.law/alert-FTC-Seeks-Comment-on-Updating-Endorsement-Guides-on-Digital-Advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.wiley.law/alert-FTC-Seeks-Comment-on-Updating-Endorsement-Guides-on-Digital-Advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Seeks Comment on Updating Endorsement Guides...27 Jul 2022 — The Endorsement Guides currently cover advertising endorsements and tes...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3-obcXkyA4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thin content with little or no added valueMatt Cutts explains what it means if your site has a manual action labeled as &quot;Thin content wit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3-obcXkyA4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thin content with little or no added valueMatt Cutts explains what it means if your site has a manual action labeled as &quot;Thin content wit...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: yellowgrape.io  
    Title: de toekomst van affiliate marketing na googles helpful content updates  
-   Link: <a href="https://www.yellowgrape.io/en/insights/de-toekomst-van-affiliate-marketing-na-googles-helpful-content-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.yellowgrape.io/en/insights/de-toekomst-van-affiliate-marketing-na-googles-helpful-content-updates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The future of affiliate marketing after Google&#x27;s Helpful...24 Oct 2024 — As a result of these so-called Helpful Content updates, many af...</p></details>
+   Link:<a href="https://www.yellowgrape.io/en/insights/de-toekomst-van-affiliate-marketing-na-googles-helpful-content-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.yellowgrape.io/en/insights/de-toekomst-van-affiliate-marketing-na-googles-helpful-content-updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The future of affiliate marketing after Google&#x27;s Helpful...24 Oct 2024 — As a result of these so-called Helpful Content updates, many af...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: impact.com  
    Title: googles updated site reputation abuse policy on affiliate marketers  
-   Link: <a href="https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s New Site Reputation Policy: Impact on Affiliate...5 May 2024 — In March 2024, Google updated its Search Console guidelines to i...</p></details>
+   Link:<a href="https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s New Site Reputation Policy: Impact on Affiliate...5 May 2024 — In March 2024, Google updated its Search Console guidelines to i...</p></details>
    Published: May 2024  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: adweek.com  
    Title: google update site reputation abuse policy affiliates  
-   Link: <a href="https://www.adweek.com/commerce/google-update-site-reputation-abuse-policy-affiliates/" target="_blank" rel="noopener noreferrer nofollow">https://www.adweek.com/commerce/google-update-site-reputation-abuse-policy-affiliates/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Updates SEO Abuse Policy, Upends Publisher...19 Nov 2024 — Site owners who have violated the new Site Reputation Abuse policy wil...</p></details>
+   Link:<a href="https://www.adweek.com/commerce/google-update-site-reputation-abuse-policy-affiliates/" target="_blank" rel="noopener noreferrer nofollow">https://www.adweek.com/commerce/google-update-site-reputation-abuse-policy-affiliates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Updates SEO Abuse Policy, Upends Publisher...19 Nov 2024 — Site owners who have violated the new Site Reputation Abuse policy wil...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: crakrevenue.com  
    Title: how affiliate sites cope with google algorithm update  
-   Link: <a href="https://www.crakrevenue.com/blog/how-affiliate-sites-cope-with-google-algorithm-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.crakrevenue.com/blog/how-affiliate-sites-cope-with-google-algorithm-update/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Affiliate Sites Cope with the Last 2025 Google...31 Jul 2025 — The Google Helpful Content Update is now part of the core algorith...</p></details>
+   Link:<a href="https://www.crakrevenue.com/blog/how-affiliate-sites-cope-with-google-algorithm-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.crakrevenue.com/blog/how-affiliate-sites-cope-with-google-algorithm-update/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Affiliate Sites Cope with the Last 2025 Google...31 Jul 2025 — The Google Helpful Content Update is now part of the core algorith...</p></details>

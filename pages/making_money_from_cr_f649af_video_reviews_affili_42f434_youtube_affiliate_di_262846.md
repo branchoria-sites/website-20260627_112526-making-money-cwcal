@@ -280,7 +280,7 @@ image: /assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_yo
 
 ## Introduction
 
-If you use YouTube product reviews to send viewers to a website containing affiliate links, clear disclosure is not optional. It is a core part of transparent marketing and helps viewers understand that you may earn a commission if they buy through your recommendations. For creators targeting UK or US audiences, regulators expect commercial relationships to be explained in plain language before viewers decide to click or purchase. Clear disclosure also supports [long-term]({{ 'long-term/' | relative_url }}) [credibility]({{ 'credibility/' | relative_url }}): viewers are more likely to trust recommendations when they understand how the creator is paid rather than discovering the relationship afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">social media endorsements being transparent with your followers</span><span class="citation-popover-snippet">Social media endorsements: guidance for content creators3 Sept 2025 — If you use hidden ads or otherwise engage in misleading practices...</span></span></span>
+If you use YouTube product reviews to send viewers to a website containing affiliate links, clear disclosure is not optional. It is a core part of transparent marketing and helps viewers understand that you may earn a commission if they buy through your recommendations. For creators targeting UK or US audiences, regulators expect commercial relationships to be explained in plain language before viewers decide to click or purchase. Clear disclosure also supports [long-term]({{ 'long-term/' | relative_url }}) [credibility]({{ 'credibility/' | relative_url }}): viewers are more likely to trust recommendations when they understand how the creator is paid rather than discovering the relationship afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">social media endorsements being transparent with your followers</span><span class="citation-popover-snippet">Social media endorsements: guidance for content creators3 Sept 2025 — If you use hidden ads or otherwise engage in misleading practices...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846-Illustration-1-dark.svg" | relative_url }}" alt="Disclosures illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,13 +295,13 @@ Simple language is generally more effective than technical jargon. Viewers shoul
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* the video contains affiliate links; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">How to Disclose Brand Deals and Affiliate Links on YouTube...Tips on how to properly disclose brand deals, paid sponsorships and affilia...</span></span></span>
+* the video contains affiliate links;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">How to Disclose Brand Deals and Affiliate Links on YouTube...Tips on how to properly disclose brand deals, paid sponsorships and affilia...</span></span></span>
 * you may receive a commission if they buy through those links; and
 * this does not usually increase the buyer's purchase price, if that is true for the programme you use.
 
 </div>
 
-The US Federal Trade Commission (FTC) describes [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}) as a material connection that consumers should know about before relying on an endorsement. Likewise, UK guidance from the Competition and Markets Authority (CMA) and the Advertising Standards Authority (ASA) emphasises that audiences should be able to recognise commercial relationships without having to search for the information themselves. GOV.UK+3Federal Trade Commission+3Federal Trade Commission <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</span></span></span>
+The US Federal Trade Commission (FTC) describes [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}) as a material connection that consumers should know about before relying on an endorsement. Likewise, UK guidance from the Competition and Markets Authority (CMA) and the Advertising Standards Authority (ASA) emphasises that audiences should be able to recognise commercial relationships without having to search for the information themselves. GOV.UK+3Federal Trade Commission+3Federal Trade Commission<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kz6O3ogbCJ8" title="New ASA Guidelines for Content Creators UK | Influencers | Cherry Business" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kz6O3ogbCJ8" target="_blank" rel="noopener noreferrer">New ASA Guidelines for Content Creators UK | Influencers | Cherry Business</a></p><p class="youtube-embed-meta">Channel: Little Cherry Cake</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kz6O3ogbCJ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kz6O3ogbCJ8">Open on YouTube</a></p></div></div></div>
@@ -319,12 +319,12 @@ A stronger approach is to disclose the relationship in several places:
 
 * mention it briefly near the beginning of the video;
 * display a short on-screen disclosure when recommendations begin;
-* repeat the disclosure in the description before the affiliate links appear; and <span class="citation-chip-wrap"><a class="citation-chip" href="https://termly.io/resources/articles/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: termly.io">[termly.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">termly.io</span><span class="citation-popover-title">ftc affiliate disclosure</span><span class="citation-popover-snippet">26 Feb 2026 — We unpack why you need an FTC affiliate disclosure if you promote, sponsor, or affiliate market another brand and explain w...</span></span></span>
+* repeat the disclosure in the description before the affiliate links appear; and<span class="citation-chip-wrap"><a class="citation-chip" href="https://termly.io/resources/articles/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: termly.io">[termly.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">termly.io</span><span class="citation-popover-title">ftc affiliate disclosure</span><span class="citation-popover-snippet">26 Feb 2026 — We unpack why you need an FTC affiliate disclosure if you promote, sponsor, or affiliate market another brand and explain w...</span></span></span>
 * include a fuller affiliate policy on the linked website for readers who want additional information.
 
 </div>
 
-This layered approach helps viewers regardless of whether they watch the full video, skip to timestamps or go straight to the description. FTC guidance stresses that disclosures should be "clear and conspicuous", while UK guidance similarly expects disclosures to be upfront and prominent rather than hidden. GOV.UK+3Federal Trade Commission+3Federal Trade Commission <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</span></span></span>
+This layered approach helps viewers regardless of whether they watch the full video, skip to timestamps or go straight to the description. FTC guidance stresses that disclosures should be "clear and conspicuous", while UK guidance similarly expects disclosures to be upfront and prominent rather than hidden. GOV.UK+3Federal Trade Commission+3Federal Trade Commission<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7scb0YDAhbA" title="Breaking Down YouTube and the FTC&#x27;s Disclosure Rules for YouTubers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7scb0YDAhbA" target="_blank" rel="noopener noreferrer">Breaking Down YouTube and the FTC&#x27;s Disclosure Rules for YouTubers</a></p><p class="youtube-embed-meta">Channel: Just the Watch &middot; Views: 5.2K &middot; Uploaded: November 2020 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7scb0YDAhbA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7scb0YDAhbA">Open on YouTube</a></p></div></div></div>
@@ -333,7 +333,7 @@ This layered approach helps viewers regardless of whether they watch the full vi
 
 Many viewers never expand the full video description. Others click the first visible product link immediately after opening it.
 
-Because of this behaviour, relying solely on a disclosure buried underneath multiple paragraphs or links creates a greater risk that viewers will miss important commercial information. The FTC has repeatedly indicated that disclosures should appear where consumers are likely to notice them before making purchasing decisions, not after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</span></span></span>
+Because of this behaviour, relying solely on a disclosure buried underneath multiple paragraphs or links creates a greater risk that viewers will miss important commercial information. The FTC has repeatedly indicated that disclosures should appear where consumers are likely to notice them before making purchasing decisions, not after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</span></span></span>
 
 ## Avoid vague or confusing wording
 
@@ -357,7 +357,7 @@ Instead, use direct language such as:
 
 > "Some of the links below are affiliate links. If you buy through them, I may earn a small commission at no extra cost to you."
 
-The goal is immediate understanding rather than legal complexity. Research examining affiliate disclosures on YouTube found that short or unexplained disclosures were frequently misunderstood by users, whereas explanatory disclosures improved recognition of the advertising relationship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+The goal is immediate understanding rather than legal complexity. Research examining affiliate disclosures on YouTube found that short or unexplained disclosures were frequently misunderstood by users, whereas explanatory disclosures improved recognition of the advertising relationship.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846-Illustration-2-dark.svg" | relative_url }}" alt="Disclosures illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -372,13 +372,13 @@ An effective YouTube affiliate review commonly combines three methods:
 
 * **Verbal disclosure** near the start of the recommendation.
 * **Visual disclosure** displayed clearly on screen.
-* **Written disclosure** placed above affiliate links in the description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://termly.io/resources/articles/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: termly.io">[termly.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">termly.io</span><span class="citation-popover-title">ftc affiliate disclosure</span><span class="citation-popover-snippet">26 Feb 2026 — We unpack why you need an FTC affiliate disclosure if you promote, sponsor, or affiliate market another brand and explain w...</span></span></span>
+* **Written disclosure** placed above affiliate links in the description.<span class="citation-chip-wrap"><a class="citation-chip" href="https://termly.io/resources/articles/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: termly.io">[termly.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">termly.io</span><span class="citation-popover-title">ftc affiliate disclosure</span><span class="citation-popover-snippet">26 Feb 2026 — We unpack why you need an FTC affiliate disclosure if you promote, sponsor, or affiliate market another brand and explain w...</span></span></span>
 
 </div>
 
 Using multiple formats increases the likelihood that viewers notice the information regardless of whether they listen, watch without sound or jump directly to the description.
 
-This is especially useful for longer reviews where viewers may skip to comparison chapters or buying recommendations using timestamps. A disclosure that appears only during the opening seconds may be missed by viewers who arrive later in the video. FTC guidance recognises that longer videos may require repeated disclosures where appropriate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-updates-faqs-for-endorsement-guides-offers-more-guidance-on-social-media-and-video-endorsements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelleydrye.com">[Kelley Drye &amp; Warren LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelleydrye.com</span><span class="citation-popover-title">Although not ...Read more</span><span class="citation-popover-snippet">Kelley Drye &amp; Warren LLPFTC Updates FAQs for Endorsement Guides,…8 Jun 2015 — If YouTube has been enabled to run ads during the video, a...</span></span></span>
+This is especially useful for longer reviews where viewers may skip to comparison chapters or buying recommendations using timestamps. A disclosure that appears only during the opening seconds may be missed by viewers who arrive later in the video. FTC guidance recognises that longer videos may require repeated disclosures where appropriate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-updates-faqs-for-endorsement-guides-offers-more-guidance-on-social-media-and-video-endorsements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelleydrye.com">[Kelley Drye &amp; Warren LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelleydrye.com</span><span class="citation-popover-title">Although not ...Read more</span><span class="citation-popover-snippet">Kelley Drye &amp; Warren LLPFTC Updates FAQs for Endorsement Guides,…8 Jun 2015 — If YouTube has been enabled to run ads during the video, a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qn_q7KuClcA" title="Understanding ASA guidelines for influencer marketing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qn_q7KuClcA" target="_blank" rel="noopener noreferrer">Understanding ASA guidelines for influencer marketing</a></p><p class="youtube-embed-meta">Channel: Mumsnet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qn_q7KuClcA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qn_q7KuClcA">Open on YouTube</a></p></div></div></div>
@@ -399,7 +399,7 @@ Maintaining trust means separating disclosure from persuasion. Good practice inc
 
 </div>
 
-The disclosure explains the commercial relationship; it does not replace balanced reviewing. Transparent reviews supported by [real testing]({{ 'real-testing/' | relative_url }}) are generally more credible than enthusiastic recommendations with hidden incentives. This approach also aligns with broader guidance encouraging authentic, evidence-based product reviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</span></span></span>
+The disclosure explains the commercial relationship; it does not replace balanced reviewing. Transparent reviews supported by [real testing]({{ 'real-testing/' | relative_url }}) are generally more credible than enthusiastic recommendations with hidden incentives. This approach also aligns with broader guidance encouraging authentic, evidence-based product reviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</span></span></span>
 
 ## UK and US expectations are broadly aligned
 
@@ -410,14 +410,14 @@ Both systems expect creators to:
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* disclose financial relationships clearly; <span class="citation-chip-wrap"><a class="citation-chip" href="https://competitionandmarkets.blog.gov.uk/2019/04/30/influencer-marketing-what-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: competitionandmarkets.blog.gov.uk">[competitionandmarkets.blog.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">competitionandmarkets.blog.gov.uk</span><span class="citation-popover-title">influencer marketing what you need to know</span><span class="citation-popover-snippet">marketing: what you need to know30 Apr 2019 — It requires anyone endorsing a product or service on social media to disclose clearly and p...</span></span></span>
+* disclose financial relationships clearly;<span class="citation-chip-wrap"><a class="citation-chip" href="https://competitionandmarkets.blog.gov.uk/2019/04/30/influencer-marketing-what-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: competitionandmarkets.blog.gov.uk">[competitionandmarkets.blog.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">competitionandmarkets.blog.gov.uk</span><span class="citation-popover-title">influencer marketing what you need to know</span><span class="citation-popover-snippet">marketing: what you need to know30 Apr 2019 — It requires anyone endorsing a product or service on social media to disclose clearly and p...</span></span></span>
 * make disclosures easy to notice;
 * avoid hiding them behind links or ambiguous wording; and
 * ensure viewers understand the commercial relationship before making purchasing decisions.
 
 </div>
 
-Recent UK guidance specifically notes that affiliate links, discount codes and other incentivised content should be identified clearly and prominently, reinforcing that affiliate marketing is not exempt from advertising transparency simply because payment depends on a later purchase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2RPC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">social media endorsements being transparent with your followers</span><span class="citation-popover-snippet">Social media endorsements: guidance for content creators3 Sept 2025 — If you use hidden ads or otherwise engage in misleading practices...</span></span></span>
+Recent UK guidance specifically notes that affiliate links, discount codes and other incentivised content should be identified clearly and prominently, reinforcing that affiliate marketing is not exempt from advertising transparency simply because payment depends on a later purchase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2RPC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">social media endorsements being transparent with your followers</span><span class="citation-popover-snippet">Social media endorsements: guidance for content creators3 Sept 2025 — If you use hidden ads or otherwise engage in misleading practices...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846-Illustration-3-dark.svg" | relative_url }}" alt="Disclosures illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -425,199 +425,199 @@ Recent UK guidance specifically notes that affiliate links, discount codes and o
 
 Some creators worry that prominent disclosures will reduce clicks. The available evidence does not support treating transparency as a disadvantage.
 
-Research on affiliate disclosures suggests that explanatory disclosures improve viewers' understanding of commercial relationships rather than simply discouraging purchases. More broadly, transparent reviewing helps build a reputation for honesty, making viewers more likely to return for future recommendations instead of treating every review as a hidden advertisement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Research on affiliate disclosures suggests that explanatory disclosures improve viewers' understanding of commercial relationships rather than simply discouraging purchases. More broadly, transparent reviewing helps build a reputation for honesty, making viewers more likely to return for future recommendations instead of treating every review as a hidden advertisement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
 For an affiliate website supported by YouTube reviews, clear disclosure should therefore be viewed as part of the user experience rather than a legal obstacle. When viewers understand how recommendations are funded before they click, they can make informed decisions, and the resulting trust is often more valuable than any short-term gain from concealing the commercial relationship.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Video Affiliate Links Need Clear Disclosures?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Video Affiliate Links Need Clear Disclosures?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=One+million+Followers+by+Brendan+Kane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open One million Followers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gY09EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for One million Followers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=One+million+Followers+by+Brendan+Kane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="One million Followers">One million Followers</a>
-        </h4>
-        <p class="fr-book-author">By Brendan Kane</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=One+million+Followers+by+Brendan+Kane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open One million Followers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gY09EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for One million Followers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=One+million+Followers+by+Brendan+Kane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="One million Followers">One million Followers</a>
+</h4>
+<p class="fr-book-author">By Brendan Kane</p>
         
-        <p class="fr-book-desc">Covers building audiences through social platforms where affiliate disclosure and trust matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=One+million+Followers+by+Brendan+Kane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers building audiences through social platforms where affiliate disclosure and trust matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=One+million+Followers+by+Brendan+Kane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Donald Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
+</h4>
+<p class="fr-book-author">By Donald Miller</p>
         
-        <p class="fr-book-desc">Emphasizes clear messaging and audience trust, supporting transparent affiliate marketing practices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes clear messaging and audience trust, supporting transparent affiliate marketing practices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open YouTube Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8778900-M.jpg" alt="Cover for YouTube Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="YouTube Secrets">YouTube Secrets</a>
-        </h4>
-        <p class="fr-book-author">By Sean Cannell, Benji Travis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open YouTube Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8778900-M.jpg" alt="Cover for YouTube Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="YouTube Secrets">YouTube Secrets</a>
+</h4>
+<p class="fr-book-author">By Sean Cannell, Benji Travis</p>
         
-        <p class="fr-book-desc">First published 2018.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jab, Jab, Jab, Right Hook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jab, Jab, Jab, Right Hook">Jab, Jab, Jab, Right Hook</a>
-        </h4>
-        <p class="fr-book-author">By Gary Vaynerchuk</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jab, Jab, Jab, Right Hook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jab, Jab, Jab, Right Hook">Jab, Jab, Jab, Right Hook</a>
+</h4>
+<p class="fr-book-author">By Gary Vaynerchuk</p>
         
-        <p class="fr-book-desc">Explains effective social content and authentic promotion, reinforcing transparent commercial communication.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains effective social content and authentic promotion, reinforcing transparent commercial communication.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=One+million+Followers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">One million Followers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=YouTube+Secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">YouTube Secrets</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=One+million+Followers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">One million Followers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=YouTube+Secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">YouTube Secrets</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 9 Modes Bi-Color LED Continuous Video Light Spotlight Flash Strobe Remote 300W"><img src="{{ '/assets/images/marketplace-covers/d54a20860c15f187b1c0.jpg' | relative_url }}" alt="Listing image for 9 Modes Bi-Color LED Continuous Video Light Spotlight Flash Strobe Remote 300W" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">9 Modes Bi-Color LED Continuous Video Light Spotlight Flash Strobe Remote 300W</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 9 Modes Bi-Color LED Continuous Video Light Spotlight Flash Strobe Remote 300W"><img src="{{ '/assets/images/marketplace-covers/d54a20860c15f187b1c0.jpg' | relative_url }}" alt="Listing image for 9 Modes Bi-Color LED Continuous Video Light Spotlight Flash Strobe Remote 300W" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">9 Modes Bi-Color LED Continuous Video Light Spotlight Flash Strobe Remote 300W</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand"><img src="{{ '/assets/images/marketplace-covers/e45c06b7aea349d6fc20.jpg' | relative_url }}" alt="Listing image for 2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand"><img src="{{ '/assets/images/marketplace-covers/e45c06b7aea349d6fc20.jpg' | relative_url }}" alt="Listing image for 2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">2PCS 13W LED Video Lighting Kit 8&quot; Light Lamp Photography Studio Photo 45&quot; Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K"><img src="{{ '/assets/images/marketplace-covers/7b0678a4bccfbccb815d.jpg' | relative_url }}" alt="Listing image for W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K"><img src="{{ '/assets/images/marketplace-covers/7b0678a4bccfbccb815d.jpg' | relative_url }}" alt="Listing image for W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">W70 Camera Photography Video Fill Light RGB Warm Cool LED Fill Lamp 3000K-9000K</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt"><img src="{{ '/assets/images/marketplace-covers/878b2d50bc382eb8e284.jpg' | relative_url }}" alt="Listing image for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search <span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt"><img src="{{ '/assets/images/marketplace-covers/878b2d50bc382eb8e284.jpg' | relative_url }}" alt="Listing image for 96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">96LED Video Light Studio Rechargable Lamp Photo For Wedding Party + 2500mAh Batt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for LED video light">Search<span data-ebay-domain-label>eBay.co.uk</span>: LED video light</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=LED+video+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="LED video light" data-ebay-reference="disclosures-ba73e8-do-video-affiliate-links-need-clear-disclosures-making-money-from-led-video-light" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -633,7 +633,7 @@ For an affiliate website supported by YouTube reviews, clear disclosure should t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -653,7 +653,7 @@ For an affiliate website supported by YouTube reviews, clear disclosure should t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -685,7 +685,7 @@ For an affiliate website supported by YouTube reviews, clear disclosure should t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -737,7 +737,7 @@ For an affiliate website supported by YouTube reviews, clear disclosure should t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -782,7 +782,7 @@ For an affiliate website supported by YouTube reviews, clear disclosure should t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -823,150 +823,150 @@ For an affiliate website supported by YouTube reviews, clear disclosure should t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: social media endorsements being transparent with your followers  
-   Link: <a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media endorsements: guidance for content creators3 Sept 2025 — If you use hidden ads or otherwise engage in misleading practices...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media endorsements: guidance for content creators3 Sept 2025 — If you use hidden ads or otherwise engage in misleading practices...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This brochure from FTC staff gives tips on when and how to make good disclosures.Read more...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This brochure from FTC staff gives tips on when and how to make good disclosures.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/cma-cases/social-media-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/social-media-endorsements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media EndorsementsThe guidance covers issues such as disclosing gifts, own-brand relationships and the importance of upfront, prominent d...</p></details>
+   Link:<a href="https://www.gov.uk/cma-cases/social-media-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/social-media-endorsements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media EndorsementsThe guidance covers issues such as disclosing gifts, own-brand relationships and the importance of upfront, prominent d...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
+   Link:<a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.04383</a>  
+   Link:<a href="https://arxiv.org/abs/2603.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.04383</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z0RkLSgwQS4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Disclose Brand [Deals](&amp;#123;&amp;#123; &#x27;deals/&#x27; | relative_url &amp;#125;&amp;#125;) and Affiliate Links on YouTube...Tips on how to properly disclose brand deals, paid sponsorships and affilia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z0RkLSgwQS4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Disclose Brand [Deals](&amp;#123;&amp;#123; &#x27;deals/&#x27; | relative_url &amp;#125;&amp;#125;) and Affiliate Links on YouTube...Tips on how to properly disclose brand deals, paid sponsorships and affilia...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kz6O3ogbCJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kz6O3ogbCJ8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>g on social media. Whats an advert and whats a sponsored post?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kz6O3ogbCJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kz6O3ogbCJ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g on social media. Whats an advert and whats a sponsored post?...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qn_q7KuClcA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qn_q7KuClcA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding ASA guidelines for influencer marketingWe&#x27;re live with the Advertising Standards Authority discussing the guidelines around...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qn_q7KuClcA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qn_q7KuClcA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding ASA guidelines for influencer marketingWe&#x27;re live with the Advertising Standards Authority discussing the guidelines around...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: competitionandmarkets.blog.gov.uk  
    Title: influencer marketing what you need to know  
-   Link: <a href="https://competitionandmarkets.blog.gov.uk/2019/04/30/influencer-marketing-what-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://competitionandmarkets.blog.gov.uk/2019/04/30/influencer-marketing-what-you-need-to-know/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>marketing: what you need to know30 Apr 2019 — It requires anyone endorsing a product or service on social media to disclose clearly and p...</p></details>
+   Link:<a href="https://competitionandmarkets.blog.gov.uk/2019/04/30/influencer-marketing-what-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://competitionandmarkets.blog.gov.uk/2019/04/30/influencer-marketing-what-you-need-to-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>marketing: what you need to know30 Apr 2019 — It requires anyone endorsing a product or service on social media to disclose clearly and p...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Starting Affiliate Programs: Affiliate Marketing Compliance for Businesses  
-   Link: <a href="https://www.youtube.com/watch?v=gAYD5NvQzmE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gAYD5NvQzmE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Disclose Affiliate Links on YouTube, Blogs, or Website — FTC Guidelines...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gAYD5NvQzmE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gAYD5NvQzmE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Disclose Affiliate Links on YouTube, Blogs, or Website — FTC Guidelines...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How to Disclose Affiliate Links on You Tube, Blogs, or Website — FTC Guidelines  
-   Link: <a href="https://www.youtube.com/watch?v=IVjU36qO77A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IVjU36qO77A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to give written and verbal disclosure to audience as Influencers and Affiliate Marketers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IVjU36qO77A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IVjU36qO77A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to give written and verbal disclosure to audience as Influencers and Affiliate Marketers...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dJUXz85Lkh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dJUXz85Lkh8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Disclose Brand Deals and Affiliate Links on YouTube — FTC Endorsement Guidelines...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dJUXz85Lkh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dJUXz85Lkh8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Disclose Brand Deals and Affiliate Links on YouTube — FTC Endorsement Guidelines...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Breaking Down You Tube and the FTC's Disclosure Rules for You Tubers  
-   Link: <a href="https://www.youtube.com/watch?v=7scb0YDAhbA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7scb0YDAhbA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=7scb0YDAhbA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7scb0YDAhbA</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kelleydrye.com  
-   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-[updates" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-[updates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelley Drye &amp; Warren LLPFTC Updates FAQs for Endorsement Guides,…8 Jun 2015 — If YouTube has been enabled to run ads during the video, a...</p></details>
+   Link:<a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-[updates" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-[updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelley Drye &amp; Warren LLPFTC Updates FAQs for Endorsement Guides,…8 Jun 2015 — If YouTube has been enabled to run ads during the video, a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: termly.io  
    Title: ftc affiliate disclosure  
-   Link: <a href="https://termly.io/resources/articles/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://termly.io/resources/articles/ftc-affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Feb 2026 — We unpack why you need an FTC affiliate disclosure if you promote, sponsor, or affiliate market another brand and explain w...</p></details>
+   Link:<a href="https://termly.io/resources/articles/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://termly.io/resources/articles/ftc-affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Feb 2026 — We unpack why you need an FTC affiliate disclosure if you promote, sponsor, or affiliate market another brand and explain w...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: legallens.co.uk  
-   Link: <a href="https://www.legallens.co.uk/blog/uk-influencer-marketing-contracts-your-legal-guide-to-asa-cma-compliance" target="_blank" rel="noopener noreferrer nofollow">https://www.legallens.co.uk/blog/uk-influencer-marketing-contracts-your-legal-guide-to-asa-cma-compliance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencer Marketing Agreements: Your Brand&#x27;s UK Legal GuideAn influencer agreement is your tool to ensure compliance with the ASA and CM...</p></details>
+   Link:<a href="https://www.legallens.co.uk/blog/uk-influencer-marketing-contracts-your-legal-guide-to-asa-cma-compliance" target="_blank" rel="noopener noreferrer nofollow">https://www.legallens.co.uk/blog/uk-influencer-marketing-contracts-your-legal-guide-to-asa-cma-compliance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influencer Marketing Agreements: Your Brand&#x27;s UK Legal GuideAn influencer agreement is your tool to ensure compliance with the ASA and CM...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40thebloggerprogramme/the-influencers-guide-to-asa-guidelines-e482ec6a199d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40thebloggerprogramme/the-influencers-guide-to-asa-guidelines-e482ec6a199d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Influencer&#x27;s Guide To ASA GuidelinesThe CMA expects brands, influencers and media agencies to disclose when content is &#x27;paid-for&#x27;. Th...</p></details>
+   Link:<a href="https://medium.com/%40thebloggerprogramme/the-influencers-guide-to-asa-guidelines-e482ec6a199d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40thebloggerprogramme/the-influencers-guide-to-asa-guidelines-e482ec6a199d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Influencer&#x27;s Guide To ASA GuidelinesThe CMA expects brands, influencers and media agencies to disclose when content is &#x27;paid-for&#x27;. Th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: adamigo.ai  
-   Link: <a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
+   Link:<a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rpclegal.com  
    Title: cma and asa publish updated influencer guidance on social media endorsements  
-   Link: <a href="https://www.rpclegal.com/snapshots/advertising-and-marketing/winter-2025/cma-and-asa-publish-updated-influencer-guidance-on-social-media-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://www.rpclegal.com/snapshots/advertising-and-marketing/winter-2025/cma-and-asa-publish-updated-influencer-guidance-on-social-media-endorsements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMA and ASA publish updated influencer guidance on...2 Jan 2026 — To improve compliance, the ASA and CMA have published updated guidance...</p></details>
+   Link:<a href="https://www.rpclegal.com/snapshots/advertising-and-marketing/winter-2025/cma-and-asa-publish-updated-influencer-guidance-on-social-media-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://www.rpclegal.com/snapshots/advertising-and-marketing/winter-2025/cma-and-asa-publish-updated-influencer-guidance-on-social-media-endorsements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMA and ASA publish updated influencer guidance on...2 Jan 2026 — To improve compliance, the ASA and CMA have published updated guidance...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fourthfloorcreative.co  
    Title: how influencers can stay within the asa influencer guidelines  
-   Link: <a href="https://fourthfloorcreative.co/blog/how-influencers-can-stay-within-the-asa-influencer-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://fourthfloorcreative.co/blog/how-influencers-can-stay-within-the-asa-influencer-guidelines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How influencers can stay within the ASA guidelines2 Jun 2025 — The ASA requires all influencer/brand content to be disclosed with “#Ad”...</p></details>
+   Link:<a href="https://fourthfloorcreative.co/blog/how-influencers-can-stay-within-the-asa-influencer-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://fourthfloorcreative.co/blog/how-influencers-can-stay-within-the-asa-influencer-guidelines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How influencers can stay within the ASA guidelines2 Jun 2025 — The ASA requires all influencer/brand content to be disclosed with “#Ad”...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iubenda.com  
-   Link: <a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>isitors that you earn a commission when they purchase a product or...Read more...</p></details>
+   Link:<a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>isitors that you earn a commission when they purchase a product or...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: blog.promise.legal  
    Title: ftc endorsement disclosure rules streamers  
-   Link: <a href="https://blog.promise.legal/ftc-endorsement-disclosure-rules-streamers/" target="_blank" rel="noopener noreferrer nofollow">https://blog.promise.legal/ftc-endorsement-disclosure-rules-streamers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsement Rules for Streamers (2026 Guide)8 May 2026 — An FTC compliance guide for streamers on Twitch, YouTube, TikTok, and Kick: what...</p></details>
+   Link:<a href="https://blog.promise.legal/ftc-endorsement-disclosure-rules-streamers/" target="_blank" rel="noopener noreferrer nofollow">https://blog.promise.legal/ftc-endorsement-disclosure-rules-streamers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsement Rules for Streamers (2026 Guide)8 May 2026 — An FTC compliance guide for streamers on Twitch, YouTube, TikTok, and Kick: what...</p></details>
    Published: May 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: creatorflow.so  
-   Link: <a href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow">https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instagram Affiliate Disclosure: FTC Rules and Templates10 Jun 2026 — A compliant Instagram affiliate disclosure has three traits: it is c...</p></details>
+   Link:<a href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow">https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instagram Affiliate Disclosure: FTC Rules and Templates10 Jun 2026 — A compliant Instagram affiliate disclosure has three traits: it is c...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: imtb.org.uk  
    Title: AS A guidance  
-   Link: <a href="https://imtb.org.uk/asa-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://imtb.org.uk/asa-guidance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA guidance - Influencer Marketing Trade Body - IMTBA comprehensive guide to ad labelling and disclosure, written in collaboration betwe...</p></details>
+   Link:<a href="https://imtb.org.uk/asa-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://imtb.org.uk/asa-guidance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASA guidance - Influencer Marketing Trade Body - IMTBA comprehensive guide to ad labelling and disclosure, written in collaboration betwe...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/610/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/610/report.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>System and CMA Responses to the Committee&#x27;s Twelfth...22 Jul 2022 — As a result of this investigation, in January 2019, sixteen influenc...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/610/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/610/report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>System and CMA Responses to the Committee&#x27;s Twelfth...22 Jul 2022 — As a result of this investigation, in January 2019, sixteen influenc...</p></details>
    Published: January 2019  

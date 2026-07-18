@@ -284,13 +284,13 @@ image: /assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_hi
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7-Illustration-1-dark.svg" | relative_url }}" alt="Intent Costs illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliates, this creates a narrow economic window. Higher conversion rates do not automatically translate into higher profits if the cost of acquiring each visitor rises faster than the expected commission from each sale. Whether paid search is viable depends less on traffic volume than on the relationship between keyword cost, conversion rate and commission value. In many niches, expensive [buyer-intent]({{ 'buyer-intent/' | relative_url }}) keywords leave little room for profit unless [commissions]({{ 'commissions/' | relative_url }}) are unusually generous or conversion rates are exceptionally strong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/buyer-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Buyer Intent Keywords Convert Better</span><span class="citation-popover-snippet">Here&#x27;s How to Find...July 30, 2024 — 30 Jul 2024 — The most reliable way to find buyer-intent keywords is to use an SEO tool that allows...</span><span class="citation-popover-meta">Published: July 30, 2024</span></span></span>
+For affiliates, this creates a narrow economic window. Higher conversion rates do not automatically translate into higher profits if the cost of acquiring each visitor rises faster than the expected commission from each sale. Whether paid search is viable depends less on traffic volume than on the relationship between keyword cost, conversion rate and commission value. In many niches, expensive [buyer-intent]({{ 'buyer-intent/' | relative_url }}) keywords leave little room for profit unless [commissions]({{ 'commissions/' | relative_url }}) are unusually generous or conversion rates are exceptionally strong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/buyer-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Buyer Intent Keywords Convert Better</span><span class="citation-popover-snippet">Here&#x27;s How to Find...July 30, 2024 — 30 Jul 2024 — The most reliable way to find buyer-intent keywords is to use an SEO tool that allows...</span><span class="citation-popover-meta">Published: July 30, 2024</span></span></span>
 
 ## Why search markets price buying intent
 
 Search advertising platforms operate as auctions. Advertisers bid because certain searches consistently produce revenue. Someone searching for "buy", "discount", "best", "review", "vs", or a specific product model has often progressed much further through the buying journey than someone searching for a general educational topic.
 
-As more advertisers identify these commercial searches as profitable, competition increases. Google Ads does not simply reward the highest bidder, but intense competition generally raises the cost required to win impressions. High commercial intent therefore tends to correlate with higher cost-per-click (CPC), although actual prices vary by industry, competition and Quality Score. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/buyer-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Buyer Intent Keywords Convert Better</span><span class="citation-popover-snippet">Here&#x27;s How to Find...July 30, 2024 — 30 Jul 2024 — The most reliable way to find buyer-intent keywords is to use an SEO tool that allows...</span><span class="citation-popover-meta">Published: July 30, 2024</span></span></span>
+As more advertisers identify these commercial searches as profitable, competition increases. Google Ads does not simply reward the highest bidder, but intense competition generally raises the cost required to win impressions. High commercial intent therefore tends to correlate with higher cost-per-click (CPC), although actual prices vary by industry, competition and Quality Score.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/buyer-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Buyer Intent Keywords Convert Better</span><span class="citation-popover-snippet">Here&#x27;s How to Find...July 30, 2024 — 30 Jul 2024 — The most reliable way to find buyer-intent keywords is to use an SEO tool that allows...</span><span class="citation-popover-meta">Published: July 30, 2024</span></span></span>
 
 For affiliates this creates an important distinction:
 
@@ -313,7 +313,7 @@ Informational searchBuyer-intent search"How does air frying work?""Best air frye
 
 Informational searches typically attract users who are researching rather than buying immediately. They often cost less because fewer advertisers compete aggressively for them. However, they also produce lower short-term conversion rates because many users are still exploring options.
 
-Purchase-ready searches generally attract users who have already narrowed their choices. These visitors are more likely to click affiliate links and complete purchases, but advertisers recognise this value and compete aggressively for the same traffic. Industry benchmarks consistently show that commercial search advertising costs substantially more than display advertising because search users are actively expressing intent rather than passively browsing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bir.ch/blog/google-ads-cost-breakdown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bir.ch">[Birch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bir.ch</span><span class="citation-popover-title">google ads cost breakdown</span><span class="citation-popover-snippet">chGoogle Ads Cost Breakdown 2026: CPC, CPM, CPV &amp;...1 May 2026 — Average CPC: $5.26. Average CPL: $70.11 (legal highest at ~$132; aut...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Purchase-ready searches generally attract users who have already narrowed their choices. These visitors are more likely to click affiliate links and complete purchases, but advertisers recognise this value and compete aggressively for the same traffic. Industry benchmarks consistently show that commercial search advertising costs substantially more than display advertising because search users are actively expressing intent rather than passively browsing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bir.ch/blog/google-ads-cost-breakdown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bir.ch">[Birch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bir.ch</span><span class="citation-popover-title">google ads cost breakdown</span><span class="citation-popover-snippet">chGoogle Ads Cost Breakdown 2026: CPC, CPM, CPV &amp;...1 May 2026 — Average CPC: $5.26. Average CPL: $70.11 (legal highest at ~$132; aut...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 For an affiliate site, paying for broad informational traffic can waste advertising budget through poor conversion. Paying for highly commercial traffic can produce the opposite problem: excellent conversion rates that still fail to overcome extremely high click costs.
 
@@ -336,7 +336,7 @@ For example:
 
 The retailer can justify paying considerably more per click because each acquired customer may generate future purchases, email subscriptions or additional product sales. The affiliate normally receives only the single commission payment.
 
-This structural difference explains why affiliates frequently find themselves priced out of the most competitive commercial keywords, particularly in sectors such as insurance, finance, legal services, software and consumer electronics, where advertisers are willing to pay very high CPCs. Average search advertising CPCs across industries remain several dollars per click, with some commercial sectors substantially exceeding overall averages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bir.ch/blog/google-ads-cost-breakdown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bir.ch">[Birch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bir.ch</span><span class="citation-popover-title">google ads cost breakdown</span><span class="citation-popover-snippet">chGoogle Ads Cost Breakdown 2026: CPC, CPM, CPV &amp;...1 May 2026 — Average CPC: $5.26. Average CPL: $70.11 (legal highest at ~$132; aut...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+This structural difference explains why affiliates frequently find themselves priced out of the most competitive commercial keywords, particularly in sectors such as insurance, finance, legal services, software and consumer electronics, where advertisers are willing to pay very high CPCs. Average search advertising CPCs across industries remain several dollars per click, with some commercial sectors substantially exceeding overall averages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bir.ch/blog/google-ads-cost-breakdown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bir.ch">[Birch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bir.ch</span><span class="citation-popover-title">google ads cost breakdown</span><span class="citation-popover-snippet">chGoogle Ads Cost Breakdown 2026: CPC, CPM, CPV &amp;...1 May 2026 — Average CPC: $5.26. Average CPL: $70.11 (legal highest at ~$132; aut...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7-Illustration-2-dark.svg" | relative_url }}" alt="Intent Costs illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -375,7 +375,7 @@ High intent improves the probability of conversion, but it does not eliminate un
 
 </div>
 
-Research on paid search consistently finds that campaign profitability depends on the interaction between CPC, conversion rate and acquisition cost rather than any single metric in isolation. Expensive clicks can still produce efficient customer acquisition when conversion rates are sufficiently high, while inexpensive clicks may generate poor returns if buyers are not ready to purchase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.trackbee.io/blog/ad-cost-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackbee.io">[TrackBee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackbee.io</span><span class="citation-popover-title">ad cost benchmarks</span><span class="citation-popover-snippet">Ad Cost Benchmarks 2026: What Paid Ads Cost by Platform3 days ago — CPA is CPC divided by conversion rate, so a platform with exp...</span></span></span>
+Research on paid search consistently finds that campaign profitability depends on the interaction between CPC, conversion rate and acquisition cost rather than any single metric in isolation. Expensive clicks can still produce efficient customer acquisition when conversion rates are sufficiently high, while inexpensive clicks may generate poor returns if buyers are not ready to purchase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.trackbee.io/blog/ad-cost-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackbee.io">[TrackBee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackbee.io</span><span class="citation-popover-title">ad cost benchmarks</span><span class="citation-popover-snippet">Ad Cost Benchmarks 2026: What Paid Ads Cost by Platform3 days ago — CPA is CPC divided by conversion rate, so a platform with exp...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7-Illustration-3-dark.svg" | relative_url }}" alt="Intent Costs illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -396,185 +396,185 @@ Examples include:
 
 </div>
 
-These narrower searches often produce lower search volume but can offer a better balance between conversion potential and advertising cost. Rather than pursuing the most expensive keywords in a market, successful affiliates often seek overlooked commercial searches where commissions still comfortably exceed acquisition costs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/buyer-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Buyer Intent Keywords Convert Better</span><span class="citation-popover-snippet">Here&#x27;s How to Find...July 30, 2024 — 30 Jul 2024 — The most reliable way to find buyer-intent keywords is to use an SEO tool that allows...</span><span class="citation-popover-meta">Published: July 30, 2024</span></span></span>
+These narrower searches often produce lower search volume but can offer a better balance between conversion potential and advertising cost. Rather than pursuing the most expensive keywords in a market, successful affiliates often seek overlooked commercial searches where commissions still comfortably exceed acquisition costs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/buyer-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Buyer Intent Keywords Convert Better</span><span class="citation-popover-snippet">Here&#x27;s How to Find...July 30, 2024 — 30 Jul 2024 — The most reliable way to find buyer-intent keywords is to use an SEO tool that allows...</span><span class="citation-popover-meta">Published: July 30, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mxKGVC08B9w" title="Step-By-Step Advanced Keyword Research For Google Ads" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mxKGVC08B9w" target="_blank" rel="noopener noreferrer">Step-By-Step Advanced Keyword Research For Google Ads</a></p><p class="youtube-embed-meta">Channel: Chris Marrano</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mxKGVC08B9w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mxKGVC08B9w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Buyer Keywords Too Expensive for Affiliates?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Buyer Keywords Too Expensive for Affiliates?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3_MBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Traction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction">Traction</a>
-        </h4>
-        <p class="fr-book-author">By Gabriel Weinberg, Justin Mares</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3_MBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Traction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction">Traction</a>
+</h4>
+<p class="fr-book-author">By Gabriel Weinberg, Justin Mares</p>
         
-        <p class="fr-book-desc">Helps readers evaluate when paid search is economically viable versus alternative acquisition channels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate when paid search is economically viable versus alternative acquisition channels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Marketing+For+Dummies+by+Ryan+Deiss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vc7zDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Marketing+For+Dummies+by+Ryan+Deiss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Marketing For Dummies">Digital Marketing For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Deiss, Russ Henneberry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Marketing+For+Dummies+by+Ryan+Deiss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vc7zDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Marketing+For+Dummies+by+Ryan+Deiss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Marketing For Dummies">Digital Marketing For Dummies</a>
+</h4>
+<p class="fr-book-author">By Ryan Deiss, Russ Henneberry</p>
         
-        <p class="fr-book-desc">Places paid search economics within the wider context of digital marketing and customer acquisition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Marketing+For+Dummies+by+Ryan+Deiss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places paid search economics within the wider context of digital marketing and customer acquisition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Marketing+For+Dummies+by+Ryan+Deiss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Provides insight into why high-intent audiences convert and how persuasive marketing affects conversion rates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into why high-intent audiences convert and how persuasive marketing affects conversion rates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultimate Guide to Google Ads on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultimate Guide to Google Ads">Ultimate Guide to Google Ads</a>
-        </h4>
-        <p class="fr-book-author">By Perry Marshall, Mike Rhodes et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultimate Guide to Google Ads on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultimate Guide to Google Ads">Ultimate Guide to Google Ads</a>
+</h4>
+<p class="fr-book-author">By Perry Marshall, Mike Rhodes et al.</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Commerce.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Commerce.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Traction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Traction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Marketing+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Marketing For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Traction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Traction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Marketing+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Marketing For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist"><img src="{{ '/assets/images/marketplace-covers/3dfb850ce62cef601203.jpg' | relative_url }}" alt="Listing image for World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist"><img src="{{ '/assets/images/marketplace-covers/3dfb850ce62cef601203.jpg' | relative_url }}" alt="Listing image for World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">World&#x27;s 2nd Best Digital Marketing Manager Coffee Tea Mug for Digital Strategist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker"><img src="{{ '/assets/images/marketplace-covers/f1f981e029c56ef3dc85.jpg' | relative_url }}" alt="Listing image for Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker"><img src="{{ '/assets/images/marketplace-covers/f1f981e029c56ef3dc85.jpg' | relative_url }}" alt="Listing image for Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">Digital Marketing Specialist rainbow Unicorn pole dancing coffee mug coworker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per"><img src="{{ '/assets/images/marketplace-covers/4bde9c4cdb7dfbf7dd96.jpg' | relative_url }}" alt="Listing image for SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per"><img src="{{ '/assets/images/marketplace-covers/4bde9c4cdb7dfbf7dd96.jpg' | relative_url }}" alt="Listing image for SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for digital marketing mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: digital marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=digital+marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital marketing mug" data-ebay-reference="intent-costs-are-buyer-keywords-too-expensive-for-affiliates-making-money-from-digital-marketing-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ These narrower searches often produce lower search volume but can offer a better
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ These narrower searches often produce lower search volume but can offer a better
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ These narrower searches often produce lower search volume but can offer a better
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ These narrower searches often produce lower search volume but can offer a better
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ These narrower searches often produce lower search volume but can offer a better
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,82 +780,82 @@ These narrower searches often produce lower search volume but can offer a better
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ahrefs.com  
    Title: Buyer Intent Keywords Convert Better  
-   Link: <a href="https://ahrefs.com/blog/buyer-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/buyer-intent-keywords/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s How to Find...July 30, 2024 — 30 Jul 2024 — The most reliable way to find buyer-intent keywords is to use an SEO tool that allows...</p></details>
+   Link:<a href="https://ahrefs.com/blog/buyer-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/buyer-intent-keywords/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s How to Find...July 30, 2024 — 30 Jul 2024 — The most reliable way to find buyer-intent keywords is to use an SEO tool that allows...</p></details>
    Published: July 30, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: trackbee.io  
    Title: ad cost benchmarks  
-   Link: <a href="https://www.trackbee.io/blog/ad-cost-benchmarks" target="_blank" rel="noopener noreferrer nofollow">https://www.trackbee.io/blog/ad-cost-benchmarks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Cost Benchmarks 2026: What [Paid Ads](&amp;#123;&amp;#123; &#x27;paid-ads/&#x27; | relative_url &amp;#125;&amp;#125;) Cost by Platform3 days ago — CPA is CPC divided by conversion rate, so a platform with exp...</p></details>
+   Link:<a href="https://www.trackbee.io/blog/ad-cost-benchmarks" target="_blank" rel="noopener noreferrer nofollow">https://www.trackbee.io/blog/ad-cost-benchmarks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Cost Benchmarks 2026: What [Paid Ads](&amp;#123;&amp;#123; &#x27;paid-ads/&#x27; | relative_url &amp;#125;&amp;#125;) Cost by Platform3 days ago — CPA is CPC divided by conversion rate, so a platform with exp...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bir.ch  
    Title: google ads cost breakdown  
-   Link: <a href="https://bir.ch/blog/google-ads-cost-breakdown" target="_blank" rel="noopener noreferrer nofollow">https://bir.ch/blog/google-ads-cost-breakdown</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>chGoogle Ads Cost Breakdown 2026: CPC, CPM, CPV &amp;...1 May 2026 — Average CPC: $5.26. Average CPL: $70.11 (legal highest at ~$132; aut...</p></details>
+   Link:<a href="https://bir.ch/blog/google-ads-cost-breakdown" target="_blank" rel="noopener noreferrer nofollow">https://bir.ch/blog/google-ads-cost-breakdown</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chGoogle Ads Cost Breakdown 2026: CPC, CPM, CPV &amp;...1 May 2026 — Average CPC: $5.26. Average CPL: $70.11 (legal highest at ~$132; aut...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399063982_Pay_Per_Click_and_Paid_Search_Cost-Effectiveness_and_ROI_in_Digital_Marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399063982_Pay_Per_Click_and_Paid_Search_Cost-Effectiveness_and_ROI_in_Digital_Marketing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Pay Per Click and Paid Search: Cost-Effectiveness...28 Dec 2025 — This systematic literature review examines the evaluation and ef...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399063982_Pay_Per_Click_and_Paid_Search_Cost-Effectiveness_and_ROI_in_Digital_Marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399063982_Pay_Per_Click_and_Paid_Search_Cost-Effectiveness_and_ROI_in_Digital_Marketing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Pay Per Click and Paid Search: Cost-Effectiveness...28 Dec 2025 — This systematic literature review examines the evaluation and ef...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: customgpt.ai  
    Title: best keyword research tools for affiliate marketing  
-   Link: <a href="https://customgpt.ai/best-keyword-research-tools-for-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://customgpt.ai/best-keyword-research-tools-for-affiliate-marketing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Best Keyword Research Tools For Affiliate Marketing18 Jul 2025 — For affiliate marketing, the free tools that work are Google Keyword P...</p></details>
+   Link:<a href="https://customgpt.ai/best-keyword-research-tools-for-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://customgpt.ai/best-keyword-research-tools-for-affiliate-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Best Keyword Research Tools For Affiliate Marketing18 Jul 2025 — For affiliate marketing, the free tools that work are Google Keyword P...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aioseo.com  
    Title: A commercial keyword with a high CPC is often  
-   Link: <a href="https://aioseo.com/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://aioseo.com/commercial-intent-keywords/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find Commercial Intent Keywords That Actually...2 Jun 2026 — High CPC means advertisers are willing to pay a lot per click, which...</p></details>
+   Link:<a href="https://aioseo.com/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://aioseo.com/commercial-intent-keywords/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find Commercial Intent Keywords That Actually...2 Jun 2026 — High CPC means advertisers are willing to pay a lot per click, which...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nayimadnan.com  
    Title: keyword research for affiliate marketing  
-   Link: <a href="https://nayimadnan.com/keyword-research-for-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://nayimadnan.com/keyword-research-for-affiliate-marketing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Do Keyword Research For Affiliate Marketing In 2026Focus on metrics like search volume, cost-per-click (CPC), and commercial inten...</p></details>
+   Link:<a href="https://nayimadnan.com/keyword-research-for-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://nayimadnan.com/keyword-research-for-affiliate-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Do Keyword Research For Affiliate Marketing In 2026Focus on metrics like search volume, cost-per-click (CPC), and commercial inten...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hivehq.ai  
    Title: affiliate marketing keyword research  
-   Link: <a href="https://www.hivehq.ai/blog/affiliate-marketing-keyword-research" target="_blank" rel="noopener noreferrer nofollow">https://www.hivehq.ai/blog/affiliate-marketing-keyword-research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>That Converts1 Nov 2025 — Master affiliate marketing keyword research. Learn to find high-intent keywords, analyze competitors, and creat...</p></details>
+   Link:<a href="https://www.hivehq.ai/blog/affiliate-marketing-keyword-research" target="_blank" rel="noopener noreferrer nofollow">https://www.hivehq.ai/blog/affiliate-marketing-keyword-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That Converts1 Nov 2025 — Master affiliate marketing keyword research. Learn to find high-intent keywords, analyze competitors, and creat...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mgid.com  
    Title: affiliate marketing keyword research  
-   Link: <a href="https://www.mgid.com/blog/affiliate-marketing-keyword-research" target="_blank" rel="noopener noreferrer nofollow">https://www.mgid.com/blog/affiliate-marketing-keyword-research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>That Works27 Oct 2025 — CPC (Cost Per Click) A keyword with 300 searches and strong buying intent often performs better than a 10,000-sea...</p></details>
+   Link:<a href="https://www.mgid.com/blog/affiliate-marketing-keyword-research" target="_blank" rel="noopener noreferrer nofollow">https://www.mgid.com/blog/affiliate-marketing-keyword-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That Works27 Oct 2025 — CPC (Cost Per Click) A keyword with 300 searches and strong buying intent often performs better than a 10,000-sea...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=-NkHV3yFeg8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-NkHV3yFeg8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Ads Affiliate Marketing - 6 Steps to Crush CPA Marketing...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=-NkHV3yFeg8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-NkHV3yFeg8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Ads Affiliate Marketing - 6 Steps to Crush CPA Marketing...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: $2,000,000 Google Ads Affiliate Keyword Secrets: Find High-Converting Terms!  
-   Link: <a href="http://www.youtube.com/watch?v=vNYcZ1Pvy9o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vNYcZ1Pvy9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PPC Keyword Research: How to Find High-Value KWs for Google Adwords...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vNYcZ1Pvy9o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vNYcZ1Pvy9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PPC Keyword Research: How to Find High-Value KWs for Google Adwords...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Google Ads Affiliate Marketing  
-   Link: <a href="http://www.youtube.com/watch?v=A2MfMCkET-k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=A2MfMCkET-k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not Seeing the &quot;Manual Bid&quot; Option In Microsoft Ads? Here Are 3 Things You Can Do...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=A2MfMCkET-k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=A2MfMCkET-k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not Seeing the &quot;Manual Bid&quot; Option In Microsoft Ads? Here Are 3 Things You Can Do...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Step-By-Step Advanced Keyword Research For Google Ads  
-   Link: <a href="http://www.youtube.com/watch?v=mxKGVC08B9w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mxKGVC08B9w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google ads for affiliate marketing | keyword match types [Relevant keyword = high conversion rate]...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mxKGVC08B9w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mxKGVC08B9w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google ads for affiliate marketing | keyword match types [Relevant keyword = high conversion rate]...</p></details>

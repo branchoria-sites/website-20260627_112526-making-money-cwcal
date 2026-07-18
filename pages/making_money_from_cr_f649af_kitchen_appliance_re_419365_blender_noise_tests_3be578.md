@@ -288,7 +288,7 @@ The most useful blender noise reviews connect measured sound levels with everyda
 
 ## Why decibels matter in everyday kitchen use
 
-Noise measurements are expressed in decibels (dB), but numbers alone can be misleading because the decibel scale is logarithmic. A small numerical increase represents a substantial increase in sound energy, while people also perceive loudness differently depending on frequency and duration. Occupational health guidance commonly uses 85 dBA as an eight-hour exposure threshold, and organisations such as RNID use familiar examples to help people understand everyday noise, listing a food blender at roughly 85 dB. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osha.gov/noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osha.gov">[osha.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osha.gov</span><span class="citation-popover-title">Occupational Noise Exposure</span><span class="citation-popover-snippet">OverviewIf you need to raise your voice to speak to someone 3 feet away, noise levels might be over 85 decibels (dBA). There are several...</span></span></span>
+Noise measurements are expressed in decibels (dB), but numbers alone can be misleading because the decibel scale is logarithmic. A small numerical increase represents a substantial increase in sound energy, while people also perceive loudness differently depending on frequency and duration. Occupational health guidance commonly uses 85 dBA as an eight-hour exposure threshold, and organisations such as RNID use familiar examples to help people understand everyday noise, listing a food blender at roughly 85 dB.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osha.gov/noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osha.gov">[osha.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osha.gov</span><span class="citation-popover-title">Occupational Noise Exposure</span><span class="citation-popover-snippet">OverviewIf you need to raise your voice to speak to someone 3 feet away, noise levels might be over 85 decibels (dBA). There are several...</span></span></span>
 
 For buying decisions, however, hearing safety is rarely the issue. The real concern is disruption.
 
@@ -334,7 +334,7 @@ Record:
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
-* peak decibel level <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerreports.org/[appliances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerreports.org">[consumerreports.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerreports.org</span><span class="citation-popover-title">buying guide</span><span class="citation-popover-snippet">Consumer ReportsHow to Choose a Blender30 Dec 2025 — To gauge the noise level, CR blends 1 cup of water and takes an average decibel read...</span></span></span>
+* peak decibel level<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerreports.org/[appliances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerreports.org">[consumerreports.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerreports.org</span><span class="citation-popover-title">buying guide</span><span class="citation-popover-snippet">Consumer ReportsHow to Choose a Blender30 Dec 2025 — To gauge the noise level, CR blends 1 cup of water and takes an average decibel read...</span></span></span>
 * duration of the crushing cycle
 * whether vibration causes the machine to "walk" across the counter
 * whether the pitch changes as ice becomes finer
@@ -435,7 +435,7 @@ Common approaches include:
 * improved airflow to reduce cooling fan noise
 * automatic programmes that avoid unnecessary full-speed operation
 
-Independent [testing]({{ 'testing/' | relative_url }}) has found that enclosed "quiet" models can substantially reduce perceived noise compared with conventional high-performance blenders, although performance sometimes changes if users remove the enclosure or lid to use a tamper. Consumer Reports includes noise measurements in its blender testing protocol, while reviewers such as RTINGS and Serious Eats now incorporate decibel measurements alongside blending performance. RTINGS.com+3Consumer Reports+3data.consumerreports.org <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.consumerreports.org/appliances/blenders/buying-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerreports.org">[consumerreports.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerreports.org</span><span class="citation-popover-title">buying guide</span><span class="citation-popover-snippet">Consumer ReportsHow to Choose a Blender30 Dec 2025 — To gauge the noise level, CR blends 1 cup of water and takes an average decibel read...</span></span></span>
+Independent [testing]({{ 'testing/' | relative_url }}) has found that enclosed "quiet" models can substantially reduce perceived noise compared with conventional high-performance blenders, although performance sometimes changes if users remove the enclosure or lid to use a tamper. Consumer Reports includes noise measurements in its blender testing protocol, while reviewers such as RTINGS and Serious Eats now incorporate decibel measurements alongside blending performance. RTINGS.com+3Consumer Reports+3data.consumerreports.org<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.consumerreports.org/appliances/blenders/buying-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerreports.org">[consumerreports.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerreports.org</span><span class="citation-popover-title">buying guide</span><span class="citation-popover-snippet">Consumer ReportsHow to Choose a Blender30 Dec 2025 — To gauge the noise level, CR blends 1 cup of water and takes an average decibel read...</span></span></span>
 
 This makes noise a meaningful comparison point rather than an afterthought.
 
@@ -485,178 +485,178 @@ A strong affiliate review should leave readers knowing:
 Those are the details product listings rarely explain, yet they are often the deciding factor for buyers sharing kitchens with other people.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Your Blender Too Loud to Live With?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Your Blender Too Loud to Live With?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete America&#x27;s Test Kitchen TV Show Cookbook 2001-2016 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11556736-M.jpg" alt="Cover for The Complete America&#x27;s Test Kitchen TV Show Cookbook 2001-2016" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete America&#x27;s Test Kitchen TV Show Cookbook 2001-2016">The Complete America&#x27;s Test Kitchen TV Show Cookbook 2001-2016</a>
-        </h4>
-        <p class="fr-book-author">By America&#x27;s Test Kitchen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete America&#x27;s Test Kitchen TV Show Cookbook 2001-2016 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11556736-M.jpg" alt="Cover for The Complete America&#x27;s Test Kitchen TV Show Cookbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete America&#x27;s Test Kitchen TV Show Cookbook">The Complete America&#x27;s Test Kitchen TV Show Cookbook</a>
+</h4>
+<p class="fr-book-author">By America&#x27;s Test Kitchen</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: nyt:food-and-fitness=2015-12-13, New York Times bestseller, COOKING / Methods / General, COOKING / Course...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: nyt:food-and-fitness=2015-12-13, New York Times bestseller, COOKING / Methods / General, COOKING / Course...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Cook Everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307073-M.jpg" alt="Cover for How to Cook Everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Cook Everything">How to Cook Everything</a>
-        </h4>
-        <p class="fr-book-author">By Mark Bittman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Cook Everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307073-M.jpg" alt="Cover for How to Cook Everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Cook Everything">How to Cook Everything</a>
+</h4>
+<p class="fr-book-author">By Mark Bittman</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Cookery, Cooking &amp; Food, Nonfiction, Cooking, Cookbooks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Cookery, Cooking &amp; Food, Nonfiction, Cooking, Cookbooks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Salt, Fat, Acid, Heat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8315567-M.jpg" alt="Cover for Salt, Fat, Acid, Heat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Salt, Fat, Acid, Heat">Salt, Fat, Acid, Heat</a>
-        </h4>
-        <p class="fr-book-author">By Samin Nosrat</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Salt, Fat, Acid, Heat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8315567-M.jpg" alt="Cover for Salt, Fat, Acid, Heat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Salt, Fat, Acid, Heat">Salt, Fat, Acid, Heat</a>
+</h4>
+<p class="fr-book-author">By Samin Nosrat</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Cooking, regional &amp; ethnic cooking, cooking methods, reference, nyt:advice-how-to-and-miscellaneous=2017-...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Cooking, regional &amp; ethnic cooking, cooking methods, reference, nyt:advice-how-to-and-miscellaneous=2017-...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Food Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8314250-M.jpg" alt="Cover for The Food Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Food Lab">The Food Lab</a>
-        </h4>
-        <p class="fr-book-author">By J. Kenji López-Alt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Food Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8314250-M.jpg" alt="Cover for The Food Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Food Lab">The Food Lab</a>
+</h4>
+<p class="fr-book-author">By J. Kenji López-Alt</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Food, Experiments, Cooking, Analysis, Research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Food, Experiments, Cooking, Analysis, Research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001+2016&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete America&#x27;s Test Kitchen TV Show Cookbook 2001 2016</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Cook+Everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Cook Everything</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Salt, Fat, Acid, Heat</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001+2016&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete America&#x27;s Test Kitchen TV Show Cookbook</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Cook+Everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Cook Everything</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Salt, Fat, Acid, Heat</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8PCS Air Fryer Rack &amp; Grills Steel Baking Pot Dual Silicone Basket Accessories"><img src="{{ '/assets/images/marketplace-covers/78206be41de06e121582.jpg' | relative_url }}" alt="Listing image for 8PCS Air Fryer Rack &amp; Grills Steel Baking Pot Dual Silicone Basket Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer">8PCS Air Fryer Rack &amp; Grills Steel Baking Pot Dual Silicone Basket Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air fryer accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: air fryer accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8PCS Air Fryer Rack &amp; Grills Steel Baking Pot Dual Silicone Basket Accessories"><img src="{{ '/assets/images/marketplace-covers/78206be41de06e121582.jpg' | relative_url }}" alt="Listing image for 8PCS Air Fryer Rack &amp; Grills Steel Baking Pot Dual Silicone Basket Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer">8PCS Air Fryer Rack &amp; Grills Steel Baking Pot Dual Silicone Basket Accessories</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air fryer accessories">Search<span data-ebay-domain-label>eBay.co.uk</span>: air fryer accessories</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8 Inch Square Air Fryer Liner, Thick Silicone Air Fryer Accessories Reusable"><img src="{{ '/assets/images/marketplace-covers/d68f2e32bed648e39396.jpg' | relative_url }}" alt="Listing image for 8 Inch Square Air Fryer Liner, Thick Silicone Air Fryer Accessories Reusable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer">8 Inch Square Air Fryer Liner, Thick Silicone Air Fryer Accessories Reusable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air fryer accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: air fryer accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8 Inch Square Air Fryer Liner, Thick Silicone Air Fryer Accessories Reusable"><img src="{{ '/assets/images/marketplace-covers/d68f2e32bed648e39396.jpg' | relative_url }}" alt="Listing image for 8 Inch Square Air Fryer Liner, Thick Silicone Air Fryer Accessories Reusable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer">8 Inch Square Air Fryer Liner, Thick Silicone Air Fryer Accessories Reusable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air fryer accessories">Search<span data-ebay-domain-label>eBay.co.uk</span>: air fryer accessories</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rectangle Air Fryer Rack Accessories for Ninja Dual Air Fryer AF300UK AF400UK"><img src="{{ '/assets/images/marketplace-covers/3fc600fc4bda48c7bf31.jpg' | relative_url }}" alt="Listing image for Rectangle Air Fryer Rack Accessories for Ninja Dual Air Fryer AF300UK AF400UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer">Rectangle Air Fryer Rack Accessories for Ninja Dual Air Fryer AF300UK AF400UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air fryer accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: air fryer accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rectangle Air Fryer Rack Accessories for Ninja Dual Air Fryer AF300UK AF400UK"><img src="{{ '/assets/images/marketplace-covers/3fc600fc4bda48c7bf31.jpg' | relative_url }}" alt="Listing image for Rectangle Air Fryer Rack Accessories for Ninja Dual Air Fryer AF300UK AF400UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer">Rectangle Air Fryer Rack Accessories for Ninja Dual Air Fryer AF300UK AF400UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air fryer accessories">Search<span data-ebay-domain-label>eBay.co.uk</span>: air fryer accessories</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+fryer+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air fryer accessories" data-ebay-reference="blender-noise-is-your-blender-too-loud-to-live-with-making-money-from-air-fryer-accessories" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -672,7 +672,7 @@ Those are the details product listings rarely explain, yet they are often the de
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -692,7 +692,7 @@ Those are the details product listings rarely explain, yet they are often the de
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -724,7 +724,7 @@ Those are the details product listings rarely explain, yet they are often the de
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -776,7 +776,7 @@ Those are the details product listings rarely explain, yet they are often the de
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -821,7 +821,7 @@ Those are the details product listings rarely explain, yet they are often the de
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -862,106 +862,106 @@ Those are the details product listings rarely explain, yet they are often the de
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: osha.gov  
    Title: Occupational Noise Exposure  
-   Link: <a href="https://www.osha.gov/noise" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/noise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OverviewIf you need to raise your voice to speak to someone 3 feet away, noise levels might be over 85 decibels (dBA). There are several...</p></details>
+   Link:<a href="https://www.osha.gov/noise" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OverviewIf you need to raise your voice to speak to someone 3 feet away, noise levels might be over 85 decibels (dBA). There are several...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: consumerreports.org  
    Title: buying guide  
-   Link: <a href="https://www.consumerreports.org/[appliances" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/[appliances</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer ReportsHow to Choose a Blender30 Dec 2025 — To gauge the noise level, CR blends 1 cup of water and takes an average decibel read...</p></details>
+   Link:<a href="https://www.consumerreports.org/[appliances" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/[appliances</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer ReportsHow to Choose a Blender30 Dec 2025 — To gauge the noise level, CR blends 1 cup of water and takes an average decibel read...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: data.consumerreports.org  
-   Link: <a href="https://data.consumerreports.org/test-protocols/blenders/" target="_blank" rel="noopener noreferrer nofollow">https://data.consumerreports.org/test-protocols/blenders/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The purpose of the tests are to evaluate the performance of the blenders: Icy...Read more...</p></details>
+   Link:<a href="https://data.consumerreports.org/test-protocols/blenders/" target="_blank" rel="noopener noreferrer nofollow">https://data.consumerreports.org/test-protocols/blenders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The purpose of the tests are to evaluate the performance of the blenders: Icy...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rtings.com  
-   Link: <a href="https://www.rtings.com/blender/reviews/best/quiet" target="_blank" rel="noopener noreferrer nofollow">https://www.rtings.com/blender/reviews/best/quiet</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 5 Best Quiet Blenders of 202626 May 2026 — Using the noise dome, it&#x27;s one of the quietest blenders we&#x27;ve tested, maxing out at a litt...</p></details>
+   Link:<a href="https://www.rtings.com/blender/reviews/best/quiet" target="_blank" rel="noopener noreferrer nofollow">https://www.rtings.com/blender/reviews/best/quiet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 5 Best Quiet Blenders of 202626 May 2026 — Using the noise dome, it&#x27;s one of the quietest blenders we&#x27;ve tested, maxing out at a litt...</p></details>
    Published: May 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: consumerreports.org  
-   Link: <a href="https://www.consumerreports.org/appliances/blenders/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/appliances/blenders/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Blender ReviewsLooking for the best blender? Consumer Reports has honest ratings and reviews on blenders from the unbiased experts y...</p></details>
+   Link:<a href="https://www.consumerreports.org/appliances/blenders/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/appliances/blenders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Blender ReviewsLooking for the best blender? Consumer Reports has honest ratings and reviews on blenders from the unbiased experts y...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: consumerreports.org  
-   Link: <a href="https://www.consumerreports.org/appliances/blenders/most-and-least-reliable-blenders-a5301253934/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/appliances/blenders/most-and-least-reliable-blenders-a5301253934/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most and Least Reliable Blender Brands14 Aug 2025 — CR&#x27;s exclusive member surveys reveal the most and least reliable blender brands. Find...</p></details>
+   Link:<a href="https://www.consumerreports.org/appliances/blenders/most-and-least-reliable-blenders-a5301253934/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/appliances/blenders/most-and-least-reliable-blenders-a5301253934/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most and Least Reliable Blender Brands14 Aug 2025 — CR&#x27;s exclusive member surveys reveal the most and least reliable blender brands. Find...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: consumerreports.org  
-   Link: <a href="https://www.consumerreports.org/cro/news/2014/10/the-quietest-dishwashers-and-cooking-appliances/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/cro/news/2014/10/the-quietest-dishwashers-and-cooking-appliances/index.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>View and compare all Microwave Ovens ratings. Blenders image. Blenders...Read more...</p></details>
+   Link:<a href="https://www.consumerreports.org/cro/news/2014/10/the-quietest-dishwashers-and-cooking-appliances/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/cro/news/2014/10/the-quietest-dishwashers-and-cooking-appliances/index.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>View and compare all Microwave Ovens ratings. Blenders image. Blenders...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: business.gov.nl  
-   Link: <a href="https://business.gov.nl/regulations/harmful-noise-levels/" target="_blank" rel="noopener noreferrer nofollow">https://business.gov.nl/regulations/harmful-noise-levels/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harmful noise levelsNoise levels over 85 dB(A) for 8 hours: your employee must wear hearing protection. You should indicate in which area...</p></details>
+   Link:<a href="https://business.gov.nl/regulations/harmful-noise-levels/" target="_blank" rel="noopener noreferrer nofollow">https://business.gov.nl/regulations/harmful-noise-levels/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harmful noise levelsNoise levels over 85 dB(A) for 8 hours: your employee must wear hearing protection. You should indicate in which area...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.who.int  
-   Link: <a href="https://cdn.who.int/media/docs/default-source/who-compendium-on-health-and-environment/who_compendium_noise_01042022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/who-compendium-on-health-and-environment/who_compendium_noise_01042022.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>11. Environmental noiseFor average noise exposure, the following sound pressure levels are recommended (2, 6): • &lt; 53 dB Lden for road tr...</p></details>
+   Link:<a href="https://cdn.who.int/media/docs/default-source/who-compendium-on-health-and-environment/who_compendium_noise_01042022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/who-compendium-on-health-and-environment/who_compendium_noise_01042022.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11. Environmental noiseFor average noise exposure, the following sound pressure levels are recommended (2, 6): • &lt; 53 dB Lden for road tr...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: noiseawareness.org  
-   Link: <a href="https://noiseawareness.org/info-center/common-noise-levels/" target="_blank" rel="noopener noreferrer nofollow">https://noiseawareness.org/info-center/common-noise-levels/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Noise LevelsThe following decibel levels of common noise sources are typical, but will vary. Noise levels above 140dBA can cause d...</p></details>
+   Link:<a href="https://noiseawareness.org/info-center/common-noise-levels/" target="_blank" rel="noopener noreferrer nofollow">https://noiseawareness.org/info-center/common-noise-levels/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Noise LevelsThe following decibel levels of common noise sources are typical, but will vary. Noise levels above 140dBA can cause d...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: chchearing.org  
-   Link: <a href="https://www.chchearing.org/common-environmental-noise-levels" target="_blank" rel="noopener noreferrer nofollow">https://www.chchearing.org/common-environmental-noise-levels</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Environmental Noise LevelsAccording to NIOSH, a safe noise level is considered to to be 85 dBA or below, which is the recommended...</p></details>
+   Link:<a href="https://www.chchearing.org/common-environmental-noise-levels" target="_blank" rel="noopener noreferrer nofollow">https://www.chchearing.org/common-environmental-noise-levels</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Environmental Noise LevelsAccording to NIOSH, a safe noise level is considered to to be 85 dBA or below, which is the recommended...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yR2KD6G1sr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yR2KD6G1sr8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WantJoin Professional Blender Review: Is Its Power &amp; Quiet...WantJoin Professional Commercial Blender With Shield Quiet Sound Enclosure...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yR2KD6G1sr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yR2KD6G1sr8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WantJoin Professional Blender Review: Is Its Power &amp; Quiet...WantJoin Professional Commercial Blender With Shield Quiet Sound Enclosure...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NHS24/posts/-protect-your-hearing-everyday-noise-levels-did-you-know-that-everyday-noises-ca/555003730564477/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NHS24/posts/-protect-your-hearing-everyday-noise-levels-did-you-know-that-everyday-noises-ca/555003730564477/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>below 70 dB over 24 hours to prevent noise-induced hearing loss ⁴...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NHS24/posts/-protect-your-hearing-everyday-noise-levels-did-you-know-that-everyday-noises-ca/555003730564477/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NHS24/posts/-protect-your-hearing-everyday-noise-levels-did-you-know-that-everyday-noises-ca/555003730564477/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>below 70 dB over 24 hours to prevent noise-induced hearing loss ⁴...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smallaptkitchen.com  
    Title: quiet blender for apartments 2  
-   Link: <a href="https://smallaptkitchen.com/quiet-blender-for-apartments-2/" target="_blank" rel="noopener noreferrer nofollow">https://smallaptkitchen.com/quiet-blender-for-apartments-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Quiet Blender for Apartments: 2026 ReviewsQuiet blender for apartments under 65 dB. We tested 6 blenders with a decibel meter. Actua...</p></details>
+   Link:<a href="https://smallaptkitchen.com/quiet-blender-for-apartments-2/" target="_blank" rel="noopener noreferrer nofollow">https://smallaptkitchen.com/quiet-blender-for-apartments-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Quiet Blender for Apartments: 2026 ReviewsQuiet blender for apartments under 65 dB. We tested 6 blenders with a decibel meter. Actua...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: seriouseats.com  
    Title: best blenders 8548162  
-   Link: <a href="https://www.seriouseats.com/best-blenders-8548162" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/best-blenders-8548162</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 Best Blenders of 2026, Tested &amp; Reviewed9 Jun 2026 — I measured the blender&#x27;s noise level with a decibel meter while it was runnin...</p></details>
+   Link:<a href="https://www.seriouseats.com/best-blenders-8548162" target="_blank" rel="noopener noreferrer nofollow">https://www.seriouseats.com/best-blenders-8548162</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 Best Blenders of 2026, Tested &amp; Reviewed9 Jun 2026 — I measured the blender&#x27;s noise level with a decibel meter while it was runnin...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rnid.org.uk  
    Title: how loud is too loud  
-   Link: <a href="https://rnid.org.uk/information-and-support/ear-health/protect-your-hearing/how-loud-is-too-loud/" target="_blank" rel="noopener noreferrer nofollow">https://rnid.org.uk/information-and-support/ear-health/protect-your-hearing/how-loud-is-too-loud/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?26 May 2026 — Repeated or long exposure to sounds at 85dB or above can cause hearing loss. If you work in a noisy environment and the so...</p></details>
+   Link:<a href="https://rnid.org.uk/information-and-support/ear-health/protect-your-hearing/how-loud-is-too-loud/" target="_blank" rel="noopener noreferrer nofollow">https://rnid.org.uk/information-and-support/ear-health/protect-your-hearing/how-loud-is-too-loud/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?26 May 2026 — Repeated or long exposure to sounds at 85dB or above can cause hearing loss. If you work in a noisy environment and the so...</p></details>
    Published: May 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5308171/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5308171/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby DJ Fink · 2017 · Cited by 131 — The EPA calculated the safe noise level for the public to prevent hearing loss to be a 70-dec...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5308171/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5308171/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby DJ Fink · 2017 · Cited by 131 — The EPA calculated the safe noise level for the public to prevent hearing loss to be a 70-dec...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wAGzZNxYpnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAGzZNxYpnk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Best Quietest Blender 2026: No More Ear-Piercing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wAGzZNxYpnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wAGzZNxYpnk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Best Quietest Blender 2026: No More Ear-Piercing...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Wc58Rnamgvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wc58Rnamgvk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Quiet Blenders With Sound Enclosures 2025: Top 5 Low Noise Blenders...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Wc58Rnamgvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wc58Rnamgvk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Quiet Blenders With Sound Enclosures 2025: Top 5 Low Noise Blenders...</p></details>

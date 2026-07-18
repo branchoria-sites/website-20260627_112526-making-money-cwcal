@@ -451,13 +451,13 @@ Specific long-tail buying queries convert well because they catch readers at the
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4-overview.webp" | relative_url }}" alt="Overview image for Long Tail" loading="eager" decoding="sync" fetchpriority="high">
-The opportunity is not simply to publish thousands of tiny keyword pages. Google’s own guidance rewards helpful, original content and warns against pages made mainly to manipulate [rankings]({{ 'rankings/' | relative_url }}), while its review guidance specifically says affiliate [reviews]({{ 'reviews/' | relative_url }}) should focus on quality and originality rather than length alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First Content &#124; Google Search Central &#124; Documentation &#124; Google for Developers...</span></span></span> The practical goal is to build pages where the long-tail query is a sign of a real buyer problem, not just a phrase to repeat.
+The opportunity is not simply to publish thousands of tiny keyword pages. Google’s own guidance rewards helpful, original content and warns against pages made mainly to manipulate [rankings]({{ 'rankings/' | relative_url }}), while its review guidance specifically says affiliate [reviews]({{ 'reviews/' | relative_url }}) should focus on quality and originality rather than length alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First Content &#124; Google Search Central &#124; Documentation &#124; Google for Developers...</span></span></span> The practical goal is to build pages where the long-tail query is a sign of a real buyer problem, not just a phrase to repeat.
 
 ## Why specific buying questions can beat broad “best” pages
 
 Broad affiliate pages are crowded because they chase obvious demand: “best mattress”, “best VPN”, “best air fryer”, “best running shoes”. They can attract more search volume, but they also face stronger competitors, more generic search intent, and a higher burden of proof. A long-tail query has less volume, but it often contains the reader’s reason for buying.
 
-SEO datasets support the basic shape of this opportunity. Ahrefs defines long-tail keywords as low-search-volume queries that tend to be more specific than head terms, and notes that they are often less competitive and easier to answer because the searcher’s need is narrower. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/long-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Long-tail Keywords: What They Are and How to Get Search Traffic From Them</span><span class="citation-popover-snippet">Long-tail Keywords: What They Are and How to Get Search Traffic From Them...</span></span></span> Backlinko’s study of 306 million US keywords found that 91.8% of search terms were long-tail keywords, while the median keyword volume was only 10 searches per month, showing how fragmented search demand becomes once people express real-world detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://backlinko.com/google-keyword-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: backlinko.com">[Backlinko]</a><span class="citation-popover" role="note"><span class="citation-popover-source">backlinko.com</span><span class="citation-popover-title">We Analyzed 306M Keywords. Here&#x27;s What We Learned About Google Searches</span><span class="citation-popover-snippet">We Analyzed 306M Keywords. Here&#x27;s What We Learned About Google Searches...</span></span></span>
+SEO datasets support the basic shape of this opportunity. Ahrefs defines long-tail keywords as low-search-volume queries that tend to be more specific than head terms, and notes that they are often less competitive and easier to answer because the searcher’s need is narrower.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/long-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Long-tail Keywords: What They Are and How to Get Search Traffic From Them</span><span class="citation-popover-snippet">Long-tail Keywords: What They Are and How to Get Search Traffic From Them...</span></span></span> Backlinko’s study of 306 million US keywords found that 91.8% of search terms were long-tail keywords, while the median keyword volume was only 10 searches per month, showing how fragmented search demand becomes once people express real-world detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://backlinko.com/google-keyword-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: backlinko.com">[Backlinko]</a><span class="citation-popover" role="note"><span class="citation-popover-source">backlinko.com</span><span class="citation-popover-title">We Analyzed 306M Keywords. Here&#x27;s What We Learned About Google Searches</span><span class="citation-popover-snippet">We Analyzed 306M Keywords. Here&#x27;s What We Learned About Google Searches...</span></span></span>
 
 For affiliate pages, this fragmentation is useful. A site does not need to win every shopper in a category. It can win the shopper whose need is unusually specific and underserved by retailer pages. Retailers often show product titles, specifications, prices, and reviews, but they do not always resolve the buyer’s context: “Will this fit a small flat?”, “Is this safe for a dog that pulls?”, “Does this work with my older camera body?”, “Is this quiet enough for a shared home office?”
 
@@ -476,7 +476,7 @@ A weak affiliate page starts with the product category. A stronger one starts wi
 * “best lawn mower for uneven small garden” contains terrain and size.
 * “best printer for occasional home use with cheap ink” contains frequency, cost anxiety, and [maintenance]({{ 'maintenance/' | relative_url }}) pain.
 
-These queries convert because they are close to a decision. The shopper is not asking what the category is; they are asking which option will not fail in their particular situation. Semrush describes long-tail keywords as precise queries that can drive high-quality traffic because people using them often know what they are looking for and are closer to taking action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semrush.com/blog/how-to-choose-long-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[Semrush]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">how to choose long tail keywords</span><span class="citation-popover-snippet">how to choose long tail keywords</span></span></span>
+These queries convert because they are close to a decision. The shopper is not asking what the category is; they are asking which option will not fail in their particular situation. Semrush describes long-tail keywords as precise queries that can drive high-quality traffic because people using them often know what they are looking for and are closer to taking action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semrush.com/blog/how-to-choose-long-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[Semrush]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">how to choose long tail keywords</span><span class="citation-popover-snippet">how to choose long tail keywords</span></span></span>
 
 The best pain-point affiliate pages usually include three things. First, they name the constraint clearly, such as “low ceiling”, “wide feet”, “rented flat”, “pet hair”, “older iPhone”, “sensitive skin”, “weak Wi-Fi”, or “small car boot”. Second, they explain the buying criteria that matter for that constraint. Third, they recommend products only after showing why the usual broad recommendations may not be suitable.
 
@@ -492,11 +492,11 @@ One useful way to plan pages is to group buying specificity into decision types.
 
 **Use-case specificity:** These queries name the job the product must perform. Examples include “best camera for indoor sports photography”, “best budget laptop for accounting students”, “best blender for nut butter”, or “best walking shoes for cobbled streets”. The page should explain the performance requirement behind the use case, not just repeat the phrase.
 
-**Compatibility specificity:** These queries ask whether a product works with another product, place, body type, pet, vehicle, software system, or living situation. Examples include “best smart thermostat for combi boiler”, “best bike rack for hatchback without tow bar”, or “best microphone for iPhone interviews”. Baymard’s ecommerce research describes compatibility tools as acting like a knowledgeable sales clerk, helping users identify products that are uniquely relevant to what they already own or plan to buy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/blog/ecommerce-compatibility-databases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute6 Use Cases for Compatibility Databases on E-Commerce</span><span class="citation-popover-snippet">Institute6 Use Cases for Compatibility Databases on E-Commerce</span></span></span> Affiliate content can perform a similar role if it genuinely explains compatibility rather than guessing.
+**Compatibility specificity:** These queries ask whether a product works with another product, place, body type, pet, vehicle, software system, or living situation. Examples include “best smart thermostat for combi boiler”, “best bike rack for hatchback without tow bar”, or “best microphone for iPhone interviews”. Baymard’s ecommerce research describes compatibility tools as acting like a knowledgeable sales clerk, helping users identify products that are uniquely relevant to what they already own or plan to buy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/blog/ecommerce-compatibility-databases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute6 Use Cases for Compatibility Databases on E-Commerce</span><span class="citation-popover-snippet">Institute6 Use Cases for Compatibility Databases on E-Commerce</span></span></span> Affiliate content can perform a similar role if it genuinely explains compatibility rather than guessing.
 
 **Constraint specificity:** These searches include a budget, space limit, physical limitation, noise requirement, portability need, or maintenance concern. Examples include “best quiet treadmill for upstairs flat”, “best dishwasher for small kitchen”, or “best lightweight vacuum for elderly person”. The value of the page is in trade-offs: what the buyer loses by choosing the quieter, smaller, cheaper, lighter, or simpler option.
 
-**Comparison specificity:** These searches show a buyer choosing between named alternatives: “X vs Y for beginners”, “is X worth it over Y”, “cheaper alternative to X”, or “X vs Y for small business”. Nielsen Norman Group’s ecommerce research found that shoppers often compare items and need consistent information across comparable products, especially for category-specific details such as capacity, dimensions, or wash cycles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span><span class="citation-popover-snippet">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span></span></span> Affiliate comparison pages can help when they normalise the facts and explain the practical difference.
+**Comparison specificity:** These searches show a buyer choosing between named alternatives: “X vs Y for beginners”, “is X worth it over Y”, “cheaper alternative to X”, or “X vs Y for small business”. Nielsen Norman Group’s ecommerce research found that shoppers often compare items and need consistent information across comparable products, especially for category-specific details such as capacity, dimensions, or wash cycles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span><span class="citation-popover-snippet">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span></span></span> Affiliate comparison pages can help when they normalise the facts and explain the practical difference.
 
 **Objection specificity:** These queries come from doubt: “is X too noisy”, “does X work without subscription”, “is X good for sensitive skin”, “does X fit under airline seat”, “is refurbished X worth buying”. These can convert because they meet the buyer at the last hesitation before purchase. They should be honest enough to say “do not buy this if…” when the objection is valid.
 
@@ -523,9 +523,9 @@ A practical structure often looks like this:
 
 </div>
 
-This format also aligns with what shoppers need from ecommerce information. Baymard describes filters as a way for shoppers to narrow large catalogues by attributes such as price, size, colour, brand, or rating, so they can surface products that match their exact needs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/learn/ecommerce-filter-ui" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute What Is an Ecommerce Filter? UI Best Practices – Baymard</span><span class="citation-popover-snippet">Institute What Is an Ecommerce Filter? UI Best Practices – Baymard</span></span></span> A long-tail affiliate page is, in effect, an editorial filter: it narrows the market around a buyer’s specific constraint and explains the reasoning.
+This format also aligns with what shoppers need from ecommerce information. Baymard describes filters as a way for shoppers to narrow large catalogues by attributes such as price, size, colour, brand, or rating, so they can surface products that match their exact needs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/learn/ecommerce-filter-ui" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute What Is an Ecommerce Filter? UI Best Practices – Baymard</span><span class="citation-popover-snippet">Institute What Is an Ecommerce Filter? UI Best Practices – Baymard</span></span></span> A long-tail affiliate page is, in effect, an editorial filter: it narrows the market around a buyer’s specific constraint and explains the reasoning.
 
-Originality matters. Google’s helpful-content guidance asks whether content provides original information, research, analysis, or insight beyond the obvious, and whether it avoids simply copying or rewriting other sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First Content &#124; Google Search Central &#124; Documentation &#124; Google for Developers...</span></span></span> For affiliate pages, this can mean original photos, hands-on notes, measurements, setup screenshots, long-term use observations, a comparison table created from primary specs, or a clear explanation of why a product was excluded.
+Originality matters. Google’s helpful-content guidance asks whether content provides original information, research, analysis, or insight beyond the obvious, and whether it avoids simply copying or rewriting other sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First Content &#124; Google Search Central &#124; Documentation &#124; Google for Developers...</span></span></span> For affiliate pages, this can mean original photos, hands-on notes, measurements, setup screenshots, long-term use observations, a comparison table created from primary specs, or a clear explanation of why a product was excluded.
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4-Illustration-2-dark.svg" | relative_url }}" alt="Long Tail illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -533,7 +533,7 @@ Originality matters. Google’s helpful-content guidance asks whether content pr
 
 The commercial logic of long-tail affiliate pages is not that each page gets enormous traffic. It is that the visitors who do arrive may have fewer unanswered questions before buying.
 
-A broad “best” page often has to serve beginners, researchers, bargain hunters, and serious buyers at once. A specific page can speak to one moment in the journey. Google’s own consumer-search material describes modern search behaviour as increasingly specific and intent-driven, with people bringing complex queries directly to search and, in visual search, acting on purchase intent quickly; Google says one in five Google Lens searches shows commercial intent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://business.google.com/en-all/think/ai-excellence/ai-powered-search-behavior/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-title">How AI is changing consumer search behavior – Think with Google</span><span class="citation-popover-snippet">How AI is changing consumer search behavior – Think with Google</span></span></span>
+A broad “best” page often has to serve beginners, researchers, bargain hunters, and serious buyers at once. A specific page can speak to one moment in the journey. Google’s own consumer-search material describes modern search behaviour as increasingly specific and intent-driven, with people bringing complex queries directly to search and, in visual search, acting on purchase intent quickly; Google says one in five Google Lens searches shows commercial intent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://business.google.com/en-all/think/ai-excellence/ai-powered-search-behavior/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-title">How AI is changing consumer search behavior – Think with Google</span><span class="citation-popover-snippet">How AI is changing consumer search behavior – Think with Google</span></span></span>
 
 That does not mean every long-tail keyword is commercially valuable. “How does a dehumidifier work?” may be useful top-of-funnel content, but it is less likely to convert than “best dehumidifier for two-bedroom flat with condensation”. The buying signal is stronger when the query includes one or more of these elements:
 
@@ -556,11 +556,11 @@ This is why keyword volume alone can mislead affiliate publishers. A query with 
 
 ## Avoiding over-narrow thin pages
 
-The main danger is confusing specificity with quality. A website that creates hundreds of near-identical pages such as “best website builder for plumbers”, “best website builder for electricians”, and “best website builder for gardeners” may end up with pages that differ only by a few swapped nouns. Ahrefs warns that some long-tail keywords are merely supporting variations of a broader topic and should be targeted together rather than split into separate pages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/long-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Long-tail Keywords: What They Are and How to Get Search Traffic From Them</span><span class="citation-popover-snippet">Long-tail Keywords: What They Are and How to Get Search Traffic From Them...</span></span></span>
+The main danger is confusing specificity with quality. A website that creates hundreds of near-identical pages such as “best website builder for plumbers”, “best website builder for electricians”, and “best website builder for gardeners” may end up with pages that differ only by a few swapped nouns. Ahrefs warns that some long-tail keywords are merely supporting variations of a broader topic and should be targeted together rather than split into separate pages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/long-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Long-tail Keywords: What They Are and How to Get Search Traffic From Them</span><span class="citation-popover-snippet">Long-tail Keywords: What They Are and How to Get Search Traffic From Them...</span></span></span>
 
 A useful test is: would the page still deserve to exist if search engines did not? If the answer is no, the page is probably too thin.
 
-Google’s spam policies define spam as practices intended to deceive users or manipulate search systems, and state that violating sites may rank lower or not appear in results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span> Google Search Console’s manual-action guidance also tells site owners to check for duplicate content, thin pages with affiliate links, and doorway pages, then ask whether the site provides significant added value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Manual actions report</span><span class="citation-popover-snippet">Help Manual actions report</span></span></span>
+Google’s spam policies define spam as practices intended to deceive users or manipulate search systems, and state that violating sites may rank lower or not appear in results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span> Google Search Console’s manual-action guidance also tells site owners to check for duplicate content, thin pages with affiliate links, and doorway pages, then ask whether the site provides significant added value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Manual actions report</span><span class="citation-popover-snippet">Help Manual actions report</span></span></span>
 
 The solution is not to abandon long-tail pages. It is to merge, expand, or avoid pages where the specific query does not create a distinct decision. For example:
 
@@ -582,9 +582,9 @@ The editorial rule is simple: split pages by decision logic, not by keyword vari
 
 Long-tail pages often look more personal because they speak to a reader’s exact situation. That can make them persuasive, but it also increases the need for transparency. If a page recommends a product through affiliate links, the reader should be able to tell that the site may earn money.
 
-In the UK, the Advertising Standards Authority says affiliate marketing can fall within the CAP Code when an affiliate is paid for sales, clicks, or other results, and that marketing communications must be obviously identifiable as such. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASAOnline Affiliate Marketing</span><span class="citation-popover-snippet">ASAOnline Affiliate Marketing</span></span></span> In the US, the Federal Trade Commission’s endorsement guidance is built on the principle that endorsements must be honest and not misleading, and that people evaluating a recommendation would want to know if the recommender has a paid relationship with the seller. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+In the UK, the Advertising Standards Authority says affiliate marketing can fall within the CAP Code when an affiliate is paid for sales, clicks, or other results, and that marketing communications must be obviously identifiable as such.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASAOnline Affiliate Marketing</span><span class="citation-popover-snippet">ASAOnline Affiliate Marketing</span></span></span> In the US, the Federal Trade Commission’s endorsement guidance is built on the principle that endorsements must be honest and not misleading, and that people evaluating a recommendation would want to know if the recommender has a paid relationship with the seller.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
-Trust is also practical. Baymard’s usability testing found that 95% of users relied on reviews to evaluate products or learn more about them, and that users sometimes relied on review content more than product descriptions or spec sheets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/ecommerce-design-examples/44-user-reviews-section" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute729 ‘User Reviews Section’ Design Examples – Baymard</span><span class="citation-popover-snippet">Institute729 ‘User Reviews Section’ Design Examples – Baymard</span></span></span> An affiliate page that summarises review patterns honestly can add value, especially when it separates recurring issues from one-off complaints. For example, “many buyers mention difficult assembly” is more useful than “great reviews”; “complaints mainly concern delivery damage rather than product failure” is more useful than a star rating.
+Trust is also practical. Baymard’s usability testing found that 95% of users relied on reviews to evaluate products or learn more about them, and that users sometimes relied on review content more than product descriptions or spec sheets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/ecommerce-design-examples/44-user-reviews-section" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute729 ‘User Reviews Section’ Design Examples – Baymard</span><span class="citation-popover-snippet">Institute729 ‘User Reviews Section’ Design Examples – Baymard</span></span></span> An affiliate page that summarises review patterns honestly can add value, especially when it separates recurring issues from one-off complaints. For example, “many buyers mention difficult assembly” is more useful than “great reviews”; “complaints mainly concern delivery damage rather than product failure” is more useful than a star rating.
 
 The best long-tail affiliate content is therefore not more salesy than broad content. It is more careful. It discloses commercial relationships, explains criteria, uses [evidence]({{ 'evidence/' | relative_url }}), includes drawbacks, and helps the reader avoid the wrong purchase.
 
@@ -612,178 +612,178 @@ Specific long-tail buying queries convert because they map closely to real purch
 The winning approach is not to chase every phrase with a separate page. It is to find the specific questions where the buyer’s context changes the answer, then build a page that behaves like a knowledgeable adviser. In affiliate marketing, the search term may bring the visitor, but the commission is earned only when the page gives the reader enough confidence to choose well.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Specific Buying Questions Can Convert Better. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Specific Buying Questions Can Convert Better. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Sheridan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
+</h4>
+<p class="fr-book-author">By Marcus Sheridan</p>
         
-        <p class="fr-book-desc">Explains how answering specific buyer questions builds trust and drives conversions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how answering specific buyer questions builds trust and drives conversions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
+</h4>
+<p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
         
-        <p class="fr-book-desc">Covers search intent, keyword strategy and creating pages that match user needs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers search intent, keyword strategy and creating pages that match user needs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Helps produce useful, persuasive content that addresses specific customer questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps produce useful, persuasive content that addresses specific customer questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains psychological factors behind purchase decisions and conversion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains psychological factors behind purchase decisions and conversion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit"><img src="{{ '/assets/images/marketplace-covers/fd13a7382a012e685b8f.jpg' | relative_url }}" alt="Listing image for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit"><img src="{{ '/assets/images/marketplace-covers/fd13a7382a012e685b8f.jpg' | relative_url }}" alt="Listing image for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5fef2d3b11d4ce3704b7.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5fef2d3b11d4ce3704b7.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33f1e142100de8214624.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33f1e142100de8214624.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="long-tail-why-specific-buying-questions-can-convert-better-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -799,7 +799,7 @@ The winning approach is not to chase every phrase with a separate page. It is to
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -819,7 +819,7 @@ The winning approach is not to chase every phrase with a separate page. It is to
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -851,7 +851,7 @@ The winning approach is not to chase every phrase with a separate page. It is to
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -903,7 +903,7 @@ The winning approach is not to chase every phrase with a separate page. It is to
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -948,7 +948,7 @@ The winning approach is not to chase every phrase with a separate page. It is to
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -989,357 +989,357 @@ The winning approach is not to chase every phrase with a separate page. It is to
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First Content | Google Search Central | Documentation | Google for Developers...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First Content | Google Search Central | Documentation | Google for Developers...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersHow To Write Reviews | Google Search Central | Documentation | Google for Developers...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersHow To Write Reviews | Google Search Central | Documentation | Google for Developers...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ahrefs.com  
    Title: Long-tail Keywords: What They Are and How to Get Search Traffic From Them  
-   Link: <a href="https://ahrefs.com/blog/long-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/long-tail-keywords/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Long-tail Keywords: What They Are and How to Get Search Traffic From Them...</p></details>
+   Link:<a href="https://ahrefs.com/blog/long-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/long-tail-keywords/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Long-tail Keywords: What They Are and How to Get Search Traffic From Them...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: backlinko.com  
    Title: We Analyzed 306M Keywords. Here's What We Learned About Google Searches  
-   Link: <a href="https://backlinko.com/google-keyword-study" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/google-keyword-study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We Analyzed 306M Keywords. Here&#x27;s What We Learned About Google Searches...</p></details>
+   Link:<a href="https://backlinko.com/google-keyword-study" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/google-keyword-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Analyzed 306M Keywords. Here&#x27;s What We Learned About Google Searches...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: semrush.com  
    Title: how to choose long tail keywords  
-   Link: <a href="https://www.semrush.com/blog/how-to-choose-long-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://www.semrush.com/blog/how-to-choose-long-tail-keywords/</a>  
+   Link:<a href="https://www.semrush.com/blog/how-to-choose-long-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://www.semrush.com/blog/how-to-choose-long-tail-keywords/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: baymard.com  
    Title: Institute6 Use Cases for Compatibility Databases on E-Commerce  
-   Link: <a href="https://baymard.com/blog/ecommerce-compatibility-databases" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-compatibility-databases</a>  
+   Link:<a href="https://baymard.com/blog/ecommerce-compatibility-databases" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-compatibility-databases</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: baymard.com  
    Title: Institute What Is an Ecommerce Filter? UI Best Practices – Baymard  
-   Link: <a href="https://baymard.com/learn/ecommerce-filter-ui" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/ecommerce-filter-ui</a>  
+   Link:<a href="https://baymard.com/learn/ecommerce-filter-ui" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/ecommerce-filter-ui</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: business.google.com  
    Title: How AI is changing consumer search behavior – Think with Google  
-   Link: <a href="https://business.google.com/en-all/think/ai-excellence/ai-powered-search-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/ai-excellence/ai-powered-search-behavior/</a>  
+   Link:<a href="https://business.google.com/en-all/think/ai-excellence/ai-powered-search-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/ai-excellence/ai-powered-search-behavior/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
+   Link:<a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: support.google.com  
    Title: Help Manual actions report  
-   Link: <a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: asa.org.uk  
    Title: ASAOnline Affiliate Marketing  
-   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+   Link:<a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: baymard.com  
    Title: Institute729 ‘User Reviews Section’ Design Examples – Baymard  
-   Link: <a href="https://baymard.com/ecommerce-design-examples/44-user-reviews-section" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/ecommerce-design-examples/44-user-reviews-section</a>  
+   Link:<a href="https://baymard.com/ecommerce-design-examples/44-user-reviews-section" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/ecommerce-design-examples/44-user-reviews-section</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+   Link:<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: developers.google.com  
    Title: helpful content update  
-   Link: <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/helpful-content-update</a>  
+   Link:<a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/helpful-content-update</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: support.google.com  
    Title: low traffic affiliate site what can i do better  
-   Link: <a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/product" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/product</a>  
+   Link:<a href="https://developers.google.com/search/docs/appearance/structured-data/product" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/product</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: developers.google.com  
    Title: pros and cons structured data  
-   Link: <a href="https://developers.google.com/search/blog/2022/08/pros-and-cons-structured-data" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/pros-and-cons-structured-data</a>  
+   Link:<a href="https://developers.google.com/search/blog/2022/08/pros-and-cons-structured-data" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/pros-and-cons-structured-data</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: support.google.com  
    Title: duplicated content  
-   Link: <a href="https://support.google.com/webmasters/thread/390557789/duplicated-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/390557789/duplicated-content?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/390557789/duplicated-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/390557789/duplicated-content?hl=en</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: business.google.com  
    Title: new consumer decision making process  
-   Link: <a href="https://business.google.com/en-all/think/consumer-insights/new-consumer-decision-making-process/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/consumer-insights/new-consumer-decision-making-process/</a>  
+   Link:<a href="https://business.google.com/en-all/think/consumer-insights/new-consumer-decision-making-process/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/consumer-insights/new-consumer-decision-making-process/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: business.google.com  
    Title: consumer needs and behavior  
-   Link: <a href="https://business.google.com/aunz/think/marketing-strategies/consumer-needs-and-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/aunz/think/marketing-strategies/consumer-needs-and-behavior/</a>  
+   Link:<a href="https://business.google.com/aunz/think/marketing-strategies/consumer-needs-and-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/aunz/think/marketing-strategies/consumer-needs-and-behavior/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ahrefs.com  
    Title: types of keywords  
-   Link: <a href="https://ahrefs.com/blog/types-of-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/types-of-keywords/</a>  
+   Link:<a href="https://ahrefs.com/blog/types-of-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/types-of-keywords/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ahrefs.com  
    Title: low competition keywords  
-   Link: <a href="https://ahrefs.com/blog/low-competition-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/low-competition-keywords/</a>  
+   Link:<a href="https://ahrefs.com/blog/low-competition-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/low-competition-keywords/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ahrefs.com  
-   Link: <a href="https://ahrefs.com/seo/glossary/long-tail-keyword" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/seo/glossary/long-tail-keyword</a>  
+   Link:<a href="https://ahrefs.com/seo/glossary/long-tail-keyword" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/seo/glossary/long-tail-keyword</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ahrefs.com  
    Title: long tail vs short tail keywords  
-   Link: <a href="https://ahrefs.com/blog/long-tail-vs-short-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/long-tail-vs-short-tail-keywords/</a>  
+   Link:<a href="https://ahrefs.com/blog/long-tail-vs-short-tail-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/long-tail-vs-short-tail-keywords/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ahrefs.com  
-   Link: <a href="https://ahrefs.com/seo/keyword-research" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/seo/keyword-research</a>  
+   Link:<a href="https://ahrefs.com/seo/keyword-research" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/seo/keyword-research</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ahrefs.com  
    Title: secondary keywords  
-   Link: <a href="https://ahrefs.com/blog/secondary-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/secondary-keywords/</a>  
+   Link:<a href="https://ahrefs.com/blog/secondary-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/secondary-keywords/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ahrefs.com  
    Title: what are keywords  
-   Link: <a href="https://ahrefs.com/blog/what-are-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/what-are-keywords/</a>  
+   Link:<a href="https://ahrefs.com/blog/what-are-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/what-are-keywords/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ahrefs.com  
    Title: keyword mapping  
-   Link: <a href="https://ahrefs.com/blog/keyword-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/keyword-mapping/</a>  
+   Link:<a href="https://ahrefs.com/blog/keyword-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/keyword-mapping/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ahrefs.com  
-   Link: <a href="https://ahrefs.com/seo/glossary" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/seo/glossary</a>  
+   Link:<a href="https://ahrefs.com/seo/glossary" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/seo/glossary</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/research/product-page" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/product-page</a>  
+   Link:<a href="https://baymard.com/research/product-page" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/product-page</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/research/ecommerce-product-lists" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/ecommerce-product-lists</a>  
+   Link:<a href="https://baymard.com/research/ecommerce-product-lists" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/ecommerce-product-lists</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: baymard.com  
    Title: current state ecommerce product page ux  
-   Link: <a href="https://baymard.com/blog/current-state-ecommerce-product-page-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-ecommerce-product-page-ux</a>  
+   Link:<a href="https://baymard.com/blog/current-state-ecommerce-product-page-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-ecommerce-product-page-ux</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: baymard.com  
    Title: ecommerce ux research audit guide  
-   Link: <a href="https://baymard.com/learn/ecommerce-ux-research-audit-guide" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/ecommerce-ux-research-audit-guide</a>  
+   Link:<a href="https://baymard.com/learn/ecommerce-ux-research-audit-guide" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/ecommerce-ux-research-audit-guide</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: baymard.com  
    Title: product descriptions  
-   Link: <a href="https://baymard.com/blog/product-descriptions" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/product-descriptions</a>  
+   Link:<a href="https://baymard.com/blog/product-descriptions" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/product-descriptions</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
+   Link:<a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/</a>  
+   Link:<a href="https://baymard.com/" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: backlinko.com  
    Title: long tail keywords  
-   Link: <a href="https://backlinko.com/hub/seo/long-tail-keywords" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/hub/seo/long-tail-keywords</a>  
+   Link:<a href="https://backlinko.com/hub/seo/long-tail-keywords" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/hub/seo/long-tail-keywords</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: backlinko.com  
-   Link: <a href="https://backlinko.com/tools/keyword" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/tools/keyword</a>  
+   Link:<a href="https://backlinko.com/tools/keyword" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/tools/keyword</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: backlinko.com  
-   Link: <a href="https://backlinko.com/hub/seo/visibility" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/hub/seo/visibility</a>  
+   Link:<a href="https://backlinko.com/hub/seo/visibility" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/hub/seo/visibility</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: backlinko.com  
-   Link: <a href="https://backlinko.com/" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/</a>  
+   Link:<a href="https://backlinko.com/" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: backlinko.com  
    Title: marketing tactics  
-   Link: <a href="https://backlinko.com/marketing-tactics" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/marketing-tactics</a>  
+   Link:<a href="https://backlinko.com/marketing-tactics" target="_blank" rel="noopener noreferrer nofollow">https://backlinko.com/marketing-tactics</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: semrush.com  
    Title: thin content  
-   Link: <a href="https://www.semrush.com/blog/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.semrush.com/blog/thin-content/</a>  
+   Link:<a href="https://www.semrush.com/blog/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.semrush.com/blog/thin-content/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group UX Guidelines for Ecommerce Product Pages  
-   Link: <a href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/ecommerce-product-pages/</a>  
+   Link:<a href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/ecommerce-product-pages/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: nngroup.com  
-   Link: <a href="https://www.nngroup.com/topic/product-description/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/topic/product-description/</a>  
+   Link:<a href="https://www.nngroup.com/topic/product-description/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/topic/product-description/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: nngroup.com  
-   Link: <a href="https://www.nngroup.com/reports/ecommerce-user-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/reports/ecommerce-user-experience/</a>  
+   Link:<a href="https://www.nngroup.com/reports/ecommerce-user-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/reports/ecommerce-user-experience/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: nngroup.com  
    Title: 3 Rules for Better Comparison [Tables](&#123;&#123; 'tables/' | relative_url &#125;&#125;) (Video)  
-   Link: <a href="https://www.nngroup.com/videos/ux-rules-comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/ux-rules-comparison-tables/</a>  
+   Link:<a href="https://www.nngroup.com/videos/ux-rules-comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/ux-rules-comparison-tables/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: asa.org.uk  
    Title: remit social media  
-   Link: <a href="https://www.asa.org.uk/advice-online/remit-social-media.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/remit-social-media.html</a>  
+   Link:<a href="https://www.asa.org.uk/advice-online/remit-social-media.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/remit-social-media.html</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: searchenginejournal.com  
    Title: google clarifies product review best practices  
-   Link: <a href="https://www.searchenginejournal.com/google-clarifies-product-review-best-practices/467398/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchenginejournal.com/google-clarifies-product-review-best-practices/467398/</a>  
+   Link:<a href="https://www.searchenginejournal.com/google-clarifies-product-review-best-practices/467398/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchenginejournal.com/google-clarifies-product-review-best-practices/467398/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/daniel-foley-assertive_google-search-status-dashboard-activity-7442319626098622464--f70" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/daniel-foley-assertive_google-search-status-dashboard-activity-7442319626098622464--f70</a>  
+   Link:<a href="https://www.linkedin.com/posts/daniel-foley-assertive_google-search-status-dashboard-activity-7442319626098622464--f70" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/daniel-foley-assertive_google-search-status-dashboard-activity-7442319626098622464--f70</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX</a>  
+   Link:<a href="https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: improvemysearchranking.com  
    Title: google recommends using original product photos for product reviews  
-   Link: <a href="https://www.improvemysearchranking.com/google-recommends-using-original-product-photos-for-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.improvemysearchranking.com/google-recommends-using-original-product-photos-for-product-reviews/</a>  
+   Link:<a href="https://www.improvemysearchranking.com/google-recommends-using-original-product-photos-for-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.improvemysearchranking.com/google-recommends-using-original-product-photos-for-product-reviews/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: stellarcontent.com  
    Title: Google's Product Review Algo Update  
-   Link: <a href="https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/" target="_blank" rel="noopener noreferrer nofollow">https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/</a>  
+   Link:<a href="https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/" target="_blank" rel="noopener noreferrer nofollow">https://www.stellarcontent.com/blog/ecommerce/googles-product-review-algo-update-what-does-it-mean-for-content-creation/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: facebook.com  
    Title: googles best practices on how to write product reviews was updated with new exam  
-   Link: <a href="https://www.facebook.com/SearchEngineJournal/posts/googles-best-practices-on-how-to-write-product-reviews-was-updated-with-new-exam/10159298477838721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SearchEngineJournal/posts/googles-best-practices-on-how-to-write-product-reviews-was-updated-with-new-exam/10159298477838721/</a>  
+   Link:<a href="https://www.facebook.com/SearchEngineJournal/posts/googles-best-practices-on-how-to-write-product-reviews-was-updated-with-new-exam/10159298477838721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SearchEngineJournal/posts/googles-best-practices-on-how-to-write-product-reviews-was-updated-with-new-exam/10159298477838721/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: seozoom.com  
    Title: google reviews system the algorithm on product reviews  
-   Link: <a href="https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/</a>  
+   Link:<a href="https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: upwardengine.com  
    Title: google helpful content update ultimate guide  
-   Link: <a href="https://upwardengine.com/blog/google-helpful-content-update-ultimate-guide/" target="_blank" rel="noopener noreferrer nofollow">https://upwardengine.com/blog/google-helpful-content-update-ultimate-guide/</a>  
+   Link:<a href="https://upwardengine.com/blog/google-helpful-content-update-ultimate-guide/" target="_blank" rel="noopener noreferrer nofollow">https://upwardengine.com/blog/google-helpful-content-update-ultimate-guide/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: gsqi.com  
    Title: google product reviews algorithm update  
-   Link: <a href="https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/</a>  
+   Link:<a href="https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.gsqi.com/marketing-blog/google-product-reviews-algorithm-update/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: gsqi.com  
    Title: google march 2022 product reviews update  
-   Link: <a href="https://www.gsqi.com/marketing-blog/google-march-2022-product-reviews-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.gsqi.com/marketing-blog/google-march-2022-product-reviews-update/</a>  
+   Link:<a href="https://www.gsqi.com/marketing-blog/google-march-2022-product-reviews-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.gsqi.com/marketing-blog/google-march-2022-product-reviews-update/</a>  
    Published: march 2022  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: tjcreative.co.uk  
    Title: Google's Helpful Content Update  
-   Link: <a href="https://tjcreative.co.uk/blog/content/googles-helpful-content-update-and-what-it-means-for-your-website/" target="_blank" rel="noopener noreferrer nofollow">https://tjcreative.co.uk/blog/content/googles-helpful-content-update-and-what-it-means-for-your-website/</a>  
+   Link:<a href="https://tjcreative.co.uk/blog/content/googles-helpful-content-update-and-what-it-means-for-your-website/" target="_blank" rel="noopener noreferrer nofollow">https://tjcreative.co.uk/blog/content/googles-helpful-content-update-and-what-it-means-for-your-website/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: whitepress.com  
    Title: google helpful content  
-   Link: <a href="https://www.whitepress.com/en/knowledge-base/2227/google-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://www.whitepress.com/en/knowledge-base/2227/google-helpful-content</a>  
+   Link:<a href="https://www.whitepress.com/en/knowledge-base/2227/google-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://www.whitepress.com/en/knowledge-base/2227/google-helpful-content</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: rioseo.com  
-   Link: <a href="https://www.rioseo.com/blog/google-helpful-content-update-tips-for-enterprise-brand-success/" target="_blank" rel="noopener noreferrer nofollow">https://www.rioseo.com/blog/google-helpful-content-update-tips-for-enterprise-brand-success/</a>  
+   Link:<a href="https://www.rioseo.com/blog/google-helpful-content-update-tips-for-enterprise-brand-success/" target="_blank" rel="noopener noreferrer nofollow">https://www.rioseo.com/blog/google-helpful-content-update-tips-for-enterprise-brand-success/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: nobraineragency.com  
    Title: google algorithm [updates](&#123;&#123; 'updates/' | relative_url &#125;&#125;) changes  
-   Link: <a href="https://www.nobraineragency.com/google-algorithm-updates-changes/" target="_blank" rel="noopener noreferrer nofollow">https://www.nobraineragency.com/google-algorithm-updates-changes/</a>  
+   Link:<a href="https://www.nobraineragency.com/google-algorithm-updates-changes/" target="_blank" rel="noopener noreferrer nofollow">https://www.nobraineragency.com/google-algorithm-updates-changes/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_Pyk2Hru9Hw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Pyk2Hru9Hw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_Pyk2Hru9Hw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Pyk2Hru9Hw</a>  
 
 ### Additional References
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CRv9BsRGpNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CRv9BsRGpNw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Long tail keywords affiliate marketing seo conversion 7 Best Long-Tail Keyword Generators to Boost Your Traffic Rank Math SEO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CRv9BsRGpNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CRv9BsRGpNw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Long tail keywords affiliate marketing seo conversion 7 Best Long-Tail Keyword Generators to Boost Your Traffic Rank Math SEO...</p></details>
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: youtube.com  
    Title: High Conversion SEO Tutorial | How to Rank Buyer Intent Commercial Keywords  
-   Link: <a href="https://www.youtube.com/watch?v=cSQxVmy5gig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cSQxVmy5gig</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These Keywords Have 10x Better Conversion Rates...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cSQxVmy5gig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cSQxVmy5gig</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These Keywords Have 10x Better Conversion Rates...</p></details>
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: youtube.com  
    Title: These Keywords Have 10x Better Conversion Rates  
-   Link: <a href="https://www.youtube.com/watch?v=0TscEkZFTbA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0TscEkZFTbA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Keyword Research and Searcher Intent: The Secret In Attracting Qualified Buyers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0TscEkZFTbA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0TscEkZFTbA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Keyword Research and Searcher Intent: The Secret In Attracting Qualified Buyers...</p></details>
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ozXHyqDzLhg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ozXHyqDzLhg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEO in 2025: How to Use Keyword Search Intent for SEO Success...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ozXHyqDzLhg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ozXHyqDzLhg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SEO in 2025: How to Use Keyword Search Intent for SEO Success...</p></details>
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6qjBTOSgbDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6qjBTOSgbDI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High Conversion SEO Tutorial | How to Rank Buyer Intent Commercial Keywords...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6qjBTOSgbDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6qjBTOSgbDI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Conversion SEO Tutorial | How to Rank Buyer Intent Commercial Keywords...</p></details>
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399526285_Enhanching_User_Experience_in_E-Commerce_Website_Design_Through_the_User_Centered_Design_Approach_A_Case_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399526285_Enhanching_User_Experience_in_E-Commerce_Website_Design_Through_the_User_Centered_Design_Approach_A_Case_Study</a>  
+   Link:<a href="https://www.researchgate.net/publication/399526285_Enhanching_User_Experience_in_E-Commerce_Website_Design_Through_the_User_Centered_Design_Approach_A_Case_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399526285_Enhanching_User_Experience_in_E-Commerce_Website_Design_Through_the_User_Centered_Design_Approach_A_Case_Study</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/design-bootcamp/baymard-cliff-notes-user-reviews-3e425d52c250" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/baymard-cliff-notes-user-reviews-3e425d52c250</a>  
+   Link:<a href="https://medium.com/design-bootcamp/baymard-cliff-notes-user-reviews-3e425d52c250" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/baymard-cliff-notes-user-reviews-3e425d52c250</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/backlinko_17-best-free-and-paid-keyword-research-tools-activity-7230178396910034947-0EgB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/backlinko_17-best-free-and-paid-keyword-research-tools-activity-7230178396910034947-0EgB</a>  
+   Link:<a href="https://www.linkedin.com/posts/backlinko_17-best-free-and-paid-keyword-research-tools-activity-7230178396910034947-0EgB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/backlinko_17-best-free-and-paid-keyword-research-tools-activity-7230178396910034947-0EgB</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/505129697/document" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/505129697/document</a>  
+   Link:<a href="https://www.scribd.com/document/505129697/document" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/505129697/document</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/697417044/list-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/697417044/list-1</a>  
+   Link:<a href="https://www.scribd.com/document/697417044/list-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/697417044/list-1</a>  

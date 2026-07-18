@@ -288,7 +288,7 @@ The goal is not to find one universally comfortable daypack, but to explain how 
 
 ## Testing realistic food, water, layers and camera loads
 
-Many published [reviews]({{ 'reviews/' | relative_url }}) assess comfort under conditions that resemble a normal day hike rather than an empty-pack walk. OutdoorGearLab, for example, evaluates daypacks over months of use across different activities and treats comfort, ventilation, adjustability and load-carrying ability as separate scoring categories rather than relying on first impressions alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/topics/camping-and-hiking/best-daypack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-title">best daypack</span><span class="citation-popover-snippet">GearLabThe Best Hiking Daypacks of 2026 &#124; Tested &amp; RankedNovember 18, 2025 — 18 Nov 2025 — Features such as cushioned hip belts, padded s...</span><span class="citation-popover-meta">Published: November 18, 2025</span></span></span>
+Many published [reviews]({{ 'reviews/' | relative_url }}) assess comfort under conditions that resemble a normal day hike rather than an empty-pack walk. OutdoorGearLab, for example, evaluates daypacks over months of use across different activities and treats comfort, ventilation, adjustability and load-carrying ability as separate scoring categories rather than relying on first impressions alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/topics/camping-and-hiking/best-daypack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-title">best daypack</span><span class="citation-popover-snippet">GearLabThe Best Hiking Daypacks of 2026 &#124; Tested &amp; RankedNovember 18, 2025 — 18 Nov 2025 — Features such as cushioned hip belts, padded s...</span><span class="citation-popover-meta">Published: November 18, 2025</span></span></span>
 
 A practical affiliate testing protocol should use a repeatable load that reflects how readers actually hike. A representative load might include:
 
@@ -338,7 +338,7 @@ Reviewers should also explain their own build, torso length and approximate carr
 
 Many lightweight daypacks include simple webbing belts, while others use padded hip belts intended to transfer some weight away from the shoulders.
 
-Research into backpack ergonomics suggests that hip belts can reduce perceived exertion and increase users' sense of stability, even though objective measures of balance may not change significantly under experimental conditions. In one controlled study using backpacks loaded to around 20% of body weight, participants reported lower exertion and greater perceived stability when using a hip belt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/25265931/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effect of hip belt use and load placement in a backpack...by S Golriz · 2015 · Cited by 67 — This study showed that wearing a...</span></span></span>
+Research into backpack ergonomics suggests that hip belts can reduce perceived exertion and increase users' sense of stability, even though objective measures of balance may not change significantly under experimental conditions. In one controlled study using backpacks loaded to around 20% of body weight, participants reported lower exertion and greater perceived stability when using a hip belt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/25265931/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effect of hip belt use and load placement in a backpack...by S Golriz · 2015 · Cited by 67 — This study showed that wearing a...</span></span></span>
 
 For field testing, reviewers should note:
 
@@ -361,7 +361,7 @@ A small, lightly loaded 20-litre pack may not require a substantial hip belt, bu
 
 Ventilation is often one of the biggest differences between daypacks with similar capacities.
 
-Suspended mesh systems create an air gap between the pack and the user's back, while foam panels generally sit closer against the body. OutdoorGearLab's comparative testing consistently found suspended mesh designs among the strongest performers for breathability during active hiking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/topics/camping-and-hiking/best-daypack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-title">best daypack</span><span class="citation-popover-snippet">GearLabThe Best Hiking Daypacks of 2026 &#124; Tested &amp; RankedNovember 18, 2025 — 18 Nov 2025 — Features such as cushioned hip belts, padded s...</span><span class="citation-popover-meta">Published: November 18, 2025</span></span></span>
+Suspended mesh systems create an air gap between the pack and the user's back, while foam panels generally sit closer against the body. OutdoorGearLab's comparative testing consistently found suspended mesh designs among the strongest performers for breathability during active hiking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outdoorgearlab.com/topics/camping-and-hiking/best-daypack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outdoorgearlab.com">[GearLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outdoorgearlab.com</span><span class="citation-popover-title">best daypack</span><span class="citation-popover-snippet">GearLabThe Best Hiking Daypacks of 2026 &#124; Tested &amp; RankedNovember 18, 2025 — 18 Nov 2025 — Features such as cushioned hip belts, padded s...</span><span class="citation-popover-meta">Published: November 18, 2025</span></span></span>
 
 Rather than claiming that one pack is "breathable", reviewers can describe practical observations such as:
 
@@ -433,7 +433,7 @@ Pack comfort is inherently personal, so strong reviews avoid claiming that a pac
 Evidence becomes far more persuasive when reviews include:
 
 * The exact equipment carried.
-* Approximate total pack weight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eikenshop.com/blogs/materials-guide/backpack-carry-system?srsltid=AfmBOop1sMgGpaJBS30twDzQ5DBAHshQPh0MVHcw5zKxNtTjKpFhPFkW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eikenshop.com">[eikenshop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eikenshop.com</span><span class="citation-popover-snippet">Backpack Carry Systems: Frame, Suspension &amp; Fit Guide9 Mar 2026 — Shoulder straps hold the pack against your body but should carry only 2...</span></span></span>
+* Approximate total pack weight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eikenshop.com/blogs/materials-guide/backpack-carry-system?srsltid=AfmBOop1sMgGpaJBS30twDzQ5DBAHshQPh0MVHcw5zKxNtTjKpFhPFkW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eikenshop.com">[eikenshop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eikenshop.com</span><span class="citation-popover-snippet">Backpack Carry Systems: Frame, Suspension &amp; Fit Guide9 Mar 2026 — Shoulder straps hold the pack against your body but should carry only 2...</span></span></span>
 * Distance and elevation covered.
 * Weather conditions.
 * Duration of the hike.
@@ -447,194 +447,194 @@ This approach aligns naturally with trustworthy affiliate publishing. Readers ga
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does a Lightweight Daypack Carry Well Loaded?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does a Lightweight Daypack Carry Well Loaded?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering The Freedom of the Hills on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15020982-M.jpg" alt="Cover for Mountaineering The Freedom of the Hills" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering The Freedom of the Hills">Mountaineering The Freedom of the Hills</a>
-        </h4>
-        <p class="fr-book-author">By The Climbing Committee of the Mountaineers</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering The Freedom of the Hills on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15020982-M.jpg" alt="Cover for Mountaineering The Freedom of the Hills" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering The Freedom of the Hills">Mountaineering The Freedom of the Hills</a>
+</h4>
+<p class="fr-book-author">By The Climbing Committee of the Mountaineers</p>
         
-        <p class="fr-book-desc">First published 1960.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1960.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backpacker&#x27;s Field Manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/746044-M.jpg" alt="Cover for The Backpacker&#x27;s Field Manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backpacker&#x27;s Field Manual">The Backpacker&#x27;s Field Manual</a>
-        </h4>
-        <p class="fr-book-author">By Rick Curtis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backpacker&#x27;s Field Manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/746044-M.jpg" alt="Cover for The Backpacker&#x27;s Field Manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backpacker&#x27;s Field Manual">The Backpacker&#x27;s Field Manual</a>
+</h4>
+<p class="fr-book-author">By Rick Curtis</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Handbooks, manuals, Camping, Low-impact camping, Backpacking, Sports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Handbooks, manuals, Camping, Low-impact camping, Backpacking, Sports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Suffer+Outside+Diana+Helmuth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Suffer Outside on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11989002-M.jpg" alt="Cover for How to Suffer Outside" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Suffer+Outside+Diana+Helmuth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Suffer Outside">How to Suffer Outside</a>
-        </h4>
-        <p class="fr-book-author">By Diana Helmuth, Latasha Dunston</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Suffer+Outside+Diana+Helmuth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Suffer Outside on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11989002-M.jpg" alt="Cover for How to Suffer Outside" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Suffer+Outside+Diana+Helmuth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Suffer Outside">How to Suffer Outside</a>
+</h4>
+<p class="fr-book-author">By Diana Helmuth, Latasha Dunston</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Recreation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Suffer+Outside+Diana+Helmuth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Recreation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Suffer+Outside+Diana+Helmuth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ultimate Hiker&#x27;s Gear Guide on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ultimate Hiker&#x27;s Gear Guide">The Ultimate Hiker&#x27;s Gear Guide</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Skurka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ultimate Hiker&#x27;s Gear Guide on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ultimate Hiker&#x27;s Gear Guide">The Ultimate Hiker&#x27;s Gear Guide</a>
+</h4>
+<p class="fr-book-author">By Andrew Skurka</p>
         
-        <p class="fr-book-desc">Directly covers selecting, fitting, and evaluating hiking gear including backpacks and carrying comfort.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers selecting, fitting, and evaluating hiking gear including backpacks and carrying comfort.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountaineering The Freedom of the Hills</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backpacker&#x27;s Field Manual</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Suffer+Outside&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Suffer Outside</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountaineering The Freedom of the Hills</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backpacker&#x27;s Field Manual</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Suffer+Outside&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Suffer Outside</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Top Gear Line Up Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcbd8a1f6cf5e1d0c30c.jpg' | relative_url }}" alt="Listing image for Top Gear Line Up Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Top Gear Line Up Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gear poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: gear poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Top Gear Line Up Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcbd8a1f6cf5e1d0c30c.jpg' | relative_url }}" alt="Listing image for Top Gear Line Up Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Top Gear Line Up Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gear poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: gear poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moreno-Mata metal gear Poster Sora Handmade Graffiti Sreet Art NEW"><img src="{{ '/assets/images/marketplace-covers/c9bc52113dc84beb32c9.jpg' | relative_url }}" alt="Listing image for Moreno-Mata metal gear Poster Sora Handmade Graffiti Sreet Art NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Moreno-Mata metal gear Poster Sora Handmade Graffiti Sreet Art NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gear poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: gear poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moreno-Mata metal gear Poster Sora Handmade Graffiti Sreet Art NEW"><img src="{{ '/assets/images/marketplace-covers/c9bc52113dc84beb32c9.jpg' | relative_url }}" alt="Listing image for Moreno-Mata metal gear Poster Sora Handmade Graffiti Sreet Art NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Moreno-Mata metal gear Poster Sora Handmade Graffiti Sreet Art NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gear poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: gear poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Gear Solid (1998) Video Game Art Poster / Print"><img src="{{ '/assets/images/marketplace-covers/accb7ece7c960f3ee4a3.jpg' | relative_url }}" alt="Listing image for Metal Gear Solid (1998) Video Game Art Poster / Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Metal Gear Solid (1998) Video Game Art Poster / Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gear poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: gear poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Gear Solid (1998) Video Game Art Poster / Print"><img src="{{ '/assets/images/marketplace-covers/accb7ece7c960f3ee4a3.jpg' | relative_url }}" alt="Listing image for Metal Gear Solid (1998) Video Game Art Poster / Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Metal Gear Solid (1998) Video Game Art Poster / Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gear poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: gear poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Top Gear Test Track Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1ea76f42edf8031da11e.jpg' | relative_url }}" alt="Listing image for Top Gear Test Track Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Top Gear Test Track Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gear poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: gear poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Top Gear Test Track Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1ea76f42edf8031da11e.jpg' | relative_url }}" alt="Listing image for Top Gear Test Track Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Top Gear Test Track Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gear poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: gear poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=gear+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gear poster -book -books -dvd" data-ebay-reference="pack-comfort-does-a-lightweight-daypack-carry-well-loaded-making-money-from-gear-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -650,7 +650,7 @@ This approach aligns naturally with trustworthy affiliate publishing. Readers ga
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -670,7 +670,7 @@ This approach aligns naturally with trustworthy affiliate publishing. Readers ga
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -702,7 +702,7 @@ This approach aligns naturally with trustworthy affiliate publishing. Readers ga
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -754,7 +754,7 @@ This approach aligns naturally with trustworthy affiliate publishing. Readers ga
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -799,7 +799,7 @@ This approach aligns naturally with trustworthy affiliate publishing. Readers ga
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -840,75 +840,75 @@ This approach aligns naturally with trustworthy affiliate publishing. Readers ga
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: outdoorgearlab.com  
    Title: best daypack  
-   Link: <a href="https://www.outdoorgearlab.com/topics/camping-and-hiking/best-daypack" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoorgearlab.com/topics/camping-and-hiking/best-daypack</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GearLabThe Best Hiking Daypacks of 2026 | Tested &amp; RankedNovember 18, 2025 — 18 Nov 2025 — Features such as cushioned hip belts, padded s...</p></details>
+   Link:<a href="https://www.outdoorgearlab.com/topics/camping-and-hiking/best-daypack" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoorgearlab.com/topics/camping-and-hiking/best-daypack</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GearLabThe Best Hiking Daypacks of 2026 | Tested &amp; RankedNovember 18, 2025 — 18 Nov 2025 — Features such as cushioned hip belts, padded s...</p></details>
    Published: November 18, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25265931/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25265931/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of hip belt use and load [placement](&amp;#123;&amp;#123; &#x27;placement/&#x27; | relative_url &amp;#125;&amp;#125;) in a backpack...by S Golriz · 2015 · Cited by 67 — This study showed that wearing a...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/25265931/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25265931/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of hip belt use and load [placement](&amp;#123;&amp;#123; &#x27;placement/&#x27; | relative_url &amp;#125;&amp;#125;) in a backpack...by S Golriz · 2015 · Cited by 67 — This study showed that wearing a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: eikenshop.com  
-   Link: <a href="https://eikenshop.com/blogs/materials-guide/backpack-carry-system?srsltid=AfmBOop1sMgGpaJBS30twDzQ5DBAHshQPh0MVHcw5zKxNtTjKpFhPFkW" target="_blank" rel="noopener noreferrer nofollow">https://eikenshop.com/blogs/materials-guide/backpack-carry-system?srsltid=AfmBOop1sMgGpaJBS30twDzQ5DBAHshQPh0MVHcw5zKxNtTjKpFhPFkW</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Backpack Carry Systems: Frame, Suspension &amp; Fit Guide9 Mar 2026 — Shoulder straps hold the pack against your body but should carry only 2...</p></details>
+   Link:<a href="https://eikenshop.com/blogs/materials-guide/backpack-carry-system?srsltid=AfmBOop1sMgGpaJBS30twDzQ5DBAHshQPh0MVHcw5zKxNtTjKpFhPFkW" target="_blank" rel="noopener noreferrer nofollow">https://eikenshop.com/blogs/materials-guide/backpack-carry-system?srsltid=AfmBOop1sMgGpaJBS30twDzQ5DBAHshQPh0MVHcw5zKxNtTjKpFhPFkW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Backpack Carry Systems: Frame, Suspension &amp; Fit Guide9 Mar 2026 — Shoulder straps hold the pack against your body but should carry only 2...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/273311657_The_effect_of_hip_belt_use_and_load_placement_in_a_backpack_on_postural_stability_and_perceived_exertion_a_within-subjects_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273311657_The_effect_of_hip_belt_use_and_load_placement_in_a_backpack_on_postural_stability_and_perceived_exertion_a_within-subjects_trial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The effect of hip belt use and load placement in a...30 Sept 2014 — The purpose of this study was to assess the effects of hip bel...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/273311657_The_effect_of_hip_belt_use_and_load_placement_in_a_backpack_on_postural_stability_and_perceived_exertion_a_within-subjects_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273311657_The_effect_of_hip_belt_use_and_load_placement_in_a_backpack_on_postural_stability_and_perceived_exertion_a_within-subjects_trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The effect of hip belt use and load placement in a...30 Sept 2014 — The purpose of this study was to assess the effects of hip bel...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Battle of the Backpacks | Osprey Atmos vs Gregory Baltoro vs Bridger  
-   Link: <a href="http://www.youtube.com/watch?v=1M-hTOxSH_Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1M-hTOxSH_Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best daypack review comfort tested load weight I Bought 5 Hiking Daypacks From REI | My Honest Backpack Review &amp; Comparison Taylor the Na...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1M-hTOxSH_Q" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1M-hTOxSH_Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best daypack review comfort tested load weight I Bought 5 Hiking Daypacks From REI | My Honest Backpack Review &amp; Comparison Taylor the Na...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRJUNpKEs79/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRJUNpKEs79/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ulder straps. You really should only need two fingers to be...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DRJUNpKEs79/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRJUNpKEs79/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ulder straps. You really should only need two fingers to be...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSer5k8DE7Y/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSer5k8DE7Y/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“Now I&#x27;ve tried an extended fit pack, I&#x27;ll never wear...The hip belt can be too tight, might not do up, or can end up causing the pack t...</p></details>
+   Link:<a href="https://www.instagram.com/p/DSer5k8DE7Y/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSer5k8DE7Y/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Now I&#x27;ve tried an extended fit pack, I&#x27;ll never wear...The hip belt can be too tight, might not do up, or can end up causing the pack t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: I Bought 5 Hiking Daypacks From REI | My Honest Backpack Review & Comparison  
-   Link: <a href="http://www.youtube.com/watch?v=nvQ3gR39Vig" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nvQ3gR39Vig</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arc&#x27;teryx vs Osprey vs Gregory vs Cotopaxi: Best Daypacks You Can Buy Right Now...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=nvQ3gR39Vig" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nvQ3gR39Vig</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arc&#x27;teryx vs Osprey vs Gregory vs Cotopaxi: Best Daypacks You Can Buy Right Now...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Arc'teryx vs Osprey vs Gregory vs Cotopaxi: Best Daypacks You Can Buy Right Now  
-   Link: <a href="http://www.youtube.com/watch?v=ONWE4j6oaxE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ONWE4j6oaxE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Packable Backpacks for 2026 (Tested Head to Head)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ONWE4j6oaxE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ONWE4j6oaxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Packable Backpacks for 2026 (Tested Head to Head)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cleverhiker/posts/the-most-comfortable-backpacking-packs-weve-ever-tested-full-stop-gear-analyst-t/1685792656549272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cleverhiker/posts/the-most-comfortable-backpacking-packs-weve-ever-tested-full-stop-gear-analyst-t/1685792656549272/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most comfortable backpacking packs we&#x27;ve ever tested...✔️ Adjusting your pack in the right order—hipbelt, then shoulder straps, then...</p></details>
+   Link:<a href="https://www.facebook.com/cleverhiker/posts/the-most-comfortable-backpacking-packs-weve-ever-tested-full-stop-gear-analyst-t/1685792656549272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cleverhiker/posts/the-most-comfortable-backpacking-packs-weve-ever-tested-full-stop-gear-analyst-t/1685792656549272/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most comfortable backpacking packs we&#x27;ve ever tested...✔️ Adjusting your pack in the right order—hipbelt, then shoulder straps, then...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: repository.tudelft.nl  
-   Link: <a href="https://repository.tudelft.nl/file/File_3db7f145-9330-462e-b3f8-ae8b1732da17?preview=1" target="_blank" rel="noopener noreferrer nofollow">https://repository.tudelft.nl/file/File_3db7f145-9330-462e-b3f8-ae8b1732da17?preview=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tudelft.nlFAST-HIKING BACKPACK FOR WOMENby N Luu · 2023 — From an adjustability standpoint, Osprey contains more features capable of adju...</p></details>
+   Link:<a href="https://repository.tudelft.nl/file/File_3db7f145-9330-462e-b3f8-ae8b1732da17?preview=1" target="_blank" rel="noopener noreferrer nofollow">https://repository.tudelft.nl/file/File_3db7f145-9330-462e-b3f8-ae8b1732da17?preview=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tudelft.nlFAST-HIKING BACKPACK FOR WOMENby N Luu · 2023 — From an adjustability standpoint, Osprey contains more features capable of adju...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Watch This BEFORE you buy a backpack  
-   Link: <a href="http://www.youtube.com/watch?v=Ua5Yj5GKEhc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ua5Yj5GKEhc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Battle of the Backpacks | Osprey Atmos vs Gregory Baltoro vs Bridger...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Ua5Yj5GKEhc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ua5Yj5GKEhc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Battle of the Backpacks | Osprey Atmos vs Gregory Baltoro vs Bridger...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=XqELoR2oORU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XqELoR2oORU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This BEFORE you buy a backpack...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=XqELoR2oORU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XqELoR2oORU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This BEFORE you buy a backpack...</p></details>

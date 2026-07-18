@@ -304,7 +304,7 @@ ProductPriceCommissionCommission per SaleBudget product£408%£3.20Mid-range pro
 
 At first glance, the premium product looks vastly superior. However, commission alone says nothing about how many visitors eventually complete the purchase.
 
-High-ticket affiliate programmes often advertise impressive payouts because average order values are large. Luxury travel programmes, for instance, can generate [commissions]({{ 'commissions/' | relative_url }}) worth hundreds of pounds from a single booking because accommodation packages themselves cost several thousand pounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/affiliate-marketing/high-ticket-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">high ticket affiliate marketing</span><span class="citation-popover-snippet">An introduction to high ticket affiliate marketingAugust 10, 2022 — 11 Aug 2022 — Commission rates start at 4% and coupled with avera...</span><span class="citation-popover-meta">Published: August 10, 2022</span></span></span>
+High-ticket affiliate programmes often advertise impressive payouts because average order values are large. Luxury travel programmes, for instance, can generate [commissions]({{ 'commissions/' | relative_url }}) worth hundreds of pounds from a single booking because accommodation packages themselves cost several thousand pounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/affiliate-marketing/high-ticket-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">high ticket affiliate marketing</span><span class="citation-popover-snippet">An introduction to high ticket affiliate marketingAugust 10, 2022 — 11 Aug 2022 — Commission rates start at 4% and coupled with avera...</span><span class="citation-popover-meta">Published: August 10, 2022</span></span></span>
 
 ## Earnings Per Sale Versus Commission Percentage
 
@@ -325,7 +325,7 @@ Consider these examples:
 
 Although the commission percentage falls dramatically, the absolute payment still rises because the order value increases.
 
-The reverse is equally true. Some programmes cap commissions or pay percentages only on qualifying revenue rather than the customer's full purchase price. [Amazon]({{ 'amazon/' | relative_url }}), for example, applies category-specific commission rates and also imposes commission limits on certain product categories rather than allowing unlimited earnings on every expensive item. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.com">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.com</span><span class="citation-popover-title">Associates Standard Commission Income Rates Standard Commission Income for all Qualifying Purchases of Products that are categorized as f</span><span class="citation-popover-snippet">Amazon AssociatesStandard Commission Income RatesStandard Commission Income for all Qualifying Purchases of Products that are categorized...</span></span></span>
+The reverse is equally true. Some programmes cap commissions or pay percentages only on qualifying revenue rather than the customer's full purchase price. [Amazon]({{ 'amazon/' | relative_url }}), for example, applies category-specific commission rates and also imposes commission limits on certain product categories rather than allowing unlimited earnings on every expensive item.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.com">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.com</span><span class="citation-popover-title">Associates Standard Commission Income Rates Standard Commission Income for all Qualifying Purchases of Products that are categorized as f</span><span class="citation-popover-snippet">Amazon AssociatesStandard Commission Income RatesStandard Commission Income for all Qualifying Purchases of Products that are categorized...</span></span></span>
 
 This means affiliates should compare:
 
@@ -333,7 +333,7 @@ This means affiliates should compare:
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * actual commission per completed sale;
-* average order value; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.awin.com/gb/affiliate-marketing/high-ticket-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[awin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">high ticket affiliate marketing</span><span class="citation-popover-snippet">An introduction to high ticket affiliate marketingAugust 10, 2022 — 11 Aug 2022 — Commission rates start at 4% and coupled with avera...</span><span class="citation-popover-meta">Published: August 10, 2022</span></span></span>
+* average order value;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.awin.com/gb/affiliate-marketing/high-ticket-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[awin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">high ticket affiliate marketing</span><span class="citation-popover-snippet">An introduction to high ticket affiliate marketingAugust 10, 2022 — 11 Aug 2022 — Commission rates start at 4% and coupled with avera...</span><span class="citation-popover-meta">Published: August 10, 2022</span></span></span>
 * commission caps;
 * recurring versus one-off payments;
 * and programme-specific payout rules.
@@ -358,13 +358,13 @@ That longer buying journey affects several important numbers:
 
 * lower merchant conversion rates;
 * longer delays before commissions become payable;
-* more abandoned purchases; <span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.com">[affiliate-program.amazon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.com</span><span class="citation-popover-snippet">Amazon AssociatesStandard Commission Income RatesStandard Commission Income for all Qualifying Purchases of Products that are categorized...</span></span></span>
+* more abandoned purchases;<span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.com">[affiliate-program.amazon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.com</span><span class="citation-popover-snippet">Amazon AssociatesStandard Commission Income RatesStandard Commission Income for all Qualifying Purchases of Products that are categorized...</span></span></span>
 * greater likelihood of comparison shopping;
 * higher cancellation or refund risk.
 
 </div>
 
-Some affiliate programmes also use attribution windows or completed-service rules. Travel is a common example. A reservation may not generate commission until the stay has actually taken place, and cancelled bookings usually produce no payout. Booking-based programmes frequently calculate commission using programme-specific revenue rules rather than simply paying a fixed percentage of the total booking price. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.booking.com/affiliate-program/v2/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: booking.com">[Booking.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">booking.com</span><span class="citation-popover-title">Wide range of options.Read more</span><span class="citation-popover-snippet">Affiliate Program by Booking.com – earn money on your...Earn money by promoting more than 28 million accommodations, plus transportation...</span></span></span>
+Some affiliate programmes also use attribution windows or completed-service rules. Travel is a common example. A reservation may not generate commission until the stay has actually taken place, and cancelled bookings usually produce no payout. Booking-based programmes frequently calculate commission using programme-specific revenue rules rather than simply paying a fixed percentage of the total booking price.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.booking.com/affiliate-program/v2/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: booking.com">[Booking.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">booking.com</span><span class="citation-popover-title">Wide range of options.Read more</span><span class="citation-popover-snippet">Affiliate Program by Booking.com – earn money on your...Earn money by promoting more than 28 million accommodations, plus transportation...</span></span></span>
 
 A headline figure such as "4% commission" therefore does not always translate into 4% of the customer's spend.
 
@@ -445,7 +445,7 @@ Several programme rules can dramatically change expected earnings.
 
 **Cookie duration.** Longer attribution windows increase the chance that a delayed buyer is still credited to the affiliate.
 
-**Recurring commissions.** Some software programmes pay monthly commissions for as long as the customer remains subscribed. In those cases, customer lifetime value matters more than the initial purchase price. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.salesforce.com/eu/marketing/affiliate-marketing/high-ticket-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salesforce.com">[Salesforce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salesforce.com</span><span class="citation-popover-snippet">The 10 Best High-Ticket Affiliate Marketing Programmes in...Discover what high-ticket affiliate marketing is, how it works, an...</span></span></span>
+**Recurring commissions.** Some software programmes pay monthly commissions for as long as the customer remains subscribed. In those cases, customer lifetime value matters more than the initial purchase price.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.salesforce.com/eu/marketing/affiliate-marketing/high-ticket-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salesforce.com">[Salesforce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salesforce.com</span><span class="citation-popover-snippet">The 10 Best High-Ticket Affiliate Marketing Programmes in...Discover what high-ticket affiliate marketing is, how it works, an...</span></span></span>
 
 **Commission caps.** Some merchants limit maximum payouts regardless of product price.
 
@@ -478,178 +478,178 @@ A premium affiliate page can outperform dozens of low-cost product reviews when 
 For high-ticket affiliate websites, the winning strategy is not chasing the highest retail price. It is identifying offers where large order values, sustainable commission structures and realistic conversion rates work together to produce higher earnings from every visitor.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Bigger Prices Really Pay More. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Bigger Prices Really Pay More. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XbXIAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
-        </h4>
-        <p class="fr-book-author">By Evgenii Prussakov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XbXIAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
+</h4>
+<p class="fr-book-author">By Evgenii Prussakov</p>
         
-        <p class="fr-book-desc">Most directly aligned with commission calculations and affiliate profitability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Most directly aligned with commission calculations and affiliate profitability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Profit first on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14624477-M.jpg" alt="Cover for Profit first" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Profit first">Profit first</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Profit first on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14624477-M.jpg" alt="Cover for Profit first" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Profit first">Profit first</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Encourages evaluating profit rather than headline revenue, matching the article&#x27;s theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evaluating profit rather than headline revenue, matching the article&#x27;s theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 1-Page Marketing Plan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LVOJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The 1-Page Marketing Plan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1-Page Marketing Plan">The 1-Page Marketing Plan</a>
-        </h4>
-        <p class="fr-book-author">By Allan Dib</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 1-Page Marketing Plan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LVOJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The 1-Page Marketing Plan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1-Page Marketing Plan">The 1-Page Marketing Plan</a>
+</h4>
+<p class="fr-book-author">By Allan Dib</p>
         
-        <p class="fr-book-desc">Supports evaluating customer value and profitable acquisition strategies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evaluating customer value and profitable acquisition strategies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains buyer behaviour affecting conversion rates and expected earnings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains buyer behaviour affecting conversion rates and expected earnings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Profit first</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+1+Page+Marketing+Plan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 1 Page Marketing Plan</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Profit first</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+1+Page+Marketing+Plan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 1 Page Marketing Plan</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit"><img src="{{ '/assets/images/marketplace-covers/fd13a7382a012e685b8f.jpg' | relative_url }}" alt="Listing image for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit"><img src="{{ '/assets/images/marketplace-covers/fd13a7382a012e685b8f.jpg' | relative_url }}" alt="Listing image for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5fef2d3b11d4ce3704b7.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5fef2d3b11d4ce3704b7.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33f1e142100de8214624.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33f1e142100de8214624.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="commission-maths-when-bigger-prices-really-pay-more-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -665,7 +665,7 @@ For high-ticket affiliate websites, the winning strategy is not chasing the high
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -685,7 +685,7 @@ For high-ticket affiliate websites, the winning strategy is not chasing the high
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -717,7 +717,7 @@ For high-ticket affiliate websites, the winning strategy is not chasing the high
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -769,7 +769,7 @@ For high-ticket affiliate websites, the winning strategy is not chasing the high
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -814,7 +814,7 @@ For high-ticket affiliate websites, the winning strategy is not chasing the high
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -855,85 +855,85 @@ For high-ticket affiliate websites, the winning strategy is not chasing the high
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: awin.com  
    Title: high ticket affiliate marketing  
-   Link: <a href="https://www.awin.com/gb/affiliate-marketing/high-ticket-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/affiliate-marketing/high-ticket-affiliate-marketing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An introduction to high ticket affiliate marketingAugust 10, 2022 — 11 Aug 2022 — Commission rates start at 4% and coupled with avera...</p></details>
+   Link:<a href="https://www.awin.com/gb/affiliate-marketing/high-ticket-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/affiliate-marketing/high-ticket-affiliate-marketing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An introduction to high ticket affiliate marketingAugust 10, 2022 — 11 Aug 2022 — Commission rates start at 4% and coupled with avera...</p></details>
    Published: August 10, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: booking.com  
    Title: Wide range of options.Read more  
-   Link: <a href="https://www.booking.com/affiliate-program/v2/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.booking.com/affiliate-program/v2/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Program by Booking.com – earn money on your...Earn money by promoting more than 28 million accommodations, plus transportation...</p></details>
+   Link:<a href="https://www.booking.com/affiliate-program/v2/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.booking.com/affiliate-program/v2/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Program by Booking.com – earn money on your...Earn money by promoting more than 28 million accommodations, plus transportation...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: affiliate-program.amazon.com  
-   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesStandard Commission Income RatesStandard Commission Income for all Qualifying Purchases of Products that are categorized...</p></details>
+   Link:<a href="https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesStandard Commission Income RatesStandard Commission Income for all Qualifying Purchases of Products that are categorized...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: salesforce.com  
-   Link: <a href="https://www.salesforce.com/eu/marketing/affiliate-marketing/high-ticket-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.salesforce.com/eu/marketing/affiliate-marketing/high-ticket-affiliate-marketing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 Best High-Ticket Affiliate Marketing Programmes in...Discover what high-ticket affiliate marketing is, how it works, an...</p></details>
+   Link:<a href="https://www.salesforce.com/eu/marketing/affiliate-marketing/high-ticket-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.salesforce.com/eu/marketing/affiliate-marketing/high-ticket-affiliate-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 Best High-Ticket Affiliate Marketing Programmes in...Discover what high-ticket affiliate marketing is, how it works, an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: help.awin.com  
    Title: best practices for setting commission rates  
-   Link: <a href="https://help.awin.com/docs/best-practices-for-setting-commission-rates" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/best-practices-for-setting-commission-rates</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>practices for setting commission rates1 Apr 2026 — This article helps you choose sustainable and competitive commission rates for your af...</p></details>
+   Link:<a href="https://help.awin.com/docs/best-practices-for-setting-commission-rates" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/best-practices-for-setting-commission-rates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>practices for setting commission rates1 Apr 2026 — This article helps you choose sustainable and competitive commission rates for your af...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: affspace.org  
    Title: high ticket affiliate marketing complete guide  
-   Link: <a href="https://affspace.org/blog/high-ticket-affiliate-marketing-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://affspace.org/blog/high-ticket-affiliate-marketing-complete-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Ticket Affiliate Marketing: $1K+ Commissions [2026...17 Nov 2025 — Discover how high ticket affiliate marketing can transform your...</p></details>
+   Link:<a href="https://affspace.org/blog/high-ticket-affiliate-marketing-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://affspace.org/blog/high-ticket-affiliate-marketing-complete-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Ticket Affiliate Marketing: $1K+ Commissions [2026...17 Nov 2025 — Discover how high ticket affiliate marketing can transform your...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tolt.com  
    Title: Includes Saa S-specific examples and tracking  
-   Link: <a href="https://tolt.com/blog/measure-affiliate-marketing-roi" target="_blank" rel="noopener noreferrer nofollow">https://tolt.com/blog/measure-affiliate-marketing-roi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Measure Affiliate Marketing ROI: The Complete GuideLearn to calculate affiliate marketing ROI with exact formulas, 8 essential met...</p></details>
+   Link:<a href="https://tolt.com/blog/measure-affiliate-marketing-roi" target="_blank" rel="noopener noreferrer nofollow">https://tolt.com/blog/measure-affiliate-marketing-roi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Measure Affiliate Marketing ROI: The Complete GuideLearn to calculate affiliate marketing ROI with exact formulas, 8 essential met...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Ep. 013: Click Bank Now Supports CPA Marketing  
-   Link: <a href="https://www.youtube.com/watch?v=yThWqNi2k68" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yThWqNi2k68</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CPA Marketing for Beginners: $330/Day Online With Free Traffic &amp; AI?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yThWqNi2k68" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yThWqNi2k68</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CPA Marketing for Beginners: $330/Day Online With Free Traffic &amp; AI?...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time2book.me  
    Title: highest paying affiliate programs 2025  
-   Link: <a href="https://www.time2book.me/blog/highest-paying-affiliate-programs-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.time2book.me/blog/highest-paying-affiliate-programs-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High commission affiliate programs offer 20–50%, or flat payouts like $100–$500+...Read more...</p></details>
+   Link:<a href="https://www.time2book.me/blog/highest-paying-affiliate-programs-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.time2book.me/blog/highest-paying-affiliate-programs-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High commission affiliate programs offer 20–50%, or flat payouts like $100–$500+...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: CPA Marketing for Beginners: $330/Day Online With Free Traffic & AI?!  
-   Link: <a href="https://www.youtube.com/watch?v=7DE8NCrECoI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7DE8NCrECoI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing and Domaining Quiz (Cash Contest) – Can You Beat My Students?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7DE8NCrECoI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7DE8NCrECoI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing and Domaining Quiz (Cash Contest) – Can You Beat My Students?...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The DEFINITIVE GUIDE to Facebook Ads for High Ticket Offers  
-   Link: <a href="https://www.youtube.com/watch?v=2iPWztRs9zU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2iPWztRs9zU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 013: ClickBank Now Supports CPA Marketing - Full ClickBank Tutorial 2021...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2iPWztRs9zU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2iPWztRs9zU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 013: ClickBank Now Supports CPA Marketing - Full ClickBank Tutorial 2021...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How To Actually Make First $5K With High Ticket Affiliate Marketing  
-   Link: <a href="https://www.youtube.com/watch?v=qjm7jWb8nCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qjm7jWb8nCM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DEFINITIVE GUIDE to Facebook Ads for High Ticket Offers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qjm7jWb8nCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qjm7jWb8nCM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DEFINITIVE GUIDE to Facebook Ads for High Ticket Offers...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rv01CKLsaY0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rv01CKLsaY0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to ACTUALLY Make Your First $1000 with High Ticket...I&#x27;m going to walk you through the entire system the three main categories where...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rv01CKLsaY0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rv01CKLsaY0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to ACTUALLY Make Your First $1000 with High Ticket...I&#x27;m going to walk you through the entire system the three main categories where...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Marketing and Domaining Quiz (Cash Contest) – Can You Beat My Students?  
-   Link: <a href="https://www.youtube.com/watch?v=kTfKQhp_aS0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kTfKQhp_aS0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=kTfKQhp_aS0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kTfKQhp_aS0</a>  

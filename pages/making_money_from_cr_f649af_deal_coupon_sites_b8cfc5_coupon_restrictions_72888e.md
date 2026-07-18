@@ -288,9 +288,9 @@ A coupon code that fails at checkout is rarely "broken". More often, it is worki
 
 Many checkout failures stem from a small number of recurring restrictions. These are legitimate commercial controls for retailers, but they become a poor customer experience when coupon pages omit them.
 
-**Minimum spend requirements** <span class="citation-chip-wrap"><a class="citation-chip" href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woocommerce.com">[woocommerce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woocommerce.com</span><span class="citation-popover-snippet">Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</span><span class="citation-popover-meta">Published: August 12, 2020</span></span></span>
+**Minimum spend requirements**<span class="citation-chip-wrap"><a class="citation-chip" href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woocommerce.com">[woocommerce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woocommerce.com</span><span class="citation-popover-snippet">Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</span><span class="citation-popover-meta">Published: August 12, 2020</span></span></span>
 
-A headline promising "£20 off" may only activate once the basket exceeds a specified value. Some merchants calculate this threshold before shipping, after discounts, or using the subtotal including tax, depending on their ecommerce platform. Even small differences can prevent a code from applying. WooCommerce, one of the world's most widely used ecommerce platforms, allows merchants to configure minimum and maximum spend requirements directly within coupon settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woocommerce.com">[WooCommerce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woocommerce.com</span><span class="citation-popover-snippet">Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</span><span class="citation-popover-meta">Published: August 12, 2020</span></span></span>
+A headline promising "£20 off" may only activate once the basket exceeds a specified value. Some merchants calculate this threshold before shipping, after discounts, or using the subtotal including tax, depending on their ecommerce platform. Even small differences can prevent a code from applying. WooCommerce, one of the world's most widely used ecommerce platforms, allows merchants to configure minimum and maximum spend requirements directly within coupon settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woocommerce.com">[WooCommerce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woocommerce.com</span><span class="citation-popover-snippet">Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</span><span class="citation-popover-meta">Published: August 12, 2020</span></span></span>
 
 Readers benefit from seeing the exact trigger, for example:
 
@@ -325,11 +325,11 @@ Many discounts exclude:
 
 </div>
 
-This is one of the biggest causes of apparent coupon failure because the excluded item may remain visible in the basket while preventing the promotion from applying. Ecommerce systems commonly support exclusions by individual product, product category, or sale status. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woocommerce.com">[WooCommerce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woocommerce.com</span><span class="citation-popover-snippet">Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</span><span class="citation-popover-meta">Published: August 12, 2020</span></span></span>
+This is one of the biggest causes of apparent coupon failure because the excluded item may remain visible in the basket while preventing the promotion from applying. Ecommerce systems commonly support exclusions by individual product, product category, or sale status.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woocommerce.com">[WooCommerce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woocommerce.com</span><span class="citation-popover-snippet">Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</span><span class="citation-popover-meta">Published: August 12, 2020</span></span></span>
 
 **One code only**
 
-Many retailers prevent coupon stacking. Applying a second code may remove the first or invalidate both. WooCommerce includes an "individual use only" restriction specifically for this purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woocommerce.com">[WooCommerce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woocommerce.com</span><span class="citation-popover-snippet">Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</span><span class="citation-popover-meta">Published: August 12, 2020</span></span></span>
+Many retailers prevent coupon stacking. Applying a second code may remove the first or invalidate both. WooCommerce includes an "individual use only" restriction specifically for this purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woocommerce.com">[WooCommerce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woocommerce.com</span><span class="citation-popover-snippet">Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</span><span class="citation-popover-meta">Published: August 12, 2020</span></span></span>
 
 For readers, a short note such as "Cannot be combined with other promotions" is far more useful than allowing them to discover the restriction after several failed attempts.
 
@@ -383,15 +383,15 @@ Write something more useful:
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
-* Minimum spend: £75. <span class="citation-chip-wrap"><a class="citation-chip" href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woocommerce.com">[woocommerce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woocommerce.com</span><span class="citation-popover-snippet">Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</span><span class="citation-popover-meta">Published: August 12, 2020</span></span></span>
+* Minimum spend: £75.<span class="citation-chip-wrap"><a class="citation-chip" href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woocommerce.com">[woocommerce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woocommerce.com</span><span class="citation-popover-snippet">Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</span><span class="citation-popover-meta">Published: August 12, 2020</span></span></span>
 * New customers only.
-* Excludes sale items. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.webtoffee.com/blog/advanced-woocommerce-coupon-restrictions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webtoffee.com">[webtoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webtoffee.com</span><span class="citation-popover-title">advanced woocommerce coupon restrictions</span><span class="citation-popover-snippet">&amp; Cart...11 May 2026 — Default restrictions include minimum spend requirements, disabling multiple coupon usage, and excluding sale item...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+* Excludes sale items.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.webtoffee.com/blog/advanced-woocommerce-coupon-restrictions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webtoffee.com">[webtoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webtoffee.com</span><span class="citation-popover-title">advanced woocommerce coupon restrictions</span><span class="citation-popover-snippet">&amp; Cart...11 May 2026 — Default restrictions include minimum spend requirements, disabling multiple coupon usage, and excluding sale item...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 * One use per customer.
 * Ends 31 August unless withdrawn earlier.
 
 </div>
 
-User experience research consistently finds that frustration increases when eligibility rules are hidden until checkout. Designers are encouraged to display key conditions alongside the offer rather than burying them in lengthy legal text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/communicating-discounts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[nngroup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Communicating Ecommerce Discounts and Promotions</span><span class="citation-popover-snippet">March 10, 2019 — 10 Mar 2019 — We&#x27;ve identified a set of guidelines to help designers address the presentation of discount-related conten...</span><span class="citation-popover-meta">Published: March 10, 2019</span></span></span>
+User experience research consistently finds that frustration increases when eligibility rules are hidden until checkout. Designers are encouraged to display key conditions alongside the offer rather than burying them in lengthy legal text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nngroup.com/articles/communicating-discounts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[nngroup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Communicating Ecommerce Discounts and Promotions</span><span class="citation-popover-snippet">March 10, 2019 — 10 Mar 2019 — We&#x27;ve identified a set of guidelines to help designers address the presentation of discount-related conten...</span><span class="citation-popover-meta">Published: March 10, 2019</span></span></span>
 
 Good coupon pages therefore separate:
 
@@ -442,7 +442,7 @@ Readers who understand the conditions before visiting the merchant are more like
 
 Merchants likewise benefit because fewer visitors arrive expecting discounts that were never intended for their purchase.
 
-Industry guidance for coupon affiliates also emphasises accurate handling of expiry dates, authorised codes and promotional terms, helping reduce misleading listings and unnecessary customer frustration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brandverity.com/guide-to-coupon-code-compliance/affiliate-agreements-and-next-steps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brandverity.com">[BrandVerity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brandverity.com</span><span class="citation-popover-snippet">Coupon Code Compliance: Affiliate Agreements &amp; Next...Guide to Coupon Code Compliance: Maintaining Productive Partnerships wi...</span></span></span>
+Industry guidance for coupon affiliates also emphasises accurate handling of expiry dates, authorised codes and promotional terms, helping reduce misleading listings and unnecessary customer frustration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.brandverity.com/guide-to-coupon-code-compliance/affiliate-agreements-and-next-steps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brandverity.com">[BrandVerity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brandverity.com</span><span class="citation-popover-snippet">Coupon Code Compliance: Affiliate Agreements &amp; Next...Guide to Coupon Code Compliance: Maintaining Productive Partnerships wi...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_restrictions_72888e-Illustration-3-dark.svg" | relative_url }}" alt="Restrictions illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_restrictions_72888e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_restrictions_72888e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -466,178 +466,178 @@ Providing these details transforms a coupon page from a collection of promotiona
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Coupon Codes Fail at Checkout. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Coupon Codes Fail at Checkout. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
-        </h4>
-        <p class="fr-book-author">By Steve Krug</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
+</h4>
+<p class="fr-book-author">By Steve Krug</p>
         
-        <p class="fr-book-desc">Explains how reducing friction and confusion improves user experience, including checkout and promotional messaging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how reducing friction and confusion improves user experience, including checkout and promotional messaging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Donald Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
+</h4>
+<p class="fr-book-author">By Donald Miller</p>
         
-        <p class="fr-book-desc">Encourages clearer customer communication, helping publishers explain coupon restrictions and offer terms more effectively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages clearer customer communication, helping publishers explain coupon restrictions and offer terms more effectively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Provides insight into why offers and promotions spread, supporting better affiliate content strategy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into why offers and promotions spread, supporting better affiliate content strategy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Helps affiliate publishers understand promotional tactics, consumer behavior, and how offers influence purchasing decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps affiliate publishers understand promotional tactics, consumer behavior, and how offers influence purchasing decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt"><img src="{{ '/assets/images/marketplace-covers/06699a88fc7dd3dbd76a.jpg' | relative_url }}" alt="Listing image for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt"><img src="{{ '/assets/images/marketplace-covers/06699a88fc7dd3dbd76a.jpg' | relative_url }}" alt="Listing image for NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">NAFY Small Accordian File Organizer, A5 Check Size 13 Pockets Coupon Receipt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder"><img src="{{ '/assets/images/marketplace-covers/53909cd5b8e3aa325b12.jpg' | relative_url }}" alt="Listing image for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder"><img src="{{ '/assets/images/marketplace-covers/53909cd5b8e3aa325b12.jpg' | relative_url }}" alt="Listing image for Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Small Accordian File Organizer A5 Check Size 13 Pockets Coupon Receipt Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black"><img src="{{ '/assets/images/marketplace-covers/3d8db228c8da923f9e46.jpg' | relative_url }}" alt="Listing image for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black"><img src="{{ '/assets/images/marketplace-covers/3d8db228c8da923f9e46.jpg' | relative_url }}" alt="Listing image for Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">Elegant 12-Pocket Receipt Coupon Organizer - Compact Zipper Closure in Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coupon organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: coupon organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coupon+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coupon organizer" data-ebay-reference="restrictions-why-coupon-codes-fail-at-checkout-making-money-from-coupon-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -653,7 +653,7 @@ Providing these details transforms a coupon page from a collection of promotiona
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -673,7 +673,7 @@ Providing these details transforms a coupon page from a collection of promotiona
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -705,7 +705,7 @@ Providing these details transforms a coupon page from a collection of promotiona
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -757,7 +757,7 @@ Providing these details transforms a coupon page from a collection of promotiona
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -802,7 +802,7 @@ Providing these details transforms a coupon page from a collection of promotiona
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -843,86 +843,86 @@ Providing these details transforms a coupon page from a collection of promotiona
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: woocommerce.com  
-   Link: <a href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow">https://woocommerce.com/document/coupon-management/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</p></details>
+   Link:<a href="https://woocommerce.com/document/coupon-management/" target="_blank" rel="noopener noreferrer nofollow">https://woocommerce.com/document/coupon-management/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Managing Coupons in WooCommerce DocumentationAugust 12, 2020 — Configuring Coupon Usage Restrictions · Minimum spend — Set the...</p></details>
    Published: August 12, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nngroup.com  
    Title: Communicating Ecommerce Discounts and Promotions  
-   Link: <a href="https://www.nngroup.com/articles/communicating-discounts/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/communicating-discounts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 10, 2019 — 10 Mar 2019 — We&#x27;ve identified a set of guidelines to help designers address the presentation of discount-related conten...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/communicating-discounts/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/communicating-discounts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 10, 2019 — 10 Mar 2019 — We&#x27;ve identified a set of guidelines to help designers address the presentation of discount-related conten...</p></details>
    Published: March 10, 2019  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: brandverity.com  
-   Link: <a href="https://www.brandverity.com/guide-to-coupon-code-compliance/affiliate-agreements-and-next-steps/" target="_blank" rel="noopener noreferrer nofollow">https://www.brandverity.com/guide-to-coupon-code-compliance/affiliate-agreements-and-next-steps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coupon Code Compliance: Affiliate Agreements &amp; Next...Guide to Coupon Code Compliance: Maintaining Productive Partnerships wi...</p></details>
+   Link:<a href="https://www.brandverity.com/guide-to-coupon-code-compliance/affiliate-agreements-and-next-steps/" target="_blank" rel="noopener noreferrer nofollow">https://www.brandverity.com/guide-to-coupon-code-compliance/affiliate-agreements-and-next-steps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coupon Code Compliance: Affiliate Agreements &amp; Next...Guide to Coupon Code Compliance: Maintaining Productive Partnerships wi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: flycart.org  
    Title: woocommerce coupon restrictions  
-   Link: <a href="https://www.flycart.org/blog/woocommerce-coupon-restrictions" target="_blank" rel="noopener noreferrer nofollow">https://www.flycart.org/blog/woocommerce-coupon-restrictions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Set WooCommerce Coupon Restrictions to Prevent...24 Oct 2025 — Learn how to set WooCommerce Coupon Restrictions, from default Woo...</p></details>
+   Link:<a href="https://www.flycart.org/blog/woocommerce-coupon-restrictions" target="_blank" rel="noopener noreferrer nofollow">https://www.flycart.org/blog/woocommerce-coupon-restrictions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Set WooCommerce Coupon Restrictions to Prevent...24 Oct 2025 — Learn how to set WooCommerce Coupon Restrictions, from default Woo...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: voucherify.io  
    Title: coupon promotions ui ux best practices inspirations  
-   Link: <a href="https://www.voucherify.io/blog/coupon-promotions-ui-ux-best-practices-inspirations" target="_blank" rel="noopener noreferrer nofollow">https://www.voucherify.io/blog/coupon-promotions-ui-ux-best-practices-inspirations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summarize key conditions in plain language, like minimum spend, exclusions and usage limits. Provide a &#x27;See full terms&#x27; modal...Read more...</p></details>
+   Link:<a href="https://www.voucherify.io/blog/coupon-promotions-ui-ux-best-practices-inspirations" target="_blank" rel="noopener noreferrer nofollow">https://www.voucherify.io/blog/coupon-promotions-ui-ux-best-practices-inspirations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summarize key conditions in plain language, like minimum spend, exclusions and usage limits. Provide a &#x27;See full terms&#x27; modal...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: webtoffee.com  
    Title: advanced woocommerce coupon restrictions  
-   Link: <a href="https://www.webtoffee.com/blog/advanced-woocommerce-coupon-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.webtoffee.com/blog/advanced-woocommerce-coupon-restrictions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Cart...11 May 2026 — Default restrictions include minimum spend requirements, disabling multiple coupon usage, and excluding sale item...</p></details>
+   Link:<a href="https://www.webtoffee.com/blog/advanced-woocommerce-coupon-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.webtoffee.com/blog/advanced-woocommerce-coupon-restrictions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Cart...11 May 2026 — Default restrictions include minimum spend requirements, disabling multiple coupon usage, and excluding sale item...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: progress.com  
-   Link: <a href="https://www.progress.com/blogs/best-practices-coupon-marketing-ecommerce" target="_blank" rel="noopener noreferrer nofollow">https://www.progress.com/blogs/best-practices-coupon-marketing-ecommerce</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Practices for Coupon Marketing in Ecommerce31 Jul 2025 — When publishing the terms of the discount, place them close to the coupon c...</p></details>
+   Link:<a href="https://www.progress.com/blogs/best-practices-coupon-marketing-ecommerce" target="_blank" rel="noopener noreferrer nofollow">https://www.progress.com/blogs/best-practices-coupon-marketing-ecommerce</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Practices for Coupon Marketing in Ecommerce31 Jul 2025 — When publishing the terms of the discount, place them close to the coupon c...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: slicewp.com  
    Title: affiliate program promo code strategy  
-   Link: <a href="https://slicewp.com/blog/affiliate-program-promo-code-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://slicewp.com/blog/affiliate-program-promo-code-strategy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to implement a promo code strategy with your affiliate...15 Sept 2021 — Learn how to run an affiliate discounted promotional campaig...</p></details>
+   Link:<a href="https://slicewp.com/blog/affiliate-program-promo-code-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://slicewp.com/blog/affiliate-program-promo-code-strategy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to implement a promo code strategy with your affiliate...15 Sept 2021 — Learn how to run an affiliate discounted promotional campaig...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Complete Guide to Shopify Discount Codes & Coupons (That Actually Convert)  
-   Link: <a href="https://www.youtube.com/watch?v=NISWVlDampg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NISWVlDampg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create Coupons in WooCommerce (Step-by-Step)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NISWVlDampg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NISWVlDampg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Create Coupons in WooCommerce (Step-by-Step)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: How to Combine Multiple Coupons in Woo Commerce | Smart Coupons Plugin  
-   Link: <a href="https://www.youtube.com/watch?v=UuvSAi5IStk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UuvSAi5IStk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to create Woocommerce Coupons -Quick Guide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UuvSAi5IStk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UuvSAi5IStk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to create Woocommerce Coupons -Quick Guide...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to create Woocommerce Coupons -Quick Guide  
-   Link: <a href="https://www.youtube.com/watch?v=PrB4uJyl2iI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PrB4uJyl2iI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete Guide to Shopify Discount Codes &amp; Coupons (That Actually Convert)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PrB4uJyl2iI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PrB4uJyl2iI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complete Guide to Shopify Discount Codes &amp; Coupons (That Actually Convert)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uniqodo.com  
-   Link: <a href="https://www.uniqodo.com/glossary/what-is-coupon-code-leakage" target="_blank" rel="noopener noreferrer nofollow">https://www.uniqodo.com/glossary/what-is-coupon-code-leakage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t was created for...</p></details>
+   Link:<a href="https://www.uniqodo.com/glossary/what-is-coupon-code-leakage" target="_blank" rel="noopener noreferrer nofollow">https://www.uniqodo.com/glossary/what-is-coupon-code-leakage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t was created for...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How to Create Coupons in Woo Commerce (Step-by-Step)  
-   Link: <a href="https://www.youtube.com/watch?v=zwfllAZycu8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zwfllAZycu8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Customizing Coupon Messages in WooCommerce with Smart Coupons...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zwfllAZycu8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zwfllAZycu8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Customizing Coupon Messages in WooCommerce with Smart Coupons...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Customizing Coupon Messages in Woo Commerce with Smart Coupons  
-   Link: <a href="https://www.youtube.com/watch?v=X4fNDSG6nvc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X4fNDSG6nvc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=X4fNDSG6nvc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X4fNDSG6nvc</a>  

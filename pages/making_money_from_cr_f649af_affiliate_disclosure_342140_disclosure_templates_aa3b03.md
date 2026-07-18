@@ -284,7 +284,7 @@ Affiliate disclosure failures are often caused by process rather than intent. Pu
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_disclosure_templates_aa3b03-Illustration-1-dark.svg" | relative_url }}" alt="Templates illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_disclosure_templates_aa3b03-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_disclosure_templates_aa3b03-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach reflects the direction taken by regulators. The US Federal Trade Commission (FTC) focuses on whether disclosures are clear, conspicuous and placed where consumers will notice them, while UK advertising guidance stresses that [affiliate content]({{ 'content-mix/' | relative_url }}) should be recognisable as advertising where required and that vague abbreviations such as "Aff" are unlikely to be understood by readers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+This approach reflects the direction taken by regulators. The US Federal Trade Commission (FTC) focuses on whether disclosures are clear, conspicuous and placed where consumers will notice them, while UK advertising guidance stresses that [affiliate content]({{ 'content-mix/' | relative_url }}) should be recognisable as advertising where required and that vague abbreviations such as "Aff" are unlikely to be understood by readers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 ## Why Templates Reduce Disclosure Mistakes
 
@@ -298,7 +298,7 @@ This shift offers several practical advantages:
 * New writers cannot accidentally invent weaker language.
 * Site redesigns preserve disclosure [placement]({{ 'placement/' | relative_url }}).
 * Editors only need to maintain one approved version instead of checking hundreds of pages individually.
-* Regulatory wording can be updated centrally if guidance changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+* Regulatory wording can be updated centrally if guidance changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 The principle is simple: automation is usually more reliable than memory.
 
@@ -318,7 +318,7 @@ A reusable block typically contains three separate ideas:
 3. **Reader reassurance (where true)**
 "This does not increase the price you pay."
 
-Many publishers also include a short editorial independence statement explaining whether [commissions]({{ 'commissions/' | relative_url }}) influence ratings. While this does not replace the disclosure itself, it answers the question many readers naturally have: "Are these rankings being bought?" The FTC has repeatedly indicated that consumers need to understand material connections that could affect how they evaluate endorsements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Many publishers also include a short editorial independence statement explaining whether [commissions]({{ 'commissions/' | relative_url }}) influence ratings. While this does not replace the disclosure itself, it answers the question many readers naturally have: "Are these rankings being bought?" The FTC has repeatedly indicated that consumers need to understand material connections that could affect how they evaluate endorsements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 A good review-page template therefore becomes a permanent component of every product review rather than a paragraph copied manually.
 
@@ -329,7 +329,7 @@ A good review-page template therefore becomes a permanent component of every pro
 
 Comparison pages create a different problem because readers frequently skip introductions and scroll directly to product tables.
 
-If the only disclosure appears several paragraphs above the table, many visitors may never see it before clicking an affiliate link. Regulators evaluate disclosures from the perspective of ordinary consumers, making proximity to purchasing decisions an important consideration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+If the only disclosure appears several paragraphs above the table, many visitors may never see it before clicking an affiliate link. Regulators evaluate disclosures from the perspective of ordinary consumers, making proximity to purchasing decisions an important consideration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 For this reason, many affiliate sites now build disclosure fields directly into reusable comparison components.
 
@@ -372,7 +372,7 @@ This approach mirrors broader publishing practice in which required legal notice
 
 Early affiliate blogs commonly placed a generic disclaimer in a footer or on a separate disclosure page. That reflected an era when websites were smaller and affiliate marketing operated with relatively informal publishing practices.
 
-Regulatory expectations gradually shifted towards disclosures that readers actually notice when making purchasing decisions. The FTC's updated guidance reinforces that disclosures should be difficult to miss and understandable in context rather than hidden elsewhere on the site. UK guidance has similarly emphasised that affiliate advertising should be clearly identified where appropriate and warns against abbreviations that consumers may not recognise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Regulatory expectations gradually shifted towards disclosures that readers actually notice when making purchasing decisions. The FTC's updated guidance reinforces that disclosures should be difficult to miss and understandable in context rather than hidden elsewhere on the site. UK guidance has similarly emphasised that affiliate advertising should be clearly identified where appropriate and warns against abbreviations that consumers may not recognise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 As a result, modern affiliate publishers increasingly embed disclosure into page architecture itself:
 
@@ -382,7 +382,7 @@ The change is less about new wording than about making omission technically diff
 
 ## What Research Suggests About Standardised Disclosures
 
-Academic research into affiliate marketing disclosures has shown that disclosure rates have historically been low and that short or unexplained statements often fail to communicate the commercial relationship effectively. Studies examining YouTube and [Pinterest]({{ 'pinterest/' | relative_url }}) found that only a small proportion of affiliate content contained disclosures, while explanatory wording helped users understand the nature of affiliate marketing more successfully than brief labels alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Academic research into affiliate marketing disclosures has shown that disclosure rates have historically been low and that short or unexplained statements often fail to communicate the commercial relationship effectively. Studies examining YouTube and [Pinterest]({{ 'pinterest/' | relative_url }}) found that only a small proportion of affiliate content contained disclosures, while explanatory wording helped users understand the nature of affiliate marketing more successfully than brief labels alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 That finding supports the use of standard templates containing plain-language explanations instead of cryptic labels.
 
@@ -390,7 +390,7 @@ For example, a disclosure such as:
 
 > "We may earn a commission if you buy through links on this page."
 
-is generally more informative than simply marking a link "Affiliate" or "Aff", particularly because UK advertising guidance notes that many consumers are unlikely to understand abbreviated labels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">Get yourself affiliated with the rules on affiliate marketing10 Oct 2024 — This CAP Advice explains the circumstances under which diff...</span></span></span>
+is generally more informative than simply marking a link "Affiliate" or "Aff", particularly because UK advertising guidance notes that many consumers are unlikely to understand abbreviated labels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">Get yourself affiliated with the rules on affiliate marketing10 Oct 2024 — This CAP Advice explains the circumstances under which diff...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_disclosure_templates_aa3b03-Illustration-3-dark.svg" | relative_url }}" alt="Templates illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_disclosure_templates_aa3b03-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_disclosure_templates_aa3b03-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -412,162 +412,162 @@ The most durable disclosure systems share several characteristics:
 As affiliate websites expand, these design choices become less about convenience and more about consistency. By making disclosure an inherent feature of the publishing system instead of an author's memory task, templates substantially reduce the likelihood that affiliate notices are accidentally omitted while helping readers recognise commercial relationships before they make purchasing decisions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Templates Stop Affiliate Disclosure Mistakes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Templates Stop Affiliate Disclosure Mistakes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
-        </h4>
-        <p class="fr-book-author">By Evgenii Prussakov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
+</h4>
+<p class="fr-book-author">By Evgenii Prussakov</p>
         
-        <p class="fr-book-desc">Covers affiliate program operations, compliance, and professional publishing practices relevant to disclosure workflows.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers affiliate program operations, compliance, and professional publishing practices relevant to disclosure workflows.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Supports creating consistent editorial processes, templates, and publishing standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports creating consistent editorial processes, templates, and publishing standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Reinforces the value of standardized checklists and workflows to prevent avoidable publishing mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces the value of standardized checklists and workflows to prevent avoidable publishing mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epic Content Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epic Content Marketing">Epic Content Marketing</a>
-        </h4>
-        <p class="fr-book-author">By Joe Pulizzi, Brian W. Piper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epic Content Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epic Content Marketing">Epic Content Marketing</a>
+</h4>
+<p class="fr-book-author">By Joe Pulizzi, Brian W. Piper</p>
         
-        <p class="fr-book-desc">Provides broader content governance and publishing strategy that complements disclosure template practices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader content governance and publishing strategy that complements disclosure template practices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny No Cold Callers Sticker Junk Mail Door to Door Marketing Business"><img src="{{ '/assets/images/marketplace-covers/dabb8017cc6d38ec6ba5.jpg' | relative_url }}" alt="Listing image for Funny No Cold Callers Sticker Junk Mail Door to Door Marketing Business" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer">Funny No Cold Callers Sticker Junk Mail Door to Door Marketing Business</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny No Cold Callers Sticker Junk Mail Door to Door Marketing Business"><img src="{{ '/assets/images/marketplace-covers/dabb8017cc6d38ec6ba5.jpg' | relative_url }}" alt="Listing image for Funny No Cold Callers Sticker Junk Mail Door to Door Marketing Business" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer">Funny No Cold Callers Sticker Junk Mail Door to Door Marketing Business</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Batman: The Animated Series Dynamic Marketing sticker card lot 61"><img src="{{ '/assets/images/marketplace-covers/46464208400c5b60a069.jpg' | relative_url }}" alt="Listing image for Batman: The Animated Series Dynamic Marketing sticker card lot 61" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer">Batman: The Animated Series Dynamic Marketing sticker card lot 61</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Batman: The Animated Series Dynamic Marketing sticker card lot 61"><img src="{{ '/assets/images/marketplace-covers/46464208400c5b60a069.jpg' | relative_url }}" alt="Listing image for Batman: The Animated Series Dynamic Marketing sticker card lot 61" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer">Batman: The Animated Series Dynamic Marketing sticker card lot 61</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing sticker" data-ebay-reference="templates-how-templates-stop-affiliate-disclosure-mistakes-making-money-from-marketing-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ As affiliate websites expand, these design choices become less about convenience
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ As affiliate websites expand, these design choices become less about convenience
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ As affiliate websites expand, these design choices become less about convenience
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ As affiliate websites expand, these design choices become less about convenience
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ As affiliate websites expand, these design choices become less about convenience
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,114 +773,114 @@ As affiliate websites expand, these design choices become less about convenience
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</p></details>
    Published: September 7, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Get yourself affiliated with the rules on affiliate marketing10 Oct 2024 — This CAP Advice explains the circumstances under which diff...</p></details>
+   Link:<a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Get yourself affiliated with the rules on affiliate marketing10 Oct 2024 — This CAP Advice explains the circumstances under which diff...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
+   Link:<a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: How to add affiliate disclosure on Word Press? | With Examples + FREE Template  
-   Link: <a href="https://www.youtube.com/watch?v=05Og3iF8IgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=05Og3iF8IgA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Add an Affiliate Disclosure to Your WordPress Posts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=05Og3iF8IgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=05Og3iF8IgA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Add an Affiliate Disclosure to Your WordPress Posts...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: How To Add an Affiliate Disclosure to Your Word Press Posts  
-   Link: <a href="https://www.youtube.com/watch?v=mTeXb1DXKs4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mTeXb1DXKs4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Affiliate Disclosures in WordPress: How to Add Them in Minutes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mTeXb1DXKs4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mTeXb1DXKs4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Affiliate Disclosures in WordPress: How to Add Them in Minutes...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Automatic Affiliate Disclosures in Word Press: How to Add Them in Minutes  
-   Link: <a href="https://www.youtube.com/watch?v=3Jx3uwe_xq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Jx3uwe_xq8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Setup Affiliate Disclaimer on Wordpress + FTC Affiliate Link Disclosure Examples...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3Jx3uwe_xq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Jx3uwe_xq8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Setup Affiliate Disclaimer on Wordpress + FTC Affiliate Link Disclosure Examples...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Setup Affiliate Disclaimer on Wordpress + FTC Affiliate Link Disclosure Examples  
-   Link: <a href="https://www.youtube.com/watch?v=IaYqlvor_qM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IaYqlvor_qM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write an Affiliate Disclosure for Your Blog [with EXAMPLES]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IaYqlvor_qM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IaYqlvor_qM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write an Affiliate Disclosure for Your Blog [with EXAMPLES]...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: How to Write an Affiliate Disclosure for Your Blog [with EXAMPLES]  
-   Link: <a href="https://www.youtube.com/watch?v=ALoStY4WAvs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ALoStY4WAvs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to add affiliate disclosure template website wordpress blog How To Add an Affiliate Disclosure to Your WordPress Posts Tony Teaches Tech...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ALoStY4WAvs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ALoStY4WAvs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to add affiliate disclosure template website wordpress blog How To Add an Affiliate Disclosure to Your WordPress Posts Tony Teaches Tech...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: federal-lawyer.com  
-   Link: <a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
+   Link:<a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: postaffiliatepro.com  
-   Link: <a href="https://www.postaffiliatepro.com/blog/how-to-write-affiliate-disclaimer/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/blog/how-to-write-affiliate-disclaimer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Write an Affiliate Disclaimer: Compliance GuideThe FTC&#x27;s Endorsement Guides specifically state that any material connection between an en...</p></details>
+   Link:<a href="https://www.postaffiliatepro.com/blog/how-to-write-affiliate-disclaimer/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/blog/how-to-write-affiliate-disclaimer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Write an Affiliate Disclaimer: Compliance GuideThe FTC&#x27;s Endorsement Guides specifically state that any material connection between an en...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: consultantlm.com  
-   Link: <a href="https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website" target="_blank" rel="noopener noreferrer nofollow">https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Disclosure Rules 2025 How to Avoid Lawsuits...16 Nov 2025 — The FTC mandates full disclosure of any paid promotions, affil...</p></details>
+   Link:<a href="https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website" target="_blank" rel="noopener noreferrer nofollow">https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Disclosure Rules 2025 How to Avoid Lawsuits...16 Nov 2025 — The FTC mandates full disclosure of any paid promotions, affil...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theapma.co.uk  
    Title: what the latest asa rulings mean for affiliate marketing  
-   Link: <a href="https://theapma.co.uk/what-the-latest-asa-rulings-mean-for-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://theapma.co.uk/what-the-latest-asa-rulings-mean-for-affiliate-marketing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Dec 2024 — The Advertising Standards [Authority](&amp;#123;&amp;#123; &#x27;authority/&#x27; | relative_url &amp;#125;&amp;#125;) (ASA) has upheld five separate complaints against affiliate marketing ads on Instagram...</p></details>
+   Link:<a href="https://theapma.co.uk/what-the-latest-asa-rulings-mean-for-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://theapma.co.uk/what-the-latest-asa-rulings-mean-for-affiliate-marketing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Dec 2024 — The Advertising Standards [Authority](&amp;#123;&amp;#123; &#x27;authority/&#x27; | relative_url &amp;#125;&amp;#125;) (ASA) has upheld five separate complaints against affiliate marketing ads on Instagram...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: iubenda.com  
-   Link: <a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>isitors that you earn a commission when they purchase a product or...Read more...</p></details>
+   Link:<a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>isitors that you earn a commission when they purchase a product or...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stalirov.lawyer  
-   Link: <a href="https://stalirov.lawyer/en/posts/ftc-affiliate-marketing-compliance" target="_blank" rel="noopener noreferrer nofollow">https://stalirov.lawyer/en/posts/ftc-affiliate-marketing-compliance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Marketing &amp; Compliance: Disclosure Rules...7 May 2025 — The FTC views most affiliate marketing activities as endorsements...</p></details>
+   Link:<a href="https://stalirov.lawyer/en/posts/ftc-affiliate-marketing-compliance" target="_blank" rel="noopener noreferrer nofollow">https://stalirov.lawyer/en/posts/ftc-affiliate-marketing-compliance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Marketing &amp; Compliance: Disclosure Rules...7 May 2025 — The FTC views most affiliate marketing activities as endorsements...</p></details>
    Published: May 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: manatt.com  
    Title: an in depth look at the ftcs updates 2  
-   Link: <a href="https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2" target="_blank" rel="noopener noreferrer nofollow">https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An In-Depth Look at the FTC&#x27;s Updates to the Endorsement...30 Jul 2023 — The phrase “clear and conspicuous” is generally used in the End...</p></details>
+   Link:<a href="https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2" target="_blank" rel="noopener noreferrer nofollow">https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An In-Depth Look at the FTC&#x27;s Updates to the Endorsement...30 Jul 2023 — The phrase “clear and conspicuous” is generally used in the End...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lawyerlessdocs.com  
    Title: Do You Need an Affiliate Disclosure?  
-   Link: <a href="https://lawyerlessdocs.com/blog/news/do-you-need-an-affiliate-disclosure-what-the-ftc-actually-requires-and-what-a-footer-link-doesn-t-cover" target="_blank" rel="noopener noreferrer nofollow">https://lawyerlessdocs.com/blog/news/do-you-need-an-affiliate-disclosure-what-the-ftc-actually-requires-and-what-a-footer-link-doesn-t-cover</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the FTC Actually...2 days ago — Not for most standard affiliate content — a clear, consistently-placed disclosure covering the elem...</p></details>
+   Link:<a href="https://lawyerlessdocs.com/blog/news/do-you-need-an-affiliate-disclosure-what-the-ftc-actually-requires-and-what-a-footer-link-doesn-t-cover" target="_blank" rel="noopener noreferrer nofollow">https://lawyerlessdocs.com/blog/news/do-you-need-an-affiliate-disclosure-what-the-ftc-actually-requires-and-what-a-footer-link-doesn-t-cover</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the FTC Actually...2 days ago — Not for most standard affiliate content — a clear, consistently-placed disclosure covering the elem...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: postaffiliatepro.nl  
-   Link: <a href="https://www.postaffiliatepro.nl/faq/do-i-have-to-disclose-affiliate-links/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.nl/faq/do-i-have-to-disclose-affiliate-links/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>links, FTC-compliance regels en best practices voor 2025...</p></details>
+   Link:<a href="https://www.postaffiliatepro.nl/faq/do-i-have-to-disclose-affiliate-links/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.nl/faq/do-i-have-to-disclose-affiliate-links/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>links, FTC-compliance regels en best practices voor 2025...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: clarigital.com  
    Title: Affiliate Compliance & FTC Disclosure: The Legal  
-   Link: <a href="https://www.clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/" target="_blank" rel="noopener noreferrer nofollow">https://www.clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The disclosure must be placed where consumers will see it before engaging with the affiliate content —...Read more...</p></details>
+   Link:<a href="https://www.clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/" target="_blank" rel="noopener noreferrer nofollow">https://www.clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The disclosure must be placed where consumers will see it before engaging with the affiliate content —...Read more...</p></details>

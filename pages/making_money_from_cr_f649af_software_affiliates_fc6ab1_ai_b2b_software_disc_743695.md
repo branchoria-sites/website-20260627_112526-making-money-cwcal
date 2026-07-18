@@ -288,7 +288,7 @@ A procurement manager might ask an AI assistant:
 
 That query combines industry, company size, existing technology and business goals in a way that conventional keyword searches rarely did. AI systems then synthesise information from multiple sources before presenting a shortlist.
 
-Research from G2 illustrates how quickly behaviour is changing. Its 2025 Buyer Behaviour Report found that software buyers increasingly rely on generative AI to produce tailored vendor shortlists, while later research reported that many buyers now begin software research with AI chatbots rather than traditional search engines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://images.g2crowd.com/uploads/attachment/file/1470753/2025-G2-Buyer-Behavior-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: images.g2crowd.com">[G2 Crowd Images+2G2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">images.g2crowd.com</span><span class="citation-popover-title">2025 G2 Buyer Behavior Report</span><span class="citation-popover-snippet">G2 Crowd ImagesBuyer Behavior Report 20253 Jun 2025 — GenAI chatbots and software... Software buyers are increasingly relying on generat...</span></span></span>
+Research from G2 illustrates how quickly behaviour is changing. Its 2025 Buyer Behaviour Report found that software buyers increasingly rely on generative AI to produce tailored vendor shortlists, while later research reported that many buyers now begin software research with AI chatbots rather than traditional search engines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://images.g2crowd.com/uploads/attachment/file/1470753/2025-G2-Buyer-Behavior-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: images.g2crowd.com">[G2 Crowd Images+2G2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">images.g2crowd.com</span><span class="citation-popover-title">2025 G2 Buyer Behavior Report</span><span class="citation-popover-snippet">G2 Crowd ImagesBuyer Behavior Report 20253 Jun 2025 — GenAI chatbots and software... Software buyers are increasingly relying on generat...</span></span></span>
 
 This does not mean review platforms disappear. Instead, buyers typically combine several information sources:
 
@@ -304,7 +304,7 @@ For expensive B2B software, buyers still need confidence before committing to co
 
 AI search systems differ from conventional search engines because they generate answers instead of simply ranking links. That changes which review pages become influential.
 
-Google explains that its ranking systems continue to prioritise helpful, reliable, people-first content regardless of whether AI assisted with writing. The emphasis remains on demonstrating experience, expertise, [authority]({{ 'authority/' | relative_url }}) and trustworthiness rather than producing large volumes of content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+Google explains that its ranking systems continue to prioritise helpful, reliable, people-first content regardless of whether AI assisted with writing. The emphasis remains on demonstrating experience, expertise, [authority]({{ 'authority/' | relative_url }}) and trustworthiness rather than producing large volumes of content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
 For software [reviews]({{ 'reviews/' | relative_url }}), this generally means AI systems are more likely to rely on content that contains:
 
@@ -331,7 +331,7 @@ Equally important is structure. AI systems extract concise facts such as pricing
 
 Many affiliate publishers assumed AI would replace software review sites. Current evidence suggests something more nuanced.
 
-Review platforms continue to supply structured information that AI systems frequently reference. Industry analysis of AI Overview citations found platforms such as Gartner Peer Insights, G2 and Capterra among the most frequently cited sources because they aggregate verified reviews, feature comparisons and standardised product information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://seranking.com/blog/review-platforms-in-ai-overviews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seranking.com">[SE Ranking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seranking.com</span><span class="citation-popover-title">review platforms in ai overviews</span><span class="citation-popover-snippet">In our dataset, Gartner Peer Insights, G2, and Capterra remain in the top five...Read more...</span></span></span>
+Review platforms continue to supply structured information that AI systems frequently reference. Industry analysis of AI Overview citations found platforms such as Gartner Peer Insights, G2 and Capterra among the most frequently cited sources because they aggregate verified reviews, feature comparisons and standardised product information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://seranking.com/blog/review-platforms-in-ai-overviews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seranking.com">[SE Ranking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seranking.com</span><span class="citation-popover-title">review platforms in ai overviews</span><span class="citation-popover-snippet">In our dataset, Gartner Peer Insights, G2, and Capterra remain in the top five...Read more...</span></span></span>
 
 Their strengths include:
 
@@ -394,7 +394,7 @@ Experience has become a competitive asset rather than merely a credibility signa
 
 One of the largest changes facing affiliate publishers is that visibility and [traffic]({{ 'traffic/' | relative_url }}) are becoming less closely linked.
 
-AI-generated answers often satisfy users without requiring a click. Industry observers have described this trend as "Google Zero", reflecting concerns that AI-generated summaries reduce visits to publishers despite using their information. Studies also suggest many searches already end without clicking through to external websites, with AI Overviews accelerating that pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomsguide.com/ai/what-is-google-zero-and-why-your-favorite-websites-are-panicking-about-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomsguide.com">[Tom&#x27;s Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomsguide.com</span><span class="citation-popover-title">Tom&#x27;s Guide What is Google Zero</span><span class="citation-popover-snippet">These features summarize answers directly on the search page, drastically reducing the need for users to click through to original conten...</span></span></span>
+AI-generated answers often satisfy users without requiring a click. Industry observers have described this trend as "Google Zero", reflecting concerns that AI-generated summaries reduce visits to publishers despite using their information. Studies also suggest many searches already end without clicking through to external websites, with AI Overviews accelerating that pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomsguide.com/ai/what-is-google-zero-and-why-your-favorite-websites-are-panicking-about-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomsguide.com">[Tom&#x27;s Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomsguide.com</span><span class="citation-popover-title">Tom&#x27;s Guide What is Google Zero</span><span class="citation-popover-snippet">These features summarize answers directly on the search page, drastically reducing the need for users to click through to original conten...</span></span></span>
 
 For affiliate businesses, fewer visitors do not necessarily mean less commercial impact.
 
@@ -417,194 +417,194 @@ As buyers increasingly combine AI assistants with review marketplaces and human 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Will AI Search Change Software Affiliate Pages?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Will AI Search Change Software Affiliate Pages?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
-        </h4>
-        <p class="fr-book-author">By April Dunford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
+</h4>
+<p class="fr-book-author">By April Dunford</p>
         
-        <p class="fr-book-desc">Explains positioning and differentiation, aligning with evidence-based software reviews that AI and buyers value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains positioning and differentiation, aligning with evidence-based software reviews that AI and buyers value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Sheridan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
+</h4>
+<p class="fr-book-author">By Marcus Sheridan</p>
         
-        <p class="fr-book-desc">Focuses on creating trustworthy, question-led content that matches modern AI-assisted buying journeys.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on creating trustworthy, question-led content that matches modern AI-assisted buying journeys.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13158050-M.jpg" alt="Cover for They Ask You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Ask+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask You Answer">They Ask You Answer</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Sheridan, Krista Kotrla</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13158050-M.jpg" alt="Cover for They Ask You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Ask+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask You Answer">They Ask You Answer</a>
+</h4>
+<p class="fr-book-author">By Marcus Sheridan, Krista Kotrla</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Marketing, Sales promotion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Ask+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Marketing, Sales promotion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Ask+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content INC. on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content INC.">Content INC.</a>
-        </h4>
-        <p class="fr-book-author">By Joe Pulizzi, Ignacio Montero</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content INC. on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content INC.">Content INC.</a>
+</h4>
+<p class="fr-book-author">By Joe Pulizzi, Ignacio Montero</p>
         
-        <p class="fr-book-desc">Supports strategies for building authoritative content that remains valuable as AI search evolves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports strategies for building authoritative content that remains valuable as AI search evolves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask You Answer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask You Answer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm"><img src="{{ '/assets/images/marketplace-covers/d09e7e7a40c101faf0a9.jpg' | relative_url }}" alt="Listing image for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm"><img src="{{ '/assets/images/marketplace-covers/d09e7e7a40c101faf0a9.jpg' | relative_url }}" alt="Listing image for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/824ec0ed09e82ffcc375.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/824ec0ed09e82ffcc375.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display"><img src="{{ '/assets/images/marketplace-covers/f218f705ef7c014f23ec.jpg' | relative_url }}" alt="Listing image for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display"><img src="{{ '/assets/images/marketplace-covers/f218f705ef7c014f23ec.jpg' | relative_url }}" alt="Listing image for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="ai-discovery-will-ai-search-change-software-affiliate-pages-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ As buyers increasingly combine AI assistants with review marketplaces and human 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ As buyers increasingly combine AI assistants with review marketplaces and human 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ As buyers increasingly combine AI assistants with review marketplaces and human 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ As buyers increasingly combine AI assistants with review marketplaces and human 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -769,7 +769,7 @@ As buyers increasingly combine AI assistants with review marketplaces and human 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -810,166 +810,166 @@ As buyers increasingly combine AI assistants with review marketplaces and human 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: images.g2crowd.com  
    Title: 2025 G2 Buyer Behavior Report  
-   Link: <a href="https://images.g2crowd.com/uploads/attachment/file/1470753/2025-G2-Buyer-Behavior-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://images.g2crowd.com/uploads/attachment/file/1470753/2025-G2-Buyer-Behavior-Report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>G2 Crowd ImagesBuyer Behavior Report 20253 Jun 2025 — GenAI chatbots and software... Software buyers are increasingly relying on generat...</p></details>
+   Link:<a href="https://images.g2crowd.com/uploads/attachment/file/1470753/2025-G2-Buyer-Behavior-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://images.g2crowd.com/uploads/attachment/file/1470753/2025-G2-Buyer-Behavior-Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>G2 Crowd ImagesBuyer Behavior Report 20253 Jun 2025 — GenAI chatbots and software... Software buyers are increasingly relying on generat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/blog/2023/02/google-search-and-ai-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2023/02/google-search-and-ai-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersGoogle Search&#x27;s guidance about AI-generated contentIn this post, we&#x27;ll share more about how AI-generated content fit...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2023/02/google-search-and-ai-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2023/02/google-search-and-ai-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersGoogle Search&#x27;s guidance about AI-generated contentIn this post, we&#x27;ll share more about how AI-generated content fit...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/337295391/how-google-considers-ai-generated-content-chatgpt-ai-gen-content-under-quality-rater-update?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/337295391/how-google-considers-ai-generated-content-chatgpt-ai-gen-content-under-quality-rater-update?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chatgpt, AI...10 Apr 2025 — High-Quality Automated Ranking Systems These systems aim to identify content users will find valuable and tr...</p></details>
+   Link:<a href="https://support.google.com/webmasters/thread/337295391/how-google-considers-ai-generated-content-chatgpt-ai-gen-content-under-quality-rater-update?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/337295391/how-google-considers-ai-generated-content-chatgpt-ai-gen-content-under-quality-rater-update?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chatgpt, AI...10 Apr 2025 — High-Quality Automated Ranking Systems These systems aim to identify content users will find valuable and tr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gartner.com  
    Title: enterprise search engines  
-   Link: <a href="https://www.gartner.com/reviews/market/enterprise-search-engines" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/reviews/market/enterprise-search-engines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Enterprise Search Engines Reviews 2026Find the top Enterprise Search Engines with Gartner. Compare and filter by verified product re...</p></details>
+   Link:<a href="https://www.gartner.com/reviews/market/enterprise-search-engines" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/reviews/market/enterprise-search-engines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Enterprise Search Engines Reviews 2026Find the top Enterprise Search Engines with Gartner. Compare and filter by verified product re...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gartner.com  
-   Link: <a href="https://www.gartner.com/peer-insights/home" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/peer-insights/home</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Find &amp; Compare Enterprise Software and Services ReviewsAccess real-time peer insights on cutting-edge technology and market trends that i...</p></details>
+   Link:<a href="https://www.gartner.com/peer-insights/home" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/peer-insights/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find &amp; Compare Enterprise Software and Services ReviewsAccess real-time peer insights on cutting-edge technology and market trends that i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: trustradius.com  
    Title: g2 for buyers vs gartner peer insights  
-   Link: <a href="https://www.trustradius.com/compare-products/g2-for-buyers-vs-gartner-peer-insights" target="_blank" rel="noopener noreferrer nofollow">https://www.trustradius.com/compare-products/g2-for-buyers-vs-gartner-peer-insights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Compare G2 for Buyers vs Gartner Peer Insights 2026Compare G2 for Buyers vs Gartner Peer Insights. 82 verified user reviews and ratings o...</p></details>
+   Link:<a href="https://www.trustradius.com/compare-products/g2-for-buyers-vs-gartner-peer-insights" target="_blank" rel="noopener noreferrer nofollow">https://www.trustradius.com/compare-products/g2-for-buyers-vs-gartner-peer-insights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compare G2 for Buyers vs Gartner Peer Insights 2026Compare G2 for Buyers vs Gartner Peer Insights. 82 verified user reviews and ratings o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: trustradius.com  
-   Link: <a href="https://www.trustradius.com/compare-products/g2-seller-solutions-vs-gartner-peer-insights" target="_blank" rel="noopener noreferrer nofollow">https://www.trustradius.com/compare-products/g2-seller-solutions-vs-gartner-peer-insights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>G2 Seller Solutions vs. Gartner Peer InsightsCompare G2 Seller Solutions vs Gartner Peer Insights. 69 verified user reviews and ratings o...</p></details>
+   Link:<a href="https://www.trustradius.com/compare-products/g2-seller-solutions-vs-gartner-peer-insights" target="_blank" rel="noopener noreferrer nofollow">https://www.trustradius.com/compare-products/g2-seller-solutions-vs-gartner-peer-insights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>G2 Seller Solutions vs. Gartner Peer InsightsCompare G2 Seller Solutions vs Gartner Peer Insights. 69 verified user reviews and ratings o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: company.g2.com  
-   Link: <a href="https://company.g2.com/news/buyer-behavior-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://company.g2.com/news/buyer-behavior-in-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New G2 Research: How AI is Redefining the Buyer...14 May 2025 — Below is a preview of just some of the trends and findings from our 20...</p></details>
+   Link:<a href="https://company.g2.com/news/buyer-behavior-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://company.g2.com/news/buyer-behavior-in-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New G2 Research: How AI is Redefining the Buyer...14 May 2025 — Below is a preview of just some of the trends and findings from our 20...</p></details>
    Published: May 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: seranking.com  
    Title: review platforms in ai overviews  
-   Link: <a href="https://seranking.com/blog/review-platforms-in-ai-overviews/" target="_blank" rel="noopener noreferrer nofollow">https://seranking.com/blog/review-platforms-in-ai-overviews/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In our dataset, Gartner Peer Insights, G2, and Capterra remain in the top five...Read more...</p></details>
+   Link:<a href="https://seranking.com/blog/review-platforms-in-ai-overviews/" target="_blank" rel="noopener noreferrer nofollow">https://seranking.com/blog/review-platforms-in-ai-overviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In our dataset, Gartner Peer Insights, G2, and Capterra remain in the top five...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tomsguide.com  
    Title: Tom's Guide What is Google Zero  
-   Link: <a href="https://www.tomsguide.com/ai/what-is-google-zero-and-why-your-favorite-websites-are-panicking-about-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/ai/what-is-google-zero-and-why-your-favorite-websites-are-panicking-about-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These features summarize answers directly on the search page, drastically reducing the need for users to click through to original conten...</p></details>
+   Link:<a href="https://www.tomsguide.com/ai/what-is-google-zero-and-why-your-favorite-websites-are-panicking-about-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/ai/what-is-google-zero-and-why-your-favorite-websites-are-panicking-about-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These features summarize answers directly on the search page, drastically reducing the need for users to click through to original conten...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blog.google  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/google-search-ai-mode-update/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-ai-mode-update/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Search: Going beyond information to intelligence20 May 2025 — AI in Search is making it easier to ask Google anything and get a hel...</p></details>
+   Link:<a href="https://blog.google/products-and-platforms/products/search/google-search-ai-mode-update/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-ai-mode-update/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Search: Going beyond information to intelligence20 May 2025 — AI in Search is making it easier to ask Google anything and get a hel...</p></details>
    Published: May 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: g2.com  
-   Link: <a href="https://www.g2.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.g2.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Software and Services ReviewsCompare the best business software and services based on user ratings and social data. Reviews...</p></details>
+   Link:<a href="https://www.g2.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.g2.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business Software and Services ReviewsCompare the best business software and services based on user ratings and social data. Reviews...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: research.g2.com  
    Title: cmos 2025 buyer behavior report research g2  
-   Link: <a href="https://research.g2.com/cmos-2025-buyer-behavior-report-research-g2" target="_blank" rel="noopener noreferrer nofollow">https://research.g2.com/cmos-2025-buyer-behavior-report-research-g2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Buyer Behavior ReportThis year&#x27;s report highlights how drastically buyer behavior and preferences have transformed in just the last...</p></details>
+   Link:<a href="https://research.g2.com/cmos-2025-buyer-behavior-report-research-g2" target="_blank" rel="noopener noreferrer nofollow">https://research.g2.com/cmos-2025-buyer-behavior-report-research-g2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Buyer Behavior ReportThis year&#x27;s report highlights how drastically buyer behavior and preferences have transformed in just the last...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: company.g2.com  
    Title: g2s 2025 year in review  
-   Link: <a href="https://company.g2.com/news/g2s-2025-year-in-review" target="_blank" rel="noopener noreferrer nofollow">https://company.g2.com/news/g2s-2025-year-in-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g2.comG2&#x27;s 2025 Year in Review20 Jan 2026 — G2.ai: Powering software search through an AI prompt-driven exchange, thereby simplifying the...</p></details>
+   Link:<a href="https://company.g2.com/news/g2s-2025-year-in-review" target="_blank" rel="noopener noreferrer nofollow">https://company.g2.com/news/g2s-2025-year-in-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g2.comG2&#x27;s 2025 Year in Review20 Jan 2026 — G2.ai: Powering software search through an AI prompt-driven exchange, thereby simplifying the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: g2.com  
-   Link: <a href="https://www.g2.com/products/peer-insights/reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.g2.com/products/peer-insights/reviews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peer Insights Reviews 2026: Details, Pricing, &amp; FeaturesPeer Insights is helpful in giving clear conscise feedback from users on software...</p></details>
+   Link:<a href="https://www.g2.com/products/peer-insights/reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.g2.com/products/peer-insights/reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peer Insights Reviews 2026: Details, Pricing, &amp; FeaturesPeer Insights is helpful in giving clear conscise feedback from users on software...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: learn.g2.com  
    Title: 2025 g2 buyer behavior report  
-   Link: <a href="https://learn.g2.com/2025-g2-buyer-behavior-report" target="_blank" rel="noopener noreferrer nofollow">https://learn.g2.com/2025-g2-buyer-behavior-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g2.com2025 G2 Buyer Behavior Report | sell.G2Buyers demand faster time to value, smaller initial commitments, and usage-based pricing tha...</p></details>
+   Link:<a href="https://learn.g2.com/2025-g2-buyer-behavior-report" target="_blank" rel="noopener noreferrer nofollow">https://learn.g2.com/2025-g2-buyer-behavior-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g2.com2025 G2 Buyer Behavior Report | sell.G2Buyers demand faster time to value, smaller initial commitments, and usage-based pricing tha...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: company.g2.com  
    Title: research the answer economy  
-   Link: <a href="https://company.g2.com/news/g2-research-the-answer-economy" target="_blank" rel="noopener noreferrer nofollow">https://company.g2.com/news/g2-research-the-answer-economy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Answer Economy, Don&#x27;t Win the Click5 days ago — New G2 research reveals how AI search is rewiring B2B software buying. Learn why 51%...</p></details>
+   Link:<a href="https://company.g2.com/news/g2-research-the-answer-economy" target="_blank" rel="noopener noreferrer nofollow">https://company.g2.com/news/g2-research-the-answer-economy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Answer Economy, Don&#x27;t Win the Click5 days ago — New G2 research reveals how AI search is rewiring B2B software buying. Learn why 51%...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: learn.g2.com  
    Title: ai search surging for b2b buyers  
-   Link: <a href="https://learn.g2.com/ai-search-surging-for-b2b-buyers" target="_blank" rel="noopener noreferrer nofollow">https://learn.g2.com/ai-search-surging-for-b2b-buyers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Chat is Rewriting B2B Software Buying [Insights...6 Oct 2025 — New survey findings from G2 reveal B2B buyers are shifting their softw...</p></details>
+   Link:<a href="https://learn.g2.com/ai-search-surging-for-b2b-buyers" target="_blank" rel="noopener noreferrer nofollow">https://learn.g2.com/ai-search-surging-for-b2b-buyers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Chat is Rewriting B2B Software Buying [Insights...6 Oct 2025 — New survey findings from G2 reveal B2B buyers are shifting their softw...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/prcarly_g2-surveyed-1076-b2b-software-buyers-and-activity-7459610921196253184-tt55" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/prcarly_g2-surveyed-1076-b2b-software-buyers-and-activity-7459610921196253184-tt55</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Chatbots Influence 51% of B2B Software BuyersG2 surveyed 1,076 B2B software buyers and found that 51% now start their research in an A...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/prcarly_g2-surveyed-1076-b2b-software-buyers-and-activity-7459610921196253184-tt55" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/prcarly_g2-surveyed-1076-b2b-software-buyers-and-activity-7459610921196253184-tt55</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Chatbots Influence 51% of B2B Software BuyersG2 surveyed 1,076 B2B software buyers and found that 51% now start their research in an A...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: businesswire.com  
-   Link: <a href="https://www.businesswire.com/news/home/20250514382531/en/G2-Report-AI-Now-Means-Always-Included-Disrupting-All-Stages-of-the-B2B-Software-Buying-Journey" target="_blank" rel="noopener noreferrer nofollow">https://www.businesswire.com/news/home/20250514382531/en/G2-Report-AI-Now-Means-Always-Included-Disrupting-All-Stages-of-the-B2B-Software-Buying-Journey</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>G2 Report: AI Now Means &#x27;Always Included,&#x27; Disrupting All...14 May 2025 — Generative AI chatbots (17%) and software review sites (15%) a...</p></details>
+   Link:<a href="https://www.businesswire.com/news/home/20250514382531/en/G2-Report-AI-Now-Means-Always-Included-Disrupting-All-Stages-of-the-B2B-Software-Buying-Journey" target="_blank" rel="noopener noreferrer nofollow">https://www.businesswire.com/news/home/20250514382531/en/G2-Report-AI-Now-Means-Always-Included-Disrupting-All-Stages-of-the-B2B-Software-Buying-Journey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>G2 Report: AI Now Means &#x27;Always Included,&#x27; Disrupting All...14 May 2025 — Generative AI chatbots (17%) and software review sites (15%) a...</p></details>
    Published: May 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/godardabel_love-seeing-g2-rank-4th-among-the-top-10-activity-7355987421160763392-K7V3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/godardabel_love-seeing-g2-rank-4th-among-the-top-10-activity-7355987421160763392-K7V3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>G2 ranked 4th in ChatGPT and 9th in Perplexity studyG2 ranked 4th in ChatGPT and 9th in Perplexity study... Love seeing G2 rank 4th amon...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/godardabel_love-seeing-g2-rank-4th-among-the-top-10-activity-7355987421160763392-K7V3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/godardabel_love-seeing-g2-rank-4th-among-the-top-10-activity-7355987421160763392-K7V3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>G2 ranked 4th in ChatGPT and 9th in Perplexity studyG2 ranked 4th in ChatGPT and 9th in Perplexity study... Love seeing G2 rank 4th amon...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/news-releases/new-g2-research-half-of-b2b-software-buyers-now-start-their-research-with-ai-chatbots-302742807.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/new-g2-research-half-of-b2b-software-buyers-now-start-their-research-with-ai-chatbots-302742807.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New G2 Research: Half of B2B Software Buyers Now Start...15 Apr 2026 — Half (51%) of B2B software buyers now begin their software resear...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/new-g2-research-half-of-b2b-software-buyers-now-start-their-research-with-ai-chatbots-302742807.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/new-g2-research-half-of-b2b-software-buyers-now-start-their-research-with-ai-chatbots-302742807.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New G2 Research: Half of B2B Software Buyers Now Start...15 Apr 2026 — Half (51%) of B2B software buyers now begin their software resear...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: textbroker.co.uk  
-   Link: <a href="https://www.textbroker.co.uk/ai-content-put-to-the-test-what-the-update-to-googles-quality-rater-guidelines-means-for-your-seo" target="_blank" rel="noopener noreferrer nofollow">https://www.textbroker.co.uk/ai-content-put-to-the-test-what-the-update-to-googles-quality-rater-guidelines-means-for-your-seo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI content put to the test: What the update to Google&#x27;s...12 Jun 2025 — Google regularly updates its Search Quality Evaluation Guidelines...</p></details>
+   Link:<a href="https://www.textbroker.co.uk/ai-content-put-to-the-test-what-the-update-to-googles-quality-rater-guidelines-means-for-your-seo" target="_blank" rel="noopener noreferrer nofollow">https://www.textbroker.co.uk/ai-content-put-to-the-test-what-the-update-to-googles-quality-rater-guidelines-means-for-your-seo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI content put to the test: What the update to Google&#x27;s...12 Jun 2025 — Google regularly updates its Search Quality Evaluation Guidelines...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jeffrosset_just-read-g2s-2025-buyer-behavior-report-activity-7354859899811483651-lGAb" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jeffrosset_just-read-g2s-2025-buyer-behavior-report-activity-7354859899811483651-lGAb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just read G2&#x27;s 2025 Buyer Behavior Report. | Jeff RossetHow AI is changing software buying behavior: insights from G2&#x27;s report... *Buyer...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jeffrosset_just-read-g2s-2025-buyer-behavior-report-activity-7354859899811483651-lGAb" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jeffrosset_just-read-g2s-2025-buyer-behavior-report-activity-7354859899811483651-lGAb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just read G2&#x27;s 2025 Buyer Behavior Report. | Jeff RossetHow AI is changing software buying behavior: insights from G2&#x27;s report... *Buyer...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
    Title: godardabel ai now stands for 𝘼𝙡𝙬𝙖𝙮𝙨 𝙄𝙣𝙘𝙡𝙪 activity 7328505666740858881 yxqU  
-   Link: <a href="https://www.linkedin.com/posts/godardabel_ai-now-stands-for-%F0%9D%98%BC%F0%9D%99%A1%F0%9D%99%AC%F0%9D%99%96%F0%9D%99%AE%F0%9D%99%A8-%F0%9D%99%84%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%A1%F0%9D%99%AA-activity-7328505666740858881-yxqU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/godardabel_ai-now-stands-for-%F0%9D%98%BC%F0%9D%99%A1%F0%9D%99%AC%F0%9D%99%96%F0%9D%99%AE%F0%9D%99%A8-%F0%9D%99%84%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%A1%F0%9D%99%AA-activity-7328505666740858881-yxqU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI is redefining the buying journey: G2 2025 Report4 of 5 buyers reported positive returns on their AI-powered software investments. More...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/godardabel_ai-now-stands-for-%F0%9D%98%BC%F0%9D%99%A1%F0%9D%99%AC%F0%9D%99%96%F0%9D%99%AE%F0%9D%99%A8-%F0%9D%99%84%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%A1%F0%9D%99%AA-activity-7328505666740858881-yxqU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/godardabel_ai-now-stands-for-%F0%9D%98%BC%F0%9D%99%A1%F0%9D%99%AC%F0%9D%99%96%F0%9D%99%AE%F0%9D%99%A8-%F0%9D%99%84%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%A1%F0%9D%99%AA-activity-7328505666740858881-yxqU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI is redefining the buying journey: G2 2025 Report4 of 5 buyers reported positive returns on their AI-powered software investments. More...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/g2esports" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/g2esports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>G2 EsportsG2 Esports is a World Premier Esports Club representing some of the best competitive players around the globe. It was built wit...</p></details>
+   Link:<a href="https://www.youtube.com/g2esports" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/g2esports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>G2 EsportsG2 Esports is a World Premier Esports Club representing some of the best competitive players around the globe. It was built wit...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: demandgenreport.com  
    Title: half of b2b software buyers now start their research with ai chatbots g2  
-   Link: <a href="https://www.demandgenreport.com/industry-news/news-brief/half-of-b2b-software-buyers-now-start-their-research-with-ai-chatbots-g2/52737/" target="_blank" rel="noopener noreferrer nofollow">https://www.demandgenreport.com/industry-news/news-brief/half-of-b2b-software-buyers-now-start-their-research-with-ai-chatbots-g2/52737/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Half of B2B Software Buyers Now Start Their Research with...4 May 2026 — G2 found 51% of B2B software buyers now start their research wi...</p></details>
+   Link:<a href="https://www.demandgenreport.com/industry-news/news-brief/half-of-b2b-software-buyers-now-start-their-research-with-ai-chatbots-g2/52737/" target="_blank" rel="noopener noreferrer nofollow">https://www.demandgenreport.com/industry-news/news-brief/half-of-b2b-software-buyers-now-start-their-research-with-ai-chatbots-g2/52737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Half of B2B Software Buyers Now Start Their Research with...4 May 2026 — G2 found 51% of B2B software buyers now start their research wi...</p></details>
    Published: May 2026  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hobo-web.co.uk  
    Title: Learn SEO strategies for creating people-first content and achieving  
-   Link: <a href="https://www.hobo-web.co.uk/the-google-helpful-content-update-and-its-relevance-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.hobo-web.co.uk/the-google-helpful-content-update-and-its-relevance-in-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Google Helpful Content Update And Its Relevance in...Mar 30, 2026 — Explore the Google Helpful Content Update&#x27;s ongoing relevance in...</p></details>
+   Link:<a href="https://www.hobo-web.co.uk/the-google-helpful-content-update-and-its-relevance-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.hobo-web.co.uk/the-google-helpful-content-update-and-its-relevance-in-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Google Helpful Content Update And Its Relevance in...Mar 30, 2026 — Explore the Google Helpful Content Update&#x27;s ongoing relevance in...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-google/
 description: Focused pages that expand on Spam Risk.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_google_spam_policy_r_5dda1d
 parent_title: Spam Risk
@@ -16,7 +16,7 @@ parent_permalink: /spam-risk/
 
 # Explore Topics in Spam Risk
 
-The following pages expand on the main **[Spam Risk]({{ '/spam-risk/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Spam Risk]({{ '/spam-risk/' | relative_url }})** page and cover its key branches in.
 
 - [Copied Feeds]({{ '/copied-feeds/' | relative_url }})
 - [Defensible Pages]({{ '/defensible-pages/' | relative_url }})

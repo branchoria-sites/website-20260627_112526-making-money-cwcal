@@ -447,17 +447,17 @@ image: /assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329-ov
 
 ## Introduction
 
-Thin affiliate pages fail in search because they usually answer the publisher’s revenue goal more clearly than the reader’s buying problem. A page that copies a merchant description, adds a few generic pros and cons, and places tracked links beside “buy now” buttons gives search engines little reason to rank it above the merchant, a serious reviewer, a retailer with verified [reviews]({{ 'reviews/' | relative_url }}), or a comparison tool with original data. Google’s own spam policy describes “thin affiliation” as [affiliate content]({{ 'content-mix/' | relative_url }}) where product descriptions or reviews are copied from the original merchant without original content or added value, especially when the same material is repeated across many sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers Spam Policies for Google Web Search</span><span class="citation-popover-snippet">merchant without any original content or added value. Affiliate pages can be considered thin if they are a part of a program that distrib...</span></span></span>
+Thin affiliate pages fail in search because they usually answer the publisher’s revenue goal more clearly than the reader’s buying problem. A page that copies a merchant description, adds a few generic pros and cons, and places tracked links beside “buy now” buttons gives search engines little reason to rank it above the merchant, a serious reviewer, a retailer with verified [reviews]({{ 'reviews/' | relative_url }}), or a comparison tool with original data. Google’s own spam policy describes “thin affiliation” as [affiliate content]({{ 'content-mix/' | relative_url }}) where product descriptions or reviews are copied from the original merchant without original content or added value, especially when the same material is repeated across many sites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers Spam Policies for Google Web Search</span><span class="citation-popover-snippet">merchant without any original content or added value. Affiliate pages can be considered thin if they are a part of a program that distrib...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329-overview.webp" | relative_url }}" alt="Overview image for Thin Pages" loading="eager" decoding="sync" fetchpriority="high">
-That matters for anyone trying to make money from websites containing affiliate links. The affiliate link itself is not the core problem. The risk is building pages whose only distinct feature is monetisation. Search systems increasingly reward pages that show judgement, [testing]({{ 'testing/' | relative_url }}), experience, comparison, transparency, and usefulness beyond a merchant listing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+That matters for anyone trying to make money from websites containing affiliate links. The affiliate link itself is not the core problem. The risk is building pages whose only distinct feature is monetisation. Search systems increasingly reward pages that show judgement, [testing]({{ 'testing/' | relative_url }}), experience, comparison, transparency, and usefulness beyond a merchant listing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
 ## What Makes an Affiliate Page “Thin”?
 
 A thin affiliate page is not simply a short page. A concise review can be useful if it gives clear, [evidence]({{ 'evidence/' | relative_url }})-based judgement. A long page can still be thin if it pads out copied specifications, repeats marketing claims, and avoids saying anything that could only come from genuine evaluation.
 
-Google’s spam documentation gives a practical definition: thin affiliation involves publishing affiliate-linked product content where descriptions or reviews are copied directly from the merchant without original content or added value. It also warns about affiliate programmes that distribute similar content across networks, creating cookie-cutter pages across domains, languages, or sections of the same site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers Spam Policies for Google Web Search</span><span class="citation-popover-snippet">merchant without any original content or added value. Affiliate pages can be considered thin if they are a part of a program that distrib...</span></span></span>
+Google’s spam documentation gives a practical definition: thin affiliation involves publishing affiliate-linked product content where descriptions or reviews are copied directly from the merchant without original content or added value. It also warns about affiliate programmes that distribute similar content across networks, creating cookie-cutter pages across domains, languages, or sections of the same site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers Spam Policies for Google Web Search</span><span class="citation-popover-snippet">merchant without any original content or added value. Affiliate pages can be considered thin if they are a part of a program that distrib...</span></span></span>
 
 In practice, thinness often shows up as a pattern:
 
@@ -478,13 +478,13 @@ This is why “thin” is better understood as an absence of independent value t
 <img src="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329-Illustration-1-dark.svg" | relative_url }}" alt="Thin Pages illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Duplicate Merchant Descriptions Create a Search Problem
 
-Thin affiliate pages fail because they create duplication at exactly the point where search engines need differentiation. If dozens of sites publish the same product summary, the search result becomes repetitive. Google’s policy explicitly frames this as a poor user experience: if several results all show the same content, thin affiliate pages make the results page frustrating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers Spam Policies for Google Web Search</span><span class="citation-popover-snippet">merchant without any original content or added value. Affiliate pages can be considered thin if they are a part of a program that distrib...</span></span></span>
+Thin affiliate pages fail because they create duplication at exactly the point where search engines need differentiation. If dozens of sites publish the same product summary, the search result becomes repetitive. Google’s policy explicitly frames this as a poor user experience: if several results all show the same content, thin affiliate pages make the results page frustrating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers Spam Policies for Google Web Search</span><span class="citation-popover-snippet">merchant without any original content or added value. Affiliate pages can be considered thin if they are a part of a program that distrib...</span></span></span>
 
 The issue is not only legal or technical duplicate content. It is usefulness duplication. A merchant page can already provide the product description, specifications, price, delivery information, warranty, and official images. A retailer can add stock status and verified buyer reviews. A marketplace can show price comparisons and return policies. A thin affiliate page that repeats the same information sits awkwardly between them: it is less authoritative than the merchant and less useful than a serious independent review.
 
 For example, a thin “best air purifiers” page might list CADR, room size, filter type, noise level, and price. Those facts are useful, but they are not enough if they are copied from retailer listings. A stronger affiliate page would explain how noisy the purifier is at the setting someone actually uses while sleeping, how often filters need replacing under normal household use, whether the app is annoying, whether the unit is practical to move between rooms, and how its long-term running cost compares with alternatives. That is the difference between repeating a catalogue and helping a reader choose.
 
-Google’s product reviews guidance has pushed in the same direction for years. Its April 2021 product reviews update was designed to reward reviews that share in-depth research rather than thin content that simply summarises products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...Apr 8, 2021 — We&#x27;re sharing an improvement to our ranking sys...</span><span class="citation-popover-meta">Published: April 2021</span></span></span> Later review guidance encouraged evidence such as quantitative measurements, discussion of benefits and drawbacks based on original research, comparison with alternatives, and explanation of what sets a product apart. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update and your site</span><span class="citation-popover-snippet">Google for DevelopersDecember 2021 Product reviews update and your site1 Dec 2021 — We are now rolling out a new update, the first major...</span><span class="citation-popover-meta">Published: December 2021</span></span></span>
+Google’s product reviews guidance has pushed in the same direction for years. Its April 2021 product reviews update was designed to reward reviews that share in-depth research rather than thin content that simply summarises products.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...Apr 8, 2021 — We&#x27;re sharing an improvement to our ranking sys...</span><span class="citation-popover-meta">Published: April 2021</span></span></span> Later review guidance encouraged evidence such as quantitative measurements, discussion of benefits and drawbacks based on original research, comparison with alternatives, and explanation of what sets a product apart.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update and your site</span><span class="citation-popover-snippet">Google for DevelopersDecember 2021 Product reviews update and your site1 Dec 2021 — We are now rolling out a new update, the first major...</span><span class="citation-popover-meta">Published: December 2021</span></span></span>
 
 ## Weak Value Makes the Page Replaceable
 
@@ -492,7 +492,7 @@ The commercial danger of a thin affiliate page is that it is easy to replace. Se
 
 A page becomes replaceable when it has no defensible editorial asset. It has no original test data, no expert judgement, no photos, no long-term usage notes, no reader-specific decision framework, no price history, no failure analysis, and no distinctive explanation. Once many publishers can produce the same page with the same merchant feed, search visibility becomes fragile.
 
-This fragility has become more obvious as Google has sharpened its public guidance around helpful content. Google says its ranking systems are designed to prioritise helpful, reliable information created to benefit people, not content created primarily to manipulate search [rankings]({{ 'rankings/' | relative_url }}). Its self-assessment questions ask whether content provides original information, reporting, research, or analysis, and whether it avoids simply copying or rewriting other sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
+This fragility has become more obvious as Google has sharpened its public guidance around helpful content. Google says its ranking systems are designed to prioritise helpful, reliable information created to benefit people, not content created primarily to manipulate search [rankings]({{ 'rankings/' | relative_url }}). Its self-assessment questions ask whether content provides original information, reporting, research, or analysis, and whether it avoids simply copying or rewriting other sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span>
 
 For affiliate publishers, that turns “added value” into a practical ranking protection. The more a page contains evidence that cannot be scraped from the merchant, the harder it is to replace with a generic roundup. Useful value can include:
 
@@ -520,7 +520,7 @@ None of these automatically guarantees rankings. But without them, the page is c
 
 Affiliate content often fails because it asks the reader to trust a recommendation without showing how that recommendation was reached. A good review page does more than state a conclusion. It makes the reasoning visible.
 
-Google’s review guidance has repeatedly emphasised first-hand evidence and original analysis. Its product review update announcement said people value reviews with in-depth research rather than thin summaries, and its later guidance encouraged evidence of experience, comparisons with competitors, and discussion of what makes a product different from alternatives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...Apr 8, 2021 — We&#x27;re sharing an improvement to our ranking sys...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
+Google’s review guidance has repeatedly emphasised first-hand evidence and original analysis. Its product review update announcement said people value reviews with in-depth research rather than thin summaries, and its later guidance encouraged evidence of experience, comparisons with competitors, and discussion of what makes a product different from alternatives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...Apr 8, 2021 — We&#x27;re sharing an improvement to our ranking sys...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 
 That is especially important for “best” pages. A page titled “Best Budget Coffee Grinders” is making a judgement call. Readers need to know the criteria: grind consistency, repairability, noise, mess, speed, warranty, availability of replacement burrs, and suitability for espresso versus filter coffee. Without those criteria, “best” usually means “best commission”, “best-known brand”, or “best keyword fit” in the reader’s mind.
 
@@ -530,7 +530,7 @@ A useful affiliate page protects itself by showing its work. It might say that a
 
 Helpful content protects rankings indirectly: it reduces the gap between what the page promises in search and what the reader actually gets after clicking. Thin pages often target high-intent queries such as “best laptop for students”, “best protein powder”, or “best web hosting for beginners”, but then provide a generic answer that does not resolve the decision.
 
-Google’s helpful content guidance is built around this satisfaction gap. It advises creators to ask whether readers would leave feeling they had enough information to achieve their goal, and whether the content seems written for people rather than primarily to attract search visits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span> For affiliate sites, this means the page must help the reader make a better buying decision even if they never click the affiliate link.
+Google’s helpful content guidance is built around this satisfaction gap. It advises creators to ask whether readers would leave feeling they had enough information to achieve their goal, and whether the content seems written for people rather than primarily to attract search visits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</span></span></span> For affiliate sites, this means the page must help the reader make a better buying decision even if they never click the affiliate link.
 
 That may sound commercially uncomfortable, but it is exactly where durable affiliate content earns trust. A page that tells some readers not to buy is often more credible than a page that pushes every visitor towards a purchase. For instance, a hosting review that explains when a cheap shared hosting plan is unsuitable for an e-commerce site may lose one commission but gain authority. A mattress comparison that explains return-policy traps, firmness mismatch, and delivery [constraints]({{ 'constraints/' | relative_url }}) is more useful than one that merely ranks the highest-paying brands.
 
@@ -540,9 +540,9 @@ Helpful content also creates resilience beyond one page. If a site consistently 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329-Illustration-2-dark.svg" | relative_url }}" alt="Thin Pages illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Affiliate Links Are Not the Main Offence
 
-A common misunderstanding is that Google punishes a page simply because it contains affiliate links. Google’s thin-affiliation policy says the opposite by implication: not every site participating in an affiliate programme is thin, and good affiliate pages can add value through price information, original reviews, testing, ratings, navigation, and comparisons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers Spam Policies for Google Web Search</span><span class="citation-popover-snippet">merchant without any original content or added value. Affiliate pages can be considered thin if they are a part of a program that distrib...</span></span></span>
+A common misunderstanding is that Google punishes a page simply because it contains affiliate links. Google’s thin-affiliation policy says the opposite by implication: not every site participating in an affiliate programme is thin, and good affiliate pages can add value through price information, original reviews, testing, ratings, navigation, and comparisons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers Spam Policies for Google Web Search</span><span class="citation-popover-snippet">merchant without any original content or added value. Affiliate pages can be considered thin if they are a part of a program that distrib...</span></span></span>
 
-The link handling still matters. Google advises site owners to qualify paid or sponsored outbound links with `rel="sponsored"`, with `nofollow` still acceptable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span> In the UK, the Advertising Standards Authority also describes affiliate marketing as a commercial arrangement where an affiliate is rewarded for customers attracted through their marketing, usually through clickthroughs or sales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span> Clear disclosure is part of trust, even though disclosure alone does not make a thin page useful.
+The link handling still matters. Google advises site owners to qualify paid or sponsored outbound links with `rel="sponsored"`, with `nofollow` still acceptable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span> In the UK, the Advertising Standards Authority also describes affiliate marketing as a commercial arrangement where an affiliate is rewarded for customers attracted through their marketing, usually through clickthroughs or sales.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span> Clear disclosure is part of trust, even though disclosure alone does not make a thin page useful.
 
 The real distinction is editorial independence. A page can be commercially monetised and still be useful if the reader can see independent judgement. Conversely, a page can disclose its affiliate relationship perfectly and still fail in search if it adds nothing beyond a merchant feed.
 
@@ -551,11 +551,11 @@ The real distinction is editorial independence. A page can be commercially monet
 
 ## Why Thin Sites Can Disappear Suddenly
 
-Thin affiliate sites often appear stable until a ranking update, competitor improvement, or manual review exposes how little unique value they have. Google’s Search Console manual actions documentation directs site owners with relevant penalties to review spam policies including thin affiliate pages, scraped content, and doorways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Manual actions report</span><span class="citation-popover-snippet">Help Manual actions report</span></span></span> Google’s core update guidance also tells site owners to assess whether their content is genuinely helpful when traffic changes correlate with broad updates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/appearance/core-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
+Thin affiliate sites often appear stable until a ranking update, competitor improvement, or manual review exposes how little unique value they have. Google’s Search Console manual actions documentation directs site owners with relevant penalties to review spam policies including thin affiliate pages, scraped content, and doorways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Manual actions report</span><span class="citation-popover-snippet">Help Manual actions report</span></span></span> Google’s core update guidance also tells site owners to assess whether their content is genuinely helpful when traffic changes correlate with broad updates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/appearance/core-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
 
 The visible effect can be dramatic because affiliate revenue is highly dependent on ranking position. A product roundup that moves from the top three results to the second page may not merely lose some visibility; it may lose most of its commercial value. That is why thin affiliate strategies feel profitable until they suddenly do not.
 
-Recent publisher debates show that even sites claiming original testing can be vulnerable when Google reshuffles review results, favours stronger brands, or changes how it interprets usefulness. HouseFresh, an air purifier review site that publishes original tests, reported losing more than 90% of Google traffic after 2024 search changes, a case also covered by The Verge and Search Engine Land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://housefresh.com/how-google-decimated-housefresh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: housefresh.com">[HouseFresh+2The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">housefresh.com</span><span class="citation-popover-snippet">Open source on housefresh.com.</span></span></span> That example is not proof that HouseFresh was thin; if anything, it shows a harder reality. If even testing-led review sites can suffer in volatile search results, pages with no original evidence are far more exposed.
+Recent publisher debates show that even sites claiming original testing can be vulnerable when Google reshuffles review results, favours stronger brands, or changes how it interprets usefulness. HouseFresh, an air purifier review site that publishes original tests, reported losing more than 90% of Google traffic after 2024 search changes, a case also covered by The Verge and Search Engine Land.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://housefresh.com/how-google-decimated-housefresh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: housefresh.com">[HouseFresh+2The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">housefresh.com</span><span class="citation-popover-snippet">Open source on housefresh.com.</span></span></span> That example is not proof that HouseFresh was thin; if anything, it shows a harder reality. If even testing-led review sites can suffer in volatile search results, pages with no original evidence are far more exposed.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w3-obcXkyA4" title="Thin content with little or no added value" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer">Thin content with little or no added value</a></p><p class="youtube-embed-meta">Channel: Google Search Central &middot; Views: 179.9K &middot; Uploaded: August 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w3-obcXkyA4">Open on YouTube</a></p></div></div></div>
@@ -593,194 +593,194 @@ Thin affiliate pages fail because they are easy for search engines to classify a
 The safer model is not “write longer reviews”. It is to build pages around evidence: what was tested, what was compared, what was learned, what changed the recommendation, and what kind of buyer should walk away. Search engines increasingly reward that kind of value because it protects the searcher from a results page full of identical commission-driven pages. For affiliate website owners, the lesson is blunt but useful: the page must deserve to rank before it deserves to earn.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Thin Affiliate Sites Disappear?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Thin Affiliate Sites Disappear?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Product-Led SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OcdkzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Product-Led SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Product-Led SEO">Product-Led SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eli Schwartz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Product-Led SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OcdkzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Product-Led SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Product-Led SEO">Product-Led SEO</a>
+</h4>
+<p class="fr-book-author">By Eli Schwartz</p>
         
-        <p class="fr-book-desc">Explains how to create genuinely useful, search-driven content instead of thin pages that exist primarily to monetize.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to create genuinely useful, search-driven content instead of thin pages that exist primarily to monetize.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Product-Led+SEO+by+Eli+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
+</h4>
+<p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
         
-        <p class="fr-book-desc">Provides comprehensive guidance on building high-quality websites that earn search visibility through value rather than duplication.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comprehensive guidance on building high-quality websites that earn search visibility through value rather than duplication.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
-        </h4>
-        <p class="fr-book-author">By Andy Crestodina</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfGUtQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Chemistry">Content Chemistry</a>
+</h4>
+<p class="fr-book-author">By Andy Crestodina</p>
         
-        <p class="fr-book-desc">Focuses on creating original, useful content that differentiates a site from merchant descriptions and thin affiliate pages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on creating original, useful content that differentiates a site from merchant descriptions and thin affiliate pages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Content+Chemistry+by+Andy+Crestodina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Helps publishers produce clear, original writing that adds value beyond copied product copy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps publishers produce clear, original writing that adds value beyond copied product copy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Product+Led+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Product Led SEO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Chemistry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Product+Led+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Product Led SEO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Chemistry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/e7375b7c45af2097bc76.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/824ec0ed09e82ffcc375.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable"><img src="{{ '/assets/images/marketplace-covers/824ec0ed09e82ffcc375.jpg' | relative_url }}" alt="Listing image for PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">PULUZ 40cm Photo Studio Light Box for Product Photography with 3 Color Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm"><img src="{{ '/assets/images/marketplace-covers/d09e7e7a40c101faf0a9.jpg' | relative_url }}" alt="Listing image for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm"><img src="{{ '/assets/images/marketplace-covers/d09e7e7a40c101faf0a9.jpg' | relative_url }}" alt="Listing image for Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">Photo Studio Light Box Tent | Portable Product Photography Kit | 45x45cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display"><img src="{{ '/assets/images/marketplace-covers/f218f705ef7c014f23ec.jpg' | relative_url }}" alt="Listing image for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search <span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display"><img src="{{ '/assets/images/marketplace-covers/f218f705ef7c014f23ec.jpg' | relative_url }}" alt="Listing image for 40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">40cm Photography RGB LED Light Box Studio Photo Shooting For Product Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for product photography light box">Search<span data-ebay-domain-label>eBay.co.uk</span>: product photography light box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=product+photography+light+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="product photography light box" data-ebay-reference="thin-pages-why-do-thin-affiliate-sites-disappear-making-money-from-product-photography-light-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -796,7 +796,7 @@ The safer model is not “write longer reviews”. It is to build pages around e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -816,7 +816,7 @@ The safer model is not “write longer reviews”. It is to build pages around e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -848,7 +848,7 @@ The safer model is not “write longer reviews”. It is to build pages around e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -900,7 +900,7 @@ The safer model is not “write longer reviews”. It is to build pages around e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -945,7 +945,7 @@ The safer model is not “write longer reviews”. It is to build pages around e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -986,196 +986,196 @@ The safer model is not “write longer reviews”. It is to build pages around e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
    Title: for Developers Spam Policies for Google Web Search  
-   Link: <a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>merchant without any original content or added value. Affiliate pages can be considered thin if they are a part of a program that distrib...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>merchant without any original content or added value. Affiliate pages can be considered thin if they are a part of a program that distrib...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: developers.google.com  
    Title: product reviews update  
-   Link: <a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...Apr 8, 2021 — We&#x27;re sharing an improvement to our ranking sys...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...Apr 8, 2021 — We&#x27;re sharing an improvement to our ranking sys...</p></details>
    Published: April 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: developers.google.com  
    Title: product reviews update and your site  
-   Link: <a href="https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersDecember 2021 Product reviews update and your site1 Dec 2021 — We are now rolling out a new update, the first major...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersDecember 2021 Product reviews update and your site1 Dec 2021 — We are now rolling out a new update, the first major...</p></details>
    Published: December 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links</a>  
+   Link:<a href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+   Link:<a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: support.google.com  
    Title: Help Manual actions report  
-   Link: <a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/appearance/core-updates" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/core-updates</a>  
+   Link:<a href="https://developers.google.com/search/docs/appearance/core-updates" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/core-updates</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: housefresh.com  
-   Link: <a href="https://housefresh.com/how-google-decimated-housefresh/" target="_blank" rel="noopener noreferrer nofollow">https://housefresh.com/how-google-decimated-housefresh/</a>  
+   Link:<a href="https://housefresh.com/how-google-decimated-housefresh/" target="_blank" rel="noopener noreferrer nofollow">https://housefresh.com/how-google-decimated-housefresh/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+   Link:<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: developers.google.com  
    Title: helpful content update  
-   Link: <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/helpful-content-update</a>  
+   Link:<a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/helpful-content-update</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: support.google.com  
    Title: low traffic affiliate site what can i do better  
-   Link: <a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: support.google.com  
    Title: is affiliate marketing dead  
-   Link: <a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/303787486/websites-no-longer-indexed-on-google-flagged-for-thin-content-with-little-or-no-added-value?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/303787486/websites-no-longer-indexed-on-google-flagged-for-thin-content-with-little-or-no-added-value?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/303787486/websites-no-longer-indexed-on-google-flagged-for-thin-content-with-little-or-no-added-value?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/303787486/websites-no-longer-indexed-on-google-flagged-for-thin-content-with-little-or-no-added-value?hl=en</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: developers.google.com  
    Title: search quality rater guidelines update  
-   Link: <a href="https://developers.google.com/search/blog/2023/11/search-quality-rater-guidelines-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2023/11/search-quality-rater-guidelines-update</a>  
+   Link:<a href="https://developers.google.com/search/blog/2023/11/search-quality-rater-guidelines-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2023/11/search-quality-rater-guidelines-update</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: support.google.com  
    Title: sponsored links rel attribute  
-   Link: <a href="https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: support.google.com  
    Title: affiliate disclosure information  
-   Link: <a href="https://support.google.com/webmasters/thread/157311520/affiliate-disclosure-information?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/157311520/affiliate-disclosure-information?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/157311520/affiliate-disclosure-information?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/157311520/affiliate-disclosure-information?hl=en</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: housefresh.com  
-   Link: <a href="https://housefresh.com/david-vs-digital-goliaths/" target="_blank" rel="noopener noreferrer nofollow">https://housefresh.com/david-vs-digital-goliaths/</a>  
+   Link:<a href="https://housefresh.com/david-vs-digital-goliaths/" target="_blank" rel="noopener noreferrer nofollow">https://housefresh.com/david-vs-digital-goliaths/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: housefresh.com  
    Title: finding helpful content in an enshittified google  
-   Link: <a href="https://housefresh.com/finding-helpful-content-in-an-enshittified-google/" target="_blank" rel="noopener noreferrer nofollow">https://housefresh.com/finding-helpful-content-in-an-enshittified-google/</a>  
+   Link:<a href="https://housefresh.com/finding-helpful-content-in-an-enshittified-google/" target="_blank" rel="noopener noreferrer nofollow">https://housefresh.com/finding-helpful-content-in-an-enshittified-google/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: keyword.com  
    Title: affiliate links seo rankings  
-   Link: <a href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow">https://keyword.com/blog/affiliate-links-seo-rankings/</a>  
+   Link:<a href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow">https://keyword.com/blog/affiliate-links-seo-rankings/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theverge.com  
    Title: google search seo publishing housefresh product reviews  
-   Link: <a href="https://www.theverge.com/2024/5/2/24147152/google-search-seo-publishing-housefresh-product-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2024/5/2/24147152/google-search-seo-publishing-housefresh-product-reviews</a>  
+   Link:<a href="https://www.theverge.com/2024/5/2/24147152/google-search-seo-publishing-housefresh-product-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2024/5/2/24147152/google-search-seo-publishing-housefresh-product-reviews</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: blog.google  
    Title: google search update march 2024  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/</a>  
+   Link:<a href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/</a>  
    Published: march 2024  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: blog.google  
    Title: overview our rater guidelines search  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/overview-our-rater-guidelines-search/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/overview-our-rater-guidelines-search/</a>  
+   Link:<a href="https://blog.google/products-and-platforms/products/search/overview-our-rater-guidelines-search/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/overview-our-rater-guidelines-search/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: goup.co.uk  
-   Link: <a href="https://www.goup.co.uk/guides/spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.goup.co.uk/guides/spam/</a>  
+   Link:<a href="https://www.goup.co.uk/guides/spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.goup.co.uk/guides/spam/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: upwardengine.com  
    Title: google helpful content update ultimate guide  
-   Link: <a href="https://upwardengine.com/blog/google-helpful-content-update-ultimate-guide/" target="_blank" rel="noopener noreferrer nofollow">https://upwardengine.com/blog/google-helpful-content-update-ultimate-guide/</a>  
+   Link:<a href="https://upwardengine.com/blog/google-helpful-content-update-ultimate-guide/" target="_blank" rel="noopener noreferrer nofollow">https://upwardengine.com/blog/google-helpful-content-update-ultimate-guide/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: seo-kueche.de  
    Title: thin content  
-   Link: <a href="https://www.seo-kueche.de/lexikon/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.seo-kueche.de/lexikon/thin-content/</a>  
+   Link:<a href="https://www.seo-kueche.de/lexikon/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.seo-kueche.de/lexikon/thin-content/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ecomranker.com  
    Title: google helpful content update 2026 guide  
-   Link: <a href="https://ecomranker.com/google-helpful-content-update-2026-guide/" target="_blank" rel="noopener noreferrer nofollow">https://ecomranker.com/google-helpful-content-update-2026-guide/</a>  
+   Link:<a href="https://ecomranker.com/google-helpful-content-update-2026-guide/" target="_blank" rel="noopener noreferrer nofollow">https://ecomranker.com/google-helpful-content-update-2026-guide/</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Thin content (and why quality content matters) | Sustainable Monetized Websites  
-   Link: <a href="https://www.youtube.com/watch?v=ZLTz3KRsy4k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZLTz3KRsy4k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Killed Affiliate Marketing. Do THIS Instead...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZLTz3KRsy4k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZLTz3KRsy4k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Killed Affiliate Marketing. Do THIS Instead...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: What Is Thin Content? SEO Fail & Ad Network Kiss of Death  
-   Link: <a href="https://www.youtube.com/watch?v=ASRopdQzwbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ASRopdQzwbs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Steps to Fix a Failing Website [Start Ranking]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ASRopdQzwbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ASRopdQzwbs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Steps to Fix a Failing Website [Start Ranking]...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Google Killed Affiliate Marketing. Do THIS Instead!  
-   Link: <a href="https://www.youtube.com/watch?v=5tmRy4G7HfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tmRy4G7HfA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Thin Content? SEO Fail &amp; Ad Network Kiss of Death...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5tmRy4G7HfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tmRy4G7HfA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Thin Content? SEO Fail &amp; Ad Network Kiss of Death...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: impact.com  
-   Link: <a href="https://impact.com/influencer/ai-overview-content-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/influencer/ai-overview-content-strategy/</a>  
+   Link:<a href="https://impact.com/influencer/ai-overview-content-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/influencer/ai-overview-content-strategy/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: impact.com  
-   Link: <a href="https://impact.com/affiliate/protect-brand-reputation-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/protect-brand-reputation-affiliate-marketing/</a>  
+   Link:<a href="https://impact.com/affiliate/protect-brand-reputation-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/protect-brand-reputation-affiliate-marketing/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: x.com  
-   Link: <a href="https://x.com/CyrusShepard/status/1786089104373080508" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CyrusShepard/status/1786089104373080508</a>  
+   Link:<a href="https://x.com/CyrusShepard/status/1786089104373080508" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CyrusShepard/status/1786089104373080508</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: tetramarketing.io  
-   Link: <a href="https://www.tetramarketing.io/p/from-2k-traffic-to-350k-the-affiliate" target="_blank" rel="noopener noreferrer nofollow">https://www.tetramarketing.io/p/from-2k-traffic-to-350k-the-affiliate</a>  
+   Link:<a href="https://www.tetramarketing.io/p/from-2k-traffic-to-350k-the-affiliate" target="_blank" rel="noopener noreferrer nofollow">https://www.tetramarketing.io/p/from-2k-traffic-to-350k-the-affiliate</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/umair64300_seo-googlespampolicy-backbuttonhijacking-activity-7450176116406808576-JfxU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/umair64300_seo-googlespampolicy-backbuttonhijacking-activity-7450176116406808576-JfxU</a>  
+   Link:<a href="https://www.linkedin.com/posts/umair64300_seo-googlespampolicy-backbuttonhijacking-activity-7450176116406808576-JfxU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/umair64300_seo-googlespampolicy-backbuttonhijacking-activity-7450176116406808576-JfxU</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: impact.com  
-   Link: <a href="https://impact.com/commerce-content/googles-unhelpful-content-update/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/commerce-content/googles-unhelpful-content-update/</a>  
+   Link:<a href="https://impact.com/commerce-content/googles-unhelpful-content-update/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/commerce-content/googles-unhelpful-content-update/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/networkingforawesomepeople/posts/714015543853497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/networkingforawesomepeople/posts/714015543853497/</a>  
+   Link:<a href="https://www.facebook.com/groups/networkingforawesomepeople/posts/714015543853497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/networkingforawesomepeople/posts/714015543853497/</a>  

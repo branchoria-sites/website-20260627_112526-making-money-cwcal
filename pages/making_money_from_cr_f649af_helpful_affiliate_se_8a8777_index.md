@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-helpful/
 description: Focused pages that expand on SEO Guides.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_helpful_affiliate_se_8a8777
 parent_title: SEO Guides
@@ -16,7 +16,7 @@ parent_permalink: /seo-guides/
 
 # Explore Topics in SEO Guides
 
-The following pages expand on the main **[SEO Guides]({{ '/seo-guides/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[SEO Guides]({{ '/seo-guides/' | relative_url }})** page and cover its key branches in.
 
 - [Intent Fit]({{ '/intent-fit/' | relative_url }})
 - [Updates]({{ '/updates/' | relative_url }})

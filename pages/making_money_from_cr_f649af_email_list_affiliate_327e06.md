@@ -455,11 +455,11 @@ The practical idea is simple: use search, social, or referral traffic to earn th
 
 ## Owning a Repeat Audience
 
-Search traffic is rented attention. A website may rank today because its page is useful, technically sound, and aligned with the query, but the site owner does not control the search results page. Google’s spam policies also make clear that affiliate pages with little added value can be ranked lower or omitted from search results, especially when they mostly repeat merchant or network material rather than adding original value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
+Search traffic is rented attention. A website may rank today because its page is useful, technically sound, and aligned with the query, but the site owner does not control the search results page. Google’s spam policies also make clear that affiliate pages with little added value can be ranked lower or omitted from search results, especially when they mostly repeat merchant or network material rather than adding original value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</span></span></span>
 
 Email changes the risk profile. A subscriber has given the site permission to appear in their inbox, so the next visit does not depend entirely on a fresh ranking. This is especially valuable for affiliate websites because buying decisions are often not instant. Someone researching a coffee grinder, travel insurance policy, garden tool, or [software]({{ 'software/' | relative_url }}) subscription may compare options over days or weeks. A newsletter can keep the site present during that decision window with [updates]({{ 'updates/' | relative_url }}), explanations, and reminders.
 
-The value is not just “traffic”. It is warmer traffic. A returning subscriber already recognises the site’s voice, has seen its recommendations before, and may be more willing to click through to a detailed comparison or product review. That makes email a bridge between editorial trust and affiliate conversion. Industry analysis of publisher revenue diversification has also highlighted owned audiences, including email, as one response to a weaker reliance on search-driven affiliate traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flexoffers.com/blog/how-publishers-are-diversifying-revenue-beyond-search-traffic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flexoffers.com">[FlexOffers.com Affiliate Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flexoffers.com</span><span class="citation-popover-title">how publishers are diversifying revenue beyond search traffic</span><span class="citation-popover-snippet">Discover how publishers and creators are diversifying revenue through affiliate marketing and owned audiences...</span></span></span>
+The value is not just “traffic”. It is warmer traffic. A returning subscriber already recognises the site’s voice, has seen its recommendations before, and may be more willing to click through to a detailed comparison or product review. That makes email a bridge between editorial trust and affiliate conversion. Industry analysis of publisher revenue diversification has also highlighted owned audiences, including email, as one response to a weaker reliance on search-driven affiliate traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flexoffers.com/blog/how-publishers-are-diversifying-revenue-beyond-search-traffic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flexoffers.com">[FlexOffers.com Affiliate Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flexoffers.com</span><span class="citation-popover-title">how publishers are diversifying revenue beyond search traffic</span><span class="citation-popover-snippet">Discover how publishers and creators are diversifying revenue through affiliate marketing and owned audiences...</span></span></span>
 
 There is a further strategic benefit: email makes the site less exposed to single-channel shocks. Search updates, AI-generated answers, featured snippets, social algorithm changes, and merchant commission cuts can all affect affiliate income. A list cannot remove those risks, but it gives the publisher an asset that can be used across pages, offers, seasons, and even future products.
 
@@ -483,7 +483,7 @@ Examples that fit affiliate websites include:
 
 The strongest offers do two things at once. They help the reader now, and they signal the kind of recommendations the site will send later. A pet-care affiliate site might offer a guide to choosing flea treatment safely and then send monthly reminders about seasonal care. A software affiliate site might offer a free comparison checklist and then follow up with use-case-specific tool recommendations.
 
-This is different from simply collecting addresses to blast deals. The reader should understand what they will receive, how often they will receive it, and why it is worth letting the site into their inbox. Mailchimp’s email marketing guidance stresses that performance depends on relevant, engaging content and on measuring more than superficial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mailchimp.com/resources/common-rookie-mistakes-email-marketers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mailchimp.com">[Mailchimp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mailchimp.com</span><span class="citation-popover-snippet">Email Marketing Best Practices for SuccessIn this guide, we outline some of the email marketing best practices as well as common...</span></span></span>
+This is different from simply collecting addresses to blast deals. The reader should understand what they will receive, how often they will receive it, and why it is worth letting the site into their inbox. Mailchimp’s email marketing guidance stresses that performance depends on relevant, engaging content and on measuring more than superficial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mailchimp.com/resources/common-rookie-mistakes-email-marketers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mailchimp.com">[Mailchimp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mailchimp.com</span><span class="citation-popover-snippet">Email Marketing Best Practices for SuccessIn this guide, we outline some of the email marketing best practices as well as common...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06-Illustration-1-dark.svg" | relative_url }}" alt="Email illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -523,7 +523,7 @@ For an affiliate site, useful segments might include:
 
 This matters because affiliate recommendations can become annoying when they are poorly matched. A reader who subscribed for budget kitchen equipment may not welcome repeated emails about premium espresso machines. A software reader comparing free tools may not yet be ready for enterprise plans. Segmentation lets the site earn more clicks with fewer, better-targeted sends.
 
-Modern email platforms increasingly emphasise automation, personalisation, testing, and revenue tracking rather than bulk sending. Litmus reports that email ROI varies widely by programme quality, and points to factors such as list size, permission practices, testing, content, and analytics as drivers of performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.litmus.com/resources/email-marketing-roi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: litmus.com">[Litmus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">litmus.com</span><span class="citation-popover-snippet">Email Marketing ROI: What leads to better returns?On average, email drives an ROI of $36 for every dollar spent, higher than any ot...</span></span></span> TechRadar’s 2026 coverage of email marketing platforms makes a similar point: the strongest results usually come from segmentation, automation, testing, and connecting email data to sales or ecommerce systems, not from sending more campaigns for their own sake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/email-marketing-roi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar Email marketing ROI: How modern platforms turn campaigns into revenue</span><span class="citation-popover-snippet">While the average ROI for email marketing stands at $36–$42 per dollar spent, top-performing teams achieve much higher returns—often due...</span></span></span>
+Modern email platforms increasingly emphasise automation, personalisation, testing, and revenue tracking rather than bulk sending. Litmus reports that email ROI varies widely by programme quality, and points to factors such as list size, permission practices, testing, content, and analytics as drivers of performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.litmus.com/resources/email-marketing-roi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: litmus.com">[Litmus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">litmus.com</span><span class="citation-popover-snippet">Email Marketing ROI: What leads to better returns?On average, email drives an ROI of $36 for every dollar spent, higher than any ot...</span></span></span> TechRadar’s 2026 coverage of email marketing platforms makes a similar point: the strongest results usually come from segmentation, automation, testing, and connecting email data to sales or ecommerce systems, not from sending more campaigns for their own sake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/email-marketing-roi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar Email marketing ROI: How modern platforms turn campaigns into revenue</span><span class="citation-popover-snippet">While the average ROI for email marketing stands at $36–$42 per dollar spent, top-performing teams achieve much higher returns—often due...</span></span></span>
 
 ## Avoiding Over-Promotional Email
 
@@ -533,7 +533,7 @@ Over-promotion creates three problems. First, readers stop opening. Second, they
 
 A healthier pattern is to set an editorial ratio. For example, a weekly affiliate newsletter might include one main useful idea, one practical recommendation, and one link to a deeper guide. A monthly buying newsletter might focus heavily on products, but only because the reader signed up for buying help in the first place. The commercial intensity should match the promise made at sign-up.
 
-Affiliate email also needs clear disclosure. In the UK, the Advertising Standards Authority says affiliate marketing may need to be identifiable as advertising, depending on the content and arrangement, and its guidance includes emails among the forms where affiliate marketing has been considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">get yourself affiliated with the rules on affiliate marketing</span></span></span> In the US, the Federal Trade Commission says consumers may not understand vague wording such as “affiliate link” by itself, while clearer wording such as “paid link” beside an affiliate link can be adequate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span></span></span>
+Affiliate email also needs clear disclosure. In the UK, the Advertising Standards Authority says affiliate marketing may need to be identifiable as advertising, depending on the content and arrangement, and its guidance includes emails among the forms where affiliate marketing has been considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">get yourself affiliated with the rules on affiliate marketing</span></span></span> In the US, the Federal Trade Commission says consumers may not understand vague wording such as “affiliate link” by itself, while clearer wording such as “paid link” beside an affiliate link can be adequate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span></span></span>
 
 A practical disclosure inside an email can be plain: “Some links in this email are paid links, which means we may earn a commission if you buy through them.” The disclosure should appear before the reader encounters the affiliate links, not hidden only on a separate website page.
 
@@ -543,7 +543,7 @@ A practical disclosure inside an email can be plain: “Some links in this email
 
 A list is only an asset if it is permission-based. Bought lists, scraped emails, unclear consent, and third-party data sharing can create legal, reputational, and deliverability problems. This is especially important for affiliate sites because readers are already being asked to trust commercial recommendations.
 
-For UK audiences, the Information Commissioner’s Office explains that electronic mail marketing generally depends on consent unless a narrow “soft opt-in” applies. The soft opt-in may apply to existing customers, but not to prospective customers or new contacts from bought-in lists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/electronic-and-telephone-marketing/electronic-mail-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span> The ICO’s updated guidance on direct marketing using electronic mail also reinforces the need to understand when consent or a specific exception applies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guidance-on-direct-marketing-using-electronic-mail/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span>
+For UK audiences, the Information Commissioner’s Office explains that electronic mail marketing generally depends on consent unless a narrow “soft opt-in” applies. The soft opt-in may apply to existing customers, but not to prospective customers or new contacts from bought-in lists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/electronic-and-telephone-marketing/electronic-mail-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span> The ICO’s updated guidance on direct marketing using electronic mail also reinforces the need to understand when consent or a specific exception applies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guidance-on-direct-marketing-using-electronic-mail/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span>
 
 The commercial lesson is as important as the legal one: a smaller list of people who actively asked for niche buying advice is usually more valuable than a larger list of people who barely remember subscribing. Affiliate earnings come from relevance and trust, not raw address count.
 
@@ -593,7 +593,7 @@ Email and search are not enemies. Email often makes search traffic more valuable
 <img src="{{ "/assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06-Illustration-3-dark.svg" | relative_url }}" alt="Email illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Measuring Whether the List Is Really Reducing Search Dependence
 
-Open rate alone is a weak measure of success. Privacy features and automatic image loading can distort opens, and an affiliate site ultimately needs useful visits, clicks, and revenue rather than vanity engagement. TechRadar’s 2026 reporting notes that click-to-conversion rate and revenue per email sent are more meaningful for revenue impact than open rate alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/email-marketing-roi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar Email marketing ROI: How modern platforms turn campaigns into revenue</span><span class="citation-popover-snippet">While the average ROI for email marketing stands at $36–$42 per dollar spent, top-performing teams achieve much higher returns—often due...</span></span></span>
+Open rate alone is a weak measure of success. Privacy features and automatic image loading can distort opens, and an affiliate site ultimately needs useful visits, clicks, and revenue rather than vanity engagement. TechRadar’s 2026 reporting notes that click-to-conversion rate and revenue per email sent are more meaningful for revenue impact than open rate alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/email-marketing-roi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar Email marketing ROI: How modern platforms turn campaigns into revenue</span><span class="citation-popover-snippet">While the average ROI for email marketing stands at $36–$42 per dollar spent, top-performing teams achieve much higher returns—often due...</span></span></span>
 
 For an affiliate site, the most useful metrics are:
 
@@ -632,178 +632,178 @@ Email reduces search dependence, but it adds a new responsibility: maintaining t
 That makes email powerful but unforgiving. The list should be built around permission, useful buying help, clear disclosure, and selective recommendations. When it is done well, it gives an affiliate website a repeat audience, a way to revive content, a source of behavioural insight, and a buffer against search volatility. When it is done badly, it becomes another spammy promotion channel and can damage the very trust that affiliate income needs.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Email Matters for Affiliate Websites. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Email Matters for Affiliate Websites. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Launch+by+Jeff+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Launch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m_yMoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Launch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Launch+by+Jeff+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Launch">Launch</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Launch+by+Jeff+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Launch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m_yMoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Launch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Launch+by+Jeff+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Launch">Launch</a>
+</h4>
+<p class="fr-book-author">By Jeff Walker</p>
         
-        <p class="fr-book-desc">Demonstrates how email sequences build trust, drive traffic, and support product recommendations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Launch+by+Jeff+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how email sequences build trust, drive traffic, and support product recommendations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Launch+by+Jeff+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4O30oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
-        </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4O30oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
+</h4>
+<p class="fr-book-author">By Russell Brunson</p>
         
-        <p class="fr-book-desc">Covers email lists, funnels, customer relationships, and converting visitors into repeat buyers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers email lists, funnels, customer relationships, and converting visitors into repeat buyers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B8JyDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is Marketing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Marketing">This Is Marketing</a>
-        </h4>
-        <p class="fr-book-author">By Seth Godin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B8JyDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is Marketing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Marketing">This Is Marketing</a>
+</h4>
+<p class="fr-book-author">By Seth Godin</p>
         
-        <p class="fr-book-desc">Reinforces trust-based, permission-driven marketing principles that align with responsible email marketing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces trust-based, permission-driven marketing principles that align with responsible email marketing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Marketing+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Provides persuasive communication principles useful for writing effective, non-overpromotional affiliate emails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides persuasive communication principles useful for writing effective, non-overpromotional affiliate emails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Launch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Launch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dotcom+Secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dotcom Secrets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Marketing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Marketing</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Launch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Launch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dotcom+Secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dotcom Secrets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Marketing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Marketing</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit"><img src="{{ '/assets/images/marketplace-covers/fd13a7382a012e685b8f.jpg' | relative_url }}" alt="Listing image for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit"><img src="{{ '/assets/images/marketplace-covers/fd13a7382a012e685b8f.jpg' | relative_url }}" alt="Listing image for Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Lemon Print Wall Art, Fruit Market Kitchen Poster Print Picture Gift Fruit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33f1e142100de8214624.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33f1e142100de8214624.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5fef2d3b11d4ce3704b7.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5fef2d3b11d4ce3704b7.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="marketing wall art" data-ebay-reference="email-why-email-matters-for-affiliate-websites-making-money-from-marketing-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -819,7 +819,7 @@ That makes email powerful but unforgiving. The list should be built around permi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -839,7 +839,7 @@ That makes email powerful but unforgiving. The list should be built around permi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -871,7 +871,7 @@ That makes email powerful but unforgiving. The list should be built around permi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -923,7 +923,7 @@ That makes email powerful but unforgiving. The list should be built around permi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -968,7 +968,7 @@ That makes email powerful but unforgiving. The list should be built around permi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1009,198 +1009,198 @@ That makes email powerful but unforgiving. The list should be built around permi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSpam Policies for Google Web SearchThe spam policies detail the behaviors and tactics that can lead to a page or an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: flexoffers.com  
    Title: how publishers are diversifying revenue beyond search traffic  
-   Link: <a href="https://www.flexoffers.com/blog/how-publishers-are-diversifying-revenue-beyond-search-traffic/" target="_blank" rel="noopener noreferrer nofollow">https://www.flexoffers.com/blog/how-publishers-are-diversifying-revenue-beyond-search-traffic/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover how publishers and creators are diversifying revenue through affiliate marketing and owned audiences...</p></details>
+   Link:<a href="https://www.flexoffers.com/blog/how-publishers-are-diversifying-revenue-beyond-search-traffic/" target="_blank" rel="noopener noreferrer nofollow">https://www.flexoffers.com/blog/how-publishers-are-diversifying-revenue-beyond-search-traffic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover how publishers and creators are diversifying revenue through affiliate marketing and owned audiences...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mailchimp.com  
-   Link: <a href="https://mailchimp.com/resources/common-rookie-mistakes-email-marketers/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/common-rookie-mistakes-email-marketers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Email Marketing Best Practices for SuccessIn this guide, we outline some of the email marketing best practices as well as common...</p></details>
+   Link:<a href="https://mailchimp.com/resources/common-rookie-mistakes-email-marketers/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/common-rookie-mistakes-email-marketers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Email Marketing Best Practices for SuccessIn this guide, we outline some of the email marketing best practices as well as common...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mailchimp.com  
-   Link: <a href="https://mailchimp.com/resources/how-to-measure-your-email-marketing-success/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/how-to-measure-your-email-marketing-success/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Measure Your Email Marketing SuccessTrack key email KPIs like conversion rate, ROI, customer lifetime value, and cost per...</p></details>
+   Link:<a href="https://mailchimp.com/resources/how-to-measure-your-email-marketing-success/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/how-to-measure-your-email-marketing-success/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Measure Your Email Marketing SuccessTrack key email KPIs like conversion rate, ROI, customer lifetime value, and cost per...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: litmus.com  
-   Link: <a href="https://www.litmus.com/resources/email-marketing-roi" target="_blank" rel="noopener noreferrer nofollow">https://www.litmus.com/resources/email-marketing-roi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Email Marketing ROI: What leads to better returns?On average, email drives an ROI of $36 for every dollar spent, higher than any ot...</p></details>
+   Link:<a href="https://www.litmus.com/resources/email-marketing-roi" target="_blank" rel="noopener noreferrer nofollow">https://www.litmus.com/resources/email-marketing-roi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Email Marketing ROI: What leads to better returns?On average, email drives an ROI of $36 for every dollar spent, higher than any ot...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: techradar.com  
    Title: Tech Radar Email marketing ROI: How modern platforms turn campaigns into revenue  
-   Link: <a href="https://www.techradar.com/pro/email-marketing-roi" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/email-marketing-roi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While the average ROI for email marketing stands at $36–$42 per dollar spent, top-performing teams achieve much higher returns—often due...</p></details>
+   Link:<a href="https://www.techradar.com/pro/email-marketing-roi" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/email-marketing-roi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While the average ROI for email marketing stands at $36–$42 per dollar spent, top-performing teams achieve much higher returns—often due...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
+   Link:<a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+   Link:<a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ico.org.uk  
-   Link: <a href="https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/electronic-and-telephone-marketing/electronic-mail-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/electronic-and-telephone-marketing/electronic-mail-marketing/</a>  
+   Link:<a href="https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/electronic-and-telephone-marketing/electronic-mail-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/electronic-and-telephone-marketing/electronic-mail-marketing/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ico.org.uk  
-   Link: <a href="https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guidance-on-direct-marketing-using-electronic-mail/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guidance-on-direct-marketing-using-electronic-mail/</a>  
+   Link:<a href="https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guidance-on-direct-marketing-using-electronic-mail/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guidance-on-direct-marketing-using-electronic-mail/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: impact.com  
    Title: Google's New Site Reputation Policy: Impact on Affiliate Marketers  
-   Link: <a href="https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/</a>  
+   Link:<a href="https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/googles-updated-site-reputation-abuse-policy-on-affiliate-marketers/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/185398252/my-affiliate-website-pages-that-were-ranking-got-suddenly-deindexed-from-google-search?hl=en</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: litmus.com  
    Title: state of email reports  
-   Link: <a href="https://www.litmus.com/state-of-email-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.litmus.com/state-of-email-reports</a>  
+   Link:<a href="https://www.litmus.com/state-of-email-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.litmus.com/state-of-email-reports</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: litmus.com  
    Title: infographic the roi of email marketing  
-   Link: <a href="https://www.litmus.com/blog/infographic-the-roi-of-email-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.litmus.com/blog/infographic-the-roi-of-email-marketing</a>  
+   Link:<a href="https://www.litmus.com/blog/infographic-the-roi-of-email-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.litmus.com/blog/infographic-the-roi-of-email-marketing</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: litmus.com  
    Title: state of email trends  
-   Link: <a href="https://www.litmus.com/resources/state-of-email-trends" target="_blank" rel="noopener noreferrer nofollow">https://www.litmus.com/resources/state-of-email-trends</a>  
+   Link:<a href="https://www.litmus.com/resources/state-of-email-trends" target="_blank" rel="noopener noreferrer nofollow">https://www.litmus.com/resources/state-of-email-trends</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mailchimp.com  
-   Link: <a href="https://mailchimp.com/resources/email-marketing-benchmarks/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/email-marketing-benchmarks/</a>  
+   Link:<a href="https://mailchimp.com/resources/email-marketing-benchmarks/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/email-marketing-benchmarks/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mailchimp.com  
-   Link: <a href="https://mailchimp.com/resources/email-optimization-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/email-optimization-best-practices/</a>  
+   Link:<a href="https://mailchimp.com/resources/email-optimization-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/email-optimization-best-practices/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mailchimp.com  
-   Link: <a href="https://mailchimp.com/resources/email-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/email-reporting/</a>  
+   Link:<a href="https://mailchimp.com/resources/email-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/email-reporting/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mailchimp.com  
    Title: email marketing  
-   Link: <a href="https://mailchimp.com/marketing-glossary/email-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/marketing-glossary/email-marketing/</a>  
+   Link:<a href="https://mailchimp.com/marketing-glossary/email-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/marketing-glossary/email-marketing/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mailchimp.com  
-   Link: <a href="https://mailchimp.com/help/about-campaign-benchmarking/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/help/about-campaign-benchmarking/</a>  
+   Link:<a href="https://mailchimp.com/help/about-campaign-benchmarking/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/help/about-campaign-benchmarking/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mailchimp.com  
    Title: ecommerce email marketing  
-   Link: <a href="https://mailchimp.com/resources/ecommerce-email-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/ecommerce-email-marketing/</a>  
+   Link:<a href="https://mailchimp.com/resources/ecommerce-email-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://mailchimp.com/resources/ecommerce-email-marketing/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/189339560/how-to-recover-from-thin-content-with-little-or-no-added-value-when-the-site-has-valuable-content?hl=en</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/answer/9044175?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/answer/9044175?hl=en</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: affiliate.watch  
-   Link: <a href="https://affiliate.watch/affiliate/convertkit" target="_blank" rel="noopener noreferrer nofollow">https://affiliate.watch/affiliate/convertkit</a>  
+   Link:<a href="https://affiliate.watch/affiliate/convertkit" target="_blank" rel="noopener noreferrer nofollow">https://affiliate.watch/affiliate/convertkit</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sona.com  
    Title: mailchimp email marketing benchmarks 2025 average open click rates explained  
-   Link: <a href="https://www.sona.com/blog/mailchimp-email-marketing-benchmarks-2025-average-open-click-rates-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.sona.com/blog/mailchimp-email-marketing-benchmarks-2025-average-open-click-rates-explained</a>  
+   Link:<a href="https://www.sona.com/blog/mailchimp-email-marketing-benchmarks-2025-average-open-click-rates-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.sona.com/blog/mailchimp-email-marketing-benchmarks-2025-average-open-click-rates-explained</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: bdo.co.uk  
    Title: guidance on direct marketing using electronic mail  
-   Link: <a href="https://www.bdo.co.uk/en-gb/insights/advisory/risk-and-advisory-services/guidance-on-direct-marketing-using-electronic-mail" target="_blank" rel="noopener noreferrer nofollow">https://www.bdo.co.uk/en-gb/insights/advisory/risk-and-advisory-services/guidance-on-direct-marketing-using-electronic-mail</a>  
+   Link:<a href="https://www.bdo.co.uk/en-gb/insights/advisory/risk-and-advisory-services/guidance-on-direct-marketing-using-electronic-mail" target="_blank" rel="noopener noreferrer nofollow">https://www.bdo.co.uk/en-gb/insights/advisory/risk-and-advisory-services/guidance-on-direct-marketing-using-electronic-mail</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: GOV.UK  
    Title: social media endorsements being transparent with your followers  
-   Link: <a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
+   Link:<a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: goup.co.uk  
-   Link: <a href="https://www.goup.co.uk/guides/spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.goup.co.uk/guides/spam/</a>  
+   Link:<a href="https://www.goup.co.uk/guides/spam/" target="_blank" rel="noopener noreferrer nofollow">https://www.goup.co.uk/guides/spam/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: blog.google  
    Title: google search update march 2024  
-   Link: <a href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/</a>  
+   Link:<a href="https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/products-and-platforms/products/search/google-search-update-march-2024/</a>  
    Published: march 2024  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: How I Built a Massive Email List Using Micro Funnels!  
-   Link: <a href="http://www.youtube.com/watch?v=2AQcFeCTVo4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2AQcFeCTVo4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate marketing email list building seo diversification google updates Best SEO Tools For 2025 #SEO #SEOtools #googlerankings Kate Sm...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=2AQcFeCTVo4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2AQcFeCTVo4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate marketing email list building seo diversification google updates Best SEO Tools For 2025 #SEO #SEOtools #googlerankings Kate Sm...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: 2 Ways To Build An Email List For Affiliate Marketing FREE & FAST (Step-by-Step)  
-   Link: <a href="http://www.youtube.com/watch?v=d-q_3dln7mM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=d-q_3dln7mM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🔥 How to Build a Targeted Email List for Niche Affiliate Marketing...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=d-q_3dln7mM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=d-q_3dln7mM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🔥 How to Build a Targeted Email List for Niche Affiliate Marketing...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: 🔥 How to Build a Targeted Email List for Niche Affiliate Marketing  
-   Link: <a href="http://www.youtube.com/watch?v=xK_kDmn0SM0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xK_kDmn0SM0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How I Built a Massive Email List Using Micro Funnels...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=xK_kDmn0SM0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xK_kDmn0SM0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How I Built a Massive Email List Using Micro Funnels...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: How To Build An Email List From Scratch  
-   Link: <a href="http://www.youtube.com/watch?v=FScLm84UDQ4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FScLm84UDQ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Ways To Build An Email List For Affiliate Marketing FREE &amp; FAST (Step-by-Step)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=FScLm84UDQ4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FScLm84UDQ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Ways To Build An Email List For Affiliate Marketing FREE &amp; FAST (Step-by-Step)...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: wecantrack.com  
-   Link: <a href="https://wecantrack.com/insights/affiliate-email-marketing-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-email-marketing-statistics/</a>  
+   Link:<a href="https://wecantrack.com/insights/affiliate-email-marketing-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-email-marketing-statistics/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: britexotics.co.uk  
-   Link: <a href="https://britexotics.co.uk/affiliate-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://britexotics.co.uk/affiliate-disclosure</a>  
+   Link:<a href="https://britexotics.co.uk/affiliate-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://britexotics.co.uk/affiliate-disclosure</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ahua.ac.uk  
-   Link: <a href="https://www.ahua.ac.uk/wp-content/uploads/2019/08/Direct-Marketing-limits-of-the-soft-opt-in-rule.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ahua.ac.uk/wp-content/uploads/2019/08/Direct-Marketing-limits-of-the-soft-opt-in-rule.pdf</a>  
+   Link:<a href="https://www.ahua.ac.uk/wp-content/uploads/2019/08/Direct-Marketing-limits-of-the-soft-opt-in-rule.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ahua.ac.uk/wp-content/uploads/2019/08/Direct-Marketing-limits-of-the-soft-opt-in-rule.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: kit.com  
-   Link: <a href="https://kit.com/" target="_blank" rel="noopener noreferrer nofollow">https://kit.com/</a>  
+   Link:<a href="https://kit.com/" target="_blank" rel="noopener noreferrer nofollow">https://kit.com/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: digital.ink  
-   Link: <a href="https://www.digital.ink/blog/email-marketing-benchmarks/" target="_blank" rel="noopener noreferrer nofollow">https://www.digital.ink/blog/email-marketing-benchmarks/</a>  
+   Link:<a href="https://www.digital.ink/blog/email-marketing-benchmarks/" target="_blank" rel="noopener noreferrer nofollow">https://www.digital.ink/blog/email-marketing-benchmarks/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SEO/comments/1ftk0wo/google_updated_their_link_spam_policy_wording/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SEO/comments/1ftk0wo/google_updated_their_link_spam_policy_wording/</a>  
+   Link:<a href="https://www.reddit.com/r/SEO/comments/1ftk0wo/google_updated_their_link_spam_policy_wording/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SEO/comments/1ftk0wo/google_updated_their_link_spam_policy_wording/</a>  

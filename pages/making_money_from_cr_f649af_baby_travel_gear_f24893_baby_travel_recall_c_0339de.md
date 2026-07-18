@@ -280,7 +280,7 @@ image: /assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_baby_t
 
 ## Introduction
 
-Affiliate pages about [baby travel gear]({{ 'baby-travel/' | relative_url }}) cannot be treated as static “best products” lists. Strollers, [travel cots]({{ 'travel-cots/' | relative_url }}), car-seat adapters and other travel accessories can be recalled months or even years after a review is published, meaning an article that was accurate on publication can later direct parents towards products that regulators have advised them to stop using. For baby travel websites, recall monitoring is therefore an editorial governance task rather than an optional content refresh. A trustworthy page should show readers that safety information is actively maintained, clearly identify when recommendations have changed because of a recall, and remove or heavily qualify affected products instead of leaving outdated affiliate links in place. Official recall databases provide the evidence needed to support these decisions. U.S. Consumer Product Safety Commission+2GOV.UK <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cpsc.gov/recall-products/strollers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[cpsc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">U.S. Consumer Product Safety CommissionStrollersThis recall involves the Aer2 Car Seat Adapters for Joolz Aer2 Strollers. The adapters ar...</span></span></span>
+Affiliate pages about [baby travel gear]({{ 'baby-travel/' | relative_url }}) cannot be treated as static “best products” lists. Strollers, [travel cots]({{ 'travel-cots/' | relative_url }}), car-seat adapters and other travel accessories can be recalled months or even years after a review is published, meaning an article that was accurate on publication can later direct parents towards products that regulators have advised them to stop using. For baby travel websites, recall monitoring is therefore an editorial governance task rather than an optional content refresh. A trustworthy page should show readers that safety information is actively maintained, clearly identify when recommendations have changed because of a recall, and remove or heavily qualify affected products instead of leaving outdated affiliate links in place. Official recall databases provide the evidence needed to support these decisions. U.S. Consumer Product Safety Commission+2GOV.UK<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cpsc.gov/recall-products/strollers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[cpsc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">U.S. Consumer Product Safety CommissionStrollersThis recall involves the Aer2 Car Seat Adapters for Joolz Aer2 Strollers. The adapters ar...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de-Illustration-1-dark.svg" | relative_url }}" alt="Recalls illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ Affiliate pages about [baby travel gear]({{ 'baby-travel/' | relative_url }}) ca
 
 Baby travel products are regulated differently across jurisdictions, so a recall check should cover every market served by the website rather than relying on a single database.
 
-For UK-focused pages, the UK government's Product Safety Alerts, Reports and Recalls service, managed through the Office for Product Safety and Standards (OPSS), publishes recalls and safety reports covering childcare products including travel cots, prams and [accessories]({{ 'accessories/' | relative_url }}). Recent examples include the recall of Puggle Airlite travel cots, where consumers were instructed to stop using the products immediately and seek a refund. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/6a2c094415f2a70fac7e5ebf/2606-0135-product-recall-puggle-airlite-3-in-one-and-2-in-one-travel-cots.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Product Recall</span><span class="citation-popover-snippet">RecallJune 12, 2026 — The OPSS Product Safety Alerts, Reports and Recalls Site can be accessed at the following...</span><span class="citation-popover-meta">Published: June 12, 2026</span></span></span>
+For UK-focused pages, the UK government's Product Safety Alerts, Reports and Recalls service, managed through the Office for Product Safety and Standards (OPSS), publishes recalls and safety reports covering childcare products including travel cots, prams and [accessories]({{ 'accessories/' | relative_url }}). Recent examples include the recall of Puggle Airlite travel cots, where consumers were instructed to stop using the products immediately and seek a refund.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/6a2c094415f2a70fac7e5ebf/2606-0135-product-recall-puggle-airlite-3-in-one-and-2-in-one-travel-cots.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Product Recall</span><span class="citation-popover-snippet">RecallJune 12, 2026 — The OPSS Product Safety Alerts, Reports and Recalls Site can be accessed at the following...</span><span class="citation-popover-meta">Published: June 12, 2026</span></span></span>
 
-For US audiences, the Consumer Product Safety Commission (CPSC) maintains recall notices covering strollers, travel systems, adapters and related products. Importantly, recalls do not always affect an entire travel system. In one recent example, only the Joolz Aer2 car-seat adapters were recalled, while the stroller itself was not. An affiliate page that simply removes the stroller from every recommendation would therefore be less accurate than one that explains precisely which accessory is affected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cpsc.gov/recall-products/strollers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">U.S. Consumer Product Safety CommissionStrollersThis recall involves the Aer2 Car Seat Adapters for Joolz Aer2 Strollers. The adapters ar...</span></span></span>
+For US audiences, the Consumer Product Safety Commission (CPSC) maintains recall notices covering strollers, travel systems, adapters and related products. Importantly, recalls do not always affect an entire travel system. In one recent example, only the Joolz Aer2 car-seat adapters were recalled, while the stroller itself was not. An affiliate page that simply removes the stroller from every recommendation would therefore be less accurate than one that explains precisely which accessory is affected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cpsc.gov/recall-products/strollers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">U.S. Consumer Product Safety CommissionStrollersThis recall involves the Aer2 Car Seat Adapters for Joolz Aer2 Strollers. The adapters ar...</span></span></span>
 
-For readers across Europe, the EU Safety Gate rapid alert system provides notices submitted by national authorities for dangerous non-food products, including childcare equipment. Products sold under identical or similar branding may appear in one jurisdiction before another, making cross-checking worthwhile for websites with international [traffic]({{ 'traffic/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10098364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ec.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ec.europa.eu</span><span class="citation-popover-title">Alerts are submitted by national</span><span class="citation-popover-snippet">European CommissionSafety Gate: the EU rapid alert system for dangerous non-food...2 Apr 2026 — The Safety Gate Alerts page provides acc...</span></span></span>
+For readers across Europe, the EU Safety Gate rapid alert system provides notices submitted by national authorities for dangerous non-food products, including childcare equipment. Products sold under identical or similar branding may appear in one jurisdiction before another, making cross-checking worthwhile for websites with international [traffic]({{ 'traffic/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10098364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ec.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ec.europa.eu</span><span class="citation-popover-title">Alerts are submitted by national</span><span class="citation-popover-snippet">European CommissionSafety Gate: the EU rapid alert system for dangerous non-food...2 Apr 2026 — The Safety Gate Alerts page provides acc...</span></span></span>
 
 These sources complement rather than replace manufacturer announcements. Brands frequently publish recall instructions, replacement programmes or compatibility [updates]({{ 'updates/' | relative_url }}) before retailers have amended every product listing.
 
@@ -380,12 +380,12 @@ Several recurring editorial failures undermine the [credibility]({{ 'credibility
 * continuing to display "best buy" labels on recalled products;
 * relying solely on retailer availability instead of regulator announcements;
 * deleting products without explaining why they disappeared;
-* confusing recalls with ordinary product discontinuations; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/product-safety-alerts-reports-recalls" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Safety Alerts, Reports and RecallsProduct Recall: Puggle Airlite 3-In-1 Folding Travel Cot and Playpen with... Recall/alert date: 5 June...</span></span></span>
+* confusing recalls with ordinary product discontinuations;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/product-safety-alerts-reports-recalls" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Safety Alerts, Reports and RecallsProduct Recall: Puggle Airlite 3-In-1 Folding Travel Cot and Playpen with... Recall/alert date: 5 June...</span></span></span>
 * assuming a recall affecting one accessory automatically applies to every compatible travel system.
 
 </div>
 
-These mistakes are avoidable because official recall notices usually identify the exact models, production batches, product identifiers and corrective actions required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cpsc.gov/recall-products/strollers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">U.S. Consumer Product Safety CommissionStrollersThis recall involves the Aer2 Car Seat Adapters for Joolz Aer2 Strollers. The adapters ar...</span></span></span>
+These mistakes are avoidable because official recall notices usually identify the exact models, production batches, product identifiers and corrective actions required.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cpsc.gov/recall-products/strollers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">U.S. Consumer Product Safety CommissionStrollersThis recall involves the Aer2 Car Seat Adapters for Joolz Aer2 Strollers. The adapters ar...</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de-Illustration-3-dark.svg" | relative_url }}" alt="Recalls illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -394,178 +394,178 @@ These mistakes are avoidable because official recall notices usually identify th
 For baby travel websites, recall monitoring is not simply another content update. It is a governance process that protects readers while reinforcing the site's credibility. A page that openly documents safety reviews, responds promptly to recalls and explains editorial decisions demonstrates that recommendations are maintained with parents' interests in mind rather than left untouched after publication. In a niche where trust directly influences both reader confidence and long-term affiliate performance, visible recall management becomes one of the strongest signals that a site treats safety as seriously as conversion.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Recall Check Every Baby Page Needs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Recall Check Every Baby Page Needs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What to expect the first year on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11743015-M.jpg" alt="Cover for What to expect the first year" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What to expect the first year">What to expect the first year</a>
-        </h4>
-        <p class="fr-book-author">By Heidi Murkoff, Arlene Eisenberg et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What to expect the first year on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11743015-M.jpg" alt="Cover for What to expect the first year" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What to expect the first year">What to expect the first year</a>
+</h4>
+<p class="fr-book-author">By Heidi Murkoff, Arlene Eisenberg et al.</p>
         
-        <p class="fr-book-desc">First published 1989. Subjects: Infants, Child rearing, Care, Infants, care and hygiene, Parenting, study and teaching.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1989. Subjects: Infants, Child rearing, Care, Infants, care and hygiene, Parenting, study and teaching.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiest Baby on the Block on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/374088-M.jpg" alt="Cover for The Happiest Baby on the Block" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiest Baby on the Block">The Happiest Baby on the Block</a>
-        </h4>
-        <p class="fr-book-author">By Harvey Karp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiest Baby on the Block on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/374088-M.jpg" alt="Cover for The Happiest Baby on the Block" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiest Baby on the Block">The Happiest Baby on the Block</a>
+</h4>
+<p class="fr-book-author">By Harvey Karp</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Infants, Niños, Niños lactantes, Care, Crianza.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Infants, Niños, Niños lactantes, Care, Crianza.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caring for Your Baby and Young Child on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/369843-M.jpg" alt="Cover for Caring for Your Baby and Young Child" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caring for Your Baby and Young Child">Caring for Your Baby and Young Child</a>
-        </h4>
-        <p class="fr-book-author">By American Academy of Pediatrics</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caring for Your Baby and Young Child on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/369843-M.jpg" alt="Cover for Caring for Your Baby and Young Child" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caring for Your Baby and Young Child">Caring for Your Baby and Young Child</a>
+</h4>
+<p class="fr-book-author">By American Academy of Pediatrics</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Child development, Child care, Infants, Care, Infants, care and hygiene.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Child development, Child care, Infants, Care, Infants, care and hygiene.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3030739-M.jpg" alt="Cover for Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,)">Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture...</a>
-        </h4>
-        <p class="fr-book-author">By Agnes Sligh Turnbull, Alan Fields</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3030739-M.jpg" alt="Cover for Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,)">Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture...</a>
+</h4>
+<p class="fr-book-author">By Agnes Sligh Turnbull, Alan Fields</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Children&#x27;s paraphernalia, Directories, Product safety, Purchasing, Child care.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Children&#x27;s paraphernalia, Directories, Product safety, Purchasing, Child care.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=What+to+expect+the+first+year&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What to expect the first year</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiest Baby on the Block</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caring for Your Baby and Young Child</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=What+to+expect+the+first+year&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What to expect the first year</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiest Baby on the Block</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caring for Your Baby and Young Child</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories"><img src="{{ '/assets/images/marketplace-covers/ca55d6828a9aa934e1e5.jpg' | relative_url }}" alt="Listing image for Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories"><img src="{{ '/assets/images/marketplace-covers/ca55d6828a9aa934e1e5.jpg' | relative_url }}" alt="Listing image for Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Bebe Style Pram Cup Holder, Stroller Pushchair Bottle Holder, Buggy Accessories</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious"><img src="{{ '/assets/images/marketplace-covers/924156cc2a9dae9046d2.jpg' | relative_url }}" alt="Listing image for Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious"><img src="{{ '/assets/images/marketplace-covers/924156cc2a9dae9046d2.jpg' | relative_url }}" alt="Listing image for Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Stroller Bag Organizer Storage Net for Baby Carriage Portable Extra judicious</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram"><img src="{{ '/assets/images/marketplace-covers/426a34027f777a537314.jpg' | relative_url }}" alt="Listing image for Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram"><img src="{{ '/assets/images/marketplace-covers/426a34027f777a537314.jpg' | relative_url }}" alt="Listing image for Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">Baby Pushchair Organiser Cup Bottle Holder Mummy Bag Storage Buggy Stroller Pram</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stroller organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: stroller organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=stroller+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="stroller organizer" data-ebay-reference="recalls-the-recall-check-every-baby-page-needs-making-money-from-stroller-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ For baby travel websites, recall monitoring is not simply another content update
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ For baby travel websites, recall monitoring is not simply another content update
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ For baby travel websites, recall monitoring is not simply another content update
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ For baby travel websites, recall monitoring is not simply another content update
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ For baby travel websites, recall monitoring is not simply another content update
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,84 +771,84 @@ For baby travel websites, recall monitoring is not simply another content update
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cpsc.gov  
-   Link: <a href="https://www.cpsc.gov/recall-products/strollers" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/recall-products/strollers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Consumer Product Safety CommissionStrollersThis recall involves the Aer2 Car Seat Adapters for Joolz Aer2 Strollers. The adapters ar...</p></details>
+   Link:<a href="https://www.cpsc.gov/recall-products/strollers" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/recall-products/strollers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Consumer Product Safety CommissionStrollersThis recall involves the Aer2 Car Seat Adapters for Joolz Aer2 Strollers. The adapters ar...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/product-safety-alerts-reports-recalls" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/product-safety-alerts-reports-recalls</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Alerts, Reports and RecallsProduct Recall: Puggle Airlite 3-In-1 Folding Travel Cot and Playpen with... Recall/alert date: 5 June...</p></details>
+   Link:<a href="https://www.gov.uk/product-safety-alerts-reports-recalls" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/product-safety-alerts-reports-recalls</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Alerts, Reports and RecallsProduct Recall: Puggle Airlite 3-In-1 Folding Travel Cot and Playpen with... Recall/alert date: 5 June...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Product Recall  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6a2c094415f2a70fac7e5ebf/2606-0135-product-recall-puggle-airlite-3-in-one-and-2-in-one-travel-cots.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6a2c094415f2a70fac7e5ebf/2606-0135-product-recall-puggle-airlite-3-in-one-and-2-in-one-travel-cots.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RecallJune 12, 2026 — The OPSS Product Safety Alerts, Reports and Recalls Site can be accessed at the following...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6a2c094415f2a70fac7e5ebf/2606-0135-product-recall-puggle-airlite-3-in-one-and-2-in-one-travel-cots.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6a2c094415f2a70fac7e5ebf/2606-0135-product-recall-puggle-airlite-3-in-one-and-2-in-one-travel-cots.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RecallJune 12, 2026 — The OPSS Product Safety Alerts, Reports and Recalls Site can be accessed at the following...</p></details>
    Published: June 12, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ec.europa.eu  
    Title: Alerts are submitted by national  
-   Link: <a href="https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10098364" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10098364</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionSafety Gate: the EU rapid alert system for dangerous non-food...2 Apr 2026 — The Safety Gate Alerts page provides acc...</p></details>
+   Link:<a href="https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10098364" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10098364</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionSafety Gate: the EU rapid alert system for dangerous non-food...2 Apr 2026 — The Safety Gate Alerts page provides acc...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: consumerreports.org  
-   Link: <a href="https://www.consumerreports.org/babies-kids/baby-product-recalls/baby-product-recalls-parents-caregivers-should-be-aware-of-a5859124070/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/babies-kids/baby-product-recalls/baby-product-recalls-parents-caregivers-should-be-aware-of-a5859124070/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Date: Jan. 22, 2026. Recall announcement: Read the full CPSC announcement. Recall details...Read more...</p></details>
+   Link:<a href="https://www.consumerreports.org/babies-kids/baby-product-recalls/baby-product-recalls-parents-caregivers-should-be-aware-of-a5859124070/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/babies-kids/baby-product-recalls/baby-product-recalls-parents-caregivers-should-be-aware-of-a5859124070/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Date: Jan. 22, 2026. Recall announcement: Read the full CPSC announcement. Recall details...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MCCAAMalta/posts/have-a-look-at-the-latest-baby-carriers-recalled-from-the-eu-market-see-the-link/1454127103424567/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MCCAAMalta/posts/have-a-look-at-the-latest-baby-carriers-recalled-from-the-eu-market-see-the-link/1454127103424567/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here is a list of Baby Carrier Recalls Babywearing is...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/MCCAAMalta/posts/have-a-look-at-the-latest-baby-carriers-recalled-from-the-eu-market-see-the-link/1454127103424567/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MCCAAMalta/posts/have-a-look-at-the-latest-baby-carriers-recalled-from-the-eu-market-see-the-link/1454127103424567/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here is a list of Baby Carrier Recalls Babywearing is...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: usarecallalerts.com  
    Title: stroller recall 2025 guide  
-   Link: <a href="https://usarecallalerts.com/blog/stroller-recall-2025-guide" target="_blank" rel="noopener noreferrer nofollow">https://usarecallalerts.com/blog/stroller-recall-2025-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stroller Recall 2025: A Detailed Guide for Ensuring Your...28 May 2025 — This comprehensive guide aims to help parents navigate recent r...</p></details>
+   Link:<a href="https://usarecallalerts.com/blog/stroller-recall-2025-guide" target="_blank" rel="noopener noreferrer nofollow">https://usarecallalerts.com/blog/stroller-recall-2025-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stroller Recall 2025: A Detailed Guide for Ensuring Your...28 May 2025 — This comprehensive guide aims to help parents navigate recent r...</p></details>
    Published: May 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: safekids.org  
    Title: 2025 product recalls  
-   Link: <a href="https://www.safekids.org/2025-product-recalls" target="_blank" rel="noopener noreferrer nofollow">https://www.safekids.org/2025-product-recalls</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Safety Gates, sold on [Amazon](&amp;#123;&amp;#123; &#x27;amazon/&#x27; | relative_url &amp;#125;&amp;#125;) by Ikuso, have been recalled because they violate the mandatory standard for expansion gates and expanda...</p></details>
+   Link:<a href="https://www.safekids.org/2025-product-recalls" target="_blank" rel="noopener noreferrer nofollow">https://www.safekids.org/2025-product-recalls</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Safety Gates, sold on [Amazon](&amp;#123;&amp;#123; &#x27;amazon/&#x27; | relative_url &amp;#125;&amp;#125;) by Ikuso, have been recalled because they violate the mandatory standard for expansion gates and expanda...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: babylist.com  
    Title: product recalls 2025  
-   Link: <a href="https://www.babylist.com/hello-baby/product-recalls-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.babylist.com/hello-baby/product-recalls-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2025 Product Recalls Parents Need to Know About29 Apr 2026 — Baby product recalls can include everything from toys and clothing to ca...</p></details>
+   Link:<a href="https://www.babylist.com/hello-baby/product-recalls-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.babylist.com/hello-baby/product-recalls-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2025 Product Recalls Parents Need to Know About29 Apr 2026 — Baby product recalls can include everything from toys and clothing to ca...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Mockingbird recalls strollers over cracked frames  
-   Link: <a href="https://www.youtube.com/watch?v=S6Njbtf2b8U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S6Njbtf2b8U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strollers, bassinets recalled due to fall, entrapment hazards...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S6Njbtf2b8U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S6Njbtf2b8U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strollers, bassinets recalled due to fall, entrapment hazards...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Strollers, bassinets recalled due to fall, entrapment hazards  
-   Link: <a href="https://www.youtube.com/watch?v=p5-ZiX2mG1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p5-ZiX2mG1Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Know If a Product Has Been Recalled...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=p5-ZiX2mG1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p5-ZiX2mG1Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Know If a Product Has Been Recalled...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3wERf7NpqBM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3wERf7NpqBM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Million Graco Strollers Recalled...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3wERf7NpqBM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3wERf7NpqBM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Million Graco Strollers Recalled...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: 5 Million Graco Strollers Recalled  
-   Link: <a href="https://www.youtube.com/watch?v=BESngbLDpH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BESngbLDpH8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mockingbird recalls strollers over cracked frames...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BESngbLDpH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BESngbLDpH8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mockingbird recalls strollers over cracked frames...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How to Know If a Product Has Been Recalled  
-   Link: <a href="https://www.youtube.com/watch?v=ieWWPwvAzco" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ieWWPwvAzco</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ieWWPwvAzco" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ieWWPwvAzco</a>  

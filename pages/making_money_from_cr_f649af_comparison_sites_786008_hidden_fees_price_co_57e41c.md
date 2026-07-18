@@ -288,7 +288,7 @@ The strongest comparison pages therefore compete on transparency rather than on 
 
 ## The hidden costs that distort price comparisons
 
-Many online products appear inexpensive because only part of the eventual cost is shown at the comparison stage. The remaining charges are introduced later in the buying journey through a practice widely known as *drip pricing*. UK consumer guidance now makes clear that unavoidable fees should be included in the total price presented to consumers from the outset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/price-transparency-cma209/providing-clear-and-accurate-information-about-prices-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Providing clear and accurate information about prices</span><span class="citation-popover-snippet">January 7, 2026 — 7 Jan 2026 — It&#x27;s illegal to hide additional fees, taxes or other charges that the customer will have to pay until late...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
+Many online products appear inexpensive because only part of the eventual cost is shown at the comparison stage. The remaining charges are introduced later in the buying journey through a practice widely known as *drip pricing*. UK consumer guidance now makes clear that unavoidable fees should be included in the total price presented to consumers from the outset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/price-transparency-cma209/providing-clear-and-accurate-information-about-prices-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Providing clear and accurate information about prices</span><span class="citation-popover-snippet">January 7, 2026 — 7 Jan 2026 — It&#x27;s illegal to hide additional fees, taxes or other charges that the customer will have to pay until late...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
 
 For affiliate comparison pages, the most common hidden costs include:
 
@@ -316,7 +316,7 @@ For example, a web hosting plan advertised at £2.99 per month may require annua
 
 The greatest danger for [comparison sites]({{ 'comparisons/' | relative_url }}) is treating promotional prices as though they represent the complete cost.
 
-Behavioural research has repeatedly shown that consumers anchor their expectations around the first price they see. Once they have invested time comparing products, creating accounts or entering payment details, many continue despite additional charges because abandoning the purchase feels costly. Drip pricing exploits this behaviour by separating the advertised price from the unavoidable total. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/rule-unfair-or-deceptive-fees-frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission The Rule on Unfair or Deceptive Fees: Frequently Asked</span><span class="citation-popover-snippet">Federal Trade CommissionThe Rule on Unfair or Deceptive Fees: Frequently Asked...May 1, 2025 — 1 May 2025 — The FTC&#x27;s Rule on Unfair or...</span><span class="citation-popover-meta">Published: May 1, 2025</span></span></span>
+Behavioural research has repeatedly shown that consumers anchor their expectations around the first price they see. Once they have invested time comparing products, creating accounts or entering payment details, many continue despite additional charges because abandoning the purchase feels costly. Drip pricing exploits this behaviour by separating the advertised price from the unavoidable total.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/rule-unfair-or-deceptive-fees-frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission The Rule on Unfair or Deceptive Fees: Frequently Asked</span><span class="citation-popover-snippet">Federal Trade CommissionThe Rule on Unfair or Deceptive Fees: Frequently Asked...May 1, 2025 — 1 May 2025 — The FTC&#x27;s Rule on Unfair or...</span><span class="citation-popover-meta">Published: May 1, 2025</span></span></span>
 
 For affiliate publishers, simply copying headline prices from merchant landing pages can unintentionally reproduce this problem.
 
@@ -395,9 +395,9 @@ This presentation also reduces complaints from users who discover higher costs a
 
 Regulators increasingly expect pricing to reflect the amount consumers must actually pay rather than an artificially low entry point.
 
-In the UK, the Digital Markets, Competition and Consumers Act strengthens requirements around price transparency by requiring the total price—including unavoidable fees—to be presented clearly in invitations to purchase. Guidance issued by the Competition and Markets Authority explains that compulsory charges should not be introduced later in the buying process through drip pricing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/price-transparency-cma209/providing-clear-and-accurate-information-about-prices-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Providing clear and accurate information about prices</span><span class="citation-popover-snippet">January 7, 2026 — 7 Jan 2026 — It&#x27;s illegal to hide additional fees, taxes or other charges that the customer will have to pay until late...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
+In the UK, the Digital Markets, Competition and Consumers Act strengthens requirements around price transparency by requiring the total price—including unavoidable fees—to be presented clearly in invitations to purchase. Guidance issued by the Competition and Markets Authority explains that compulsory charges should not be introduced later in the buying process through drip pricing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/price-transparency-cma209/providing-clear-and-accurate-information-about-prices-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Providing clear and accurate information about prices</span><span class="citation-popover-snippet">January 7, 2026 — 7 Jan 2026 — It&#x27;s illegal to hide additional fees, taxes or other charges that the customer will have to pay until late...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
 
-Enforcement has also become more visible. Recent CMA action against businesses over hidden mandatory fees demonstrates that regulators view drip pricing as more than a minor usability issue; it is increasingly treated as a consumer protection concern with financial consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/business/2026/apr/15/aa-driving-schools-refund-learner-drivers-hidden-lessons-fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">As a result, the schools must repay over £760,000, with an average refund of about £9 per student. The AA admitted its wrongdoing and coo...</span></span></span>
+Enforcement has also become more visible. Recent CMA action against businesses over hidden mandatory fees demonstrates that regulators view drip pricing as more than a minor usability issue; it is increasingly treated as a consumer protection concern with financial consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/business/2026/apr/15/aa-driving-schools-refund-learner-drivers-hidden-lessons-fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">As a result, the schools must repay over £760,000, with an average refund of about £9 per student. The AA admitted its wrongdoing and coo...</span></span></span>
 
 Although affiliate publishers are usually not the merchant, repeating misleading pricing without explanation can undermine [credibility]({{ 'credibility/' | relative_url }}). Comparison pages that independently explain mandatory costs are more likely to remain useful even when merchant marketing emphasises only promotional figures.
 
@@ -416,178 +416,178 @@ For long-term affiliate businesses, that reputation is often worth far more than
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Price Trap That Breaks Comparison Pages. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Price Trap That Breaks Comparison Pages. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Donald Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
+</h4>
+<p class="fr-book-author">By Donald Miller</p>
         
-        <p class="fr-book-desc">Emphasizes clear communication and customer trust, supporting transparent comparison content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes clear communication and customer trust, supporting transparent comparison content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Provides insight into creating trustworthy, shareable content that attracts and retains readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into creating trustworthy, shareable content that attracts and retains readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
-        </h4>
-        <p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of SEO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hg5iCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Art of SEO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of SEO">The Art of SEO</a>
+</h4>
+<p class="fr-book-author">By Eric Enge, Stephan Spencer et al.</p>
         
-        <p class="fr-book-desc">Supports building high-quality comparison pages that balance search performance with user trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports building high-quality comparison pages that balance search performance with user trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+SEO+by+Eric+Enge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Helps readers understand pricing presentation, trust, and how transparent comparisons influence buying decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand pricing presentation, trust, and how transparent comparisons influence buying decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+SEO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of SEO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cinema / Marketing Poster: RISKY BUSINESS 1983 Tom Cruise Rebecca De Mornay"><img src="{{ '/assets/images/marketplace-covers/a98ee0dbacfda7788b8b.jpg' | relative_url }}" alt="Listing image for Cinema / Marketing Poster: RISKY BUSINESS 1983 Tom Cruise Rebecca De Mornay" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Cinema / Marketing Poster: RISKY BUSINESS 1983 Tom Cruise Rebecca De Mornay</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cinema / Marketing Poster: RISKY BUSINESS 1983 Tom Cruise Rebecca De Mornay"><img src="{{ '/assets/images/marketplace-covers/a98ee0dbacfda7788b8b.jpg' | relative_url }}" alt="Listing image for Cinema / Marketing Poster: RISKY BUSINESS 1983 Tom Cruise Rebecca De Mornay" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Cinema / Marketing Poster: RISKY BUSINESS 1983 Tom Cruise Rebecca De Mornay</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retail Display Stand Business Card Poster Holder Marketing Paper"><img src="{{ '/assets/images/marketplace-covers/3b8de5b4eb4a36adf79a.jpg' | relative_url }}" alt="Listing image for Retail Display Stand Business Card Poster Holder Marketing Paper" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Retail Display Stand Business Card Poster Holder Marketing Paper</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retail Display Stand Business Card Poster Holder Marketing Paper"><img src="{{ '/assets/images/marketplace-covers/3b8de5b4eb4a36adf79a.jpg' | relative_url }}" alt="Listing image for Retail Display Stand Business Card Poster Holder Marketing Paper" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Retail Display Stand Business Card Poster Holder Marketing Paper</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Table Sign Holder Business Card Stand Poster Marketing Paper Display"><img src="{{ '/assets/images/marketplace-covers/e7331033b002dd5c0fab.jpg' | relative_url }}" alt="Listing image for Table Sign Holder Business Card Stand Poster Marketing Paper Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Table Sign Holder Business Card Stand Poster Marketing Paper Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: business marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Table Sign Holder Business Card Stand Poster Marketing Paper Display"><img src="{{ '/assets/images/marketplace-covers/e7331033b002dd5c0fab.jpg' | relative_url }}" alt="Listing image for Table Sign Holder Business Card Stand Poster Marketing Paper Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Table Sign Holder Business Card Stand Poster Marketing Paper Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: business marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="business marketing poster -book -books" data-ebay-reference="hidden-fees-the-price-trap-that-breaks-comparison-pages-making-money-from-business-marketing-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ For long-term affiliate businesses, that reputation is often worth far more than
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ For long-term affiliate businesses, that reputation is often worth far more than
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ For long-term affiliate businesses, that reputation is often worth far more than
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ For long-term affiliate businesses, that reputation is often worth far more than
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ For long-term affiliate businesses, that reputation is often worth far more than
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,96 +793,96 @@ For long-term affiliate businesses, that reputation is often worth far more than
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: Providing clear and accurate information about prices  
-   Link: <a href="https://www.gov.uk/government/publications/price-transparency-cma209/providing-clear-and-accurate-information-about-prices-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/price-transparency-cma209/providing-clear-and-accurate-information-about-prices-summary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 7, 2026 — 7 Jan 2026 — It&#x27;s illegal to hide additional fees, taxes or other charges that the customer will have to pay until late...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/price-transparency-cma209/providing-clear-and-accurate-information-about-prices-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/price-transparency-cma209/providing-clear-and-accurate-information-about-prices-summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 7, 2026 — 7 Jan 2026 — It&#x27;s illegal to hide additional fees, taxes or other charges that the customer will have to pay until late...</p></details>
    Published: January 7, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: CMA209 Unfair commercial practices price transparency 13.2.26  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/698f4e3e7da91680ad7f4417/CMA209_Unfair_commercial_practices__price_transparency_13.2.26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/698f4e3e7da91680ad7f4417/CMA209_Unfair_commercial_practices__price_transparency_13.2.26.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukCMA209 Unfair commercial practices, price transparency18 Nov 2025 — Drip pricing – the prohibited practice of no...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/698f4e3e7da91680ad7f4417/CMA209_Unfair_commercial_practices__price_transparency_13.2.26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/698f4e3e7da91680ad7f4417/CMA209_Unfair_commercial_practices__price_transparency_13.2.26.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukCMA209 Unfair commercial practices, price transparency18 Nov 2025 — Drip pricing – the prohibited practice of no...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission The Rule on Unfair or Deceptive Fees: Frequently Asked  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/rule-unfair-or-deceptive-fees-frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/rule-unfair-or-deceptive-fees-frequently-asked-questions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Rule on Unfair or Deceptive Fees: Frequently Asked...May 1, 2025 — 1 May 2025 — The FTC&#x27;s Rule on Unfair or...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/rule-unfair-or-deceptive-fees-frequently-asked-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/rule-unfair-or-deceptive-fees-frequently-asked-questions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Rule on Unfair or Deceptive Fees: Frequently Asked...May 1, 2025 — 1 May 2025 — The FTC&#x27;s Rule on Unfair or...</p></details>
    Published: May 1, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Drip pricing  
-   Link: <a href="https://en.wikipedia.org/wiki/Drip_pricing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Drip_pricing</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Drip_pricing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Drip_pricing</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/2026/apr/15/aa-driving-schools-refund-learner-drivers-hidden-lessons-fees" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2026/apr/15/aa-driving-schools-refund-learner-drivers-hidden-lessons-fees</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As a result, the schools must repay over £760,000, with an average refund of about £9 per student. The AA admitted its wrongdoing and coo...</p></details>
+   Link:<a href="https://www.theguardian.com/business/2026/apr/15/aa-driving-schools-refund-learner-drivers-hidden-lessons-fees" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2026/apr/15/aa-driving-schools-refund-learner-drivers-hidden-lessons-fees</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As a result, the schools must repay over £760,000, with an average refund of about £9 per student. The AA admitted its wrongdoing and coo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/money/2026/jun/23/stubhub-uk-fined-ticket-fees-viagogo-cma-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/money/2026/jun/23/stubhub-uk-fined-ticket-fees-viagogo-cma-investigation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK’s Competition and Markets Authority (CMA) found that between April and December of the previous year, StubHub failed to disclose m...</p></details>
+   Link:<a href="https://www.theguardian.com/money/2026/jun/23/stubhub-uk-fined-ticket-fees-viagogo-cma-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/money/2026/jun/23/stubhub-uk-fined-ticket-fees-viagogo-cma-investigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK’s Competition and Markets Authority (CMA) found that between April and December of the previous year, StubHub failed to disclose m...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: whitecase.com  
-   Link: <a href="https://www.whitecase.com/insight-alert/hidden-fees-real-consequences-cma-issues-its-first-infringement-decision-under-uks" target="_blank" rel="noopener noreferrer nofollow">https://www.whitecase.com/insight-alert/hidden-fees-real-consequences-cma-issues-its-first-infringement-decision-under-uks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden fees, real consequences: CMA issues its first...11 May 2026 — This practice, known as drip pricing, involves adding unavoidable f...</p></details>
+   Link:<a href="https://www.whitecase.com/insight-alert/hidden-fees-real-consequences-cma-issues-its-first-infringement-decision-under-uks" target="_blank" rel="noopener noreferrer nofollow">https://www.whitecase.com/insight-alert/hidden-fees-real-consequences-cma-issues-its-first-infringement-decision-under-uks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden fees, real consequences: CMA issues its first...11 May 2026 — This practice, known as drip pricing, involves adding unavoidable f...</p></details>
    Published: May 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jonesday.com  
    Title: hidden fees heavy fines the cmas consumer protection crackdown gathers pace  
-   Link: <a href="https://www.jonesday.com/en/insights/2026/04/hidden-fees-heavy-fines-the-cmas-consumer-protection-crackdown-gathers-pace" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2026/04/hidden-fees-heavy-fines-the-cmas-consumer-protection-crackdown-gathers-pace</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Fees, Heavy Fines: The CMA&#x27;s Consumer...15 Apr 2026 — Under UK consumer law, businesses are strictly required to display all unav...</p></details>
+   Link:<a href="https://www.jonesday.com/en/insights/2026/04/hidden-fees-heavy-fines-the-cmas-consumer-protection-crackdown-gathers-pace" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2026/04/hidden-fees-heavy-fines-the-cmas-consumer-protection-crackdown-gathers-pace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Fees, Heavy Fines: The CMA&#x27;s Consumer...15 Apr 2026 — Under UK consumer law, businesses are strictly required to display all unav...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reedsmith.com  
    Title: full price no surprises cma s final price transparency guidance arrives  
-   Link: <a href="https://www.reedsmith.com/articles/full-price-no-surprises-cma-s-final-price-transparency-guidance-arrives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reedsmith.com/articles/full-price-no-surprises-cma-s-final-price-transparency-guidance-arrives/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full price, no surprises: CMA&#x27;s final price transparency…18 Dec 2025 — The CMA&#x27;s final price transparency guidance under the DMCC require...</p></details>
+   Link:<a href="https://www.reedsmith.com/articles/full-price-no-surprises-cma-s-final-price-transparency-guidance-arrives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reedsmith.com/articles/full-price-no-surprises-cma-s-final-price-transparency-guidance-arrives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full price, no surprises: CMA&#x27;s final price transparency…18 Dec 2025 — The CMA&#x27;s final price transparency guidance under the DMCC require...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/gabriela-da-costa-82978a1_clear-pricing-do-you-pass-the-3-step-pricing-activity-7433196564292100096-DEGU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gabriela-da-costa-82978a1_clear-pricing-do-you-pass-the-3-step-pricing-activity-7433196564292100096-DEGU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dable hidden fees. No nasty surprises. Our quick 3 Step...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/gabriela-da-costa-82978a1_clear-pricing-do-you-pass-the-3-step-pricing-activity-7433196564292100096-DEGU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gabriela-da-costa-82978a1_clear-pricing-do-you-pass-the-3-step-pricing-activity-7433196564292100096-DEGU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dable hidden fees. No nasty surprises. Our quick 3 Step...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cms.law  
    Title: no hidden charges clamping down on drip pricing  
-   Link: <a href="https://cms.law/en/gbr/legal-[updates" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-[updates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drip pricing is a practice that involves adding unavoidable hidden fees to the advertised price of a product or service...</p></details>
+   Link:<a href="https://cms.law/en/gbr/legal-[updates" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-[updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drip pricing is a practice that involves adding unavoidable hidden fees to the advertised price of a product or service...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Kw-7xTgE3nA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kw-7xTgE3nA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New FTC Law Bans Hidden Fees: How to Make Your Checkout Compliant in 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Kw-7xTgE3nA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kw-7xTgE3nA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New FTC Law Bans Hidden Fees: How to Make Your Checkout Compliant in 2025...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: taylorwessing.com  
    Title: dmcca drip pricing  
-   Link: <a href="https://www.taylorwessing.com/fr/insights-and-events/insights/2025/04/dmcca-drip-pricing" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorwessing.com/fr/insights-and-events/insights/2025/04/dmcca-drip-pricing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drip pricing: CMA clarifies obligations16 Apr 2025 — For the time being, the CMA will only take enforcement action against drip pricing w...</p></details>
+   Link:<a href="https://www.taylorwessing.com/fr/insights-and-events/insights/2025/04/dmcca-drip-pricing" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorwessing.com/fr/insights-and-events/insights/2025/04/dmcca-drip-pricing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drip pricing: CMA clarifies obligations16 Apr 2025 — For the time being, the CMA will only take enforcement action against drip pricing w...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Stub Hub faces lawsuit over "drip pricing" practices  
-   Link: <a href="https://www.youtube.com/watch?v=ze0MLPY2CGA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ze0MLPY2CGA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ban on Hidden Fees: UK Targets Drip Pricing and Fake [Reviews](&amp;#123;&amp;#123; &#x27;reviews/&#x27; | relative_url &amp;#125;&amp;#125;) in Consumer Crackdown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ze0MLPY2CGA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ze0MLPY2CGA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ban on Hidden Fees: UK Targets Drip Pricing and Fake [Reviews](&amp;#123;&amp;#123; &#x27;reviews/&#x27; | relative_url &amp;#125;&amp;#125;) in Consumer Crackdown...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Drip Pricing The Hidden Costs of Travel  
-   Link: <a href="https://www.youtube.com/watch?v=_0KQ0HfSnVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_0KQ0HfSnVM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drip pricing hidden fees consumer protection Drip Pricing- The Fees On Top Of The Fee Trey Evans...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_0KQ0HfSnVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_0KQ0HfSnVM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drip pricing hidden fees consumer protection Drip Pricing- The Fees On Top Of The Fee Trey Evans...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xLFulOaaObY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLFulOaaObY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drip Pricing- The Fees On Top Of The Fee...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xLFulOaaObY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLFulOaaObY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drip Pricing- The Fees On Top Of The Fee...</p></details>

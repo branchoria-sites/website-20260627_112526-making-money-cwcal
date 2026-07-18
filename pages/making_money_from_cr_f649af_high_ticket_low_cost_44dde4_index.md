@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-high/
 description: Focused pages that expand on Ticket Size.
-date: '2026-06-27'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_high_ticket_low_cost_44dde4
 parent_title: Ticket Size
@@ -16,7 +16,7 @@ parent_permalink: /ticket-size/
 
 # Explore Topics in Ticket Size
 
-The following pages expand on the main **[Ticket Size]({{ '/ticket-size/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Ticket Size]({{ '/ticket-size/' | relative_url }})** page and cover its key branches in.
 
 - [Amazon Rates]({{ '/amazon-rates/' | relative_url }})
 - [Checkout Risk]({{ '/checkout-risk/' | relative_url }})

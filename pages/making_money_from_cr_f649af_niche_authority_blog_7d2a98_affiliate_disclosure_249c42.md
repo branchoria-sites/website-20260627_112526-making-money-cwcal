@@ -290,7 +290,7 @@ The real challenge is not whether to disclose affiliate links, but how to do so 
 
 Affiliate marketing introduces a potential conflict of interest. A publisher may earn money when a reader purchases through a recommendation, creating a reasonable question: was this product chosen because it is the best option or because it pays the highest commission?
 
-Consumer protection authorities treat this as a "material connection" that readers deserve to know about before making a purchasing decision. In the United States, the Federal Trade Commission (FTC) requires clear and conspicuous disclosure of material relationships between publishers and advertisers. Similar principles apply under UK advertising rules, which require commercial intent to be made obvious where consumers might otherwise be misled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Consumer protection authorities treat this as a "material connection" that readers deserve to know about before making a purchasing decision. In the United States, the Federal Trade Commission (FTC) requires clear and conspicuous disclosure of material relationships between publishers and advertisers. Similar principles apply under UK advertising rules, which require commercial intent to be made obvious where consumers might otherwise be misled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 For authority blogs, disclosure is therefore more than a legal obligation. It signals confidence. Publishers who are comfortable explaining how they make money appear less defensive than those who hide disclosures in footers or legal pages.
 
@@ -312,7 +312,7 @@ Good [placement]({{ 'placement/' | relative_url }}) typically includes:
 
 </div>
 
-Simply placing a disclosure in a website footer or terms page is generally insufficient because many readers will never see it. The FTC repeatedly emphasises that disclosures should be clear, unavoidable and located where consumers are likely to notice them before acting on a recommendation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Simply placing a disclosure in a website footer or terms page is generally insufficient because many readers will never see it. The FTC repeatedly emphasises that disclosures should be clear, unavoidable and located where consumers are likely to notice them before acting on a recommendation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 Clarity also depends on language. Statements such as:
 
@@ -337,7 +337,7 @@ Authority blogs can reduce perceived bias by adopting visible editorial standard
 
 These practices demonstrate that recommendations follow evidence rather than commission rates.
 
-Google's guidance for high-quality product reviews reinforces many of these same principles. It encourages first-hand experience, meaningful comparisons, evidence of testing, discussion of trade-offs and explanations of which users will benefit from particular products. While Google's guidance is aimed at search quality rather than advertising law, the same characteristics also make affiliate recommendations appear more trustworthy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Google's guidance for high-quality product reviews reinforces many of these same principles. It encourages first-hand experience, meaningful comparisons, evidence of testing, discussion of trade-offs and explanations of which users will benefit from particular products. While Google's guidance is aimed at search quality rather than advertising law, the same characteristics also make affiliate recommendations appear more trustworthy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42-Illustration-2-dark.svg" | relative_url }}" alt="Disclosure illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -378,7 +378,7 @@ Common examples include:
 
 </div>
 
-Research into affiliate disclosures on social platforms has shown that brief or ambiguous disclosures often fail to help users recognise commercial relationships, whereas explanatory disclosures are better understood. Studies have also found that disclosure rates have historically been relatively low, highlighting why visible transparency continues to matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Research into affiliate disclosures on social platforms has shown that brief or ambiguous disclosures often fail to help users recognise commercial relationships, whereas explanatory disclosures are better understood. Studies have also found that disclosure rates have historically been relatively low, highlighting why visible transparency continues to matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42-Illustration-3-dark.svg" | relative_url }}" alt="Disclosure illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -403,162 +403,162 @@ In that context, the disclosure no longer feels like a legal warning. Instead, i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Affiliate Disclosure Improve Trust?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Affiliate Disclosure Improve Trust?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Helps readers understand why transparency and credibility matter when publishing recommendations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why transparency and credibility matter when publishing recommendations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Supports creating transparent, reader-first editorial content that builds long-term trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports creating transparent, reader-first editorial content that builds long-term trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
-        </h4>
-        <p class="fr-book-author">By Evgenii Prussakov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
+</h4>
+<p class="fr-book-author">By Evgenii Prussakov</p>
         
-        <p class="fr-book-desc">Provides practical context on affiliate marketing practices, relationships, and ethical program management.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical context on affiliate marketing practices, relationships, and ethical program management.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains the psychological foundations of trust and ethical persuasion relevant to affiliate disclosures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the psychological foundations of trust and ethical persuasion relevant to affiliate disclosures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Van Gogh Starry night t-shirt Aesthetic vapourwave tumblr blogger tshirt tee"><img src="{{ '/assets/images/marketplace-covers/2ef4b674103d283f980a.jpg' | relative_url }}" alt="Listing image for Van Gogh Starry night t-shirt Aesthetic vapourwave tumblr blogger tshirt tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Van Gogh Starry night t-shirt Aesthetic vapourwave tumblr blogger tshirt tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for blogger t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: blogger t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Van Gogh Starry night t-shirt Aesthetic vapourwave tumblr blogger tshirt tee"><img src="{{ '/assets/images/marketplace-covers/2ef4b674103d283f980a.jpg' | relative_url }}" alt="Listing image for Van Gogh Starry night t-shirt Aesthetic vapourwave tumblr blogger tshirt tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Van Gogh Starry night t-shirt Aesthetic vapourwave tumblr blogger tshirt tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for blogger t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: blogger t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eat Fruit Not Friends T-shirt Top Fashion Blogger Slogan Cute Tumblr Vegan"><img src="{{ '/assets/images/marketplace-covers/55b1aa04492744759235.jpg' | relative_url }}" alt="Listing image for Eat Fruit Not Friends T-shirt Top Fashion Blogger Slogan Cute Tumblr Vegan" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Eat Fruit Not Friends T-shirt Top Fashion Blogger Slogan Cute Tumblr Vegan</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for blogger t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: blogger t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eat Fruit Not Friends T-shirt Top Fashion Blogger Slogan Cute Tumblr Vegan"><img src="{{ '/assets/images/marketplace-covers/55b1aa04492744759235.jpg' | relative_url }}" alt="Listing image for Eat Fruit Not Friends T-shirt Top Fashion Blogger Slogan Cute Tumblr Vegan" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Eat Fruit Not Friends T-shirt Top Fashion Blogger Slogan Cute Tumblr Vegan</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for blogger t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: blogger t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=blogger+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="blogger t shirt" data-ebay-reference="disclosure-f23ad6-can-affiliate-disclosure-improve-trust-making-money-from-blogger-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ In that context, the disclosure no longer feels like a legal warning. Instead, i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ In that context, the disclosure no longer feels like a legal warning. Instead, i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ In that context, the disclosure no longer feels like a legal warning. Instead, i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ In that context, the disclosure no longer feels like a legal warning. Instead, i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ In that context, the disclosure no longer feels like a legal warning. Instead, i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,86 +764,86 @@ In that context, the disclosure no longer feels like a legal warning. Instead, i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingYou should disclose the affiliate relationship both in the videos and in the description...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingYou should disclose the affiliate relationship both in the videos and in the description...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
+   Link:<a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: consumer.ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: <a href="https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ftc.govFTC&#x27;s Endorsement Guides: What People Are AskingAdvertisers shouldn&#x27;t encourage endorsements using features that don&#x27;t allow for c...</p></details>
+   Link:<a href="https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ftc.govFTC&#x27;s Endorsement Guides: What People Are AskingAdvertisers shouldn&#x27;t encourage endorsements using features that don&#x27;t allow for c...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: consultantlm.com  
-   Link: <a href="https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website" target="_blank" rel="noopener noreferrer nofollow">https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Disclosure Rules 2025 How to Avoid Lawsuits...16 Nov 2025 — The FTC mandates full disclosure of any paid promotions, affil...</p></details>
+   Link:<a href="https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website" target="_blank" rel="noopener noreferrer nofollow">https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Disclosure Rules 2025 How to Avoid Lawsuits...16 Nov 2025 — The FTC mandates full disclosure of any paid promotions, affil...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose</a>  
+   Link:<a href="https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/synthetic-endorsements-affiliate-links-ftcs-quiet-phil-gcose</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: heyseva.com  
    Title: ftc guidelines for affiliates creators and brands 2025  
-   Link: <a href="https://www.heyseva.com/blog-posts/ftc-guidelines-for-affiliates-creators-and-brands-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.heyseva.com/blog-posts/ftc-guidelines-for-affiliates-creators-and-brands-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Guidelines for Affiliates, Creators and Brands 2025 - SEVA18 Jan 2025 — Here&#x27;s a comprehensive and easy-to-understand guide on who ne...</p></details>
+   Link:<a href="https://www.heyseva.com/blog-posts/ftc-guidelines-for-affiliates-creators-and-brands-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.heyseva.com/blog-posts/ftc-guidelines-for-affiliates-creators-and-brands-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Guidelines for Affiliates, Creators and Brands 2025 - SEVA18 Jan 2025 — Here&#x27;s a comprehensive and easy-to-understand guide on who ne...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vivianagency.com  
    Title: affiliate marketing compliance checklist for brands  
-   Link: <a href="https://www.vivianagency.com/affiliate-marketing-compliance-checklist-for-brands/" target="_blank" rel="noopener noreferrer nofollow">https://www.vivianagency.com/affiliate-marketing-compliance-checklist-for-brands/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical Affiliate Marketing Compliance Checklist for...20 May 2026 — Stay compliant in 2026 with our full affiliate marketing complian...</p></details>
+   Link:<a href="https://www.vivianagency.com/affiliate-marketing-compliance-checklist-for-brands/" target="_blank" rel="noopener noreferrer nofollow">https://www.vivianagency.com/affiliate-marketing-compliance-checklist-for-brands/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practical Affiliate Marketing Compliance Checklist for...20 May 2026 — Stay compliant in 2026 with our full affiliate marketing complian...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: iubenda.com  
-   Link: <a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>isitors that you earn a commission when they purchase a product or...Read more...</p></details>
+   Link:<a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>isitors that you earn a commission when they purchase a product or...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: auditsocials.com  
    Title: ftc affiliate disclosure requirements 2026 guide  
-   Link: <a href="https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Disclosure Requirements 2026 - AuditSocials14 Mar 2026 — FTC affiliate disclosure 2026 — exact placement rules, per-violati...</p></details>
+   Link:<a href="https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Disclosure Requirements 2026 - AuditSocials14 Mar 2026 — FTC affiliate disclosure 2026 — exact placement rules, per-violati...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: postaffiliatepro.com  
    Title: what should i write in affiliate disclosure  
-   Link: <a href="https://www.postaffiliatepro.com/faq/what-should-i-write-in-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/faq/what-should-i-write-in-affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how to write effective affiliate disclosures that comply with FTC regulations, build trust with your audience, and protect your...</p></details>
+   Link:<a href="https://www.postaffiliatepro.com/faq/what-should-i-write-in-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/faq/what-should-i-write-in-affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how to write effective affiliate disclosures that comply with FTC regulations, build trust with your audience, and protect your...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thepma.org  
    Title: Proposed Changes to FTC Endorsement Guides  
-   Link: <a href="https://thepma.org/proposed-changes-to-ftc-endorsement-guides/" target="_blank" rel="noopener noreferrer nofollow">https://thepma.org/proposed-changes-to-ftc-endorsement-guides/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The PMA28 Jun 2022 — Advertisers can be held liable for the lack of affiliate disclosures, and should provide guidance to Affiliates rega...</p></details>
+   Link:<a href="https://thepma.org/proposed-changes-to-ftc-endorsement-guides/" target="_blank" rel="noopener noreferrer nofollow">https://thepma.org/proposed-changes-to-ftc-endorsement-guides/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The PMA28 Jun 2022 — Advertisers can be held liable for the lack of affiliate disclosures, and should provide guidance to Affiliates rega...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: partnercentric.com  
    Title: how to properly disclose ftc endorsements  
-   Link: <a href="https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jun 2024 — We wanted to outline the essential steps for proper FTC disclosure and provide recommendations for e-commerce sites and inf...</p></details>
+   Link:<a href="https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jun 2024 — We wanted to outline the essential steps for proper FTC disclosure and provide recommendations for e-commerce sites and inf...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: growth-onomics.com  
    Title: ultimate guide affiliate compliance 2026  
-   Link: <a href="https://growth-onomics.com/ultimate-guide-affiliate-compliance-2026/" target="_blank" rel="noopener noreferrer nofollow">https://growth-onomics.com/ultimate-guide-affiliate-compliance-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate Guide to Affiliate Compliance 20266 Feb 2026 — The FTC mandates that affiliates must clearly disclose any &quot;material connection&quot;...</p></details>
+   Link:<a href="https://growth-onomics.com/ultimate-guide-affiliate-compliance-2026/" target="_blank" rel="noopener noreferrer nofollow">https://growth-onomics.com/ultimate-guide-affiliate-compliance-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate Guide to Affiliate Compliance 20266 Feb 2026 — The FTC mandates that affiliates must clearly disclose any &quot;material connection&quot;...</p></details>
