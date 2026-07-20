@@ -502,89 +502,89 @@ Affiliate content that supports several of these stages tends to outperform page
 Industry research consistently shows that B2B buyers spend much of their purchasing journey conducting independent research before engaging directly with vendors, making authoritative buyer-intent content particularly valuable within software affiliate strategies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://company.g2.com/news/g2-expands-buyer-intent-capabilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: company.g2.com">[G2]</a><span class="citation-popover" role="note"><span class="citation-popover-source">company.g2.com</span><span class="citation-popover-title">Expands Buyer Intent Across Four Software Discovery</span><span class="citation-popover-snippet">G2 Expands Buyer Intent Across Four Software Discovery...June 3, 2026 — 3 Jun 2026 — G2 research shows that half of B2B software buyer...</span><span class="citation-popover-meta">Published: June 3, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Low Traffic Software Pages Can Earn More. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Low-Traffic Software Pages Can Earn More. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
-</h4>
-<p class="fr-book-author">By April Dunford</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
+        </h4>
+        <p class="fr-book-author">By Marcus Sheridan</p>
         
-<p class="fr-book-desc">Directly supports positioning software products for buyers evaluating competing solutions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how answering high-intent buyer questions builds trust and drives conversions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
-</h4>
-<p class="fr-book-author">By Marcus Sheridan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Obviously+Awesome+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
+        </h4>
+        <p class="fr-book-author">By April Dunford</p>
         
-<p class="fr-book-desc">Shows how answering high-intent buyer questions builds trust and drives conversions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly supports positioning software products for buyers evaluating competing solutions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Obviously+Awesome+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9-4bBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Traction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction">Traction</a>
-</h4>
-<p class="fr-book-author">By Justin Mares, Gabriel Weinberg</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+SaaS+Playbook+Rob+Walling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The SaaS Playbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14624002-M.jpg" alt="Cover for The SaaS Playbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+SaaS+Playbook+Rob+Walling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The SaaS Playbook">The SaaS Playbook</a>
+        </h4>
+        <p class="fr-book-author">By Rob Walling, Jessie Kwak et al.</p>
         
-<p class="fr-book-desc">Covers customer acquisition channels and growth strategies relevant to software affiliate publishing.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Traction+by+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for SaaS economics, customer acquisition, and the commercial dynamics behind software buying decisions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+SaaS+Playbook+Rob+Walling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-</h4>
-<p class="fr-book-author">By Robert B. Cialdini</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Traction%3A+How+Any+Startup+Can+Achieve+Explosive+Customer+Growth+Gabriel+Weinberg+and+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction: How Any Startup Can Achieve Explosive Customer Growth on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Traction%3A+How+Any+Startup+Can+Achieve+Explosive+Customer+Growth+Gabriel+Weinberg+and+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction: How Any Startup Can Achieve Explosive Customer Growth">Traction: How Any Startup Can Achieve Explosive Customer Growth</a>
+        </h4>
+        <p class="fr-book-author">By Gabriel Weinberg and Justin Mares</p>
         
-<p class="fr-book-desc">Explains the persuasion principles that underpin high-converting B2B software comparison and affiliate content.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers customer acquisition channels and growth strategies relevant to software affiliate publishing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Traction%3A+How+Any+Startup+Can+Achieve+Explosive+Customer+Growth+Gabriel+Weinberg+and+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Traction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Traction</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+SaaS+Playbook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The SaaS Playbook</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

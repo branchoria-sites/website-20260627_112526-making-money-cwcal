@@ -512,89 +512,89 @@ Research into short-form video marketing consistently finds that usefulness and 
 For affiliate publishers, the implication is straightforward. The camera should not be used to repeat product descriptions already available on retailer websites. Its real value lies in making uncertain aspects visible. Every genuine demonstration—whether showing setup difficulties, operational noise, durability, or real results—reduces unanswered questions and strengthens confidence before the viewer follows through to the written review and, ultimately, the affiliate link.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Should an Affiliate Video Actually Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Should an Affiliate Video Actually Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-</h4>
-<p class="fr-book-author">By Robert B. Cialdini</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+        </h4>
+        <p class="fr-book-author">By Robert B. Cialdini</p>
         
-<p class="fr-book-desc">Provides the persuasion principles behind trustworthy demonstrations and buyer confidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides the persuasion principles behind trustworthy demonstrations and buyer confidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epic Content Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epic Content Marketing">Epic Content Marketing</a>
-</h4>
-<p class="fr-book-author">By Joe Pulizzi, Brian W. Piper</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jab, Jab, Jab, Right Hook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jab, Jab, Jab, Right Hook">Jab, Jab, Jab, Right Hook</a>
+        </h4>
+        <p class="fr-book-author">By Gary Vaynerchuk</p>
         
-<p class="fr-book-desc">Shows how valuable educational content outperforms promotional messaging, aligning with authentic product reviews.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Emphasizes delivering genuine value before asking for action, matching effective affiliate video strategy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jab, Jab, Jab, Right Hook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jab, Jab, Jab, Right Hook">Jab, Jab, Jab, Right Hook</a>
-</h4>
-<p class="fr-book-author">By Gary Vaynerchuk</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Epic+Content+Marketing+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epic Content Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Epic+Content+Marketing+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epic Content Marketing">Epic Content Marketing</a>
+        </h4>
+        <p class="fr-book-author">By Joe Pulizzi, Brian W. Piper</p>
         
-<p class="fr-book-desc">Emphasizes delivering genuine value before asking for action, matching effective affiliate video strategy.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook+by+Gary+Vaynerchuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how valuable educational content outperforms promotional messaging, aligning with authentic product reviews.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Epic+Content+Marketing+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open YouTube Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8778900-M.jpg" alt="Cover for YouTube Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="YouTube Secrets">YouTube Secrets</a>
-</h4>
-<p class="fr-book-author">By Sean Cannell, Benji Travis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open YouTube Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8778900-M.jpg" alt="Cover for YouTube Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="YouTube Secrets">YouTube Secrets</a>
+        </h4>
+        <p class="fr-book-author">By Sean Cannell, Benji Travis</p>
         
-<p class="fr-book-desc">First published 2018.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how to create engaging videos that build trust, attract viewers, and convert audiences.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Epic+Content+Marketing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Epic Content Marketing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jab, Jab, Jab, Right Hook</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Jab%2C+Jab%2C+Jab%2C+Right+Hook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jab, Jab, Jab, Right Hook</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Epic+Content+Marketing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Epic Content Marketing</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

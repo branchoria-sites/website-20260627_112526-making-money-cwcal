@@ -449,89 +449,89 @@ Videos naturally age as products change, but a well-maintained webpage can remai
 For affiliate publishers, the strongest model is therefore not "video or website" but "video plus website". The video demonstrates experience and builds confidence, while the companion page preserves accuracy, supports search visibility, keeps recommendations current and provides the organised information that helps visitors complete an informed buying decision.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Affiliate Videos Still Need a Website. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Affiliate Videos Still Need a Website. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcG_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing For Dummies">Affiliate Marketing For Dummies</a>
-</h4>
-<p class="fr-book-author">By Ted Sudol, Paul Mladjenovic</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcG_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing For Dummies">Affiliate Marketing For Dummies</a>
+        </h4>
+        <p class="fr-book-author">By Ted Sudol, Paul Mladjenovic</p>
         
-<p class="fr-book-desc">Covers affiliate marketing fundamentals including content, traffic, and long-term website strategies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers affiliate marketing fundamentals including content, traffic, and long-term website strategies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
-</h4>
-<p class="fr-book-author">By Marcus Sheridan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
+        </h4>
+        <p class="fr-book-author">By Marcus Sheridan</p>
         
-<p class="fr-book-desc">Demonstrates how detailed written content answers buyer questions that videos alone cannot address.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Demonstrates how detailed written content answers buyer questions that videos alone cannot address.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open YouTube Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8778900-M.jpg" alt="Cover for YouTube Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="YouTube Secrets">YouTube Secrets</a>
-</h4>
-<p class="fr-book-author">By Sean Cannell, Benji Travis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Inc+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Inc on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12962196-M.jpg" alt="Cover for Content Inc" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Content+Inc+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Inc">Content Inc</a>
+        </h4>
+        <p class="fr-book-author">By Joe Pulizzi</p>
         
-<p class="fr-book-desc">First published 2018.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how owned media assets such as websites complement other publishing channels.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Content+Inc+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content INC. on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content INC.">Content INC.</a>
-</h4>
-<p class="fr-book-author">By Joe Pulizzi, Ignacio Montero</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open YouTube Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8778900-M.jpg" alt="Cover for YouTube Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="YouTube Secrets">YouTube Secrets</a>
+        </h4>
+        <p class="fr-book-author">By Sean Cannell, Benji Travis</p>
         
-<p class="fr-book-desc">Shows how owned media assets such as websites complement other publishing channels.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Content+INC.+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how video content fits into a broader content strategy that benefits from companion websites.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=YouTube+Secrets+Sean+Cannell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Marketing For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=YouTube+Secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">YouTube Secrets</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Marketing For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Content+Inc&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Content Inc</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

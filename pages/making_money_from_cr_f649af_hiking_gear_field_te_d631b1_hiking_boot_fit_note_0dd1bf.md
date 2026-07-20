@@ -488,89 +488,89 @@ The most valuable fit notes consistently answer practical questions readers cann
 When reviews answer those questions honestly, readers are less likely to buy the wrong boot for their own foot shape. That reduces costly mistakes while increasing the [credibility]({{ 'credibility/' | relative_url }}) that successful hiking affiliate websites depend upon.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why the Best Boot May Still Hurt. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why the Best Boot May Still Hurt. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fixing+Your+Feet+Injury+Prevention+and+Treatments+for+Athletes+By+John+Vonhof+John+Vonhof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fixing Your Feet Injury Prevention and Treatments for Athletes By John Vonhof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11427646-M.jpg" alt="Cover for Fixing Your Feet Injury Prevention and Treatments for Athletes By John Vonhof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fixing+Your+Feet+Injury+Prevention+and+Treatments+for+Athletes+By+John+Vonhof+John+Vonhof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fixing Your Feet Injury Prevention and Treatments for Athletes By John Vonhof">Fixing Your Feet Injury Prevention and Treatments for Athlete...</a>
-</h4>
-<p class="fr-book-author">By John Vonhof</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering The Freedom of the Hills on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15020982-M.jpg" alt="Cover for Mountaineering The Freedom of the Hills" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering The Freedom of the Hills">Mountaineering The Freedom of the Hills</a>
+        </h4>
+        <p class="fr-book-author">By The Climbing Committee of the Mountaineers</p>
         
-<p class="fr-book-desc">First published 1799.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fixing+Your+Feet+Injury+Prevention+and+Treatments+for+Athletes+By+John+Vonhof+John+Vonhof&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains proper footwear selection, foot care, and matching boots to terrain and conditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering The Freedom of the Hills on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15020982-M.jpg" alt="Cover for Mountaineering The Freedom of the Hills" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering The Freedom of the Hills">Mountaineering The Freedom of the Hills</a>
-</h4>
-<p class="fr-book-author">By The Climbing Committee of the Mountaineers</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trail+Tested+Justin+Lichter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trail Tested on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12188981-M.jpg" alt="Cover for Trail Tested" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Trail+Tested+Justin+Lichter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trail Tested">Trail Tested</a>
+        </h4>
+        <p class="fr-book-author">By Justin Lichter</p>
         
-<p class="fr-book-desc">First published 1960.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides real-world advice on footwear choices, comfort, and reducing problems on trail.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Trail+Tested+Justin+Lichter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ultimate Hiker&#x27;s Gear Guide, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10201449-M.jpg" alt="Cover for The Ultimate Hiker&#x27;s Gear Guide, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ultimate Hiker&#x27;s Gear Guide, Second Edition">The Ultimate Hiker&#x27;s Gear Guide, Second Edition</a>
-</h4>
-<p class="fr-book-author">By Andrew Skurka</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fixing+Your+Feet+Injury+Prevention+and+Treatments+for+Athletes+By+John+Vonhof+John+Vonhof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fixing Your Feet Injury Prevention and Treatments for Athletes By John Vonhof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11427646-M.jpg" alt="Cover for Fixing Your Feet Injury Prevention and Treatments for Athletes By John Vonhof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fixing+Your+Feet+Injury+Prevention+and+Treatments+for+Athletes+By+John+Vonhof+John+Vonhof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fixing Your Feet Injury Prevention and Treatments for Athletes By John Vonhof">Fixing Your Feet Injury Prevention and Treatments for Athlete...</a>
+        </h4>
+        <p class="fr-book-author">By John Vonhof</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Hiking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1799.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fixing+Your+Feet+Injury+Prevention+and+Treatments+for+Athletes+By+John+Vonhof+John+Vonhof&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trail+Tested+Justin+Lichter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trail Tested on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12188981-M.jpg" alt="Cover for Trail Tested" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Trail+Tested+Justin+Lichter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trail Tested">Trail Tested</a>
-</h4>
-<p class="fr-book-author">By Justin Lichter</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+complete+walker+IV+Colin+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The complete walker IV on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+complete+walker+IV+Colin+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete walker IV">The complete walker IV</a>
+        </h4>
+        <p class="fr-book-author">By Colin Fletcher</p>
         
-<p class="fr-book-desc">First published 2013. Subjects: Hiking, Handbooks, manuals, Backpacking, Equipment and supplies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Trail+Tested+Justin+Lichter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers boot selection, fit, backpacking comfort, and practical gear evaluation methods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+complete+walker+IV+Colin+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fixing+Your+Feet+Injury+Prevention+and+Treatments+for+Athletes+By+John+Vonhof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fixing Your Feet Injury Prevention and Treatments for Athletes By John Vonhof</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountaineering The Freedom of the Hills</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+%2C+Second+Edition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Hiker&#x27;s Gear , Second Edition books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountaineering The Freedom of the Hills</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trail+Tested&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trail Tested</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fixing+Your+Feet+Injury+Prevention+and+Treatments+for+Athletes+By+John+Vonhof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fixing Your Feet Injury Prevention and Treatments for Athletes By John Vonhof</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

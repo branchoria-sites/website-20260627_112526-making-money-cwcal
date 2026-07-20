@@ -548,89 +548,89 @@ They simply want confidence that they are not making an expensive mistake.
 An affiliate page that clearly explains compatibility, cites manufacturer information where appropriate, highlights important exceptions and explains why a product fits a particular situation provides value beyond what many retailer product pages offer. That aligns closely with Google's emphasis on helpful, original content while addressing one of the most commercially valuable forms of [long-tail]({{ 'long-tail/' | relative_url }}) search intent. Accurate product attributes and compatibility information are also important for product discovery and reducing mismatches across Google's shopping ecosystem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.google.com/merchants/answer/7052112?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Product data specification</span><span class="citation-popover-snippet">Google HelpProduct data specification - Google Merchant Center HelpUse this guide to format your product information for Merchant Center...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Will This Actually Work With What I Own?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Will This Actually Work With What I Own?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Paradox+of+Choice+by+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Paradox of Choice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g422yyua-P8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Paradox of Choice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+by+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paradox of Choice">The Paradox of Choice</a>
-</h4>
-<p class="fr-book-author">By Barry Schwartz</p>
-<p class="fr-book-popularity">Rating: 3.5/5 from 13 Google Books ratings</p>
-<p class="fr-book-desc">Provides context for simplifying buying decisions through compatibility guidance.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+by+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
-</h4>
-<p class="fr-book-author">By Evgenii Prussakov</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
+        </h4>
+        <p class="fr-book-author">By Evgenii Prussakov</p>
         
-<p class="fr-book-desc">Explains affiliate marketing strategy that benefits from high-converting compatibility content.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains affiliate marketing strategy that benefits from high-converting compatibility content.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
-</h4>
-<p class="fr-book-author">By Steve Krug</p>
-        
-<p class="fr-book-desc">Supports creating buying guides that answer questions clearly and reduce friction.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Paradox+of+Choice+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Paradox of Choice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g422yyua-P8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Paradox of Choice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Paradox of Choice">The Paradox of Choice</a>
+        </h4>
+        <p class="fr-book-author">By Barry Schwartz</p>
+        <p class="fr-book-popularity">Rating: 3.5/5 from 13 Google Books ratings</p>
+        <p class="fr-book-desc">Provides context for simplifying buying decisions through compatibility guidance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Paradox+of+Choice+Barry+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-</h4>
-<p class="fr-book-author">By Robert B. Cialdini</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
+        </h4>
+        <p class="fr-book-author">By Steve Krug</p>
         
-<p class="fr-book-desc">Helps explain why reassurance and reducing purchase uncertainty increase conversions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports creating buying guides that answer questions clearly and reduce friction.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Paradox+of+Choice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Paradox of Choice</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
+        </h4>
+        <p class="fr-book-author">By Martin Lindstrom</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+        <p class="fr-book-desc">Explores purchasing behavior and the factors that influence buying confidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Paradox+of+Choice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Paradox of Choice</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

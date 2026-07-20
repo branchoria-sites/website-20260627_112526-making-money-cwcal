@@ -375,89 +375,89 @@ This is also why experienced enthusiasts often say that the grinder is the found
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Should You Upgrade the Grinder First?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Should You Upgrade the Grinder First?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
-</h4>
-<p class="fr-book-author">By James Hoffmann</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
+        </h4>
+        <p class="fr-book-author">By James Hoffmann</p>
         
-<p class="fr-book-desc">First published 2014. Subjects: Coffee industry, Coffee, Café, Commerce, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains coffee extraction, grind quality, and brewing principles that underpin why grinder upgrades matter.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everything+but+Espresso+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everything but Espresso on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7882605-M.jpg" alt="Cover for Everything but Espresso" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Everything+but+Espresso+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everything but Espresso">Everything but Espresso</a>
-</h4>
-<p class="fr-book-author">By Scott Rao</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
+        </h4>
+        <p class="fr-book-author">By Scott Rao</p>
         
-<p class="fr-book-desc">First published 2010. Subjects: coffee, science, Cooking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Everything+but+Espresso+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides detailed insight into grinding, extraction consistency, and espresso preparation techniques.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
-</h4>
-<p class="fr-book-author">By Scott Rao</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
+        </h4>
+        <p class="fr-book-author">By Anette Moldvaer</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Tea, Coffee, Espresso.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces espresso equipment, coffee brewing, and the importance of grind quality for flavour.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
-</h4>
-<p class="fr-book-author">By Anette Moldvaer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everything+but+Espresso+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everything but Espresso on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7882605-M.jpg" alt="Cover for Everything but Espresso" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Everything+but+Espresso+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everything but Espresso">Everything but Espresso</a>
+        </h4>
+        <p class="fr-book-author">By Scott Rao</p>
         
-<p class="fr-book-desc">First published 2014. Subjects: Coffee, Cooking (coffee), Coffee brewing, Espresso.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Although broader than espresso, it explains extraction fundamentals that help readers understand the impact of grind consistency.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Everything+but+Espresso+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everything+but+Espresso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everything but Espresso</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Coffee+Obsession&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coffee Obsession</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -470,89 +470,89 @@ Equally important is acknowledging the limits of the evidence. If a backpack has
 Readers generally recognise the difference between honest uncertainty and unsupported certainty. Over time, reviews that document real wear patterns, explain testing conditions and update findings as products age are more likely to build the trust on which successful hiking affiliate websites depend.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Can a Review Call Gear Durable?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Can a Review Call Gear Durable?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10080492-M.jpg" alt="Cover for Mountaineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering">Mountaineering</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10080492-M.jpg" alt="Cover for Mountaineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering">Mountaineering</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">Provides authoritative guidance on gear selection, use, maintenance, and evaluating equipment over extended field use.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides authoritative guidance on gear selection, use, maintenance, and evaluating equipment over extended field use.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+shit+in+the+woods+Kathleen+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to shit in the woods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/697234-M.jpg" alt="Cover for How to shit in the woods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+shit+in+the+woods+Kathleen+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to shit in the woods">How to shit in the woods</a>
-</h4>
-<p class="fr-book-author">By Kathleen Meyer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering The Freedom of the Hills on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15020982-M.jpg" alt="Cover for Mountaineering The Freedom of the Hills" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering The Freedom of the Hills">Mountaineering The Freedom of the Hills</a>
+        </h4>
+        <p class="fr-book-author">By The Climbing Committee of the Mountaineers</p>
         
-<p class="fr-book-desc">First published 1989. Subjects: Defecation, Handbooks, manuals, Health aspects, Health aspects of Mountaineering, Mountaineering.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+shit+in+the+woods+Kathleen+Meyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides authoritative guidance on gear selection, use, maintenance, and evaluating equipment over extended field use.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ultimate Hiker&#x27;s Gear Guide, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10201449-M.jpg" alt="Cover for The Ultimate Hiker&#x27;s Gear Guide, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ultimate Hiker&#x27;s Gear Guide, Second Edition">The Ultimate Hiker&#x27;s Gear Guide, Second Edition</a>
-</h4>
-<p class="fr-book-author">By Andrew Skurka</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+shit+in+the+woods+Kathleen+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to shit in the woods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/697234-M.jpg" alt="Cover for How to shit in the woods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+shit+in+the+woods+Kathleen+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to shit in the woods">How to shit in the woods</a>
+        </h4>
+        <p class="fr-book-author">By Kathleen Meyer</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Hiking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports broader hiking and backcountry best practices that complement trustworthy gear-testing content.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+shit+in+the+woods+Kathleen+Meyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mountaineering%3A+The+Freedom+of+the+Hills+The+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering: The Freedom of the Hills on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mountaineering%3A+The+Freedom+of+the+Hills+The+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering: The Freedom of the Hills">Mountaineering: The Freedom of the Hills</a>
-</h4>
-<p class="fr-book-author">By The Mountaineers</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ultimate Hiker&#x27;s Gear Guide, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10201449-M.jpg" alt="Cover for The Ultimate Hiker&#x27;s Gear Guide, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ultimate Hiker&#x27;s Gear Guide, Second Edition">The Ultimate Hiker&#x27;s Gear Guide, Second Edition</a>
+        </h4>
+        <p class="fr-book-author">By Andrew Skurka</p>
         
-<p class="fr-book-desc">Provides authoritative guidance on gear selection, use, maintenance, and evaluating equipment over extended field use.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mountaineering%3A+The+Freedom+of+the+Hills+The+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2017. Subjects: Hiking.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountaineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+shit+in+the+woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to shit in the woods</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+%2C+Second+Edition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Hiker&#x27;s Gear , Second Edition books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountaineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountaineering The Freedom of the Hills</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+shit+in+the+woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to shit in the woods</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

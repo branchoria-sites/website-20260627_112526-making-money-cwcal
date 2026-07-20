@@ -475,89 +475,72 @@ Within a [baby travel gear]({{ 'baby-travel/' | relative_url }}) affiliate site,
 When every review includes consistent measurements, realistic travel scenarios and original photographs, visitors can compare products with confidence. That improves editorial credibility, encourages return visits and gives affiliate recommendations a stronger foundation than pages that simply repeat retailer marketing copy.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Pushchair Tests Parents Actually Need. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Pushchair Tests Parents Actually Need. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What to expect the first year on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11743015-M.jpg" alt="Cover for What to expect the first year" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What to expect the first year">What to expect the first year</a>
-</h4>
-<p class="fr-book-author">By Heidi Murkoff, Arlene Eisenberg et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What to expect the first year on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11743015-M.jpg" alt="Cover for What to expect the first year" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What to expect the first year">What to expect the first year</a>
+        </h4>
+        <p class="fr-book-author">By Heidi Murkoff, Arlene Eisenberg et al.</p>
         
-<p class="fr-book-desc">First published 1989. Subjects: Infants, Child rearing, Care, Infants, care and hygiene, Parenting, study and teaching.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports new parents navigating everyday routines where practical pushchair selection plays a role.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Baby+Gizmo+Buying+Guide+Heather+Maclean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Baby Gizmo Buying Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2738038-M.jpg" alt="Cover for The Baby Gizmo Buying Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Baby+Gizmo+Buying+Guide+Heather+Maclean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baby Gizmo Buying Guide">The Baby Gizmo Buying Guide</a>
-</h4>
-<p class="fr-book-author">By Heather Maclean</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3030739-M.jpg" alt="Cover for Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,)">Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture...</a>
+        </h4>
+        <p class="fr-book-author">By Agnes Sligh Turnbull, Alan Fields</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Infants, Catalogs, Infants&#x27; supplies, Care, Infants, care and hygiene.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Baby+Gizmo+Buying+Guide+Heather+Maclean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers evaluate strollers and other baby gear with practical buying criteria that complement real-world testing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3030739-M.jpg" alt="Cover for Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,)">Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture...</a>
-</h4>
-<p class="fr-book-author">By Agnes Sligh Turnbull, Alan Fields</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Baby+Gizmo+Buying+Guide+Heather+Maclean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Baby Gizmo Buying Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2738038-M.jpg" alt="Cover for The Baby Gizmo Buying Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Baby+Gizmo+Buying+Guide+Heather+Maclean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baby Gizmo Buying Guide">The Baby Gizmo Buying Guide</a>
+        </h4>
+        <p class="fr-book-author">By Heather Maclean</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: Children&#x27;s paraphernalia, Directories, Product safety, Purchasing, Child care.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29+Agnes+Sligh+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2008. Subjects: Infants, Catalogs, Infants&#x27; supplies, Care, Infants, care and hygiene.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Baby+Gizmo+Buying+Guide+Heather+Maclean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Baby+Bargains+Denise+Fields+and+Alan+Fields&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Baby Bargains on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Baby+Bargains+Denise+Fields+and+Alan+Fields&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Baby Bargains">Baby Bargains</a>
-</h4>
-<p class="fr-book-author">By Denise Fields and Alan Fields</p>
-        
-<p class="fr-book-desc">Helps readers evaluate strollers and other baby gear with practical buying criteria that complement real-world testing.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Baby+Bargains+Denise+Fields+and+Alan+Fields&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=What+to+expect+the+first+year&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What to expect the first year</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Baby+Gizmo+Buying+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Baby Gizmo Buying books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,)</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=What+to+expect+the+first+year&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What to expect the first year</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Baby+Bargains%3A+Secrets+to+Saving+20%25+to+50%25+on+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C+Maternity+Wear+and+Much%2C+Much+More%21+%28Baby+Bargains%3A+Secrets+to+...+Baby+Furniture%2C+Equipment%2C+Clothes%2C+Toys%2C%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Baby Bargains: Secrets to Saving 20% to 50% on Baby Furniture, Equipment, Clothes, Toys, Maternity Wear and Much, Much More! (Baby Bargains: Secrets to ... Baby Furniture, Equipment, Clothes, Toys,)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Baby+Gizmo+Buying+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Baby Gizmo Buying books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

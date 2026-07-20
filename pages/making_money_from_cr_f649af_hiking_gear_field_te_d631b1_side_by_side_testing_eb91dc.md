@@ -480,89 +480,89 @@ Readers generally value transparent trade-offs more than exaggerated certainty.
 Where evidence is limited—for example, on long-term durability after only a few weeks—the review should distinguish first impressions from extended testing rather than presenting both as equally established findings. Professional outdoor testing increasingly combines repeatable comparison methods with ongoing long-term field use because neither approach alone captures every aspect of real hiking performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.outsideonline.com/outdoor-gear/what-the-lab-learned-in-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outsideonline.com">[Outside Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outsideonline.com</span><span class="citation-popover-title">what the lab learned in 2025</span><span class="citation-popover-snippet">Outside OnlineWhat We Learned from Testing 150 Pieces of Gear27 Dec 2025 — After a round of lab testing, we like to compare the results w...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Side by Side Gear Testing Beats Guesswork. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Side-by-Side Gear Testing Beats Guesswork. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10080492-M.jpg" alt="Cover for Mountaineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering">Mountaineering</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering The Freedom of the Hills on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15020982-M.jpg" alt="Cover for Mountaineering The Freedom of the Hills" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering The Freedom of the Hills">Mountaineering The Freedom of the Hills</a>
+        </h4>
+        <p class="fr-book-author">By The Climbing Committee of the Mountaineers</p>
         
-<p class="fr-book-desc">Explains how equipment performs in real conditions and supports evidence-based gear evaluation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how equipment performs in real conditions and supports evidence-based gear evaluation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backpacker&#x27;s Field Manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/746044-M.jpg" alt="Cover for The Backpacker&#x27;s Field Manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backpacker&#x27;s Field Manual">The Backpacker&#x27;s Field Manual</a>
-</h4>
-<p class="fr-book-author">By Rick Curtis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backpacker&#x27;s Field Manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/746044-M.jpg" alt="Cover for The Backpacker&#x27;s Field Manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backpacker&#x27;s Field Manual">The Backpacker&#x27;s Field Manual</a>
+        </h4>
+        <p class="fr-book-author">By Rick Curtis</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Handbooks, manuals, Camping, Low-impact camping, Backpacking, Sports.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides practical context for judging gear performance across different trips, loads, and environments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ultimate Hiker&#x27;s Gear Guide, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10201449-M.jpg" alt="Cover for The Ultimate Hiker&#x27;s Gear Guide, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ultimate Hiker&#x27;s Gear Guide, Second Edition">The Ultimate Hiker&#x27;s Gear Guide, Second Edition</a>
-</h4>
-<p class="fr-book-author">By Andrew Skurka</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trail+Tested+Justin+Lichter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trail Tested on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12188981-M.jpg" alt="Cover for Trail Tested" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Trail+Tested+Justin+Lichter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trail Tested">Trail Tested</a>
+        </h4>
+        <p class="fr-book-author">By Justin Lichter</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Hiking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Emphasizes practical comparison of equipment choices under realistic hiking conditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Trail+Tested+Justin+Lichter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Suffer+Outside+Diana+Helmuth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Suffer Outside on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11989002-M.jpg" alt="Cover for How to Suffer Outside" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=How+to+Suffer+Outside+Diana+Helmuth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Suffer Outside">How to Suffer Outside</a>
-</h4>
-<p class="fr-book-author">By Diana Helmuth, Latasha Dunston</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ultimate Hiker&#x27;s Gear Guide on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ultimate Hiker&#x27;s Gear Guide">The Ultimate Hiker&#x27;s Gear Guide</a>
+        </h4>
+        <p class="fr-book-author">By Andrew Skurka</p>
         
-<p class="fr-book-desc">First published 2021. Subjects: Recreation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=How+to+Suffer+Outside+Diana+Helmuth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on selecting and evaluating hiking gear using practical field experience rather than marketing claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide+Andrew+Skurka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountaineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backpacker&#x27;s Field Manual</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+%2C+Second+Edition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Hiker&#x27;s Gear , Second Edition books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountaineering The Freedom of the Hills</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backpacker&#x27;s Field Manual</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trail+Tested&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trail Tested</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

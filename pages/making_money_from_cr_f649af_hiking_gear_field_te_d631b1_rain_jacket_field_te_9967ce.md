@@ -443,89 +443,89 @@ Photographs taken during actual rain, muddy conditions, or windy ridgelines add 
 For affiliate publishers, this level of transparency has a practical benefit beyond improving the article itself. Readers understand the limits of the testing, see the conditions behind each judgement, and can decide whether those conditions match their own hiking plans, making purchase recommendations substantially more trustworthy than specifications copied from manufacturers.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Can a Rain Jacket Stay Dry and Breathable?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can a Rain Jacket Stay Dry and Breathable?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ultimate Hiker&#x27;s Gear Guide, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10201449-M.jpg" alt="Cover for The Ultimate Hiker&#x27;s Gear Guide, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ultimate Hiker&#x27;s Gear Guide, Second Edition">The Ultimate Hiker&#x27;s Gear Guide, Second Edition</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ultimate Hiker&#x27;s Gear Guide, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10201449-M.jpg" alt="Cover for The Ultimate Hiker&#x27;s Gear Guide, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ultimate Hiker&#x27;s Gear Guide, Second Edition">The Ultimate Hiker&#x27;s Gear Guide, Second Edition</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">Covers selecting, evaluating, and using rain jackets and other hiking gear in real conditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers selecting, evaluating, and using rain jackets and other hiking gear in real conditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+Guide%2C+Second+Edition&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10080492-M.jpg" alt="Cover for Mountaineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering">Mountaineering</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountaineering The Freedom of the Hills on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15020982-M.jpg" alt="Cover for Mountaineering The Freedom of the Hills" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountaineering The Freedom of the Hills">Mountaineering The Freedom of the Hills</a>
+        </h4>
+        <p class="fr-book-author">By The Climbing Committee of the Mountaineers</p>
         
-<p class="fr-book-desc">Explains waterproof clothing systems, layering, weather, and practical shell use in the mountains.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains waterproof clothing systems, layering, weather, and practical shell use in the mountains.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills+The+Climbing+Committee+of+the+Mountaineers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralight+backpackin%27+tips+Mike+Clelland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralight backpackin&#x27; tips on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12833062-M.jpg" alt="Cover for Ultralight backpackin&#x27; tips" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ultralight+backpackin%27+tips+Mike+Clelland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralight backpackin&#x27; tips">Ultralight backpackin&#x27; tips</a>
-</h4>
-<p class="fr-book-author">By Mike Clelland</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backpacker&#x27;s Field Manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/746044-M.jpg" alt="Cover for The Backpacker&#x27;s Field Manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backpacker&#x27;s Field Manual">The Backpacker&#x27;s Field Manual</a>
+        </h4>
+        <p class="fr-book-author">By Rick Curtis</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Backpacking, Hiking, SPORTS &amp; RECREATION / Outdoor Skills, Equipment and supplies, SPORTS &amp; RECREATION /...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ultralight+backpackin%27+tips+Mike+Clelland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Discusses clothing systems, staying dry, weather management, and field decision-making.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual+Rick+Curtis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+complete+walker+IV+Colin+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The complete walker IV on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+complete+walker+IV+Colin+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete walker IV">The complete walker IV</a>
-</h4>
-<p class="fr-book-author">By Colin Fletcher</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralight+backpackin%27+tips+Mike+Clelland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralight backpackin&#x27; tips on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12833062-M.jpg" alt="Cover for Ultralight backpackin&#x27; tips" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ultralight+backpackin%27+tips+Mike+Clelland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralight backpackin&#x27; tips">Ultralight backpackin&#x27; tips</a>
+        </h4>
+        <p class="fr-book-author">By Mike Clelland</p>
         
-<p class="fr-book-desc">Discusses clothing systems, staying dry, weather management, and field decision-making.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+complete+walker+IV+Colin+Fletcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand packability, clothing choices, and rain gear trade-offs for hiking.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ultralight+backpackin%27+tips+Mike+Clelland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+%2C+Second+Edition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Hiker&#x27;s Gear , Second Edition books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountaineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountaineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralight+backpackin%27+tips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralight backpackin&#x27; tips</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ultimate+Hiker%27s+Gear+%2C+Second+Edition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Hiker&#x27;s Gear , Second Edition books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountaineering+The+Freedom+of+the+Hills&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountaineering The Freedom of the Hills</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backpacker%27s+Field+Manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backpacker&#x27;s Field Manual</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

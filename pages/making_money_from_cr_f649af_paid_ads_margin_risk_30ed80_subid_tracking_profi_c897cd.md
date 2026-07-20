@@ -488,89 +488,89 @@ This approach reduces one of the largest risks in paid affiliate marketing: expa
 SubID tracking therefore becomes more than a reporting convenience. It is the mechanism that links every advertising decision to measurable, approved affiliate profit, allowing scaling decisions to be based on realised margin instead of optimistic assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.partnerstack.com/hc/en-us/articles/360044949774-Tracking-conversions-via-Sub-IDs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.partnerstack.com">[PartnerStack Support+2wecantrack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.partnerstack.com</span><span class="citation-popover-snippet">PartnerStack SupportTracking conversions via Sub IDsNavigate to the Reporting tab on the top menu bar of your dashboard · Click on &quot;Commi...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Track Paid Affiliate Ads Before Scaling Them. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Track Paid Affiliate Ads Before Scaling Them. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Web Analytics 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IykGCqV1v20C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Web Analytics 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Web Analytics 2.0">Web Analytics 2.0</a>
-</h4>
-<p class="fr-book-author">By Avinash Kaushik</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
+        </h4>
+        <p class="fr-book-author">By Evgenii Prussakov</p>
         
-<p class="fr-book-desc">Directly supports campaign attribution, tracking, and performance measurement.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Web+Analytics+2.0+by+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for affiliate tracking, reporting, and commission attribution.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Performance+Partnerships+by+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Performance Partnerships on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J4DCswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Performance Partnerships" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Performance+Partnerships+by+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Performance Partnerships">Performance Partnerships</a>
-</h4>
-<p class="fr-book-author">By Robert Glazer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Web+Analytics+2.0+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Web Analytics 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IykGCqV1v20C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Web Analytics 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Web+Analytics+2.0+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Web Analytics 2.0">Web Analytics 2.0</a>
+        </h4>
+        <p class="fr-book-author">By Avinash Kaushik</p>
         
-<p class="fr-book-desc">Explains how performance data should drive affiliate growth decisions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Performance+Partnerships+by+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly supports campaign attribution, tracking, and performance measurement.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Web+Analytics+2.0+Avinash+Kaushik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lean Analytics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mIk6x8WNQAwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lean Analytics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lean Analytics">Lean Analytics</a>
-</h4>
-<p class="fr-book-author">By Alistair Croll, Benjamin Yoskovitz</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Performance Partnerships on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J4DCswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Performance Partnerships" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Performance Partnerships">Performance Partnerships</a>
+        </h4>
+        <p class="fr-book-author">By Robert Glazer</p>
         
-<p class="fr-book-desc">Helps readers identify meaningful metrics and profitable scaling decisions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how performance data should drive affiliate growth decisions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultimate Guide to Google Ads on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultimate Guide to Google Ads">Ultimate Guide to Google Ads</a>
-</h4>
-<p class="fr-book-author">By Perry Marshall, Mike Rhodes et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultimate Guide to Google Ads on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultimate Guide to Google Ads">Ultimate Guide to Google Ads</a>
+        </h4>
+        <p class="fr-book-author">By Perry Marshall, Mike Rhodes et al.</p>
         
-<p class="fr-book-desc">First published 2020. Subjects: Commerce.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how to optimize campaigns using granular performance data before scaling.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ultimate+Guide+to+Google+Ads+Perry+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Web+Analytics+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Web Analytics 2.0</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Performance+Partnerships&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Performance Partnerships</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lean+Analytics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lean Analytics</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Web+Analytics+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Web Analytics 2.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Performance+Partnerships&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Performance Partnerships</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

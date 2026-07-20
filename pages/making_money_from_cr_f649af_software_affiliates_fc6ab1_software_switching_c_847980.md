@@ -449,89 +449,89 @@ Reviews that acknowledge switching costs, demonstrate real workflows, explain on
 In software affiliate publishing, credibility is not simply an ethical advantage. It directly supports long-term performance because recommendations that help readers avoid costly implementation mistakes are more likely to generate satisfied customers who remain subscribed, benefiting both the buyer and, where applicable, the affiliate programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/318880729_A_Holistic_Decision_Framework_to_Avoid_Vendor_Lock-in_for_Cloud_SaaS_Migration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2nedigital.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Holistic Decision Framework to Avoid Vendor Lock-in for...July 31, 2017 — This paper proposes a holistic 6-step decision f...</span><span class="citation-popover-meta">Published: July 31, 2017</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Software Review Trust Is Harder to Earn. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Software Review Trust Is Harder to Earn. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
-</h4>
-<p class="fr-book-author">By April Dunford</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Obviously+Awesome+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
+        </h4>
+        <p class="fr-book-author">By April Dunford</p>
         
-<p class="fr-book-desc">Provides context for evaluating software products beyond marketing claims, helping reviewers understand meaningful differentiation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Obviously+Awesome+by+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for evaluating software products beyond marketing claims, helping reviewers understand meaningful differentiation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Obviously+Awesome+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
-</h4>
-<p class="fr-book-author">By Steve Krug</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
+        </h4>
+        <p class="fr-book-author">By Steve Krug</p>
         
-<p class="fr-book-desc">Helps reviewers evaluate software from real user workflow and usability perspectives instead of feature checklists.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps reviewers evaluate software from real user workflow and usability perspectives instead of feature checklists.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crossing+the+Chasm+by+Geoffrey+A.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crossing the Chasm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BvG1EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crossing the Chasm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Crossing+the+Chasm+by+Geoffrey+A.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crossing the Chasm">Crossing the Chasm</a>
-</h4>
-<p class="fr-book-author">By Geoffrey A. Moore</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded+Robert+B+Cialdini+PhD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence, New and Expanded on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10873276-M.jpg" alt="Cover for Influence, New and Expanded" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded+Robert+B+Cialdini+PhD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence, New and Expanded">Influence, New and Expanded</a>
+        </h4>
+        <p class="fr-book-author">By Robert B Cialdini PhD</p>
         
-<p class="fr-book-desc">Offers insight into enterprise software adoption, risk, and why buyers require stronger evidence before committing to major platforms.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Crossing+the+Chasm+by+Geoffrey+A.+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the psychology behind credibility, persuasion, and why readers trust or distrust recommendations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded+Robert+B+Cialdini+PhD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mom Test on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mom Test">The Mom Test</a>
-</h4>
-<p class="fr-book-author">By Rob Fitzpatrick</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mom+Test+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mom Test on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Mom+Test+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mom Test">The Mom Test</a>
+        </h4>
+        <p class="fr-book-author">By Rob Fitzpatrick</p>
         
-<p class="fr-book-desc">Highlights techniques for uncovering genuine user experience rather than relying on biased or promotional feedback.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Mom+Test+by+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Highlights techniques for uncovering genuine user experience rather than relying on biased or promotional feedback.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Mom+Test+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crossing+the+Chasm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crossing the Chasm</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence%2C+New+and+Expanded&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence, New and Expanded</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

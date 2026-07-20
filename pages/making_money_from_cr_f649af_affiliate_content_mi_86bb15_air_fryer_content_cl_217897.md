@@ -434,89 +434,89 @@ That makes the air fryer niche a useful example of how a buyer-journey content m
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What One Air Fryer Cluster Should Include. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What One Air Fryer Cluster Should Include. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
-</h4>
-<p class="fr-book-author">By Marcus Sheridan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
+        </h4>
+        <p class="fr-book-author">By Marcus Sheridan</p>
         
-<p class="fr-book-desc">Aligns closely with creating informational, comparison, and post-purchase content that builds trust.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Aligns closely with creating informational, comparison, and post-purchase content that builds trust.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Salt, Fat, Acid, Heat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8315567-M.jpg" alt="Cover for Salt, Fat, Acid, Heat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Salt, Fat, Acid, Heat">Salt, Fat, Acid, Heat</a>
-</h4>
-<p class="fr-book-author">By Samin Nosrat</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Food Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8314250-M.jpg" alt="Cover for The Food Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Food Lab">The Food Lab</a>
+        </h4>
+        <p class="fr-book-author">By J. Kenji López-Alt</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Cooking, regional &amp; ethnic cooking, cooking methods, reference, nyt:advice-how-to-and-miscellaneous=2017-...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides evidence-based cooking knowledge that complements air fryer ownership and recipe content.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Air+Fryer+Cookbook+Linda+Larsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Air Fryer Cookbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11697122-M.jpg" alt="Cover for The Complete Air Fryer Cookbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Complete+Air+Fryer+Cookbook+Linda+Larsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Air Fryer Cookbook">The Complete Air Fryer Cookbook</a>
-</h4>
-<p class="fr-book-author">By Linda Larsen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Air+Fryer+Cookbook+Linda+Larsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Air Fryer Cookbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11697122-M.jpg" alt="Cover for The Complete Air Fryer Cookbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Complete+Air+Fryer+Cookbook+Linda+Larsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Air Fryer Cookbook">The Complete Air Fryer Cookbook</a>
+        </h4>
+        <p class="fr-book-author">By Linda Larsen</p>
         
-<p class="fr-book-desc">First published 2016. Subjects: Health, Hot air frying, COOKING, Methods, Special Appliances.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Complete+Air+Fryer+Cookbook+Linda+Larsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Fits readers moving from purchase decisions into everyday use.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Complete+Air+Fryer+Cookbook+Linda+Larsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Food Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8314250-M.jpg" alt="Cover for The Food Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Food Lab">The Food Lab</a>
-</h4>
-<p class="fr-book-author">By J. Kenji López-Alt</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Salt, Fat, Acid, Heat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8315567-M.jpg" alt="Cover for Salt, Fat, Acid, Heat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Salt, Fat, Acid, Heat">Salt, Fat, Acid, Heat</a>
+        </h4>
+        <p class="fr-book-author">By Samin Nosrat</p>
         
-<p class="fr-book-desc">First published 2015. Subjects: Food, Experiments, Cooking, Analysis, Research.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand cooking principles that improve air fryer results.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Salt, Fat, Acid, Heat</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Air+Fryer+Cookbook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Air Fryer Cookbook</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Food+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Food Lab</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Air+Fryer+Cookbook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Air Fryer Cookbook</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
