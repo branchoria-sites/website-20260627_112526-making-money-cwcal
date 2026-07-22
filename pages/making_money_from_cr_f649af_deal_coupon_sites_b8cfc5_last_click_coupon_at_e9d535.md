@@ -438,7 +438,7 @@ The [long-term]({{ 'long-term/' | relative_url }}) trend is therefore less about
           <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
         </h4>
         <p class="fr-book-author">By Evgenii Prussakov</p>
-        
+
         <p class="fr-book-desc">Explains affiliate program mechanics, attribution, commissions, and publisher relationships central to last-click coupon debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -449,13 +449,13 @@ The [long-term]({{ 'long-term/' | relative_url }}) trend is therefore less about
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Performance Partnerships on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J4DCswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Performance Partnerships" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Performance Partnerships on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8851735-M.jpg" alt="Cover for Performance Partnerships" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Performance Partnerships">Performance Partnerships</a>
         </h4>
         <p class="fr-book-author">By Robert Glazer</p>
-        
+
         <p class="fr-book-desc">Provides broader context on affiliate partnerships, incentives, and attribution beyond simple last-click models.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -472,8 +472,8 @@ The [long-term]({{ 'long-term/' | relative_url }}) trend is therefore less about
           <a href="https://www.amazon.com/s?k=Contagious+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
         </h4>
         <p class="fr-book-author">By Jonah Berger</p>
-        
-        <p class="fr-book-desc">Explores how content spreads and drives consumer action, complementing discussions of affiliate influence versus coupon interception.</p>
+
+        <p class="fr-book-desc">Upper Saddle River, N.J. : Creative Homeowner,</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Contagious+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -489,8 +489,8 @@ The [long-term]({{ 'long-term/' | relative_url }}) trend is therefore less about
           <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
         </h4>
         <p class="fr-book-author">By Robert B. Cialdini</p>
-        
-        <p class="fr-book-desc">Helps readers understand how different publishers influence buying decisions before the final conversion click.</p>
+
+        <p class="fr-book-desc">This is a Summary of the original book, Influence: The Psychology of Persuasion by Robert Cialdini.The book is an authoritative work on t...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

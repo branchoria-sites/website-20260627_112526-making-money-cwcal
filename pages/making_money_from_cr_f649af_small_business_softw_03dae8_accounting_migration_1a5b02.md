@@ -457,33 +457,16 @@ A platform that makes it straightforward to import and later export accounting r
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Accounting made simple on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9270154-M.jpg" alt="Cover for Accounting made simple" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Profit First on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13193805-M.jpg" alt="Cover for Profit First" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Accounting made simple">Accounting made simple</a>
+          <a href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Profit First">Profit First</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Helps readers understand the accounting concepts needed to verify balances and reconcile data during software migration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By Mike Michalowicz</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Profit first on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14624477-M.jpg" alt="Cover for Profit first" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Profit first">Profit first</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
         <p class="fr-book-desc">Encourages disciplined financial management, making it complementary reading for businesses reviewing accounting systems.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -497,7 +480,7 @@ A platform that makes it straightforward to import and later export accounting r
           <a href="https://www.amazon.com/s?k=Bookkeeping+all-in-one+for+dummies+Lita+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bookkeeping all-in-one for dummies">Bookkeeping all-in-one for dummies</a>
         </h4>
         <p class="fr-book-author">By Lita Epstein</p>
-        
+
         <p class="fr-book-desc">Provides practical guidance on bookkeeping processes that should be preserved and checked during accounting software migration.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bookkeeping+all-in-one+for+dummies+Lita+Epstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -514,7 +497,7 @@ A platform that makes it straightforward to import and later export accounting r
           <a href="https://www.amazon.com/s?k=Small+Time+Operator+Bernard+B.+Kamoroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Small Time Operator">Small Time Operator</a>
         </h4>
         <p class="fr-book-author">By Bernard B. Kamoroff</p>
-        
+
         <p class="fr-book-desc">Covers bookkeeping, records, taxes, and operational practices that remain important before and after switching accounting software.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Small+Time+Operator+Bernard+B.+Kamoroff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -523,9 +506,26 @@ A platform that makes it straightforward to import and later export accounting r
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Accounting+made+simple+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Accounting made simple on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9270154-M.jpg" alt="Cover for Accounting made simple" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Accounting+made+simple+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Accounting made simple">Accounting made simple</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Helps readers understand the accounting concepts needed to verify balances and reconcile data during software migration.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Accounting+made+simple+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Accounting+made+simple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Accounting made simple</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Profit first</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bookkeeping+all+in+one+for+dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bookkeeping all in one for dummies</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Profit+First&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Profit First</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bookkeeping+all+in+one+for+dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bookkeeping all in one for dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Small+Time+Operator&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Small Time Operator</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

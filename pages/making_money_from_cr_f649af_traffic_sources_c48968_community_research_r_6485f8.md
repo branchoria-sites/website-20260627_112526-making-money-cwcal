@@ -428,7 +428,7 @@ That makes the content more shareable within niche communities, more likely to a
           <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
         </h4>
         <p class="fr-book-author">By Marcus Sheridan</p>
-        
+
         <p class="fr-book-desc">Directly advocates building content around the questions buyers ask before purchasing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ That makes the content more shareable within niche communities, more likely to a
           <a href="https://www.amazon.com/s?k=Everybody+Writes+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
         </h4>
         <p class="fr-book-author">By Ann Handley</p>
-        
+
         <p class="fr-book-desc">Helps create audience-focused content based on real customer questions and concerns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Everybody+Writes+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ That makes the content more shareable within niche communities, more likely to a
           <a href="https://www.amazon.com/s?k=Content+Inc+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Inc">Content Inc</a>
         </h4>
         <p class="fr-book-author">By Joe Pulizzi</p>
-        
+
         <p class="fr-book-desc">Explains audience-first content strategies that align with community-driven research.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Content+Inc+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -473,16 +473,16 @@ That makes the content more shareable within niche communities, more likely to a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mom+Test+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mom Test on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+          <a href="https://www.amazon.com/s?k=The+Mom+Test+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mom Test">The Mom Test</a>
         </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
-        
-        <p class="fr-book-desc">Provides insight into buyer psychology and decision-making that informs review content.</p>
+        <p class="fr-book-author">By Rob Fitzpatrick</p>
+
+        <p class="fr-book-desc">Teaches how to uncover genuine customer problems through better questions and conversations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Mom+Test+Rob+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

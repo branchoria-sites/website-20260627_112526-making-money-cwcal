@@ -495,27 +495,10 @@ For high-ticket affiliate websites, the winning strategy is not chasing the high
           <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
         </h4>
         <p class="fr-book-author">By Evgenii Prussakov</p>
-        
+
         <p class="fr-book-desc">Most directly aligned with commission calculations and affiliate profitability.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Profit first on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14624477-M.jpg" alt="Cover for Profit first" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Profit first">Profit first</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Encourages evaluating profit rather than headline revenue, matching the article&#x27;s theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -529,7 +512,7 @@ For high-ticket affiliate websites, the winning strategy is not chasing the high
           <a href="https://www.amazon.com/s?k=The+personal+MBA+Josh+Kaufman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The personal MBA">The personal MBA</a>
         </h4>
         <p class="fr-book-author">By Josh Kaufman</p>
-        
+
         <p class="fr-book-desc">Covers pricing, value, economics and decision-making applicable to commission maths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+personal+MBA+Josh+Kaufman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -546,7 +529,7 @@ For high-ticket affiliate websites, the winning strategy is not chasing the high
           <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1-Page Marketing Plan">The 1-Page Marketing Plan</a>
         </h4>
         <p class="fr-book-author">By Allan Dib</p>
-        
+
         <p class="fr-book-desc">Supports evaluating customer value and profitable acquisition strategies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -555,9 +538,26 @@ For high-ticket affiliate websites, the winning strategy is not chasing the high
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Profit First on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13193805-M.jpg" alt="Cover for Profit First" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Profit First">Profit First</a>
+        </h4>
+        <p class="fr-book-author">By Mike Michalowicz</p>
+
+        <p class="fr-book-desc">Encourages evaluating profit rather than headline revenue, matching the article&#x27;s theme.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Profit+First+Mike+Michalowicz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Profit+first&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Profit first</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The personal MBA</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The personal MBA</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+1+Page+Marketing+Plan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 1 Page Marketing Plan</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

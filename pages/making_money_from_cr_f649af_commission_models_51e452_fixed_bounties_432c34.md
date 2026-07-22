@@ -401,7 +401,7 @@ For many affiliate websites, particularly those centred on software [reviews]({{
           <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
         </h4>
         <p class="fr-book-author">By Evgenii Prussakov</p>
-        
+
         <p class="fr-book-desc">Explains affiliate commission structures, incentives, and how different payout models affect performance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For many affiliate websites, particularly those centred on software [reviews]({{
           <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Affiliate+Marketing+on+the+Web+Bruce+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Guide to Affiliate Marketing on the Web">The Complete Guide to Affiliate Marketing on the Web</a>
         </h4>
         <p class="fr-book-author">By Bruce C. Brown</p>
-        
+
         <p class="fr-book-desc">Provides foundational understanding of affiliate programs, including different commission approaches.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Affiliate+Marketing+on+the+Web+Bruce+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,13 +429,13 @@ For many affiliate websites, particularly those centred on software [reviews]({{
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Performance Partnerships on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J4DCswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Performance Partnerships" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Performance Partnerships on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8851735-M.jpg" alt="Cover for Performance Partnerships" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Performance Partnerships">Performance Partnerships</a>
         </h4>
         <p class="fr-book-author">By Robert Glazer</p>
-        
+
         <p class="fr-book-desc">Covers performance-based marketing, CPA relationships, and evaluating partner economics beyond headline commissions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Performance+Partnerships+Robert+Glazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,8 +452,8 @@ For many affiliate websites, particularly those centred on software [reviews]({{
           <a href="https://www.amazon.com/s?k=Traction+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction">Traction</a>
         </h4>
         <p class="fr-book-author">By Justin Mares, Gabriel Weinberg</p>
-        
-        <p class="fr-book-desc">Helps readers think about customer acquisition costs, conversion rates, and channel economics that underpin CPA and bounty models.</p>
+
+        <p class="fr-book-desc">Most startups end in failure. Almost every failed startup has a product. What failed startups don&#x27;t have are enough customers. Traction B...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Traction+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

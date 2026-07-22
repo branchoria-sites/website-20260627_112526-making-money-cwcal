@@ -454,30 +454,13 @@ is likely to earn more reader trust than one treating every discount as an urgen
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
-        </h4>
-        <p class="fr-book-author">By Martin Lindstrom</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains purchasing behavior and decision-making that underpins waiting for better prices and resisting urgency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Everything Store: Jeff Bezos and the Age of Amazon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yG3PAK6ZOucC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Everything Store: Jeff Bezos and the Age of Amazon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Everything Store: Jeff Bezos and the Age of Amazon">The Everything Store: Jeff Bezos and the Age of Amazon</a>
         </h4>
         <p class="fr-book-author">By Brad Stone</p>
-        
+
         <p class="fr-book-desc">Provides context on how modern online retail, pricing, and promotions influence buying decisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -488,16 +471,33 @@ is likely to earn more reader trust than one treating every discount as an urgen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+          <a href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
         </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
-        
-        <p class="fr-book-desc">Helps explain scarcity, urgency, and other retail tactics behind buying decisions.</p>
+        <p class="fr-book-author">By Martin Lindstrom</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+        <p class="fr-book-desc">NEW YORK TIMES BESTSELLER • “A fascinating look at how consumers perceive logos, ads, commercials, brands, and products.”—Time How much d...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology: Truth and Lies About Why We Buy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology: Truth and Lies About Why We Buy">Buyology: Truth and Lies About Why We Buy</a>
+        </h4>
+        <p class="fr-book-author">By Martin Lindstrom</p>
+
+        <p class="fr-book-desc">Explains purchasing behavior and decision-making that underpins waiting for better prices and resisting urgency.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -511,7 +511,7 @@ is likely to earn more reader trust than one treating every discount as an urgen
           <a href="https://www.amazon.com/s?k=Priceless%3A+The+Myth+of+Fair+Value+%28and+How+to+Take+Advantage+of+It%29+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Priceless: The Myth of Fair Value (and How to Take Advantage of It)">Priceless: The Myth of Fair Value (and How to Take Advantage...</a>
         </h4>
         <p class="fr-book-author">By William Poundstone</p>
-        
+
         <p class="fr-book-desc">Directly explores pricing psychology, perceived value, discounts, and consumer responses to price changes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Priceless%3A+The+Myth+of+Fair+Value+%28and+How+to+Take+Advantage+of+It%29+William+Poundstone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -522,7 +522,7 @@ is likely to earn more reader trust than one treating every discount as an urgen
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Everything Store: Jeff Bezos and the Age of Amazon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Everything+Store%3A+Jeff+Bezos+and+the+Age+of+Amazon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Everything Store: Jeff Bezos and the Age of Amazon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology: Truth and Lies About Why We Buy</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

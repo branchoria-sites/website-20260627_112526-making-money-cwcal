@@ -441,7 +441,7 @@ For affiliates, this means evaluating the entire customer journey rather than on
           <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
         </h4>
         <p class="fr-book-author">By Steve Krug</p>
-        
+
         <p class="fr-book-desc">Explains usability principles that directly relate to reducing checkout friction and improving conversion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,10 +458,27 @@ For affiliates, this means evaluating the entire customer journey rather than on
           <a href="https://www.amazon.com/s?k=Making+Websites+Win+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Websites Win">Making Websites Win</a>
         </h4>
         <p class="fr-book-author">By Karl Blanks, Ben Jesson</p>
-        
+
         <p class="fr-book-desc">Covers conversion rate optimisation strategies relevant to overcoming checkout abandonment and buyer hesitation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Making+Websites+Win+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Evil+by+Design+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Evil by Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=46Wl1G9yJUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Evil by Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Evil+by+Design+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Evil by Design">Evil by Design</a>
+        </h4>
+        <p class="fr-book-author">By Chris Nodder</p>
+
+        <p class="fr-book-desc">Explores behavioural design patterns that influence user decisions throughout the buying journey.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Evil+by+Design+Chris+Nodder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -475,7 +492,7 @@ For affiliates, this means evaluating the entire customer journey rather than on
           <a href="https://www.amazon.com/s?k=Webs+of+Influence+Nathalie+Nahai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Webs of Influence">Webs of Influence</a>
         </h4>
         <p class="fr-book-author">By Nathalie Nahai</p>
-        
+
         <p class="fr-book-desc">Focuses on the behavioural factors affecting online purchases, including credibility and hesitation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Webs+of+Influence+Nathalie+Nahai&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -484,26 +501,9 @@ For affiliates, this means evaluating the entire customer journey rather than on
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
-        
-        <p class="fr-book-desc">Helps affiliates understand trust, risk reduction and persuasive techniques that encourage confident purchasing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Websites+Win&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Websites Win</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Webs+of+Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Webs of Influence</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Websites+Win&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Websites Win</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Evil+by+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Evil by Design</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
