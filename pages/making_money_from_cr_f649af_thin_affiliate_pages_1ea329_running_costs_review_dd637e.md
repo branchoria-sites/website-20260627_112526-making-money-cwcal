@@ -471,7 +471,7 @@ Adding well-researched maintenance schedules, replacement part costs, subscripti
           <a href="https://www.amazon.com/s?k=The+personal+MBA+Josh+Kaufman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The personal MBA">The personal MBA</a>
         </h4>
         <p class="fr-book-author">By Josh Kaufman</p>
-        
+
         <p class="fr-book-desc">Covers value creation, cost analysis, and practical economic thinking useful when comparing ownership costs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+personal+MBA+Josh+Kaufman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -482,16 +482,16 @@ Adding well-researched maintenance schedules, replacement part costs, subscripti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology: Truth and Lies About Why We Buy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology: Truth and Lies About Why We Buy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology">Buyology</a>
+          <a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology: Truth and Lies About Why We Buy">Buyology: Truth and Lies About Why We Buy</a>
         </h4>
         <p class="fr-book-author">By Martin Lindstrom</p>
         <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
         <p class="fr-book-desc">Provides insight into how consumers evaluate products and marketing claims beyond headline pricing.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buyology+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -505,7 +505,7 @@ Adding well-researched maintenance schedules, replacement part costs, subscripti
           <a href="https://www.amazon.com/s?k=Smart+Choices%3A+A+Practical+Guide+to+Making+Better+Decisions+John+S.+Hammond%2C+Ralph+L.+Keeney+and+Howard+Raiffa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart Choices: A Practical Guide to Making Better Decisions">Smart Choices: A Practical Guide to Making Better Decisions</a>
         </h4>
         <p class="fr-book-author">By John S. Hammond, Ralph L. Keeney and Howard Raiffa</p>
-        
+
         <p class="fr-book-desc">Helps readers evaluate trade-offs such as upfront price versus long-term ownership costs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Smart+Choices%3A+A+Practical+Guide+to+Making+Better+Decisions+John+S.+Hammond%2C+Ralph+L.+Keeney+and+Howard+Raiffa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -516,7 +516,7 @@ Adding well-researched maintenance schedules, replacement part costs, subscripti
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The personal MBA</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+personal+MBA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The personal MBA</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology: Truth and Lies About Why We Buy</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

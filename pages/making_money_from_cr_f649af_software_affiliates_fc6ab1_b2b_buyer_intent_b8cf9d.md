@@ -519,7 +519,7 @@ Industry research consistently shows that B2B buyers spend much of their purchas
           <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
         </h4>
         <p class="fr-book-author">By Marcus Sheridan</p>
-        
+
         <p class="fr-book-desc">Shows how answering high-intent buyer questions builds trust and drives conversions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -530,16 +530,16 @@ Industry research consistently shows that B2B buyers spend much of their purchas
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Obviously+Awesome+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obviously Awesome on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UAKCwwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Obviously Awesome" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traction%3A+How+Any+Startup+Can+Achieve+Explosive+Customer+Growth+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction: How Any Startup Can Achieve Explosive Customer Growth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9-4bBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Traction: How Any Startup Can Achieve Explosive Customer Growth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obviously Awesome">Obviously Awesome</a>
+          <a href="https://www.amazon.com/s?k=Traction%3A+How+Any+Startup+Can+Achieve+Explosive+Customer+Growth+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction: How Any Startup Can Achieve Explosive Customer Growth">Traction: How Any Startup Can Achieve Explosive Customer Growth</a>
         </h4>
-        <p class="fr-book-author">By April Dunford</p>
-        
-        <p class="fr-book-desc">Directly supports positioning software products for buyers evaluating competing solutions.</p>
+        <p class="fr-book-author">By Justin Mares, Gabriel Weinberg</p>
+
+        <p class="fr-book-desc">Covers customer acquisition channels and growth strategies relevant to software affiliate publishing.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Obviously+Awesome+April+Dunford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Traction%3A+How+Any+Startup+Can+Achieve+Explosive+Customer+Growth+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -553,7 +553,7 @@ Industry research consistently shows that B2B buyers spend much of their purchas
           <a href="https://www.amazon.com/s?k=The+SaaS+Playbook+Rob+Walling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The SaaS Playbook">The SaaS Playbook</a>
         </h4>
         <p class="fr-book-author">By Rob Walling, Jessie Kwak et al.</p>
-        
+
         <p class="fr-book-desc">Provides context for SaaS economics, customer acquisition, and the commercial dynamics behind software buying decisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+SaaS+Playbook+Rob+Walling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -564,16 +564,16 @@ Industry research consistently shows that B2B buyers spend much of their purchas
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Traction%3A+How+Any+Startup+Can+Achieve+Explosive+Customer+Growth+Gabriel+Weinberg+and+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction: How Any Startup Can Achieve Explosive Customer Growth on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence: The Psychology of Persuasion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traction%3A+How+Any+Startup+Can+Achieve+Explosive+Customer+Growth+Gabriel+Weinberg+and+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction: How Any Startup Can Achieve Explosive Customer Growth">Traction: How Any Startup Can Achieve Explosive Customer Growth</a>
+          <a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence: The Psychology of Persuasion">Influence: The Psychology of Persuasion</a>
         </h4>
-        <p class="fr-book-author">By Gabriel Weinberg and Justin Mares</p>
-        
-        <p class="fr-book-desc">Covers customer acquisition channels and growth strategies relevant to software affiliate publishing.</p>
+        <p class="fr-book-author">By Robert B. Cialdini</p>
+
+        <p class="fr-book-desc">Explains the persuasion principles that underpin high-converting B2B software comparison and affiliate content.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traction%3A+How+Any+Startup+Can+Achieve+Explosive+Customer+Growth+Gabriel+Weinberg+and+Justin+Mares&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -581,7 +581,7 @@ Industry research consistently shows that B2B buyers spend much of their purchas
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Obviously+Awesome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obviously Awesome</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+SaaS+Playbook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The SaaS Playbook</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Traction%3A+How+Any+Startup+Can+Achieve+Explosive+Customer+Growth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Traction: How Any Startup Can Achieve Explosive Customer Growth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+SaaS+Playbook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The SaaS Playbook</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

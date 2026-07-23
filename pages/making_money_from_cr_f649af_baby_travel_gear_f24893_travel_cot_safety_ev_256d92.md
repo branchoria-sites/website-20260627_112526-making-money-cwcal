@@ -438,16 +438,33 @@ For affiliate publishers, this approach has another advantage. It produces conte
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caring for Your Baby and Young Child on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/369843-M.jpg" alt="Cover for Caring for Your Baby and Young Child" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caring for Your Baby and Young Child: Birth to Age 5 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/369843-M.jpg" alt="Cover for Caring for Your Baby and Young Child: Birth to Age 5" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caring for Your Baby and Young Child">Caring for Your Baby and Young Child</a>
+          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caring for Your Baby and Young Child: Birth to Age 5">Caring for Your Baby and Young Child: Birth to Age 5</a>
         </h4>
         <p class="fr-book-author">By American Academy of Pediatrics</p>
-        
+
         <p class="fr-book-desc">Covers evidence-based infant sleep safety and practical guidance relevant to choosing and using travel cots safely.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data-Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8745537-M.jpg" alt="Cover for Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data-Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool">Cribsheet: A Data-Driven Guide to Better, More Relaxed Parent...</a>
+        </h4>
+        <p class="fr-book-author">By Emily Oster</p>
+
+        <p class="fr-book-desc">Helps parents evaluate evidence and safety claims surrounding infant products and sleep decisions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data-Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -461,7 +478,7 @@ For affiliate publishers, this approach has another advantage. It produces conte
           <a href="https://www.amazon.com/s?k=Cribsheet+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cribsheet">Cribsheet</a>
         </h4>
         <p class="fr-book-author">By Emily Oster</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Pregnancy, Pregnant women, Parenthood, Women, health and hygiene, nyt:advice-how-to-and-miscellaneous=201...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cribsheet+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -478,7 +495,7 @@ For affiliate publishers, this approach has another advantage. It produces conte
           <a href="https://www.amazon.com/s?k=Baby+411+Brown%2C+Ari%2C+Fields%2C+Denise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Baby 411">Baby 411</a>
         </h4>
         <p class="fr-book-author">By Brown, Ari, Fields, Denise</p>
-        
+
         <p class="fr-book-desc">Addresses infant sleep, safety, and common product questions relevant to travel cot use.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Baby+411+Brown%2C+Ari%2C+Fields%2C+Denise&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -487,26 +504,9 @@ For affiliate publishers, this approach has another advantage. It produces conte
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data-Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data-Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool">Cribsheet: A Data-Driven Guide to Better, More Relaxed Parent...</a>
-        </h4>
-        <p class="fr-book-author">By Emily Oster</p>
-        
-        <p class="fr-book-desc">Helps parents evaluate evidence and safety claims surrounding infant products and sleep decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data-Driven+Guide+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+Emily+Oster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caring for Your Baby and Young Child</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cribsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cribsheet</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Baby+411&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Baby 411</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child%3A+Birth+to+Age+5&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caring for Your Baby and Young Child: Birth to Age 5</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cribsheet%3A+A+Data+Driven+to+Better%2C+More+Relaxed+Parenting%2C+from+Birth+to+Preschool+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cribsheet: A Data Driven to Better, More Relaxed Parenting, from Birth to Preschool books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cribsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cribsheet</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
