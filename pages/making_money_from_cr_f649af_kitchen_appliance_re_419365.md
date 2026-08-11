@@ -676,89 +676,89 @@ The best structure is often simple: start with the recommendation, then explain 
 For this niche, real-use flaws are not decoration. They are the content moat. Noise, cleaning, storage, durability, repairability, consumables, capacity, and recurring maintenance are the things readers discover too late when reviews ignore them. An affiliate site that documents those flaws clearly can serve the buyer, satisfy modern review-quality expectations, and still earn money by sending readers towards products that genuinely fit their kitchens.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Kitchen Appliance Reviews Often Miss. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Kitchen Appliance Reviews Often Miss. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Food Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8314250-M.jpg" alt="Cover for The Food Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Food Lab">The Food Lab</a>
-        </h4>
-        <p class="fr-book-author">By J. Kenji López-Alt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Food Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8314250-M.jpg" alt="Cover for The Food Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Food Lab">The Food Lab</a>
+</h4>
+<p class="fr-book-author">By J. Kenji López-Alt</p>
         
-        <p class="fr-book-desc">Focuses on testing methods and practical kitchen results, reinforcing the value of real-use product evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on testing methods and practical kitchen results, reinforcing the value of real-use product evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Cook Everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307073-M.jpg" alt="Cover for How to Cook Everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Cook Everything">How to Cook Everything</a>
-        </h4>
-        <p class="fr-book-author">By Mark Bittman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Cook Everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307073-M.jpg" alt="Cover for How to Cook Everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Cook Everything">How to Cook Everything</a>
+</h4>
+<p class="fr-book-author">By Mark Bittman</p>
         
-        <p class="fr-book-desc">Provides extensive guidance across many appliance-supported cooking tasks, giving context for evaluating kitchen equipment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides extensive guidance across many appliance-supported cooking tasks, giving context for evaluating kitchen equipment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Salt, Fat, Acid, Heat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8315567-M.jpg" alt="Cover for Salt, Fat, Acid, Heat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Salt, Fat, Acid, Heat">Salt, Fat, Acid, Heat</a>
-        </h4>
-        <p class="fr-book-author">By Samin Nosrat</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Salt, Fat, Acid, Heat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8315567-M.jpg" alt="Cover for Salt, Fat, Acid, Heat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Salt, Fat, Acid, Heat">Salt, Fat, Acid, Heat</a>
+</h4>
+<p class="fr-book-author">By Samin Nosrat</p>
         
-        <p class="fr-book-desc">Shows that technique often matters more than appliance features, helping readers judge marketing claims realistically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows that technique often matters more than appliance features, helping readers judge marketing claims realistically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=CookWise%3A+The+Hows+and+Whys+of+Successful+Cooking+Shirley+O.+Corriher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open CookWise: The Hows and Whys of Successful Cooking on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=CookWise%3A+The+Hows+and+Whys+of+Successful+Cooking+Shirley+O.+Corriher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CookWise: The Hows and Whys of Successful Cooking">CookWise: The Hows and Whys of Successful Cooking</a>
-        </h4>
-        <p class="fr-book-author">By Shirley O. Corriher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=CookWise%3A+The+Hows+and+Whys+of+Successful+Cooking+Shirley+O.+Corriher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open CookWise: The Hows and Whys of Successful Cooking on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=CookWise%3A+The+Hows+and+Whys+of+Successful+Cooking+Shirley+O.+Corriher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CookWise: The Hows and Whys of Successful Cooking">CookWise: The Hows and Whys of Successful Cooking</a>
+</h4>
+<p class="fr-book-author">By Shirley O. Corriher</p>
         
-        <p class="fr-book-desc">Helps readers understand how real-world cooking performance differs from marketing claims and specifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=CookWise%3A+The+Hows+and+Whys+of+Successful+Cooking+Shirley+O.+Corriher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how real-world cooking performance differs from marketing claims and specifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=CookWise%3A+The+Hows+and+Whys+of+Successful+Cooking+Shirley+O.+Corriher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Food+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Food Lab</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Cook+Everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Cook Everything</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Salt, Fat, Acid, Heat</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Food+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Food Lab</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Cook+Everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Cook Everything</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Salt, Fat, Acid, Heat</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

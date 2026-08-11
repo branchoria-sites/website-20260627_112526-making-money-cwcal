@@ -489,89 +489,89 @@ A reader searching for "Product A vs Product B" is usually asking a more specifi
 An affiliate comparison page succeeds when it answers those hidden questions clearly enough that the reader can stop researching and buy with confidence. That means organising comparisons around real purchasing criteria, presenting equivalent evidence for both products, and being willing to recommend either option when it genuinely fits the buyer better.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Option Makes Sense for This Buyer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Option Makes Sense for This Buyer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology: Truth and Lies About Why We Buy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology: Truth and Lies About Why We Buy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology: Truth and Lies About Why We Buy">Buyology: Truth and Lies About Why We Buy</a>
-        </h4>
-        <p class="fr-book-author">By Martin Lindstrom</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how buyers make decisions and what influences final purchase choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Buyology: Truth and Lies About Why We Buy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p5gANl2hfhYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Buyology: Truth and Lies About Why We Buy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buyology: Truth and Lies About Why We Buy">Buyology: Truth and Lies About Why We Buy</a>
+</h4>
+<p class="fr-book-author">By Martin Lindstrom</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains how buyers make decisions and what influences final purchase choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy+Martin+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
-        </h4>
-        <p class="fr-book-author">By Steve Krug</p>
-
-        <p class="fr-book-desc">Useful for presenting comparisons that reduce buyer friction and improve decision confidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
+</h4>
+<p class="fr-book-author">By Steve Krug</p>
+        
+<p class="fr-book-desc">Useful for presenting comparisons that reduce buyer friction and improve decision confidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious%3A+Why+Things+Catch+On+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious: Why Things Catch On on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious: Why Things Catch On" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious%3A+Why+Things+Catch+On+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious: Why Things Catch On">Contagious: Why Things Catch On</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
-
-        <p class="fr-book-desc">Helps explain why certain products and recommendations gain traction with buyers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious%3A+Why+Things+Catch+On+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious%3A+Why+Things+Catch+On+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious: Why Things Catch On on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious: Why Things Catch On" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious%3A+Why+Things+Catch+On+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious: Why Things Catch On">Contagious: Why Things Catch On</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
+        
+<p class="fr-book-desc">Helps explain why certain products and recommendations gain traction with buyers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious%3A+Why+Things+Catch+On+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence: The Psychology of Persuasion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence: The Psychology of Persuasion">Influence: The Psychology of Persuasion</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
-
-        <p class="fr-book-desc">Provides evidence-based insight into persuasion and decision-making relevant to comparison content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence: The Psychology of Persuasion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence: The Psychology of Persuasion">Influence: The Psychology of Persuasion</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
+        
+<p class="fr-book-desc">Provides evidence-based insight into persuasion and decision-making relevant to comparison content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology: Truth and Lies About Why We Buy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious%3A+Why+Things+Catch+On&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious: Why Things Catch On</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Buyology%3A+Truth+and+Lies+About+Why+We+Buy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Buyology: Truth and Lies About Why We Buy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious%3A+Why+Things+Catch+On&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious: Why Things Catch On</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

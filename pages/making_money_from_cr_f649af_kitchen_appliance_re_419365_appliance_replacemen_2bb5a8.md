@@ -431,89 +431,89 @@ Readers rarely remember the exact motor wattage or number of cooking presets. Th
 By including spare-parts availability alongside cooking performance, cleaning effort and everyday usability, an affiliate review shifts from helping someone buy an appliance to helping them own one successfully. That approach reduces buyer disappointment, strengthens editorial credibility and makes recommendations more resilient as appliances age instead of merely looking attractive on launch day.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Fix It After Year One?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Fix It After Year One?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Food Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8314250-M.jpg" alt="Cover for The Food Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Food Lab">The Food Lab</a>
-        </h4>
-        <p class="fr-book-author">By J. Kenji López-Alt</p>
-
-        <p class="fr-book-desc">Focuses on testing methods and practical kitchen results, reinforcing the value of real-use product evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Food Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8314250-M.jpg" alt="Cover for The Food Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Food Lab">The Food Lab</a>
+</h4>
+<p class="fr-book-author">By J. Kenji López-Alt</p>
+        
+<p class="fr-book-desc">Focuses on testing methods and practical kitchen results, reinforcing the value of real-use product evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Food+Lab+J.+Kenji+L%C3%B3pez-Alt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Repair Shop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10236996-M.jpg" alt="Cover for The Repair Shop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Repair Shop">The Repair Shop</a>
-        </h4>
-        <p class="fr-book-author">By Karen Farrington, Jay Blades</p>
-
-        <p class="fr-book-desc">Encourages repair-first thinking and understanding the value of maintaining products over replacing them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Repair Shop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10236996-M.jpg" alt="Cover for The Repair Shop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Repair Shop">The Repair Shop</a>
+</h4>
+<p class="fr-book-author">By Karen Farrington, Jay Blades</p>
+        
+<p class="fr-book-desc">Encourages repair-first thinking and understanding the value of maintaining products over replacing them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Repair+Shop+Karen+Farrington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Repair Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12405060-M.jpg" alt="Cover for Repair Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Repair Revolution">Repair Revolution</a>
-        </h4>
-        <p class="fr-book-author">By John Wackman, Elizabeth Knight</p>
-
-        <p class="fr-book-desc">Strong fit for evaluating long-term appliance ownership, repair culture, and replacement parts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Repair Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12405060-M.jpg" alt="Cover for Repair Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Repair Revolution">Repair Revolution</a>
+</h4>
+<p class="fr-book-author">By John Wackman, Elizabeth Knight</p>
+        
+<p class="fr-book-desc">Strong fit for evaluating long-term appliance ownership, repair culture, and replacement parts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Repair+Revolution+John+Wackman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Mechanics How to Fix Anything on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Mechanics How to Fix Anything">Popular Mechanics How to Fix Anything</a>
-        </h4>
-        <p class="fr-book-author">By Popular Mechanics Press Editors</p>
-
-        <p class="fr-book-desc">Supports readers interested in extending the life of household equipment through maintenance and repair.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Mechanics How to Fix Anything on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Mechanics How to Fix Anything">Popular Mechanics How to Fix Anything</a>
+</h4>
+<p class="fr-book-author">By Popular Mechanics Press Editors</p>
+        
+<p class="fr-book-desc">Supports readers interested in extending the life of household equipment through maintenance and repair.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Popular+Mechanics+How+to+Fix+Anything+Popular+Mechanics+Press+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Food+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Food Lab</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Repair+Shop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Repair Shop</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Repair+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Repair Revolution</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Food+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Food Lab</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Repair+Shop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Repair Shop</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Repair+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Repair Revolution</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -381,89 +381,89 @@ Within a broader [baby travel gear]({{ 'baby-travel/' | relative_url }}) affilia
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Car Seat Convenience Goes Too Far. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Car Seat Convenience Goes Too Far. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiest Baby on the Block on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/374088-M.jpg" alt="Cover for The Happiest Baby on the Block" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiest Baby on the Block">The Happiest Baby on the Block</a>
-        </h4>
-        <p class="fr-book-author">By Harvey Karp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiest Baby on the Block on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/374088-M.jpg" alt="Cover for The Happiest Baby on the Block" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiest Baby on the Block">The Happiest Baby on the Block</a>
+</h4>
+<p class="fr-book-author">By Harvey Karp</p>
         
-        <p class="fr-book-desc">Focuses on infant soothing while reinforcing appropriate sleep habits rather than prolonged car seat sleep.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on infant soothing while reinforcing appropriate sleep habits rather than prolonged car seat sleep.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block+Harvey+Karp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caring for Your Baby and Young Child on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/369843-M.jpg" alt="Cover for Caring for Your Baby and Young Child" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caring for Your Baby and Young Child">Caring for Your Baby and Young Child</a>
-        </h4>
-        <p class="fr-book-author">By American Academy of Pediatrics</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caring for Your Baby and Young Child on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/369843-M.jpg" alt="Cover for Caring for Your Baby and Young Child" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caring for Your Baby and Young Child">Caring for Your Baby and Young Child</a>
+</h4>
+<p class="fr-book-author">By American Academy of Pediatrics</p>
         
-        <p class="fr-book-desc">Covers safe infant sleep, travel, and evidence-based guidance that supports responsible car seat recommendations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers safe infant sleep, travel, and evidence-based guidance that supports responsible car seat recommendations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child+American+Academy+of+Pediatrics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What to expect the first year on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11743015-M.jpg" alt="Cover for What to expect the first year" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What to expect the first year">What to expect the first year</a>
-        </h4>
-        <p class="fr-book-author">By Heidi Murkoff, Arlene Eisenberg et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What to expect the first year on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11743015-M.jpg" alt="Cover for What to expect the first year" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What to expect the first year">What to expect the first year</a>
+</h4>
+<p class="fr-book-author">By Heidi Murkoff, Arlene Eisenberg et al.</p>
         
-        <p class="fr-book-desc">First published 1989. Subjects: Infants, Child rearing, Care, Infants, care and hygiene, Parenting, study and teaching.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1989. Subjects: Infants, Child rearing, Care, Infants, care and hygiene, Parenting, study and teaching.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=What+to+expect+the+first+year+Heidi+Murkoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Baby+411+Brown%2C+Ari%2C+Fields%2C+Denise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Baby 411 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Baby+411+Brown%2C+Ari%2C+Fields%2C+Denise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Baby 411">Baby 411</a>
-        </h4>
-        <p class="fr-book-author">By Brown, Ari, Fields, Denise</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Baby+411+Brown%2C+Ari%2C+Fields%2C+Denise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Baby 411 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Baby+411+Brown%2C+Ari%2C+Fields%2C+Denise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Baby 411">Baby 411</a>
+</h4>
+<p class="fr-book-author">By Brown, Ari, Fields, Denise</p>
         
-        <p class="fr-book-desc">Addresses infant sleep, safety, and practical parenting decisions relevant to travel systems and car seats.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Baby+411+Brown%2C+Ari%2C+Fields%2C+Denise&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses infant sleep, safety, and practical parenting decisions relevant to travel systems and car seats.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Baby+411+Brown%2C+Ari%2C+Fields%2C+Denise&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiest Baby on the Block</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caring for Your Baby and Young Child</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=What+to+expect+the+first+year&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What to expect the first year</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiest+Baby+on+the+Block&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiest Baby on the Block</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Caring+for+Your+Baby+and+Young+Child&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caring for Your Baby and Young Child</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=What+to+expect+the+first+year&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What to expect the first year</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

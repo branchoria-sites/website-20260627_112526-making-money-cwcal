@@ -450,89 +450,89 @@ Over time, this visual consistency strengthens editorial credibility. Readers be
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Messy Photos Reviews Should Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Messy Photos Reviews Should Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+Housekeeping+the+Complete+Household+Handbook+Good+Housekeeping+Institute+%28New+York%2C+N.Y.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good Housekeeping the Complete Household Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/856052-M.jpg" alt="Cover for Good Housekeeping the Complete Household Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Good+Housekeeping+the+Complete+Household+Handbook+Good+Housekeeping+Institute+%28New+York%2C+N.Y.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good Housekeeping the Complete Household Handbook">Good Housekeeping the Complete Household Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Good Housekeeping Institute (New York, N.Y.)</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Good+Housekeeping+the+Complete+Household+Handbook+Good+Housekeeping+Institute+%28New+York%2C+N.Y.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Good Housekeeping the Complete Household Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/856052-M.jpg" alt="Cover for Good Housekeeping the Complete Household Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Good+Housekeeping+the+Complete+Household+Handbook+Good+Housekeeping+Institute+%28New+York%2C+N.Y.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Good Housekeeping the Complete Household Handbook">Good Housekeeping the Complete Household Handbook</a>
+</h4>
+<p class="fr-book-author">By Good Housekeeping Institute (New York, N.Y.)</p>
         
-        <p class="fr-book-desc">Covers cleaning, maintenance, and practical home-care methods that align closely with appliance cleanability discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Good+Housekeeping+the+Complete+Household+Handbook+Good+Housekeeping+Institute+%28New+York%2C+N.Y.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cleaning, maintenance, and practical home-care methods that align closely with appliance cleanability discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Good+Housekeeping+the+Complete+Household+Handbook+Good+Housekeeping+Institute+%28New+York%2C+N.Y.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Cook Everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307073-M.jpg" alt="Cover for How to Cook Everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Cook Everything">How to Cook Everything</a>
-        </h4>
-        <p class="fr-book-author">By Mark Bittman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Cook Everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307073-M.jpg" alt="Cover for How to Cook Everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Cook Everything">How to Cook Everything</a>
+</h4>
+<p class="fr-book-author">By Mark Bittman</p>
         
-        <p class="fr-book-desc">Provides practical cooking context that naturally leads to evaluating how appliances perform and clean after everyday use.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical cooking context that naturally leads to evaluating how appliances perform and clean after everyday use.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Cook+Everything+Mark+Bittman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Salt, Fat, Acid, Heat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8315567-M.jpg" alt="Cover for Salt, Fat, Acid, Heat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Salt, Fat, Acid, Heat">Salt, Fat, Acid, Heat</a>
-        </h4>
-        <p class="fr-book-author">By Samin Nosrat</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Salt, Fat, Acid, Heat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8315567-M.jpg" alt="Cover for Salt, Fat, Acid, Heat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Salt, Fat, Acid, Heat">Salt, Fat, Acid, Heat</a>
+</h4>
+<p class="fr-book-author">By Samin Nosrat</p>
         
-        <p class="fr-book-desc">Helps readers understand cooking processes that create the residue, grease, and stains discussed in appliance reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand cooking processes that create the residue, grease, and stains discussed in appliance reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat+Samin+Nosrat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete America&#x27;s Test Kitchen TV Show Cookbook 2001-2016 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11556736-M.jpg" alt="Cover for The Complete America&#x27;s Test Kitchen TV Show Cookbook 2001-2016" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete America&#x27;s Test Kitchen TV Show Cookbook 2001-2016">The Complete America&#x27;s Test Kitchen TV Show Cookbook 2001-2016</a>
-        </h4>
-        <p class="fr-book-author">By America&#x27;s Test Kitchen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete America&#x27;s Test Kitchen TV Show Cookbook 2001-2016 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11556736-M.jpg" alt="Cover for The Complete America&#x27;s Test Kitchen TV Show Cookbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete America&#x27;s Test Kitchen TV Show Cookbook">The Complete America&#x27;s Test Kitchen TV Show Cookbook</a>
+</h4>
+<p class="fr-book-author">By America&#x27;s Test Kitchen</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: nyt:food-and-fitness=2015-12-13, New York Times bestseller, COOKING / Methods / General, COOKING / Course...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: nyt:food-and-fitness=2015-12-13, New York Times bestseller, COOKING / Methods / General, COOKING / Course...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+America%27s+Test+Kitchen+TV+Show+Cookbook+2001-2016+America%27s+Test+Kitchen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+Housekeeping+the+Complete+Household+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good Housekeeping the Complete Household books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Cook+Everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Cook Everything</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Salt, Fat, Acid, Heat</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Good+Housekeeping+the+Complete+Household+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Good Housekeeping the Complete Household books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Cook+Everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Cook Everything</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Salt%2C+Fat%2C+Acid%2C+Heat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Salt, Fat, Acid, Heat</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

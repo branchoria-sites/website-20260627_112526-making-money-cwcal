@@ -411,89 +411,89 @@ These details create the added value that distinguishes an independent review fr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Thin Espresso Reviews Fail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Thin Espresso Reviews Fail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
-        </h4>
-        <p class="fr-book-author">By James Hoffmann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Atlas of Coffee on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7312733-M.jpg" alt="Cover for The World Atlas of Coffee" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Atlas of Coffee">The World Atlas of Coffee</a>
+</h4>
+<p class="fr-book-author">By James Hoffmann</p>
         
-        <p class="fr-book-desc">Reinforces evidence-based understanding of coffee and brewing rather than relying on marketing claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces evidence-based understanding of coffee and brewing rather than relying on marketing claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee+James+Hoffmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
-        </h4>
-        <p class="fr-book-author">By Anette Moldvaer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coffee Obsession on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7313996-M.jpg" alt="Cover for Coffee Obsession" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coffee Obsession">Coffee Obsession</a>
+</h4>
+<p class="fr-book-author">By Anette Moldvaer</p>
         
-        <p class="fr-book-desc">Provides broader coffee knowledge that helps readers critically assess espresso equipment claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader coffee knowledge that helps readers critically assess espresso equipment claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Coffee+Obsession+Anette+Moldvaer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
-        </h4>
-        <p class="fr-book-author">By Scott Rao</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The professional barista&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8710423-M.jpg" alt="Cover for The professional barista&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The professional barista&#x27;s handbook">The professional barista&#x27;s handbook</a>
+</h4>
+<p class="fr-book-author">By Scott Rao</p>
         
-        <p class="fr-book-desc">Highlights objective techniques and performance evaluation that align with trustworthy espresso reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights objective techniques and performance evaluation that align with trustworthy espresso reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+professional+barista%27s+handbook+Scott+Rao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Craft coffee on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Craft coffee">Craft coffee</a>
-        </h4>
-        <p class="fr-book-author">By Jessica Easto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Craft coffee on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Craft coffee">Craft coffee</a>
+</h4>
+<p class="fr-book-author">By Jessica Easto</p>
         
-        <p class="fr-book-desc">Encourages careful evaluation of brewing variables instead of superficial product descriptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful evaluation of brewing variables instead of superficial product descriptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Craft+coffee+Jessica+Easto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Coffee+Obsession&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coffee Obsession</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Atlas+of+Coffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Atlas of Coffee</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Coffee+Obsession&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coffee Obsession</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+professional+barista%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The professional barista&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
