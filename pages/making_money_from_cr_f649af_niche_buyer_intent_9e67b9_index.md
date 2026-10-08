@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-niche/
 description: Focused pages that expand on Niche Choice.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: making_money_from_cr_f649af_niche_buyer_intent_9e67b9
 parent_title: Niche Choice
