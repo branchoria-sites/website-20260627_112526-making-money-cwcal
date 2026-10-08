@@ -235,7 +235,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-amazon-associates-be-44a913" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'amazon/' | relative_url }}" title="Is Amazon Associates Still Good for Beginners? | Making Money From" aria-label="Open page: Is Amazon Associates Still Good for Beginners? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913-overview.webp' | relative_url }}" alt="Overview image for Is Amazon Associates Still Good for Beginners? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913-overview.webp' | relative_url }}" alt="Overview image for Is Amazon Associates Still Good for Beginners?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Amazon</span>
@@ -257,7 +257,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-amazon-associates-be-44a913-amazon-product-data-7acb6a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'product-data/' | relative_url }}" title="Can You Use Amazon Images and Prices? | Is Amazon Associates Still Good for Beginners? | Making Money From" aria-label="Open page: Can You Use Amazon Images and Prices? | Is Amazon Associates Still Good for Beginners? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_product_data_7acb6a-Illustration-1.webp' | relative_url }}" alt="Overview image for Can You Use Amazon Images and Prices? | Making Money From Cr F649 Af Amazon Associates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_product_data_7acb6a-Illustration-1.webp' | relative_url }}" alt="Overview image for Can You Use Amazon Images and Prices?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Product Data</span>
@@ -277,7 +277,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-amazon-associates-be-44a913-three-qualifying-sal-f5496c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'first-sales/' | relative_url }}" title="Can Your Site Earn Its First Three Sales? | Is Amazon Associates Still Good for Beginners? | Making Money From" aria-label="Open page: Can Your Site Earn Its First Three Sales? | Is Amazon Associates Still Good for Beginners? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_three_qualifying_sal_f5496c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Your Site Earn Its First Three Sales? | Making Money From Cr F649 Af Amazon Associates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_three_qualifying_sal_f5496c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Your Site Earn Its First Three Sales?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">First Sales</span>
@@ -297,7 +297,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-amazon-associates-be-44a913-amazon-disclosure-ru-5ffe72" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'disclosures-9a63fa/' | relative_url }}" title="How to Disclose Amazon Links Without Panic | Is Amazon Associates Still Good for Beginners? | Making Money From" aria-label="Open page: How to Disclose Amazon Links Without Panic | Is Amazon Associates Still Good for Beginners? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_disclosure_ru_5ffe72-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Disclose Amazon Links Without Panic | Making Money From Cr F649 Af Amazon Associates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_disclosure_ru_5ffe72-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Disclose Amazon Links Without Panic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Disclosures</span>
@@ -317,7 +317,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-amazon-associates-be-44a913-cookie-window-expens-1de445" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'cookie-window/' | relative_url }}" title="Is 24 Hours Enough to Earn the Sale? | Is Amazon Associates Still Good for Beginners? | Making Money From" aria-label="Open page: Is 24 Hours Enough to Earn the Sale? | Is Amazon Associates Still Good for Beginners? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_cookie_window_expens_1de445-Illustration-1.webp' | relative_url }}" alt="Overview image for Is 24 Hours Enough to Earn the Sale? | Making Money From Cr F649 Af Amazon Associates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_cookie_window_expens_1de445-Illustration-1.webp' | relative_url }}" alt="Overview image for Is 24 Hours Enough to Earn the Sale?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Cookie Window</span>
@@ -337,7 +337,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-amazon-associates-be-44a913-amazon-2020-rate-cut-2e0a8a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rate-cuts/' | relative_url }}" title="What the 2020 Amazon Cuts Taught Affiliates | Is Amazon Associates Still Good for Beginners? | Making Money From" aria-label="Open page: What the 2020 Amazon Cuts Taught Affiliates | Is Amazon Associates Still Good for Beginners? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_2020_rate_cut_2e0a8a-Illustration-1.webp' | relative_url }}" alt="Overview image for What the 2020 Amazon Cuts Taught Affiliates | Making Money From Cr F649 Af Amazon Associates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_amazon_2020_rate_cut_2e0a8a-Illustration-1.webp' | relative_url }}" alt="Overview image for What the 2020 Amazon Cuts Taught Affiliates" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rate Cuts</span>
@@ -357,7 +357,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-amazon-associates-be-44a913-commission-category-794bb3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rate-maths/' | relative_url }}" title="Why Amazon Traffic Does Not Always Pay | Is Amazon Associates Still Good for Beginners? | Making Money From" aria-label="Open page: Why Amazon Traffic Does Not Always Pay | Is Amazon Associates Still Good for Beginners? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_commission_category_794bb3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Amazon Traffic Does Not Always Pay | Making Money From Cr F649 Af Amazon Associates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_amazon_associates_be_44a913_commission_category_794bb3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Amazon Traffic Does Not Always Pay" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rate Maths</span>
@@ -379,7 +379,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-kitchen-appliance-re-419365" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'appliances/' | relative_url }}" title="What Kitchen Appliance Reviews Often Miss | Making Money From" aria-label="Open page: What Kitchen Appliance Reviews Often Miss | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365-overview.webp' | relative_url }}" alt="Overview image for What Kitchen Appliance Reviews Often Miss | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365-overview.webp' | relative_url }}" alt="Overview image for What Kitchen Appliance Reviews Often Miss" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Appliances</span>
@@ -401,7 +401,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-kitchen-appliance-re-419365-appliance-replacemen-2bb5a8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'spare-parts/' | relative_url }}" title="Can You Fix It After Year One? | What Kitchen Appliance Reviews Often Miss | Making Money From" aria-label="Open page: Can You Fix It After Year One? | What Kitchen Appliance Reviews Often Miss | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_replacemen_2bb5a8-Illustration-1.webp' | relative_url }}" alt="Overview image for Can You Fix It After Year One? | Making Money From Cr F649 Af Kitchen Appliance" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_replacemen_2bb5a8-Illustration-1.webp' | relative_url }}" alt="Overview image for Can You Fix It After Year One?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Spare Parts</span>
@@ -421,7 +421,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-kitchen-appliance-re-419365-air-fryer-capacity-f-363e8a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'air-fryer-fit/' | relative_url }}" title="Does That Air Fryer Really Feed Four? | What Kitchen Appliance Reviews Often Miss | Making Money From" aria-label="Open page: Does That Air Fryer Really Feed Four? | What Kitchen Appliance Reviews Often Miss | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_air_fryer_capacity_f_363e8a-Illustration-1.webp' | relative_url }}" alt="Overview image for Does That Air Fryer Really Feed Four? | Making Money From Cr F649 Af Kitchen Appliance" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_air_fryer_capacity_f_363e8a-Illustration-1.webp' | relative_url }}" alt="Overview image for Does That Air Fryer Really Feed Four?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Air Fryer Fit</span>
@@ -441,7 +441,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-kitchen-appliance-re-419365-countertop-dishwashe-4d92a7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'dishwasher-space/' | relative_url }}" title="Is a Countertop Dishwasher Worth the Space? | What Kitchen Appliance Reviews Often Miss | Making Money From" aria-label="Open page: Is a Countertop Dishwasher Worth the Space? | What Kitchen Appliance Reviews Often Miss | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_countertop_dishwashe_4d92a7-Illustration-1.webp' | relative_url }}" alt="Overview image for Is a Countertop Dishwasher Worth the Space? | Making Money From Cr F649 Af Kitchen Appliance" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_countertop_dishwashe_4d92a7-Illustration-1.webp' | relative_url }}" alt="Overview image for Is a Countertop Dishwasher Worth the Space?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Dishwasher Space</span>
@@ -461,7 +461,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-kitchen-appliance-re-419365-blender-noise-tests-3be578" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'blender-noise/' | relative_url }}" title="Is Your Blender Too Loud to Live With? | What Kitchen Appliance Reviews Often Miss | Making Money From" aria-label="Open page: Is Your Blender Too Loud to Live With? | What Kitchen Appliance Reviews Often Miss | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_blender_noise_tests_3be578-Illustration-1.webp' | relative_url }}" alt="Overview image for Is Your Blender Too Loud to Live With? | Making Money From Cr F649 Af Kitchen Appliance" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_blender_noise_tests_3be578-Illustration-1.webp' | relative_url }}" alt="Overview image for Is Your Blender Too Loud to Live With?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Blender Noise</span>
@@ -481,7 +481,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-kitchen-appliance-re-419365-appliance-cleanabili-b2d106" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'mess-photos/' | relative_url }}" title="The Messy Photos Reviews Should Show | What Kitchen Appliance Reviews Often Miss | Making Money From" aria-label="Open page: The Messy Photos Reviews Should Show | What Kitchen Appliance Reviews Often Miss | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_cleanabili_b2d106-Illustration-1.webp' | relative_url }}" alt="Overview image for The Messy Photos Reviews Should Show | Making Money From Cr F649 Af Kitchen Appliance" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_appliance_cleanabili_b2d106-Illustration-1.webp' | relative_url }}" alt="Overview image for The Messy Photos Reviews Should Show" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Mess Photos</span>
@@ -501,7 +501,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-kitchen-appliance-re-419365-coffee-machine-clean-cde4bf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'coffee-cleaning/' | relative_url }}" title="When Coffee Machines Become Cleaning Projects | What Kitchen Appliance Reviews Often Miss | Making Money From" aria-label="Open page: When Coffee Machines Become Cleaning Projects | What Kitchen Appliance Reviews Often Miss | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_coffee_machine_clean_cde4bf-Illustration-1.webp' | relative_url }}" alt="Overview image for When Coffee Machines Become Cleaning Projects | Making Money From Cr F649 Af Kitchen Appliance" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_kitchen_appliance_re_419365_coffee_machine_clean_cde4bf-Illustration-1.webp' | relative_url }}" alt="Overview image for When Coffee Machines Become Cleaning Projects" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Coffee Cleaning</span>
@@ -523,7 +523,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-niche-authority-blog-7d2a98" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'authority/' | relative_url }}" title="Can Expertise Beat Bigger Affiliate Sites? | Making Money From" aria-label="Open page: Can Expertise Beat Bigger Affiliate Sites? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98-overview.webp' | relative_url }}" alt="Overview image for Can Expertise Beat Bigger Affiliate Sites? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98-overview.webp' | relative_url }}" alt="Overview image for Can Expertise Beat Bigger Affiliate Sites?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Authority</span>
@@ -545,7 +545,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-authority-blog-7d2a98-affiliate-disclosure-249c42" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'disclosure-f23ad6/' | relative_url }}" title="Can Affiliate Disclosure Improve Trust? | Can Expertise Beat Bigger Affiliate Sites? | Making Money From" aria-label="Open page: Can Affiliate Disclosure Improve Trust? | Can Expertise Beat Bigger Affiliate Sites? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Affiliate Disclosure Improve Trust? | Making Money From Cr F649 Af Niche Authority Blog" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Affiliate Disclosure Improve Trust?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Disclosure</span>
@@ -565,7 +565,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-authority-blog-7d2a98-advice-to-purchase-e8ee12" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'advice-paths/' | relative_url }}" title="How Advice Pages Become Buying Paths | Can Expertise Beat Bigger Affiliate Sites? | Making Money From" aria-label="Open page: How Advice Pages Become Buying Paths | Can Expertise Beat Bigger Affiliate Sites? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_advice_to_purchase_e8ee12-Illustration-1.webp' | relative_url }}" alt="Overview image for How Advice Pages Become Buying Paths | Making Money From Cr F649 Af Niche Authority Blog" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_advice_to_purchase_e8ee12-Illustration-1.webp' | relative_url }}" alt="Overview image for How Advice Pages Become Buying Paths" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Advice Paths</span>
@@ -585,7 +585,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-authority-blog-7d2a98-first-hand-testing-7d677b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'testing-proof/' | relative_url }}" title="How Real Testing Makes Reviews Trustworthy | Can Expertise Beat Bigger Affiliate Sites? | Making Money From" aria-label="Open page: How Real Testing Makes Reviews Trustworthy | Can Expertise Beat Bigger Affiliate Sites? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_first_hand_testing_7d677b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Real Testing Makes Reviews Trustworthy | Making Money From Cr F649 Af Niche Authority Blog" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_first_hand_testing_7d677b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Real Testing Makes Reviews Trustworthy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Testing Proof</span>
@@ -605,7 +605,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-authority-blog-7d2a98-authority-commerce-m-2c4044" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'model-sites/' | relative_url }}" title="What Expert Review Sites Get Right | Can Expertise Beat Bigger Affiliate Sites? | Making Money From" aria-label="Open page: What Expert Review Sites Get Right | Can Expertise Beat Bigger Affiliate Sites? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044-Illustration-1.webp' | relative_url }}" alt="Overview image for What Expert Review Sites Get Right | Making Money From Cr F649 Af Niche Authority Blog" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_authority_commerce_m_2c4044-Illustration-1.webp' | relative_url }}" alt="Overview image for What Expert Review Sites Get Right" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Model Sites</span>
@@ -625,7 +625,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-authority-blog-7d2a98-topical-depth-catego-294b60" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'topical-depth-catego/' | relative_url }}" title="What Topical Depth Looks Like in Practice | Can Expertise Beat Bigger Affiliate Sites? | Making Money From" aria-label="Open page: What Topical Depth Looks Like in Practice | Can Expertise Beat Bigger Affiliate Sites? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_topical_depth_catego_294b60-Illustration-1.webp' | relative_url }}" alt="Overview image for What Topical Depth Looks Like in Practice | Making Money From Cr F649 Af Niche Authority Blog" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_topical_depth_catego_294b60-Illustration-1.webp' | relative_url }}" alt="Overview image for What Topical Depth Looks Like in Practice" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Topical Depth Catego</span>
@@ -645,7 +645,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-authority-blog-7d2a98-best-for-roundups-663a85" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'best-for-lists/' | relative_url }}" title="Why Best For Reviews Beat Best Overall | Can Expertise Beat Bigger Affiliate Sites? | Making Money From" aria-label="Open page: Why Best For Reviews Beat Best Overall | Can Expertise Beat Bigger Affiliate Sites? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_best_for_roundups_663a85-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Best For Reviews Beat Best Overall | Making Money From Cr F649 Af Niche Authority Blog" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_best_for_roundups_663a85-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Best For Reviews Beat Best Overall" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Best For Lists</span>
@@ -667,7 +667,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-baby-travel-gear-f24893" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'baby-travel/' | relative_url }}" title="Why Baby Travel Gear Reviews Need More Trust | Making Money From" aria-label="Open page: Why Baby Travel Gear Reviews Need More Trust | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893-overview.webp' | relative_url }}" alt="Overview image for Why Baby Travel Gear Reviews Need More Trust | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893-overview.webp' | relative_url }}" alt="Overview image for Why Baby Travel Gear Reviews Need More Trust" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Baby Travel</span>
@@ -689,7 +689,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-baby-travel-gear-f24893-stroller-adapter-com-169325" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'compatibility/' | relative_url }}" title="Does That Baby Travel Bundle Really Fit? | Why Baby Travel Gear Reviews Need More Trust | Making Money From" aria-label="Open page: Does That Baby Travel Bundle Really Fit? | Why Baby Travel Gear Reviews Need More Trust | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_stroller_adapter_com_169325-Illustration-1.webp' | relative_url }}" alt="Overview image for Does That Baby Travel Bundle Really Fit? | Making Money From Cr F649 Af Baby Travel Gear" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_stroller_adapter_com_169325-Illustration-1.webp' | relative_url }}" alt="Overview image for Does That Baby Travel Bundle Really Fit?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Compatibility</span>
@@ -709,7 +709,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-baby-travel-gear-f24893-travel-cot-safety-ev-256d92" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'travel-cots/' | relative_url }}" title="Lightweight Travel Cots Still Need Safety Checks | Why Baby Travel Gear Reviews Need More Trust | Making Money From" aria-label="Open page: Lightweight Travel Cots Still Need Safety Checks | Why Baby Travel Gear Reviews Need More Trust | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_travel_cot_safety_ev_256d92-Illustration-1.webp' | relative_url }}" alt="Overview image for Lightweight Travel Cots Still Need Safety Checks | Making Money From Cr F649 Af Baby Travel Gear" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_travel_cot_safety_ev_256d92-Illustration-1.webp' | relative_url }}" alt="Overview image for Lightweight Travel Cots Still Need Safety Checks" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Travel Cots</span>
@@ -729,7 +729,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-baby-travel-gear-f24893-parent-testing-pushc-26f021" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'parent-tests/' | relative_url }}" title="The Pushchair Tests Parents Actually Need | Why Baby Travel Gear Reviews Need More Trust | Making Money From" aria-label="Open page: The Pushchair Tests Parents Actually Need | Why Baby Travel Gear Reviews Need More Trust | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_parent_testing_pushc_26f021-Illustration-1.webp' | relative_url }}" alt="Overview image for The Pushchair Tests Parents Actually Need | Making Money From Cr F649 Af Baby Travel Gear" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_parent_testing_pushc_26f021-Illustration-1.webp' | relative_url }}" alt="Overview image for The Pushchair Tests Parents Actually Need" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Parent Tests</span>
@@ -749,7 +749,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-baby-travel-gear-f24893-baby-travel-recall-c-0339de" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'recalls/' | relative_url }}" title="The Recall Check Every Baby Page Needs | Why Baby Travel Gear Reviews Need More Trust | Making Money From" aria-label="Open page: The Recall Check Every Baby Page Needs | Why Baby Travel Gear Reviews Need More Trust | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de-Illustration-1.webp' | relative_url }}" alt="Overview image for The Recall Check Every Baby Page Needs | Making Money From Cr F649 Af Baby Travel Gear" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_baby_travel_recall_c_0339de-Illustration-1.webp' | relative_url }}" alt="Overview image for The Recall Check Every Baby Page Needs" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Recalls</span>
@@ -769,7 +769,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-baby-travel-gear-f24893-car-seat-sleep-limit-9c65b3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'seat-sleep/' | relative_url }}" title="When Car Seat Convenience Goes Too Far | Why Baby Travel Gear Reviews Need More Trust | Making Money From" aria-label="Open page: When Car Seat Convenience Goes Too Far | Why Baby Travel Gear Reviews Need More Trust | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_car_seat_sleep_limit_9c65b3-Illustration-1.webp' | relative_url }}" alt="Overview image for When Car Seat Convenience Goes Too Far | Making Money From Cr F649 Af Baby Travel Gear" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_car_seat_sleep_limit_9c65b3-Illustration-1.webp' | relative_url }}" alt="Overview image for When Car Seat Convenience Goes Too Far" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Seat Sleep</span>
@@ -789,7 +789,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-baby-travel-gear-f24893-vehicle-fit-car-seat-d675ee" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'vehicle-fit/' | relative_url }}" title="Why Best Car Seat Lists Can Mislead | Why Baby Travel Gear Reviews Need More Trust | Making Money From" aria-label="Open page: Why Best Car Seat Lists Can Mislead | Why Baby Travel Gear Reviews Need More Trust | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_vehicle_fit_car_seat_d675ee-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Best Car Seat Lists Can Mislead | Making Money From Cr F649 Af Baby Travel Gear" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_baby_travel_gear_f24893_vehicle_fit_car_seat_d675ee-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Best Car Seat Lists Can Mislead" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Vehicle Fit</span>
@@ -811,7 +811,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-small-business-softw-03dae8" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'business-tools/' | relative_url }}" title="Can Small Business Software Be a Better Affiliate Niche? | Making Money From" aria-label="Open page: Can Small Business Software Be a Better Affiliate Niche? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8-overview.webp' | relative_url }}" alt="Overview image for Can Small Business Software Be a Better Affiliate Niche? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8-overview.webp' | relative_url }}" alt="Overview image for Can Small Business Software Be a Better Affiliate Niche?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Business Tools</span>
@@ -833,7 +833,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-small-business-softw-03dae8-saas-data-export-che-74ff1c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'data-export/' | relative_url }}" title="Can You Leave With Your Business Data? | Can Small Business Software Be a Better Affiliate Niche? | Making Money From" aria-label="Open page: Can You Leave With Your Business Data? | Can Small Business Software Be a Better Affiliate Niche? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_saas_data_export_che_74ff1c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can You Leave With Your Business Data? | Making Money From Cr F649 Af Small Business Softw" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_saas_data_export_che_74ff1c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can You Leave With Your Business Data?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Data Export</span>
@@ -853,7 +853,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-small-business-softw-03dae8-accounting-migration-1a5b02" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'migration-risk/' | relative_url }}" title="Can You Safely Switch Accounting Software? | Can Small Business Software Be a Better Affiliate Niche? | Making Money From" aria-label="Open page: Can You Safely Switch Accounting Software? | Can Small Business Software Be a Better Affiliate Niche? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02-Illustration-1.webp' | relative_url }}" alt="Overview image for Can You Safely Switch Accounting Software? | Making Money From Cr F649 Af Small Business Softw" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_accounting_migration_1a5b02-Illustration-1.webp' | relative_url }}" alt="Overview image for Can You Safely Switch Accounting Software?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Migration Risk</span>
@@ -873,7 +873,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-small-business-softw-03dae8-software-integration-be0708" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'integrations/' | relative_url }}" title="Does This Software Fit Your Existing Stack? | Can Small Business Software Be a Better Affiliate Niche? | Making Money From" aria-label="Open page: Does This Software Fit Your Existing Stack? | Can Small Business Software Be a Better Affiliate Niche? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_software_integration_be0708-Illustration-1.webp' | relative_url }}" alt="Overview image for Does This Software Fit Your Existing Stack? | Making Money From Cr F649 Af Small Business Softw" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_software_integration_be0708-Illustration-1.webp' | relative_url }}" alt="Overview image for Does This Software Fit Your Existing Stack?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Integrations</span>
@@ -893,7 +893,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-small-business-softw-03dae8-crm-setup-timelines-c2ea80" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'crm-setup/' | relative_url }}" title="How Long Does CRM Setup Really Take? | Can Small Business Software Be a Better Affiliate Niche? | Making Money From" aria-label="Open page: How Long Does CRM Setup Really Take? | Can Small Business Software Be a Better Affiliate Niche? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_crm_setup_timelines_c2ea80-Illustration-1.webp' | relative_url }}" alt="Overview image for How Long Does CRM Setup Really Take? | Making Money From Cr F649 Af Small Business Softw" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_crm_setup_timelines_c2ea80-Illustration-1.webp' | relative_url }}" alt="Overview image for How Long Does CRM Setup Really Take?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">CRM Setup</span>
@@ -913,7 +913,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-small-business-softw-03dae8-saas-plan-costs-b69c44" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'plan-costs/' | relative_url }}" title="When Cheap Software Plans Get Expensive | Can Small Business Software Be a Better Affiliate Niche? | Making Money From" aria-label="Open page: When Cheap Software Plans Get Expensive | Can Small Business Software Be a Better Affiliate Niche? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_saas_plan_costs_b69c44-Illustration-1.webp' | relative_url }}" alt="Overview image for When Cheap Software Plans Get Expensive | Making Money From Cr F649 Af Small Business Softw" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_saas_plan_costs_b69c44-Illustration-1.webp' | relative_url }}" alt="Overview image for When Cheap Software Plans Get Expensive" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Plan Costs</span>
@@ -933,7 +933,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-small-business-softw-03dae8-software-bad-fit-war-e10788" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bad-fits/' | relative_url }}" title="When Not to Choose a Software Tool | Can Small Business Software Be a Better Affiliate Niche? | Making Money From" aria-label="Open page: When Not to Choose a Software Tool | Can Small Business Software Be a Better Affiliate Niche? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_software_bad_fit_war_e10788-Illustration-1.webp' | relative_url }}" alt="Overview image for When Not to Choose a Software Tool | Making Money From Cr F649 Af Small Business Softw" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_small_business_softw_03dae8_software_bad_fit_war_e10788-Illustration-1.webp' | relative_url }}" alt="Overview image for When Not to Choose a Software Tool" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bad Fits</span>
@@ -955,7 +955,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-commission-models-51e452" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'commissions/' | relative_url }}" title="How Do Affiliate Websites Actually Get Paid? | Making Money From" aria-label="Open page: How Do Affiliate Websites Actually Get Paid? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452-overview.webp' | relative_url }}" alt="Overview image for How Do Affiliate Websites Actually Get Paid? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452-overview.webp' | relative_url }}" alt="Overview image for How Do Affiliate Websites Actually Get Paid?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Commissions</span>
@@ -977,7 +977,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-commission-models-51e452-fixed-bounties-432c34" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'flat-bounties/' | relative_url }}" title="Can a Small Bounty Beat a Big Sale? | How Do Affiliate Websites Actually Get Paid? | Making Money From" aria-label="Open page: Can a Small Bounty Beat a Big Sale? | How Do Affiliate Websites Actually Get Paid? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_fixed_bounties_432c34-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Small Bounty Beat a Big Sale? | Making Money From Cr F649 Af Commission Models" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_fixed_bounties_432c34-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Small Bounty Beat a Big Sale?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Flat Bounties</span>
@@ -997,7 +997,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-commission-models-51e452-cookie-windows-330e2f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'cookie-windows/' | relative_url }}" title="How Long Does an Affiliate Click Count? | How Do Affiliate Websites Actually Get Paid? | Making Money From" aria-label="Open page: How Long Does an Affiliate Click Count? | How Do Affiliate Websites Actually Get Paid? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_cookie_windows_330e2f-Illustration-1.webp' | relative_url }}" alt="Overview image for How Long Does an Affiliate Click Count? | Making Money From Cr F649 Af Commission Models" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_cookie_windows_330e2f-Illustration-1.webp' | relative_url }}" alt="Overview image for How Long Does an Affiliate Click Count?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Cookie Windows</span>
@@ -1017,7 +1017,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-commission-models-51e452-amazon-payout-rules-b16184" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'amazon-rules/' | relative_url }}" title="What Amazon Affiliates Actually Get Paid For | How Do Affiliate Websites Actually Get Paid? | Making Money From" aria-label="Open page: What Amazon Affiliates Actually Get Paid For | How Do Affiliate Websites Actually Get Paid? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_amazon_payout_rules_b16184-Illustration-1.webp' | relative_url }}" alt="Overview image for What Amazon Affiliates Actually Get Paid For | Making Money From Cr F649 Af Commission Models" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_amazon_payout_rules_b16184-Illustration-1.webp' | relative_url }}" alt="Overview image for What Amazon Affiliates Actually Get Paid For" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Amazon Rules</span>
@@ -1037,7 +1037,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-commission-models-51e452-percentage-order-val-978aac" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'percent-rates/' | relative_url }}" title="When a Bigger Percentage Pays Less | How Do Affiliate Websites Actually Get Paid? | Making Money From" aria-label="Open page: When a Bigger Percentage Pays Less | How Do Affiliate Websites Actually Get Paid? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_percentage_order_val_978aac-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Bigger Percentage Pays Less | Making Money From Cr F649 Af Commission Models" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_percentage_order_val_978aac-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Bigger Percentage Pays Less" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Percent Rates</span>
@@ -1057,7 +1057,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-commission-models-51e452-recurring-retention-27bd5c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'recurring-pay/' | relative_url }}" title="Why Retention Makes Software Affiliates Different | How Do Affiliate Websites Actually Get Paid? | Making Money From" aria-label="Open page: Why Retention Makes Software Affiliates Different | How Do Affiliate Websites Actually Get Paid? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_recurring_retention_27bd5c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Retention Makes Software Affiliates Different | Making Money From Cr F649 Af Commission Models" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_recurring_retention_27bd5c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Retention Makes Software Affiliates Different" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Recurring Pay</span>
@@ -1077,7 +1077,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-commission-models-51e452-qualified-leads-f4bdc7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lead-quality/' | relative_url }}" title="Why Some Affiliate Leads Do Not Pay | How Do Affiliate Websites Actually Get Paid? | Making Money From" aria-label="Open page: Why Some Affiliate Leads Do Not Pay | How Do Affiliate Websites Actually Get Paid? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_qualified_leads_f4bdc7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Some Affiliate Leads Do Not Pay | Making Money From Cr F649 Af Commission Models" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_commission_models_51e452_qualified_leads_f4bdc7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Some Affiliate Leads Do Not Pay" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lead Quality</span>
@@ -1099,7 +1099,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-community-traffic-f6e02d" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'communities/' | relative_url }}" title="Can Communities Help Affiliate Sites Grow? | Making Money From" aria-label="Open page: Can Communities Help Affiliate Sites Grow? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d-overview.webp' | relative_url }}" alt="Overview image for Can Communities Help Affiliate Sites Grow? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d-overview.webp' | relative_url }}" alt="Overview image for Can Communities Help Affiliate Sites Grow?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Communities</span>
@@ -1121,7 +1121,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-community-traffic-f6e02d-buyer-objections-thr-8b7ea0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'buyer-doubts/' | relative_url }}" title="Find the Questions Product Pages Miss | Can Communities Help Affiliate Sites Grow? | Making Money From" aria-label="Open page: Find the Questions Product Pages Miss | Can Communities Help Affiliate Sites Grow? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_buyer_objections_thr_8b7ea0-Illustration-1.webp' | relative_url }}" alt="Overview image for Find the Questions Product Pages Miss | Making Money From Cr F649 Af Community Traffic" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_buyer_objections_thr_8b7ea0-Illustration-1.webp' | relative_url }}" alt="Overview image for Find the Questions Product Pages Miss" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Buyer Doubts</span>
@@ -1141,7 +1141,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-community-traffic-f6e02d-standalone-answers-7c3b3a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'answer-first/' | relative_url }}" title="Give the Answer Before the Link | Can Communities Help Affiliate Sites Grow? | Making Money From" aria-label="Open page: Give the Answer Before the Link | Can Communities Help Affiliate Sites Grow? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_standalone_answers_7c3b3a-Illustration-1.webp' | relative_url }}" alt="Overview image for Give the Answer Before the Link | Making Money From Cr F649 Af Community Traffic" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_standalone_answers_7c3b3a-Illustration-1.webp' | relative_url }}" alt="Overview image for Give the Answer Before the Link" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Answer First</span>
@@ -1161,7 +1161,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-community-traffic-f6e02d-community-affiliate-dc0161" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'disclosures-023877/' | relative_url }}" title="Say the Incentive Before the Click | Can Communities Help Affiliate Sites Grow? | Making Money From" aria-label="Open page: Say the Incentive Before the Click | Can Communities Help Affiliate Sites Grow? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_community_affiliate_dc0161-Illustration-1.webp' | relative_url }}" alt="Overview image for Say the Incentive Before the Click | Making Money From Cr F649 Af Community Traffic" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_community_affiliate_dc0161-Illustration-1.webp' | relative_url }}" alt="Overview image for Say the Incentive Before the Click" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Disclosures</span>
@@ -1181,7 +1181,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-community-traffic-f6e02d-thread-research-affi-915eca" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'thicker-pages/' | relative_url }}" title="Use Threads to Beat Thin Reviews | Can Communities Help Affiliate Sites Grow? | Making Money From" aria-label="Open page: Use Threads to Beat Thin Reviews | Can Communities Help Affiliate Sites Grow? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_thread_research_affi_915eca-Illustration-1.webp' | relative_url }}" alt="Overview image for Use Threads to Beat Thin Reviews | Making Money From Cr F649 Af Community Traffic" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_thread_research_affi_915eca-Illustration-1.webp' | relative_url }}" alt="Overview image for Use Threads to Beat Thin Reviews" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Thicker Pages</span>
@@ -1201,7 +1201,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-community-traffic-f6e02d-community-rule-check-95071e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rule-checks/' | relative_url }}" title="When Useful Links Still Break the Rules | Can Communities Help Affiliate Sites Grow? | Making Money From" aria-label="Open page: When Useful Links Still Break the Rules | Can Communities Help Affiliate Sites Grow? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_community_rule_check_95071e-Illustration-1.webp' | relative_url }}" alt="Overview image for When Useful Links Still Break the Rules | Making Money From Cr F649 Af Community Traffic" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_community_rule_check_95071e-Illustration-1.webp' | relative_url }}" alt="Overview image for When Useful Links Still Break the Rules" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rule Checks</span>
@@ -1221,7 +1221,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-community-traffic-f6e02d-self-promotion-ratio-b04d87" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'ratio-myth/' | relative_url }}" title="Why Posting Ratios Do Not Build Trust | Can Communities Help Affiliate Sites Grow? | Making Money From" aria-label="Open page: Why Posting Ratios Do Not Build Trust | Can Communities Help Affiliate Sites Grow? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_self_promotion_ratio_b04d87-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Posting Ratios Do Not Build Trust | Making Money From Cr F649 Af Community Traffic" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_community_traffic_f6e02d_self_promotion_ratio_b04d87-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Posting Ratios Do Not Build Trust" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Ratio Myth</span>
@@ -1243,7 +1243,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-comparison-sites-786008" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'comparisons/' | relative_url }}" title="Do Comparison Sites Really Help People Buy? | Making Money From" aria-label="Open page: Do Comparison Sites Really Help People Buy? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008-overview.webp' | relative_url }}" alt="Overview image for Do Comparison Sites Really Help People Buy? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008-overview.webp' | relative_url }}" alt="Overview image for Do Comparison Sites Really Help People Buy?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Comparisons</span>
@@ -1265,7 +1265,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-comparison-sites-786008-affiliate-commission-ff4cf2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'disclosure-967c81/' | relative_url }}" title="Can Readers Trust Affiliate Rankings? | Do Comparison Sites Really Help People Buy? | Making Money From" aria-label="Open page: Can Readers Trust Affiliate Rankings? | Do Comparison Sites Really Help People Buy? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Readers Trust Affiliate Rankings? | Making Money From Cr F649 Af Comparison Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Readers Trust Affiliate Rankings?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Disclosure</span>
@@ -1285,7 +1285,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-comparison-sites-786008-whole-market-coverag-3ac374" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'coverage/' | relative_url }}" title="Does This Comparison Cover the Whole Market? | Do Comparison Sites Really Help People Buy? | Making Money From" aria-label="Open page: Does This Comparison Cover the Whole Market? | Do Comparison Sites Really Help People Buy? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374-Illustration-1.webp' | relative_url }}" alt="Overview image for Does This Comparison Cover the Whole Market? | Making Money From Cr F649 Af Comparison Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_whole_market_coverag_3ac374-Illustration-1.webp' | relative_url }}" alt="Overview image for Does This Comparison Cover the Whole Market?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Coverage</span>
@@ -1305,7 +1305,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-comparison-sites-786008-hidden-fees-price-co-57e41c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hidden-fees/' | relative_url }}" title="The Price Trap That Breaks Comparison Pages | Do Comparison Sites Really Help People Buy? | Making Money From" aria-label="Open page: The Price Trap That Breaks Comparison Pages | Do Comparison Sites Really Help People Buy? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_hidden_fees_price_co_57e41c-Illustration-1.webp' | relative_url }}" alt="Overview image for The Price Trap That Breaks Comparison Pages | Making Money From Cr F649 Af Comparison Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_hidden_fees_price_co_57e41c-Illustration-1.webp' | relative_url }}" alt="Overview image for The Price Trap That Breaks Comparison Pages" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hidden Fees</span>
@@ -1325,7 +1325,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-comparison-sites-786008-plan-limits-best-cho-7276d8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'plan-limits/' | relative_url }}" title="When Cheap Plans Stop Being Cheap | Do Comparison Sites Really Help People Buy? | Making Money From" aria-label="Open page: When Cheap Plans Stop Being Cheap | Do Comparison Sites Really Help People Buy? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8-Illustration-1.webp' | relative_url }}" alt="Overview image for When Cheap Plans Stop Being Cheap | Making Money From Cr F649 Af Comparison Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_plan_limits_best_cho_7276d8-Illustration-1.webp' | relative_url }}" alt="Overview image for When Cheap Plans Stop Being Cheap" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Plan Limits</span>
@@ -1345,7 +1345,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-comparison-sites-786008-best-overall-ranking-0dc98d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'best-overall/' | relative_url }}" title="When Is Best Overall Actually Useful? | Do Comparison Sites Really Help People Buy? | Making Money From" aria-label="Open page: When Is Best Overall Actually Useful? | Do Comparison Sites Really Help People Buy? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_best_overall_ranking_0dc98d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Is Best Overall Actually Useful? | Making Money From Cr F649 Af Comparison Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_best_overall_ranking_0dc98d-Illustration-1.webp' | relative_url }}" alt="Overview image for When Is Best Overall Actually Useful?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Best Overall</span>
@@ -1365,7 +1365,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-comparison-sites-786008-feature-tables-buyer-bee084" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'feature-tables/' | relative_url }}" title="Why Most Feature Tables Are Too Long | Do Comparison Sites Really Help People Buy? | Making Money From" aria-label="Open page: Why Most Feature Tables Are Too Long | Do Comparison Sites Really Help People Buy? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_feature_tables_buyer_bee084-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Most Feature Tables Are Too Long | Making Money From Cr F649 Af Comparison Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_comparison_sites_786008_feature_tables_buyer_bee084-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Most Feature Tables Are Too Long" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Feature Tables</span>
@@ -1387,7 +1387,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-affiliate-content-mi-86bb15" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'content-mix/' | relative_url }}" title="What Should an Affiliate Website Publish First? | Making Money From" aria-label="Open page: What Should an Affiliate Website Publish First? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15-overview.webp' | relative_url }}" alt="Overview image for What Should an Affiliate Website Publish First? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15-overview.webp' | relative_url }}" alt="Overview image for What Should an Affiliate Website Publish First?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Content Mix</span>
@@ -1409,7 +1409,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-content-mi-86bb15-best-for-roundups-663a85" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'best-for-picks/' | relative_url }}" title="Stop Writing Best Lists Like Leaderboards | What Should an Affiliate Website Publish First? | Making Money From" aria-label="Open page: Stop Writing Best Lists Like Leaderboards | What Should an Affiliate Website Publish First? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_best_for_roundups_663a85-Illustration-1.webp' | relative_url }}" alt="Overview image for Stop Writing Best Lists Like Leaderboards | Making Money From Cr F649 Af Affiliate Content" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_best_for_roundups_663a85-Illustration-1.webp' | relative_url }}" alt="Overview image for Stop Writing Best Lists Like Leaderboards" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Best For Picks</span>
@@ -1429,7 +1429,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-content-mi-86bb15-decision-matrices-879bf0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'decision-matrix/' | relative_url }}" title="The Simple Grid That Makes Reviews Useful | What Should an Affiliate Website Publish First? | Making Money From" aria-label="Open page: The Simple Grid That Makes Reviews Useful | What Should an Affiliate Website Publish First? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_decision_matrices_879bf0-Illustration-1.webp' | relative_url }}" alt="Overview image for The Simple Grid That Makes Reviews Useful | Making Money From Cr F649 Af Affiliate Content" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_decision_matrices_879bf0-Illustration-1.webp' | relative_url }}" alt="Overview image for The Simple Grid That Makes Reviews Useful" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Decision Matrix</span>
@@ -1449,7 +1449,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-content-mi-86bb15-air-fryer-content-cl-217897" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'air-fryer-cluster/' | relative_url }}" title="What One Air Fryer Cluster Should Include | What Should an Affiliate Website Publish First? | Making Money From" aria-label="Open page: What One Air Fryer Cluster Should Include | What Should an Affiliate Website Publish First? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_air_fryer_content_cl_217897-Illustration-1.webp' | relative_url }}" alt="Overview image for What One Air Fryer Cluster Should Include | Making Money From Cr F649 Af Affiliate Content" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_air_fryer_content_cl_217897-Illustration-1.webp' | relative_url }}" alt="Overview image for What One Air Fryer Cluster Should Include" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Air Fryer Cluster</span>
@@ -1469,7 +1469,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-content-mi-86bb15-thin-affiliate-risk-cb9c37" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'thin-pages-5ea3d5/' | relative_url }}" title="When Affiliate Content Starts Looking Thin | What Should an Affiliate Website Publish First? | Making Money From" aria-label="Open page: When Affiliate Content Starts Looking Thin | What Should an Affiliate Website Publish First? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_thin_affiliate_risk_cb9c37-Illustration-1.webp' | relative_url }}" alt="Overview image for When Affiliate Content Starts Looking Thin | Making Money From Cr F649 Af Affiliate Content" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_thin_affiliate_risk_cb9c37-Illustration-1.webp' | relative_url }}" alt="Overview image for When Affiliate Content Starts Looking Thin" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Thin Pages</span>
@@ -1489,7 +1489,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-content-mi-86bb15-post-purchase-suppor-a8fda6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'support-pages/' | relative_url }}" title="Why After Sale Help Still Makes Money | What Should an Affiliate Website Publish First? | Making Money From" aria-label="Open page: Why After Sale Help Still Makes Money | What Should an Affiliate Website Publish First? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_post_purchase_suppor_a8fda6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why After Sale Help Still Makes Money | Making Money From Cr F649 Af Affiliate Content" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_post_purchase_suppor_a8fda6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why After Sale Help Still Makes Money" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Support Pages</span>
@@ -1509,7 +1509,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-content-mi-86bb15-early-research-trust-bf4e98" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'early-research/' | relative_url }}" title="Why Trust Starts Before Product Reviews | What Should an Affiliate Website Publish First? | Making Money From" aria-label="Open page: Why Trust Starts Before Product Reviews | What Should an Affiliate Website Publish First? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_early_research_trust_bf4e98-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Trust Starts Before Product Reviews | Making Money From Cr F649 Af Affiliate Content" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_early_research_trust_bf4e98-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Trust Starts Before Product Reviews" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Early Research</span>
@@ -1531,7 +1531,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-deal-coupon-sites-b8cfc5" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'deals/' | relative_url }}" title="Why Do Deal Sites Convert So Well? | Making Money From" aria-label="Open page: Why Do Deal Sites Convert So Well? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5-overview.webp' | relative_url }}" alt="Overview image for Why Do Deal Sites Convert So Well? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5-overview.webp' | relative_url }}" alt="Overview image for Why Do Deal Sites Convert So Well?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Deals</span>
@@ -1553,7 +1553,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-deal-coupon-sites-b8cfc5-verified-coupon-code-d56f0d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'verified-codes/' | relative_url }}" title="Can Shoppers Trust Your Coupon Codes? | Why Do Deal Sites Convert So Well? | Making Money From" aria-label="Open page: Can Shoppers Trust Your Coupon Codes? | Why Do Deal Sites Convert So Well? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_verified_coupon_code_d56f0d-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Shoppers Trust Your Coupon Codes? | Making Money From Cr F649 Af Deal Coupon Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_verified_coupon_code_d56f0d-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Shoppers Trust Your Coupon Codes?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Verified Codes</span>
@@ -1573,7 +1573,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-deal-coupon-sites-b8cfc5-coupon-survey-data-ac209c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'coupon-data/' | relative_url }}" title="What Coupon Statistics Really Prove | Why Do Deal Sites Convert So Well? | Making Money From" aria-label="Open page: What Coupon Statistics Really Prove | Why Do Deal Sites Convert So Well? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_survey_data_ac209c-Illustration-1.webp' | relative_url }}" alt="Overview image for What Coupon Statistics Really Prove | Making Money From Cr F649 Af Deal Coupon Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_survey_data_ac209c-Illustration-1.webp' | relative_url }}" alt="Overview image for What Coupon Statistics Really Prove" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Coupon Data</span>
@@ -1593,7 +1593,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-deal-coupon-sites-b8cfc5-thin-affiliate-coupo-c19595" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'google-risk/' | relative_url }}" title="When Coupon Pages Look Thin to Google | Why Do Deal Sites Convert So Well? | Making Money From" aria-label="Open page: When Coupon Pages Look Thin to Google | Why Do Deal Sites Convert So Well? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_thin_affiliate_coupo_c19595-Illustration-1.webp' | relative_url }}" alt="Overview image for When Coupon Pages Look Thin to Google | Making Money From Cr F649 Af Deal Coupon Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_thin_affiliate_coupo_c19595-Illustration-1.webp' | relative_url }}" alt="Overview image for When Coupon Pages Look Thin to Google" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Google Risk</span>
@@ -1613,7 +1613,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-deal-coupon-sites-b8cfc5-last-click-coupon-at-e9d535" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'last-click/' | relative_url }}" title="Who Really Earned the Coupon Commission? | Why Do Deal Sites Convert So Well? | Making Money From" aria-label="Open page: Who Really Earned the Coupon Commission? | Why Do Deal Sites Convert So Well? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_last_click_coupon_at_e9d535-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Really Earned the Coupon Commission? | Making Money From Cr F649 Af Deal Coupon Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_last_click_coupon_at_e9d535-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Really Earned the Coupon Commission?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Last Click</span>
@@ -1633,7 +1633,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-deal-coupon-sites-b8cfc5-coupon-restrictions-72888e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'restrictions/' | relative_url }}" title="Why Coupon Codes Fail at Checkout | Why Do Deal Sites Convert So Well? | Making Money From" aria-label="Open page: Why Coupon Codes Fail at Checkout | Why Do Deal Sites Convert So Well? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_restrictions_72888e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Coupon Codes Fail at Checkout | Making Money From Cr F649 Af Deal Coupon Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_coupon_restrictions_72888e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Coupon Codes Fail at Checkout" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Restrictions</span>
@@ -1653,7 +1653,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-deal-coupon-sites-b8cfc5-seasonal-deal-freshn-399116" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'seasonal-deals/' | relative_url }}" title="Why Seasonal Deal Pages Go Stale Fast | Why Do Deal Sites Convert So Well? | Making Money From" aria-label="Open page: Why Seasonal Deal Pages Go Stale Fast | Why Do Deal Sites Convert So Well? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_seasonal_deal_freshn_399116-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Seasonal Deal Pages Go Stale Fast | Making Money From Cr F649 Af Deal Coupon Sites" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_deal_coupon_sites_b8cfc5_seasonal_deal_freshn_399116-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Seasonal Deal Pages Go Stale Fast" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Seasonal Deals</span>
@@ -1675,7 +1675,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-affiliate-disclosure-342140" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'disclosures/' | relative_url }}" title="How Should Affiliate Sites Disclose Paid Links? | Making Money From" aria-label="Open page: How Should Affiliate Sites Disclose Paid Links? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140-overview.webp' | relative_url }}" alt="Overview image for How Should Affiliate Sites Disclose Paid Links? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140-overview.webp' | relative_url }}" alt="Overview image for How Should Affiliate Sites Disclose Paid Links?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Disclosures</span>
@@ -1697,7 +1697,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-disclosure-342140-snippet-affiliate-di-a21349" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'snippets/' | relative_url }}" title="Affiliate Disclosures Beyond the Website Page | How Should Affiliate Sites Disclose Paid Links? | Making Money From" aria-label="Open page: Affiliate Disclosures Beyond the Website Page | How Should Affiliate Sites Disclose Paid Links? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_snippet_affiliate_di_a21349-Illustration-1.webp' | relative_url }}" alt="Overview image for Affiliate Disclosures Beyond the Website Page | Making Money From Cr F649 Af Affiliate Disclosure" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_snippet_affiliate_di_a21349-Illustration-1.webp' | relative_url }}" alt="Overview image for Affiliate Disclosures Beyond the Website Page" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Snippets</span>
@@ -1717,7 +1717,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-disclosure-342140-commission-ranking-t-f23a18" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rankings/' | relative_url }}" title="Do Commissions Decide Your Product Rankings? | How Should Affiliate Sites Disclose Paid Links? | Making Money From" aria-label="Open page: Do Commissions Decide Your Product Rankings? | How Should Affiliate Sites Disclose Paid Links? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_commission_ranking_t_f23a18-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Commissions Decide Your Product Rankings? | Making Money From Cr F649 Af Affiliate Disclosure" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_commission_ranking_t_f23a18-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Commissions Decide Your Product Rankings?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rankings</span>
@@ -1737,7 +1737,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-disclosure-342140-plain-language-discl-abee9d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'wording/' | relative_url }}" title="Do Readers Understand Your Affiliate Disclosure? | How Should Affiliate Sites Disclose Paid Links? | Making Money From" aria-label="Open page: Do Readers Understand Your Affiliate Disclosure? | How Should Affiliate Sites Disclose Paid Links? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_plain_language_discl_abee9d-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Readers Understand Your Affiliate Disclosure? | Making Money From Cr F649 Af Affiliate Disclosure" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_plain_language_discl_abee9d-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Readers Understand Your Affiliate Disclosure?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Wording</span>
@@ -1757,7 +1757,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-disclosure-342140-disclosure-templates-aa3b03" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'templates/' | relative_url }}" title="How Templates Stop Affiliate Disclosure Mistakes | How Should Affiliate Sites Disclose Paid Links? | Making Money From" aria-label="Open page: How Templates Stop Affiliate Disclosure Mistakes | How Should Affiliate Sites Disclose Paid Links? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_disclosure_templates_aa3b03-Illustration-1.webp' | relative_url }}" alt="Overview image for How Templates Stop Affiliate Disclosure Mistakes | Making Money From Cr F649 Af Affiliate Disclosure" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_disclosure_templates_aa3b03-Illustration-1.webp' | relative_url }}" alt="Overview image for How Templates Stop Affiliate Disclosure Mistakes" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Templates</span>
@@ -1777,7 +1777,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-disclosure-342140-roundup-ad-labelling-1c2ab2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'roundups/' | relative_url }}" title="When Is a Product Roundup Really an Ad? | How Should Affiliate Sites Disclose Paid Links? | Making Money From" aria-label="Open page: When Is a Product Roundup Really an Ad? | How Should Affiliate Sites Disclose Paid Links? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_roundup_ad_labelling_1c2ab2-Illustration-1.webp' | relative_url }}" alt="Overview image for When Is a Product Roundup Really an Ad? | Making Money From Cr F649 Af Affiliate Disclosure" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_roundup_ad_labelling_1c2ab2-Illustration-1.webp' | relative_url }}" alt="Overview image for When Is a Product Roundup Really an Ad?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Roundups</span>
@@ -1797,7 +1797,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-affiliate-disclosure-342140-before-click-disclos-ee9ffd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'placement/' | relative_url }}" title="Where Affiliate Disclosures Need to Appear | How Should Affiliate Sites Disclose Paid Links? | Making Money From" aria-label="Open page: Where Affiliate Disclosures Need to Appear | How Should Affiliate Sites Disclose Paid Links? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_before_click_disclos_ee9ffd-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Affiliate Disclosures Need to Appear | Making Money From Cr F649 Af Affiliate Disclosure" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_affiliate_disclosure_342140_before_click_disclos_ee9ffd-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Affiliate Disclosures Need to Appear" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Placement</span>
@@ -1819,7 +1819,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-who-should-not-buy-53dcfe" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'do-not-buy/' | relative_url }}" title="Why Honest Affiliate Reviews Say Do Not Buy | Making Money From" aria-label="Open page: Why Honest Affiliate Reviews Say Do Not Buy | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe-overview.webp' | relative_url }}" alt="Overview image for Why Honest Affiliate Reviews Say Do Not Buy | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe-overview.webp' | relative_url }}" alt="Overview image for Why Honest Affiliate Reviews Say Do Not Buy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Do Not Buy</span>
@@ -1841,7 +1841,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-who-should-not-buy-53dcfe-running-costs-e5b355" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'running-costs/' | relative_url }}" title="The Cheap Product That Costs More Later | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From" aria-label="Open page: The Cheap Product That Costs More Later | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_running_costs_e5b355-Illustration-1.webp' | relative_url }}" alt="Overview image for The Cheap Product That Costs More Later | Making Money From Cr F649 Af Who Should Not Buy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_running_costs_e5b355-Illustration-1.webp' | relative_url }}" alt="Overview image for The Cheap Product That Costs More Later" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Running Costs</span>
@@ -1861,7 +1861,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-who-should-not-buy-53dcfe-missing-features-666c7c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-features/' | relative_url }}" title="The Feature Gap That Breaks the Deal | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From" aria-label="Open page: The Feature Gap That Breaks the Deal | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_missing_features_666c7c-Illustration-1.webp' | relative_url }}" alt="Overview image for The Feature Gap That Breaks the Deal | Making Money From Cr F649 Af Who Should Not Buy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_missing_features_666c7c-Illustration-1.webp' | relative_url }}" alt="Overview image for The Feature Gap That Breaks the Deal" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Missing Features</span>
@@ -1881,7 +1881,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-who-should-not-buy-53dcfe-workload-bad-fit-272c2c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'workload-fit/' | relative_url }}" title="When Good Products Are Too Weak | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From" aria-label="Open page: When Good Products Are Too Weak | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_workload_bad_fit_272c2c-Illustration-1.webp' | relative_url }}" alt="Overview image for When Good Products Are Too Weak | Making Money From Cr F649 Af Who Should Not Buy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_workload_bad_fit_272c2c-Illustration-1.webp' | relative_url }}" alt="Overview image for When Good Products Are Too Weak" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Workload Fit</span>
@@ -1901,7 +1901,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-who-should-not-buy-53dcfe-cheaper-overkill-alt-c3cc3d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'overkill-picks/' | relative_url }}" title="When the Top Pick Is Too Much | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From" aria-label="Open page: When the Top Pick Is Too Much | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_cheaper_overkill_alt_c3cc3d-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Top Pick Is Too Much | Making Money From Cr F649 Af Who Should Not Buy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_cheaper_overkill_alt_c3cc3d-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Top Pick Is Too Much" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Overkill Picks</span>
@@ -1921,7 +1921,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-who-should-not-buy-53dcfe-risky-category-bad-f-1f328c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'risky-categories/' | relative_url }}" title="Where Bad Advice Can Do Real Harm | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From" aria-label="Open page: Where Bad Advice Can Do Real Harm | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_risky_category_bad_f_1f328c-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Bad Advice Can Do Real Harm | Making Money From Cr F649 Af Who Should Not Buy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_risky_category_bad_f_1f328c-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Bad Advice Can Do Real Harm" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Risky Categories</span>
@@ -1941,7 +1941,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-who-should-not-buy-53dcfe-review-rules-trust-w-af3d40" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'review-rules/' | relative_url }}" title="Why Honest Warnings Beat Fake Praise | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From" aria-label="Open page: Why Honest Warnings Beat Fake Praise | Why Honest Affiliate Reviews Say Do Not Buy | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_review_rules_trust_w_af3d40-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Honest Warnings Beat Fake Praise | Making Money From Cr F649 Af Who Should Not Buy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_who_should_not_buy_53dcfe_review_rules_trust_w_af3d40-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Honest Warnings Beat Fake Praise" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Review Rules</span>
@@ -1963,7 +1963,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-email-list-affiliate-327e06" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'email/' | relative_url }}" title="Why Email Matters for Affiliate Websites | Making Money From" aria-label="Open page: Why Email Matters for Affiliate Websites | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06-overview.webp' | relative_url }}" alt="Overview image for Why Email Matters for Affiliate Websites | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06-overview.webp' | relative_url }}" alt="Overview image for Why Email Matters for Affiliate Websites" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Email</span>
@@ -1985,7 +1985,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-email-list-affiliate-327e06-price-drop-alerts-472392" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'price-alerts-fa5efe/' | relative_url }}" title="Can Price Alerts Reduce Search Dependence? | Why Email Matters for Affiliate Websites | Making Money From" aria-label="Open page: Can Price Alerts Reduce Search Dependence? | Why Email Matters for Affiliate Websites | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_price_drop_alerts_472392-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Price Alerts Reduce Search Dependence? | Making Money From Cr F649 Af Email List Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_price_drop_alerts_472392-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Price Alerts Reduce Search Dependence?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Price Alerts</span>
@@ -2005,7 +2005,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-email-list-affiliate-327e06-editorial-affiliate-f2ef2b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'editorial-email/' | relative_url }}" title="How Affiliate Emails Avoid Feeling Like Ads | Why Email Matters for Affiliate Websites | Making Money From" aria-label="Open page: How Affiliate Emails Avoid Feeling Like Ads | Why Email Matters for Affiliate Websites | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_editorial_affiliate_f2ef2b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Affiliate Emails Avoid Feeling Like Ads | Making Money From Cr F649 Af Email List Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_editorial_affiliate_f2ef2b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Affiliate Emails Avoid Feeling Like Ads" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Editorial Email</span>
@@ -2025,7 +2025,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-email-list-affiliate-327e06-over-promotion-risk-fb6369" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'over-promotion/' | relative_url }}" title="How Affiliate Newsletters Lose Reader Trust | Why Email Matters for Affiliate Websites | Making Money From" aria-label="Open page: How Affiliate Newsletters Lose Reader Trust | Why Email Matters for Affiliate Websites | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_over_promotion_risk_fb6369-Illustration-1.webp' | relative_url }}" alt="Overview image for How Affiliate Newsletters Lose Reader Trust | Making Money From Cr F649 Af Email List Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_over_promotion_risk_fb6369-Illustration-1.webp' | relative_url }}" alt="Overview image for How Affiliate Newsletters Lose Reader Trust" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Over Promotion</span>
@@ -2045,7 +2045,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-email-list-affiliate-327e06-search-shocks-owned-2e6b1f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'search-shocks/' | relative_url }}" title="What Email Protects When Rankings Drop | Why Email Matters for Affiliate Websites | Making Money From" aria-label="Open page: What Email Protects When Rankings Drop | Why Email Matters for Affiliate Websites | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_search_shocks_owned_2e6b1f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Email Protects When Rankings Drop | Making Money From Cr F649 Af Email List Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_search_shocks_owned_2e6b1f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Email Protects When Rankings Drop" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Search Shocks</span>
@@ -2065,7 +2065,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-email-list-affiliate-327e06-affiliate-email-segm-4b785a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'segmentation/' | relative_url }}" title="When One Affiliate Newsletter Becomes Too Blunt | Why Email Matters for Affiliate Websites | Making Money From" aria-label="Open page: When One Affiliate Newsletter Becomes Too Blunt | Why Email Matters for Affiliate Websites | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_affiliate_email_segm_4b785a-Illustration-1.webp' | relative_url }}" alt="Overview image for When One Affiliate Newsletter Becomes Too Blunt | Making Money From Cr F649 Af Email List Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_affiliate_email_segm_4b785a-Illustration-1.webp' | relative_url }}" alt="Overview image for When One Affiliate Newsletter Becomes Too Blunt" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Segmentation</span>
@@ -2085,7 +2085,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-email-list-affiliate-327e06-buyer-checklists-dfa1ea" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'checklists/' | relative_url }}" title="Why Buyer Checklists Win Email Signups | Why Email Matters for Affiliate Websites | Making Money From" aria-label="Open page: Why Buyer Checklists Win Email Signups | Why Email Matters for Affiliate Websites | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_buyer_checklists_dfa1ea-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Buyer Checklists Win Email Signups | Making Money From Cr F649 Af Email List Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_buyer_checklists_dfa1ea-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Buyer Checklists Win Email Signups" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Checklists</span>
@@ -2107,7 +2107,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-home-espresso-niche-b223c9" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'espresso/' | relative_url }}" title="Why Home Espresso Makes a Strong Affiliate Niche | Making Money From" aria-label="Open page: Why Home Espresso Makes a Strong Affiliate Niche | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9-overview.webp' | relative_url }}" alt="Overview image for Why Home Espresso Makes a Strong Affiliate Niche | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9-overview.webp' | relative_url }}" alt="Overview image for Why Home Espresso Makes a Strong Affiliate Niche" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Espresso</span>
@@ -2129,7 +2129,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-home-espresso-niche-b223c9-bambino-vs-gaggia-7a0ab0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'bambino-vs-gaggia/' | relative_url }}" title="Bambino Plus or Gaggia Classic? | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From" aria-label="Open page: Bambino Plus or Gaggia Classic? | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_bambino_vs_gaggia_7a0ab0-Illustration-1.webp' | relative_url }}" alt="Overview image for Bambino Plus or Gaggia Classic? | Making Money From Cr F649 Af Home Espresso Niche" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_bambino_vs_gaggia_7a0ab0-Illustration-1.webp' | relative_url }}" alt="Overview image for Bambino Plus or Gaggia Classic?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Bambino vs Gaggia</span>
@@ -2149,7 +2149,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-home-espresso-niche-b223c9-espresso-grinder-fir-749130" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'grinders-first/' | relative_url }}" title="Should You Upgrade the Grinder First? | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From" aria-label="Open page: Should You Upgrade the Grinder First? | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_grinder_fir_749130-Illustration-1.webp' | relative_url }}" alt="Overview image for Should You Upgrade the Grinder First? | Making Money From Cr F649 Af Home Espresso Niche" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_grinder_fir_749130-Illustration-1.webp' | relative_url }}" alt="Overview image for Should You Upgrade the Grinder First?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Grinders First</span>
@@ -2169,7 +2169,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-home-espresso-niche-b223c9-espresso-maintenance-c23b14" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'maintenance/' | relative_url }}" title="The Espresso Content That Starts After Checkout | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From" aria-label="Open page: The Espresso Content That Starts After Checkout | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_maintenance_c23b14-Illustration-1.webp' | relative_url }}" alt="Overview image for The Espresso Content That Starts After Checkout | Making Money From Cr F649 Af Home Espresso Niche" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_maintenance_c23b14-Illustration-1.webp' | relative_url }}" alt="Overview image for The Espresso Content That Starts After Checkout" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Maintenance</span>
@@ -2189,7 +2189,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-home-espresso-niche-b223c9-espresso-setup-under-7651cf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ '500-setup/' | relative_url }}" title="What Should a 500 Pound Espresso Setup Include? | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From" aria-label="Open page: What Should a 500 Pound Espresso Setup Include? | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_setup_under_7651cf-Illustration-1.webp' | relative_url }}" alt="Overview image for What Should a 500 Pound Espresso Setup Include? | Making Money From Cr F649 Af Home Espresso Niche" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_setup_under_7651cf-Illustration-1.webp' | relative_url }}" alt="Overview image for What Should a 500 Pound Espresso Setup Include?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">500 Setup</span>
@@ -2209,7 +2209,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-home-espresso-niche-b223c9-espresso-accessories-88b69b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'accessories/' | relative_url }}" title="Which Espresso Accessories Are Actually Worth Buying? | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From" aria-label="Open page: Which Espresso Accessories Are Actually Worth Buying? | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_accessories_88b69b-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Espresso Accessories Are Actually Worth Buying? | Making Money From Cr F649 Af Home Espresso Niche" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_espresso_accessories_88b69b-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Espresso Accessories Are Actually Worth Buying?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Accessories</span>
@@ -2229,7 +2229,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-home-espresso-niche-b223c9-thin-espresso-review-681deb" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'thin-reviews/' | relative_url }}" title="Why Thin Espresso Reviews Fail | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From" aria-label="Open page: Why Thin Espresso Reviews Fail | Why Home Espresso Makes a Strong Affiliate Niche | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_thin_espresso_review_681deb-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Thin Espresso Reviews Fail | Making Money From Cr F649 Af Home Espresso Niche" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_home_espresso_niche_b223c9_thin_espresso_review_681deb-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Thin Espresso Reviews Fail" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Thin Reviews</span>
@@ -2251,7 +2251,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-hiking-gear-field-te-d631b1" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hiking-gear/' | relative_url }}" title="Why Hiking Gear Reviews Need Real Conditions | Making Money From" aria-label="Open page: Why Hiking Gear Reviews Need Real Conditions | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1-overview.webp' | relative_url }}" alt="Overview image for Why Hiking Gear Reviews Need Real Conditions | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1-overview.webp' | relative_url }}" alt="Overview image for Why Hiking Gear Reviews Need Real Conditions" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hiking Gear</span>
@@ -2273,7 +2273,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-hiking-gear-field-te-d631b1-rain-jacket-field-te-9967ce" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rain-shells/' | relative_url }}" title="Can a Rain Jacket Stay Dry and Breathable? | Why Hiking Gear Reviews Need Real Conditions | Making Money From" aria-label="Open page: Can a Rain Jacket Stay Dry and Breathable? | Why Hiking Gear Reviews Need Real Conditions | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_rain_jacket_field_te_9967ce-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Rain Jacket Stay Dry and Breathable? | Making Money From Cr F649 Af Hiking Gear Field" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_rain_jacket_field_te_9967ce-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Rain Jacket Stay Dry and Breathable?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rain Shells</span>
@@ -2293,7 +2293,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-hiking-gear-field-te-d631b1-pack-comfort-tests-464614" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'pack-comfort/' | relative_url }}" title="Does a Lightweight Daypack Carry Well Loaded? | Why Hiking Gear Reviews Need Real Conditions | Making Money From" aria-label="Open page: Does a Lightweight Daypack Carry Well Loaded? | Why Hiking Gear Reviews Need Real Conditions | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_pack_comfort_tests_464614-Illustration-1.webp' | relative_url }}" alt="Overview image for Does a Lightweight Daypack Carry Well Loaded? | Making Money From Cr F649 Af Hiking Gear Field" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_pack_comfort_tests_464614-Illustration-1.webp' | relative_url }}" alt="Overview image for Does a Lightweight Daypack Carry Well Loaded?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Pack Comfort</span>
@@ -2313,7 +2313,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-hiking-gear-field-te-d631b1-trail-test-disclosur-9f2710" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'disclosures-8dc1c1/' | relative_url }}" title="What Should a Field Tested Review Reveal? | Why Hiking Gear Reviews Need Real Conditions | Making Money From" aria-label="Open page: What Should a Field Tested Review Reveal? | Why Hiking Gear Reviews Need Real Conditions | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_trail_test_disclosur_9f2710-Illustration-1.webp' | relative_url }}" alt="Overview image for What Should a Field Tested Review Reveal? | Making Money From Cr F649 Af Hiking Gear Field" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_trail_test_disclosur_9f2710-Illustration-1.webp' | relative_url }}" alt="Overview image for What Should a Field Tested Review Reveal?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Disclosures</span>
@@ -2333,7 +2333,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-hiking-gear-field-te-d631b1-durability-claims-re-426574" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'durability/' | relative_url }}" title="When Can a Review Call Gear Durable? | Why Hiking Gear Reviews Need Real Conditions | Making Money From" aria-label="Open page: When Can a Review Call Gear Durable? | Why Hiking Gear Reviews Need Real Conditions | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_durability_claims_re_426574-Illustration-1.webp' | relative_url }}" alt="Overview image for When Can a Review Call Gear Durable? | Making Money From Cr F649 Af Hiking Gear Field" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_durability_claims_re_426574-Illustration-1.webp' | relative_url }}" alt="Overview image for When Can a Review Call Gear Durable?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Durability</span>
@@ -2353,7 +2353,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-hiking-gear-field-te-d631b1-side-by-side-testing-eb91dc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'comparison-tests/' | relative_url }}" title="Why Side by Side Gear Testing Beats Guesswork | Why Hiking Gear Reviews Need Real Conditions | Making Money From" aria-label="Open page: Why Side by Side Gear Testing Beats Guesswork | Why Hiking Gear Reviews Need Real Conditions | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_side_by_side_testing_eb91dc-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Side by Side Gear Testing Beats Guesswork | Making Money From Cr F649 Af Hiking Gear Field" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_side_by_side_testing_eb91dc-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Side by Side Gear Testing Beats Guesswork" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Comparison Tests</span>
@@ -2373,7 +2373,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-hiking-gear-field-te-d631b1-hiking-boot-fit-note-0dd1bf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'boot-fit/' | relative_url }}" title="Why the Best Boot May Still Hurt | Why Hiking Gear Reviews Need Real Conditions | Making Money From" aria-label="Open page: Why the Best Boot May Still Hurt | Why Hiking Gear Reviews Need Real Conditions | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_hiking_boot_fit_note_0dd1bf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Best Boot May Still Hurt | Making Money From Cr F649 Af Hiking Gear Field" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_hiking_gear_field_te_d631b1_hiking_boot_fit_note_0dd1bf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Best Boot May Still Hurt" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Boot Fit</span>
@@ -2395,7 +2395,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-income-math-conversi-0810b0" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'income-math/' | relative_url }}" title="Why Traffic Is Only Half the Affiliate Money Story | Making Money From" aria-label="Open page: Why Traffic Is Only Half the Affiliate Money Story | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0-overview.webp' | relative_url }}" alt="Overview image for Why Traffic Is Only Half the Affiliate Money Story | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0-overview.webp' | relative_url }}" alt="Overview image for Why Traffic Is Only Half the Affiliate Money Story" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Income Math</span>
@@ -2417,7 +2417,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-income-math-conversi-0810b0-high-payout-affiliat-02cc1d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'high-payouts/' | relative_url }}" title="Can Small Affiliate Sites Earn More? | Why Traffic Is Only Half the Affiliate Money Story | Making Money From" aria-label="Open page: Can Small Affiliate Sites Earn More? | Why Traffic Is Only Half the Affiliate Money Story | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_high_payout_affiliat_02cc1d-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Small Affiliate Sites Earn More? | Making Money From Cr F649 Af Income Math Conversi" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_high_payout_affiliat_02cc1d-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Small Affiliate Sites Earn More?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">High Payouts</span>
@@ -2437,7 +2437,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-income-math-conversi-0810b0-affiliate-income-sce-194e90" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'scenarios/' | relative_url }}" title="How Much Could an Affiliate Page Earn? | Why Traffic Is Only Half the Affiliate Money Story | Making Money From" aria-label="Open page: How Much Could an Affiliate Page Earn? | Why Traffic Is Only Half the Affiliate Money Story | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_affiliate_income_sce_194e90-Illustration-1.webp' | relative_url }}" alt="Overview image for How Much Could an Affiliate Page Earn? | Making Money From Cr F649 Af Income Math Conversi" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_affiliate_income_sce_194e90-Illustration-1.webp' | relative_url }}" alt="Overview image for How Much Could an Affiliate Page Earn?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Scenarios</span>
@@ -2457,7 +2457,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-income-math-conversi-0810b0-earnings-per-click-s-b71160" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'earnings-per-click/' | relative_url }}" title="The Cleaner Number Than Traffic | Why Traffic Is Only Half the Affiliate Money Story | Making Money From" aria-label="Open page: The Cleaner Number Than Traffic | Why Traffic Is Only Half the Affiliate Money Story | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_earnings_per_click_s_b71160-Illustration-1.webp' | relative_url }}" alt="Overview image for The Cleaner Number Than Traffic | Making Money From Cr F649 Af Income Math Conversi" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_earnings_per_click_s_b71160-Illustration-1.webp' | relative_url }}" alt="Overview image for The Cleaner Number Than Traffic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Earnings Per Click</span>
@@ -2477,7 +2477,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-income-math-conversi-0810b0-affiliate-ctr-benchm-d4881d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'ctr-benchmarks/' | relative_url }}" title="What Is a Good Affiliate CTR? | Why Traffic Is Only Half the Affiliate Money Story | Making Money From" aria-label="Open page: What Is a Good Affiliate CTR? | Why Traffic Is Only Half the Affiliate Money Story | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_affiliate_ctr_benchm_d4881d-Illustration-1.webp' | relative_url }}" alt="Overview image for What Is a Good Affiliate CTR? | Making Money From Cr F649 Af Income Math Conversi" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_affiliate_ctr_benchm_d4881d-Illustration-1.webp' | relative_url }}" alt="Overview image for What Is a Good Affiliate CTR?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">CTR Benchmarks</span>
@@ -2497,7 +2497,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-income-math-conversi-0810b0-low-commission-traff-6f927a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'low-payouts/' | relative_url }}" title="When Big Traffic Still Earns Little | Why Traffic Is Only Half the Affiliate Money Story | Making Money From" aria-label="Open page: When Big Traffic Still Earns Little | Why Traffic Is Only Half the Affiliate Money Story | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_low_commission_traff_6f927a-Illustration-1.webp' | relative_url }}" alt="Overview image for When Big Traffic Still Earns Little | Making Money From Cr F649 Af Income Math Conversi" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_low_commission_traff_6f927a-Illustration-1.webp' | relative_url }}" alt="Overview image for When Big Traffic Still Earns Little" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Low Payouts</span>
@@ -2517,7 +2517,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-income-math-conversi-0810b0-merchant-conversion-034cea" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'merchant-cr/' | relative_url }}" title="Why Affiliate Clicks Still Fail to Pay | Why Traffic Is Only Half the Affiliate Money Story | Making Money From" aria-label="Open page: Why Affiliate Clicks Still Fail to Pay | Why Traffic Is Only Half the Affiliate Money Story | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_merchant_conversion_034cea-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Affiliate Clicks Still Fail to Pay | Making Money From Cr F649 Af Income Math Conversi" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_income_math_conversi_0810b0_merchant_conversion_034cea-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Affiliate Clicks Still Fail to Pay" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Merchant CR</span>
@@ -2539,7 +2539,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-long-tail-buying-que-1f52a4" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'long-tail/' | relative_url }}" title="Why Specific Buying Questions Can Convert Better | Making Money From" aria-label="Open page: Why Specific Buying Questions Can Convert Better | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4-overview.webp' | relative_url }}" alt="Overview image for Why Specific Buying Questions Can Convert Better | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4-overview.webp' | relative_url }}" alt="Overview image for Why Specific Buying Questions Can Convert Better" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Long Tail</span>
@@ -2561,7 +2561,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-long-tail-buying-que-1f52a4-editorial-filter-pag-3f4d4e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'editorial-filter/' | relative_url }}" title="How to Turn a Search Into a Shortlist | Why Specific Buying Questions Can Convert Better | Making Money From" aria-label="Open page: How to Turn a Search Into a Shortlist | Why Specific Buying Questions Can Convert Better | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_editorial_filter_pag_3f4d4e-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Turn a Search Into a Shortlist | Making Money From Cr F649 Af Long Tail Buying Que" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_editorial_filter_pag_3f4d4e-Illustration-1.webp' | relative_url }}" alt="Overview image for How to Turn a Search Into a Shortlist" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Editorial Filter</span>
@@ -2581,7 +2581,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-long-tail-buying-que-1f52a4-pain-point-keywords-35769e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'pain-points/' | relative_url }}" title="What Buyer Worry Is Hiding in the Search? | Why Specific Buying Questions Can Convert Better | Making Money From" aria-label="Open page: What Buyer Worry Is Hiding in the Search? | Why Specific Buying Questions Can Convert Better | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_pain_point_keywords_35769e-Illustration-1.webp' | relative_url }}" alt="Overview image for What Buyer Worry Is Hiding in the Search? | Making Money From Cr F649 Af Long Tail Buying Que" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_pain_point_keywords_35769e-Illustration-1.webp' | relative_url }}" alt="Overview image for What Buyer Worry Is Hiding in the Search?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Pain Points</span>
@@ -2601,7 +2601,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-long-tail-buying-que-1f52a4-constraint-query-tra-27ed05" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'constraints/' | relative_url }}" title="What Do You Give Up to Get the Fit? | Why Specific Buying Questions Can Convert Better | Making Money From" aria-label="Open page: What Do You Give Up to Get the Fit? | Why Specific Buying Questions Can Convert Better | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_constraint_query_tra_27ed05-Illustration-1.webp' | relative_url }}" alt="Overview image for What Do You Give Up to Get the Fit? | Making Money From Cr F649 Af Long Tail Buying Que" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_constraint_query_tra_27ed05-Illustration-1.webp' | relative_url }}" alt="Overview image for What Do You Give Up to Get the Fit?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Constraints</span>
@@ -2621,7 +2621,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-long-tail-buying-que-1f52a4-objection-queries-02468d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'objections/' | relative_url }}" title="When the Best Answer Is Do Not Buy | Why Specific Buying Questions Can Convert Better | Making Money From" aria-label="Open page: When the Best Answer Is Do Not Buy | Why Specific Buying Questions Can Convert Better | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_objection_queries_02468d-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Best Answer Is Do Not Buy | Making Money From Cr F649 Af Long Tail Buying Que" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_objection_queries_02468d-Illustration-1.webp' | relative_url }}" alt="Overview image for When the Best Answer Is Do Not Buy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Objections</span>
@@ -2641,7 +2641,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-long-tail-buying-que-1f52a4-comparison-buying-qu-bd96df" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'comparisons-664c9b/' | relative_url }}" title="Which Option Makes Sense for This Buyer? | Why Specific Buying Questions Can Convert Better | Making Money From" aria-label="Open page: Which Option Makes Sense for This Buyer? | Why Specific Buying Questions Can Convert Better | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_comparison_buying_qu_bd96df-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Option Makes Sense for This Buyer? | Making Money From Cr F649 Af Long Tail Buying Que" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_comparison_buying_qu_bd96df-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Option Makes Sense for This Buyer?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Comparisons</span>
@@ -2661,7 +2661,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-long-tail-buying-que-1f52a4-compatibility-querie-7aaab5" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'compatibility-a3dfac/' | relative_url }}" title="Will This Actually Work With What I Own? | Why Specific Buying Questions Can Convert Better | Making Money From" aria-label="Open page: Will This Actually Work With What I Own? | Why Specific Buying Questions Can Convert Better | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_compatibility_querie_7aaab5-Illustration-1.webp' | relative_url }}" alt="Overview image for Will This Actually Work With What I Own? | Making Money From Cr F649 Af Long Tail Buying Que" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_compatibility_querie_7aaab5-Illustration-1.webp' | relative_url }}" alt="Overview image for Will This Actually Work With What I Own?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Compatibility</span>
@@ -2683,7 +2683,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-niche-buyer-intent-9e67b9" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'niche-choice/' | relative_url }}" title="Which Affiliate Niches Are Worth Building? | Making Money From" aria-label="Open page: Which Affiliate Niches Are Worth Building? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9-overview.webp' | relative_url }}" alt="Overview image for Which Affiliate Niches Are Worth Building? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9-overview.webp' | relative_url }}" alt="Overview image for Which Affiliate Niches Are Worth Building?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Niche Choice</span>
@@ -2705,7 +2705,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-buyer-intent-9e67b9-serp-commercial-sign-d8a353" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'serp-signals/' | relative_url }}" title="Can Search Results Prove a Niche Pays? | Which Affiliate Niches Are Worth Building? | Making Money From" aria-label="Open page: Can Search Results Prove a Niche Pays? | Which Affiliate Niches Are Worth Building? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_serp_commercial_sign_d8a353-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Search Results Prove a Niche Pays? | Making Money From Cr F649 Af Niche Buyer Intent" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_serp_commercial_sign_d8a353-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Search Results Prove a Niche Pays?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">SERP Signals</span>
@@ -2725,7 +2725,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-buyer-intent-9e67b9-thin-affiliate-credi-c141e3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'credibility/' | relative_url }}" title="Can Your Site Add Real Trust? | Which Affiliate Niches Are Worth Building? | Making Money From" aria-label="Open page: Can Your Site Add Real Trust? | Which Affiliate Niches Are Worth Building? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_thin_affiliate_credi_c141e3-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Your Site Add Real Trust? | Making Money From Cr F649 Af Niche Buyer Intent" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_thin_affiliate_credi_c141e3-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Your Site Add Real Trust?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Credibility</span>
@@ -2745,7 +2745,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-buyer-intent-9e67b9-affiliate-revenue-es-8f5f2b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'revenue-math/' | relative_url }}" title="Do the Affiliate Numbers Work? | Which Affiliate Niches Are Worth Building? | Making Money From" aria-label="Open page: Do the Affiliate Numbers Work? | Which Affiliate Niches Are Worth Building? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_affiliate_revenue_es_8f5f2b-Illustration-1.webp' | relative_url }}" alt="Overview image for Do the Affiliate Numbers Work? | Making Money From Cr F649 Af Niche Buyer Intent" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_affiliate_revenue_es_8f5f2b-Illustration-1.webp' | relative_url }}" alt="Overview image for Do the Affiliate Numbers Work?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Revenue Math</span>
@@ -2765,7 +2765,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-buyer-intent-9e67b9-high-ticket-first-ha-d89c78" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'high-ticket/' | relative_url }}" title="When Expensive Products Need Real Proof | Which Affiliate Niches Are Worth Building? | Making Money From" aria-label="Open page: When Expensive Products Need Real Proof | Which Affiliate Niches Are Worth Building? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_high_ticket_first_ha_d89c78-Illustration-1.webp' | relative_url }}" alt="Overview image for When Expensive Products Need Real Proof | Making Money From Cr F649 Af Niche Buyer Intent" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_high_ticket_first_ha_d89c78-Illustration-1.webp' | relative_url }}" alt="Overview image for When Expensive Products Need Real Proof" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">High Ticket</span>
@@ -2785,7 +2785,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-buyer-intent-9e67b9-buyer-intent-keyword-b9ff6a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'buyer-keywords/' | relative_url }}" title="Which Keywords Actually Signal Buyers? | Which Affiliate Niches Are Worth Building? | Making Money From" aria-label="Open page: Which Keywords Actually Signal Buyers? | Which Affiliate Niches Are Worth Building? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_buyer_intent_keyword_b9ff6a-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Keywords Actually Signal Buyers? | Making Money From Cr F649 Af Niche Buyer Intent" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_buyer_intent_keyword_b9ff6a-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Keywords Actually Signal Buyers?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Buyer Keywords</span>
@@ -2805,7 +2805,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-niche-buyer-intent-9e67b9-best-for-modifier-7351bf" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'best/' | relative_url }}" title="Why 'Best For' Keywords Beat Broad Reviews | Which Affiliate Niches Are Worth Building? | Making Money From" aria-label="Open page: Why 'Best For' Keywords Beat Broad Reviews | Which Affiliate Niches Are Worth Building? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_best_for_modifier_7351bf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why &#x27;Best For&#x27; Keywords Beat Broad Reviews | Making Money From Cr F649 Af Niche Buyer Intent" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_niche_buyer_intent_9e67b9_best_for_modifier_7351bf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why 'Best For' Keywords Beat Broad Reviews" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Best</span>
@@ -2827,7 +2827,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-paid-ads-margin-risk-30ed80" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'paid-ads/' | relative_url }}" title="When Do Paid Ads Lose Affiliate Money? | Making Money From" aria-label="Open page: When Do Paid Ads Lose Affiliate Money? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80-overview.webp' | relative_url }}" alt="Overview image for When Do Paid Ads Lose Affiliate Money? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80-overview.webp' | relative_url }}" alt="Overview image for When Do Paid Ads Lose Affiliate Money?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Paid Ads</span>
@@ -2849,7 +2849,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-paid-ads-margin-risk-30ed80-high-intent-keyword-62c6e7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'intent-costs/' | relative_url }}" title="Are Buyer Keywords Too Expensive for Affiliates? | When Do Paid Ads Lose Affiliate Money? | Making Money From" aria-label="Open page: Are Buyer Keywords Too Expensive for Affiliates? | When Do Paid Ads Lose Affiliate Money? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7-Illustration-1.webp' | relative_url }}" alt="Overview image for Are Buyer Keywords Too Expensive for Affiliates? | Making Money From Cr F649 Af Paid Ads Margin Risk" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_high_intent_keyword_62c6e7-Illustration-1.webp' | relative_url }}" alt="Overview image for Are Buyer Keywords Too Expensive for Affiliates?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Intent Costs</span>
@@ -2869,7 +2869,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-paid-ads-margin-risk-30ed80-two-step-conversion-621408" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'two-step-risk/' | relative_url }}" title="The Hidden Drop Off in Paid Affiliate Funnels | When Do Paid Ads Lose Affiliate Money? | Making Money From" aria-label="Open page: The Hidden Drop Off in Paid Affiliate Funnels | When Do Paid Ads Lose Affiliate Money? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_two_step_conversion_621408-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Drop Off in Paid Affiliate Funnels | Making Money From Cr F649 Af Paid Ads Margin Risk" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_two_step_conversion_621408-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Drop Off in Paid Affiliate Funnels" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Two Step Risk</span>
@@ -2889,7 +2889,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-paid-ads-margin-risk-30ed80-subid-tracking-profi-c897cd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'sub-id-tracking/' | relative_url }}" title="Track Paid Affiliate Ads Before Scaling Them | When Do Paid Ads Lose Affiliate Money? | Making Money From" aria-label="Open page: Track Paid Affiliate Ads Before Scaling Them | When Do Paid Ads Lose Affiliate Money? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_subid_tracking_profi_c897cd-Illustration-1.webp' | relative_url }}" alt="Overview image for Track Paid Affiliate Ads Before Scaling Them | Making Money From Cr F649 Af Paid Ads Margin Risk" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_subid_tracking_profi_c897cd-Illustration-1.webp' | relative_url }}" alt="Overview image for Track Paid Affiliate Ads Before Scaling Them" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Sub ID Tracking</span>
@@ -2909,7 +2909,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-paid-ads-margin-risk-30ed80-break-even-cpc-fd5b9e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'break-even-cpc/' | relative_url }}" title="When Does Paid Affiliate Traffic Break Even? | When Do Paid Ads Lose Affiliate Money? | Making Money From" aria-label="Open page: When Does Paid Affiliate Traffic Break Even? | When Do Paid Ads Lose Affiliate Money? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_break_even_cpc_fd5b9e-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does Paid Affiliate Traffic Break Even? | Making Money From Cr F649 Af Paid Ads Margin Risk" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_break_even_cpc_fd5b9e-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does Paid Affiliate Traffic Break Even?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Break Even CPC</span>
@@ -2929,7 +2929,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-paid-ads-margin-risk-30ed80-epc-reality-check-7ee39a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'epc-check/' | relative_url }}" title="Why EPC Decides Paid Affiliate Profit | When Do Paid Ads Lose Affiliate Money? | Making Money From" aria-label="Open page: Why EPC Decides Paid Affiliate Profit | When Do Paid Ads Lose Affiliate Money? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why EPC Decides Paid Affiliate Profit | Making Money From Cr F649 Af Paid Ads Margin Risk" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_epc_reality_check_7ee39a-Illustration-1.webp' | relative_url }}" alt="Overview image for Why EPC Decides Paid Affiliate Profit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">EPC Check</span>
@@ -2949,7 +2949,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-paid-ads-margin-risk-30ed80-rejected-commissions-2b4e6b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'rejected-sales/' | relative_url }}" title="Why Pending Commission Can Mislead Affiliates | When Do Paid Ads Lose Affiliate Money? | Making Money From" aria-label="Open page: Why Pending Commission Can Mislead Affiliates | When Do Paid Ads Lose Affiliate Money? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_rejected_commissions_2b4e6b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Pending Commission Can Mislead Affiliates | Making Money From Cr F649 Af Paid Ads Margin Risk" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_paid_ads_margin_risk_30ed80_rejected_commissions_2b4e6b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Pending Commission Can Mislead Affiliates" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Rejected Sales</span>
@@ -2971,7 +2971,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-price-history-altern-e8d036" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'price-help/' | relative_url }}" title="Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From" aria-label="Open page: Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036-overview.webp' | relative_url }}" alt="Overview image for Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036-overview.webp' | relative_url }}" alt="Overview image for Should Affiliate Sites Recommend Waiting or Buying Cheaper?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Price Help</span>
@@ -2993,7 +2993,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-price-history-altern-e8d036-black-friday-year-ro-1554b8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'black-friday/' | relative_url }}" title="Is Black Friday Really The Cheapest Time? | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From" aria-label="Open page: Is Black Friday Really The Cheapest Time? | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_black_friday_year_ro_1554b8-Illustration-1.webp' | relative_url }}" alt="Overview image for Is Black Friday Really The Cheapest Time? | Making Money From Cr F649 Af Price History Altern" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_black_friday_year_ro_1554b8-Illustration-1.webp' | relative_url }}" alt="Overview image for Is Black Friday Really The Cheapest Time?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Black Friday</span>
@@ -3013,7 +3013,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-price-history-altern-e8d036-cheaper-substitute-t-68cea6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'comparison-tables/' | relative_url }}" title="Make Cheaper Alternatives Easy To Choose | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From" aria-label="Open page: Make Cheaper Alternatives Easy To Choose | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_cheaper_substitute_t_68cea6-Illustration-1.webp' | relative_url }}" alt="Overview image for Make Cheaper Alternatives Easy To Choose | Making Money From Cr F649 Af Price History Altern" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_cheaper_substitute_t_68cea6-Illustration-1.webp' | relative_url }}" alt="Overview image for Make Cheaper Alternatives Easy To Choose" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Comparison Tables</span>
@@ -3033,7 +3033,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-price-history-altern-e8d036-deal-thresholds-buy-66ec7b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'deal-thresholds/' | relative_url }}" title="What Price Makes It A Real Deal? | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From" aria-label="Open page: What Price Makes It A Real Deal? | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_deal_thresholds_buy_66ec7b-Illustration-1.webp' | relative_url }}" alt="Overview image for What Price Makes It A Real Deal? | Making Money From Cr F649 Af Price History Altern" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_deal_thresholds_buy_66ec7b-Illustration-1.webp' | relative_url }}" alt="Overview image for What Price Makes It A Real Deal?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Deal Thresholds</span>
@@ -3053,7 +3053,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-price-history-altern-e8d036-price-alert-often-di-5ec9a2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'price-alerts-c12943/' | relative_url }}" title="When A Price Alert Beats Buying Today | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From" aria-label="Open page: When A Price Alert Beats Buying Today | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_price_alert_often_di_5ec9a2-Illustration-1.webp' | relative_url }}" alt="Overview image for When A Price Alert Beats Buying Today | Making Money From Cr F649 Af Price History Altern" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_price_alert_often_di_5ec9a2-Illustration-1.webp' | relative_url }}" alt="Overview image for When A Price Alert Beats Buying Today" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Price Alerts</span>
@@ -3073,7 +3073,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-price-history-altern-e8d036-older-models-better-306b47" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'older-models/' | relative_url }}" title="When Last Year's Model Is Enough | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From" aria-label="Open page: When Last Year's Model Is Enough | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_older_models_better_306b47-Illustration-1.webp' | relative_url }}" alt="Overview image for When Last Year&#x27;s Model Is Enough | Making Money From Cr F649 Af Price History Altern" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_older_models_better_306b47-Illustration-1.webp' | relative_url }}" alt="Overview image for When Last Year's Model Is Enough" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Older Models</span>
@@ -3093,7 +3093,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-price-history-altern-e8d036-wait-recommendations-e3e0d3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'wait-advice/' | relative_url }}" title="Why Saying Wait Can Win Trust | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From" aria-label="Open page: Why Saying Wait Can Win Trust | Should Affiliate Sites Recommend Waiting or Buying Cheaper? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_wait_recommendations_e3e0d3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Saying Wait Can Win Trust | Making Money From Cr F649 Af Price History Altern" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_price_history_altern_e8d036_wait_recommendations_e3e0d3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Saying Wait Can Win Trust" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Wait Advice</span>
@@ -3115,7 +3115,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-credible-review-site-c23c10" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'reviews/' | relative_url }}" title="What Makes Product Review Sites Credible? | Making Money From" aria-label="Open page: What Makes Product Review Sites Credible? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10-overview.webp' | relative_url }}" alt="Overview image for What Makes Product Review Sites Credible? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10-overview.webp' | relative_url }}" alt="Overview image for What Makes Product Review Sites Credible?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Reviews</span>
@@ -3137,7 +3137,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-credible-review-site-c23c10-free-samples-vs-boug-d472da" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'free-samples/' | relative_url }}" title="Can Free Review Samples Be Trusted? | What Makes Product Review Sites Credible? | Making Money From" aria-label="Open page: Can Free Review Samples Be Trusted? | What Makes Product Review Sites Credible? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_free_samples_vs_boug_d472da-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Free Review Samples Be Trusted? | Making Money From Cr F649 Af Credible Review Site" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_free_samples_vs_boug_d472da-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Free Review Samples Be Trusted?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Free Samples</span>
@@ -3157,7 +3157,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-credible-review-site-c23c10-long-term-review-upd-414a05" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'long-term/' | relative_url }}" title="What Happens After Months of Use? | What Makes Product Review Sites Credible? | Making Money From" aria-label="Open page: What Happens After Months of Use? | What Makes Product Review Sites Credible? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_long_term_review_upd_414a05-Illustration-1.webp' | relative_url }}" alt="Overview image for What Happens After Months of Use? | Making Money From Cr F649 Af Credible Review Site" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_long_term_review_upd_414a05-Illustration-1.webp' | relative_url }}" alt="Overview image for What Happens After Months of Use?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Long Term</span>
@@ -3177,7 +3177,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-credible-review-site-c23c10-meaningful-product-c-36e448" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'real-cons/' | relative_url }}" title="When Does a Product Flaw Matter? | What Makes Product Review Sites Credible? | Making Money From" aria-label="Open page: When Does a Product Flaw Matter? | What Makes Product Review Sites Credible? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_meaningful_product_c_36e448-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does a Product Flaw Matter? | Making Money From Cr F649 Af Credible Review Site" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_meaningful_product_c_36e448-Illustration-1.webp' | relative_url }}" alt="Overview image for When Does a Product Flaw Matter?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Real Cons</span>
@@ -3197,7 +3197,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-credible-review-site-c23c10-affiliate-disclosure-8b10cd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'disclosure-600114/' | relative_url }}" title="Where Should Affiliate Disclosure Appear? | What Makes Product Review Sites Credible? | Making Money From" aria-label="Open page: Where Should Affiliate Disclosure Appear? | What Makes Product Review Sites Credible? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_affiliate_disclosure_8b10cd-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Should Affiliate Disclosure Appear? | Making Money From Cr F649 Af Credible Review Site" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_affiliate_disclosure_8b10cd-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Should Affiliate Disclosure Appear?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Disclosure</span>
@@ -3217,7 +3217,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-credible-review-site-c23c10-risky-purchase-evide-dd9037" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'risky-buys/' | relative_url }}" title="Which Products Need Stronger Proof? | What Makes Product Review Sites Credible? | Making Money From" aria-label="Open page: Which Products Need Stronger Proof? | What Makes Product Review Sites Credible? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_risky_purchase_evide_dd9037-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Products Need Stronger Proof? | Making Money From Cr F649 Af Credible Review Site" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_risky_purchase_evide_dd9037-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Products Need Stronger Proof?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Risky Buys</span>
@@ -3237,7 +3237,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-credible-review-site-c23c10-buyer-use-case-crite-361fd4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'criteria/' | relative_url }}" title="Why Review Criteria Must Fit the Buyer | What Makes Product Review Sites Credible? | Making Money From" aria-label="Open page: Why Review Criteria Must Fit the Buyer | What Makes Product Review Sites Credible? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_buyer_use_case_crite_361fd4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Review Criteria Must Fit the Buyer | Making Money From Cr F649 Af Credible Review Site" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_credible_review_site_c23c10_buyer_use_case_crite_361fd4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Review Criteria Must Fit the Buyer" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Criteria</span>
@@ -3259,7 +3259,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-helpful-affiliate-se-8a8777" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'seo-guides/' | relative_url }}" title="What Makes Affiliate SEO Helpful Enough? | Making Money From" aria-label="Open page: What Makes Affiliate SEO Helpful Enough? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777-overview.webp' | relative_url }}" alt="Overview image for What Makes Affiliate SEO Helpful Enough? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777-overview.webp' | relative_url }}" alt="Overview image for What Makes Affiliate SEO Helpful Enough?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">SEO Guides</span>
@@ -3281,7 +3281,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-helpful-affiliate-se-8a8777-honest-affiliate-pro-90208e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'product-cards/' | relative_url }}" title="Can Product Cards Sell Without Overselling? | What Makes Affiliate SEO Helpful Enough? | Making Money From" aria-label="Open page: Can Product Cards Sell Without Overselling? | What Makes Affiliate SEO Helpful Enough? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_honest_affiliate_pro_90208e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Product Cards Sell Without Overselling? | Making Money From Cr F649 Af Helpful Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_honest_affiliate_pro_90208e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Product Cards Sell Without Overselling?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Product Cards</span>
@@ -3301,7 +3301,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-helpful-affiliate-se-8a8777-retailer-gaps-affili-83bfa9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'retailer-gaps/' | relative_url }}" title="What Can Affiliates Add Beyond Retailers? | What Makes Affiliate SEO Helpful Enough? | Making Money From" aria-label="Open page: What Can Affiliates Add Beyond Retailers? | What Makes Affiliate SEO Helpful Enough? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_retailer_gaps_affili_83bfa9-Illustration-1.webp' | relative_url }}" alt="Overview image for What Can Affiliates Add Beyond Retailers? | Making Money From Cr F649 Af Helpful Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_retailer_gaps_affili_83bfa9-Illustration-1.webp' | relative_url }}" alt="Overview image for What Can Affiliates Add Beyond Retailers?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Retailer Gaps</span>
@@ -3321,7 +3321,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-helpful-affiliate-se-8a8777-buying-guide-update-9caa2d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'updates/' | relative_url }}" title="What Changed Since the Last Review? | What Makes Affiliate SEO Helpful Enough? | Making Money From" aria-label="Open page: What Changed Since the Last Review? | What Makes Affiliate SEO Helpful Enough? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buying_guide_update_9caa2d-Illustration-1.webp' | relative_url }}" alt="Overview image for What Changed Since the Last Review? | Making Money From Cr F649 Af Helpful Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buying_guide_update_9caa2d-Illustration-1.webp' | relative_url }}" alt="Overview image for What Changed Since the Last Review?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Updates</span>
@@ -3341,7 +3341,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-helpful-affiliate-se-8a8777-comparison-tables-bu-b4cacc" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'tables/' | relative_url }}" title="What Should Go in a Comparison Table? | What Makes Affiliate SEO Helpful Enough? | Making Money From" aria-label="Open page: What Should Go in a Comparison Table? | What Makes Affiliate SEO Helpful Enough? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_comparison_tables_bu_b4cacc-Illustration-1.webp' | relative_url }}" alt="Overview image for What Should Go in a Comparison Table? | Making Money From Cr F649 Af Helpful Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_comparison_tables_bu_b4cacc-Illustration-1.webp' | relative_url }}" alt="Overview image for What Should Go in a Comparison Table?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Tables</span>
@@ -3361,7 +3361,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-helpful-affiliate-se-8a8777-evidence-placement-r-1c4466" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'evidence/' | relative_url }}" title="Where Should Proof Appear in a Review? | What Makes Affiliate SEO Helpful Enough? | Making Money From" aria-label="Open page: Where Should Proof Appear in a Review? | What Makes Affiliate SEO Helpful Enough? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_evidence_placement_r_1c4466-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Should Proof Appear in a Review? | Making Money From Cr F649 Af Helpful Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_evidence_placement_r_1c4466-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Should Proof Appear in a Review?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Evidence</span>
@@ -3381,7 +3381,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-helpful-affiliate-se-8a8777-buyer-intent-page-fo-e14a37" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'intent-fit/' | relative_url }}" title="Which Page Format Fits the Buyer? | What Makes Affiliate SEO Helpful Enough? | Making Money From" aria-label="Open page: Which Page Format Fits the Buyer? | What Makes Affiliate SEO Helpful Enough? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buyer_intent_page_fo_e14a37-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Page Format Fits the Buyer? | Making Money From Cr F649 Af Helpful Affiliate" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_helpful_affiliate_se_8a8777_buyer_intent_page_fo_e14a37-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Page Format Fits the Buyer?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Intent Fit</span>
@@ -3403,7 +3403,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-software-affiliates-fc6ab1" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'software/' | relative_url }}" title="Why Software Affiliates Can Outearn Product Reviews | Making Money From" aria-label="Open page: Why Software Affiliates Can Outearn Product Reviews | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1-overview.webp' | relative_url }}" alt="Overview image for Why Software Affiliates Can Outearn Product Reviews | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1-overview.webp' | relative_url }}" alt="Overview image for Why Software Affiliates Can Outearn Product Reviews" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Software</span>
@@ -3425,7 +3425,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-software-affiliates-fc6ab1-saas-payout-duration-997c1e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'payout-duration/' | relative_url }}" title="How Long Do Saa S Commissions Really Last? | Why Software Affiliates Can Outearn Product Reviews | Making Money From" aria-label="Open page: How Long Do Saa S Commissions Really Last? | Why Software Affiliates Can Outearn Product Reviews | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_payout_duration_997c1e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Long Do Saa S Commissions Really Last? | Making Money From Cr F649 Af Software Affiliates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_payout_duration_997c1e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Long Do Saa S Commissions Really Last?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Payout Duration</span>
@@ -3445,7 +3445,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-software-affiliates-fc6ab1-trial-vs-paid-credit-b96d8d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'trial-credit/' | relative_url }}" title="Should Software Affiliates Chase Trials or Sales? | Why Software Affiliates Can Outearn Product Reviews | Making Money From" aria-label="Open page: Should Software Affiliates Chase Trials or Sales? | Why Software Affiliates Can Outearn Product Reviews | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_trial_vs_paid_credit_b96d8d-Illustration-1.webp' | relative_url }}" alt="Overview image for Should Software Affiliates Chase Trials or Sales? | Making Money From Cr F649 Af Software Affiliates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_trial_vs_paid_credit_b96d8d-Illustration-1.webp' | relative_url }}" alt="Overview image for Should Software Affiliates Chase Trials or Sales?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Trial Credit</span>
@@ -3465,7 +3465,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-software-affiliates-fc6ab1-saas-terms-risk-77de2b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'terms-risk/' | relative_url }}" title="The Fine Print That Shrinks Saa S Affiliate Income | Why Software Affiliates Can Outearn Product Reviews | Making Money From" aria-label="Open page: The Fine Print That Shrinks Saa S Affiliate Income | Why Software Affiliates Can Outearn Product Reviews | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_terms_risk_77de2b-Illustration-1.webp' | relative_url }}" alt="Overview image for The Fine Print That Shrinks Saa S Affiliate Income | Making Money From Cr F649 Af Software Affiliates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_saas_terms_risk_77de2b-Illustration-1.webp' | relative_url }}" alt="Overview image for The Fine Print That Shrinks Saa S Affiliate Income" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Terms Risk</span>
@@ -3485,7 +3485,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-software-affiliates-fc6ab1-b2b-buyer-intent-b8cf9d" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'buyer-intent/' | relative_url }}" title="Why Low Traffic Software Pages Can Earn More | Why Software Affiliates Can Outearn Product Reviews | Making Money From" aria-label="Open page: Why Low Traffic Software Pages Can Earn More | Why Software Affiliates Can Outearn Product Reviews | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_b2b_buyer_intent_b8cf9d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Low Traffic Software Pages Can Earn More | Making Money From Cr F649 Af Software Affiliates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_b2b_buyer_intent_b8cf9d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Low Traffic Software Pages Can Earn More" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Buyer Intent</span>
@@ -3505,7 +3505,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-software-affiliates-fc6ab1-software-switching-c-847980" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'switching-costs/' | relative_url }}" title="Why Software Review Trust Is Harder to Earn | Why Software Affiliates Can Outearn Product Reviews | Making Money From" aria-label="Open page: Why Software Review Trust Is Harder to Earn | Why Software Affiliates Can Outearn Product Reviews | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_software_switching_c_847980-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Software Review Trust Is Harder to Earn | Making Money From Cr F649 Af Software Affiliates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_software_switching_c_847980-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Software Review Trust Is Harder to Earn" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Switching Costs</span>
@@ -3525,7 +3525,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-software-affiliates-fc6ab1-ai-b2b-software-disc-743695" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'ai-discovery/' | relative_url }}" title="Will AI Search Change Software Affiliate Pages? | Why Software Affiliates Can Outearn Product Reviews | Making Money From" aria-label="Open page: Will AI Search Change Software Affiliate Pages? | Why Software Affiliates Can Outearn Product Reviews | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_ai_b2b_software_disc_743695-Illustration-1.webp' | relative_url }}" alt="Overview image for Will AI Search Change Software Affiliate Pages? | Making Money From Cr F649 Af Software Affiliates" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_software_affiliates_fc6ab1_ai_b2b_software_disc_743695-Illustration-1.webp' | relative_url }}" alt="Overview image for Will AI Search Change Software Affiliate Pages?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">AI Discovery</span>
@@ -3547,7 +3547,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-google-spam-policy-r-5dda1d" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'spam-risk/' | relative_url }}" title="What Affiliate Pages Put Search Traffic at Risk? | Making Money From" aria-label="Open page: What Affiliate Pages Put Search Traffic at Risk? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d-overview.webp' | relative_url }}" alt="Overview image for What Affiliate Pages Put Search Traffic at Risk? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d-overview.webp' | relative_url }}" alt="Overview image for What Affiliate Pages Put Search Traffic at Risk?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Spam Risk</span>
@@ -3569,7 +3569,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-google-spam-policy-r-5dda1d-hosted-coupon-sectio-fa45d9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'hosted-coupons/' | relative_url }}" title="Can Coupon Sections Borrow Too Much Authority? | What Affiliate Pages Put Search Traffic at Risk? | Making Money From" aria-label="Open page: Can Coupon Sections Borrow Too Much Authority? | What Affiliate Pages Put Search Traffic at Risk? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_hosted_coupon_sectio_fa45d9-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Coupon Sections Borrow Too Much Authority? | Making Money From Cr F649 Af Google Spam Policy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_hosted_coupon_sectio_fa45d9-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Coupon Sections Borrow Too Much Authority?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Hosted Coupons</span>
@@ -3589,7 +3589,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-google-spam-policy-r-5dda1d-sponsored-link-tags-fd8a7c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'link-tags/' | relative_url }}" title="What Sponsored Tags Do and Do Not Fix | What Affiliate Pages Put Search Traffic at Risk? | Making Money From" aria-label="Open page: What Sponsored Tags Do and Do Not Fix | What Affiliate Pages Put Search Traffic at Risk? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_sponsored_link_tags_fd8a7c-Illustration-1.webp' | relative_url }}" alt="Overview image for What Sponsored Tags Do and Do Not Fix | Making Money From Cr F649 Af Google Spam Policy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_sponsored_link_tags_fd8a7c-Illustration-1.webp' | relative_url }}" alt="Overview image for What Sponsored Tags Do and Do Not Fix" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Link Tags</span>
@@ -3609,7 +3609,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-google-spam-policy-r-5dda1d-scaled-affiliate-pag-12808f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'scaled-pages/' | relative_url }}" title="When Affiliate Scale Starts Looking Like Spam | What Affiliate Pages Put Search Traffic at Risk? | Making Money From" aria-label="Open page: When Affiliate Scale Starts Looking Like Spam | What Affiliate Pages Put Search Traffic at Risk? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_scaled_affiliate_pag_12808f-Illustration-1.webp' | relative_url }}" alt="Overview image for When Affiliate Scale Starts Looking Like Spam | Making Money From Cr F649 Af Google Spam Policy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_scaled_affiliate_pag_12808f-Illustration-1.webp' | relative_url }}" alt="Overview image for When Affiliate Scale Starts Looking Like Spam" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Scaled Pages</span>
@@ -3629,7 +3629,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-google-spam-policy-r-5dda1d-copied-product-feeds-6ed996" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'copied-feeds/' | relative_url }}" title="When Product Feeds Become Thin Affiliate Pages | What Affiliate Pages Put Search Traffic at Risk? | Making Money From" aria-label="Open page: When Product Feeds Become Thin Affiliate Pages | What Affiliate Pages Put Search Traffic at Risk? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_copied_product_feeds_6ed996-Illustration-1.webp' | relative_url }}" alt="Overview image for When Product Feeds Become Thin Affiliate Pages | Making Money From Cr F649 Af Google Spam Policy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_copied_product_feeds_6ed996-Illustration-1.webp' | relative_url }}" alt="Overview image for When Product Feeds Become Thin Affiliate Pages" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Copied Feeds</span>
@@ -3649,7 +3649,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-google-spam-policy-r-5dda1d-generic-best-lists-3a0b6c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'weak-best-lists/' | relative_url }}" title="Why Generic Best Lists Lose Search Trust | What Affiliate Pages Put Search Traffic at Risk? | Making Money From" aria-label="Open page: Why Generic Best Lists Lose Search Trust | What Affiliate Pages Put Search Traffic at Risk? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_generic_best_lists_3a0b6c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Generic Best Lists Lose Search Trust | Making Money From Cr F649 Af Google Spam Policy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_generic_best_lists_3a0b6c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Generic Best Lists Lose Search Trust" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Weak Best Lists</span>
@@ -3669,7 +3669,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-google-spam-policy-r-5dda1d-defensible-affiliate-b87f7a" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'defensible-pages/' | relative_url }}" title="Would Your Affiliate Page Survive Review? | What Affiliate Pages Put Search Traffic at Risk? | Making Money From" aria-label="Open page: Would Your Affiliate Page Survive Review? | What Affiliate Pages Put Search Traffic at Risk? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_defensible_affiliate_b87f7a-Illustration-1.webp' | relative_url }}" alt="Overview image for Would Your Affiliate Page Survive Review? | Making Money From Cr F649 Af Google Spam Policy" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_google_spam_policy_r_5dda1d_defensible_affiliate_b87f7a-Illustration-1.webp' | relative_url }}" alt="Overview image for Would Your Affiliate Page Survive Review?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Defensible Pages</span>
@@ -3691,7 +3691,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-first-hand-testing-7d677b" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'testing/' | relative_url }}" title="Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From" aria-label="Open page: Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b-overview.webp' | relative_url }}" alt="Overview image for Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b-overview.webp' | relative_url }}" alt="Overview image for Why First Hand Testing Makes Affiliate Reviews Stronger" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Testing</span>
@@ -3713,7 +3713,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-first-hand-testing-7d677b-original-product-pho-1d51f7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'real-photos/' | relative_url }}" title="Photos That Make Product Reviews Believable | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From" aria-label="Open page: Photos That Make Product Reviews Believable | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_original_product_pho_1d51f7-Illustration-1.webp' | relative_url }}" alt="Overview image for Photos That Make Product Reviews Believable | Making Money From Cr F649 Af First Hand Testing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_original_product_pho_1d51f7-Illustration-1.webp' | relative_url }}" alt="Overview image for Photos That Make Product Reviews Believable" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Real Photos</span>
@@ -3733,7 +3733,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-first-hand-testing-7d677b-tested-product-alter-2a63a9" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'alternatives/' | relative_url }}" title="The Comparison That Makes a Review Useful | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From" aria-label="Open page: The Comparison That Makes a Review Useful | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_tested_product_alter_2a63a9-Illustration-1.webp' | relative_url }}" alt="Overview image for The Comparison That Makes a Review Useful | Making Money From Cr F649 Af First Hand Testing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_tested_product_alter_2a63a9-Illustration-1.webp' | relative_url }}" alt="Overview image for The Comparison That Makes a Review Useful" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Alternatives</span>
@@ -3753,7 +3753,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-first-hand-testing-7d677b-awkward-ownership-mo-e52987" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'awkward-moments/' | relative_url }}" title="The Ownership Problems Reviews Should Not Hide | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From" aria-label="Open page: The Ownership Problems Reviews Should Not Hide | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_awkward_ownership_mo_e52987-Illustration-1.webp' | relative_url }}" alt="Overview image for The Ownership Problems Reviews Should Not Hide | Making Money From Cr F649 Af First Hand Testing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_awkward_ownership_mo_e52987-Illustration-1.webp' | relative_url }}" alt="Overview image for The Ownership Problems Reviews Should Not Hide" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Awkward Moments</span>
@@ -3773,7 +3773,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-first-hand-testing-7d677b-credible-how-we-test-3e30da" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'how-tested/' | relative_url }}" title="What a Trustworthy How We Tested Section Shows | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From" aria-label="Open page: What a Trustworthy How We Tested Section Shows | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_credible_how_we_test_3e30da-Illustration-1.webp' | relative_url }}" alt="Overview image for What a Trustworthy How We Tested Section Shows | Making Money From Cr F649 Af First Hand Testing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_credible_how_we_test_3e30da-Illustration-1.webp' | relative_url }}" alt="Overview image for What a Trustworthy How We Tested Section Shows" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">How Tested</span>
@@ -3793,7 +3793,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-first-hand-testing-7d677b-who-should-not-buy-53dcfe" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'who-should-not-buy/' | relative_url }}" title="When a Good Product Is the Wrong Buy | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From" aria-label="Open page: When a Good Product Is the Wrong Buy | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_who_should_not_buy_53dcfe-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Good Product Is the Wrong Buy | Making Money From Cr F649 Af First Hand Testing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_who_should_not_buy_53dcfe-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Good Product Is the Wrong Buy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Who Should Not Buy</span>
@@ -3813,7 +3813,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-first-hand-testing-7d677b-manufacturer-claims-889fd0" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'claims-test/' | relative_url }}" title="Which Product Claims Should Reviews Actually Test? | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From" aria-label="Open page: Which Product Claims Should Reviews Actually Test? | Why First Hand Testing Makes Affiliate Reviews Stronger | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_manufacturer_claims_889fd0-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Product Claims Should Reviews Actually Test? | Making Money From Cr F649 Af First Hand Testing" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_manufacturer_claims_889fd0-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Product Claims Should Reviews Actually Test?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Claims Test</span>
@@ -3835,7 +3835,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-thin-affiliate-pages-1ea329" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'thin-pages/' | relative_url }}" title="Why Do Thin Affiliate Sites Disappear? | Making Money From" aria-label="Open page: Why Do Thin Affiliate Sites Disappear? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329-overview.webp' | relative_url }}" alt="Overview image for Why Do Thin Affiliate Sites Disappear? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329-overview.webp' | relative_url }}" alt="Overview image for Why Do Thin Affiliate Sites Disappear?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Thin Pages</span>
@@ -3857,7 +3857,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-thin-affiliate-pages-1ea329-running-costs-review-dd637e" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'running-costs-a070aa/' | relative_url }}" title="The Costs Merchant Pages Leave Out | Why Do Thin Affiliate Sites Disappear? | Making Money From" aria-label="Open page: The Costs Merchant Pages Leave Out | Why Do Thin Affiliate Sites Disappear? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_running_costs_review_dd637e-Illustration-1.webp' | relative_url }}" alt="Overview image for The Costs Merchant Pages Leave Out | Making Money From Cr F649 Af Thin Affiliate Pages" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_running_costs_review_dd637e-Illustration-1.webp' | relative_url }}" alt="Overview image for The Costs Merchant Pages Leave Out" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Running Costs</span>
@@ -3877,7 +3877,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-thin-affiliate-pages-1ea329-hidden-review-tradeo-801e61" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'trade-offs/' | relative_url }}" title="The Missing Warnings in Thin Reviews | Why Do Thin Affiliate Sites Disappear? | Making Money From" aria-label="Open page: The Missing Warnings in Thin Reviews | Why Do Thin Affiliate Sites Disappear? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_hidden_review_tradeo_801e61-Illustration-1.webp' | relative_url }}" alt="Overview image for The Missing Warnings in Thin Reviews | Making Money From Cr F649 Af Thin Affiliate Pages" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_hidden_review_tradeo_801e61-Illustration-1.webp' | relative_url }}" alt="Overview image for The Missing Warnings in Thin Reviews" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Trade Offs</span>
@@ -3897,7 +3897,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-thin-affiliate-pages-1ea329-google-thin-affiliat-7e98e7" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'google-policy/' | relative_url }}" title="What Google Means by Thin Affiliate | Why Do Thin Affiliate Sites Disappear? | Making Money From" aria-label="Open page: What Google Means by Thin Affiliate | Why Do Thin Affiliate Sites Disappear? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_google_thin_affiliat_7e98e7-Illustration-1.webp' | relative_url }}" alt="Overview image for What Google Means by Thin Affiliate | Making Money From Cr F649 Af Thin Affiliate Pages" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_google_thin_affiliat_7e98e7-Illustration-1.webp' | relative_url }}" alt="Overview image for What Google Means by Thin Affiliate" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Google Policy</span>
@@ -3917,7 +3917,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-thin-affiliate-pages-1ea329-original-product-tes-dbe18f" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'real-testing/' | relative_url }}" title="What Real Testing Adds to Reviews | Why Do Thin Affiliate Sites Disappear? | Making Money From" aria-label="Open page: What Real Testing Adds to Reviews | Why Do Thin Affiliate Sites Disappear? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_original_product_tes_dbe18f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Real Testing Adds to Reviews | Making Money From Cr F649 Af Thin Affiliate Pages" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_original_product_tes_dbe18f-Illustration-1.webp' | relative_url }}" alt="Overview image for What Real Testing Adds to Reviews" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Real Testing</span>
@@ -3937,7 +3937,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-thin-affiliate-pages-1ea329-best-roundup-criteri-781923" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'best-criteria/' | relative_url }}" title="When Best Lists Do Not Explain Best | Why Do Thin Affiliate Sites Disappear? | Making Money From" aria-label="Open page: When Best Lists Do Not Explain Best | Why Do Thin Affiliate Sites Disappear? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_best_roundup_criteri_781923-Illustration-1.webp' | relative_url }}" alt="Overview image for When Best Lists Do Not Explain Best | Making Money From Cr F649 Af Thin Affiliate Pages" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_best_roundup_criteri_781923-Illustration-1.webp' | relative_url }}" alt="Overview image for When Best Lists Do Not Explain Best" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Best Criteria</span>
@@ -3957,7 +3957,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-thin-affiliate-pages-1ea329-copied-merchant-desc-eef415" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'copied-copy/' | relative_url }}" title="Why Copied Product Copy Loses Trust | Why Do Thin Affiliate Sites Disappear? | Making Money From" aria-label="Open page: Why Copied Product Copy Loses Trust | Why Do Thin Affiliate Sites Disappear? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_copied_merchant_desc_eef415-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Copied Product Copy Loses Trust | Making Money From Cr F649 Af Thin Affiliate Pages" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_thin_affiliate_pages_1ea329_copied_merchant_desc_eef415-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Copied Product Copy Loses Trust" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Copied Copy</span>
@@ -3979,7 +3979,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-high-ticket-low-cost-44dde4" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'ticket-size/' | relative_url }}" title="Should Affiliate Sites Chase Expensive Products? | Making Money From" aria-label="Open page: Should Affiliate Sites Chase Expensive Products? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4-overview.webp' | relative_url }}" alt="Overview image for Should Affiliate Sites Chase Expensive Products? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4-overview.webp' | relative_url }}" alt="Overview image for Should Affiliate Sites Chase Expensive Products?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Ticket Size</span>
@@ -4001,7 +4001,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-high-ticket-low-cost-44dde4-low-cost-pages-that-475781" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'low-cost-pages/' | relative_url }}" title="How Cheap Products Still Make Money | Should Affiliate Sites Chase Expensive Products? | Making Money From" aria-label="Open page: How Cheap Products Still Make Money | Should Affiliate Sites Chase Expensive Products? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_low_cost_pages_that_475781-Illustration-1.webp' | relative_url }}" alt="Overview image for How Cheap Products Still Make Money | Making Money From Cr F649 Af High Ticket Low Cost" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_low_cost_pages_that_475781-Illustration-1.webp' | relative_url }}" alt="Overview image for How Cheap Products Still Make Money" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Low Cost Pages</span>
@@ -4021,7 +4021,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-high-ticket-low-cost-44dde4-amazon-rate-traps-1cfdae" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'amazon-rates/' | relative_url }}" title="The Amazon Rate Trap Beginners Miss | Should Affiliate Sites Chase Expensive Products? | Making Money From" aria-label="Open page: The Amazon Rate Trap Beginners Miss | Should Affiliate Sites Chase Expensive Products? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_amazon_rate_traps_1cfdae-Illustration-1.webp' | relative_url }}" alt="Overview image for The Amazon Rate Trap Beginners Miss | Making Money From Cr F649 Af High Ticket Low Cost" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_amazon_rate_traps_1cfdae-Illustration-1.webp' | relative_url }}" alt="Overview image for The Amazon Rate Trap Beginners Miss" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Amazon Rates</span>
@@ -4041,7 +4041,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-high-ticket-low-cost-44dde4-thin-affiliate-high-376376" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'thin-risk/' | relative_url }}" title="The High Commission Thin Affiliate Problem | Should Affiliate Sites Chase Expensive Products? | Making Money From" aria-label="Open page: The High Commission Thin Affiliate Problem | Should Affiliate Sites Chase Expensive Products? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_thin_affiliate_high_376376-Illustration-1.webp' | relative_url }}" alt="Overview image for The High Commission Thin Affiliate Problem | Making Money From Cr F649 Af High Ticket Low Cost" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_thin_affiliate_high_376376-Illustration-1.webp' | relative_url }}" alt="Overview image for The High Commission Thin Affiliate Problem" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Thin Risk</span>
@@ -4061,7 +4061,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-high-ticket-low-cost-44dde4-premium-review-trust-8335b4" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'premium-reviews/' | relative_url }}" title="What Premium Reviews Must Prove | Should Affiliate Sites Chase Expensive Products? | Making Money From" aria-label="Open page: What Premium Reviews Must Prove | Should Affiliate Sites Chase Expensive Products? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_premium_review_trust_8335b4-Illustration-1.webp' | relative_url }}" alt="Overview image for What Premium Reviews Must Prove | Making Money From Cr F649 Af High Ticket Low Cost" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_premium_review_trust_8335b4-Illustration-1.webp' | relative_url }}" alt="Overview image for What Premium Reviews Must Prove" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Premium Reviews</span>
@@ -4081,7 +4081,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-high-ticket-low-cost-44dde4-commission-maths-hig-a03aa2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'commission-maths/' | relative_url }}" title="When Bigger Prices Really Pay More | Should Affiliate Sites Chase Expensive Products? | Making Money From" aria-label="Open page: When Bigger Prices Really Pay More | Should Affiliate Sites Chase Expensive Products? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_commission_maths_hig_a03aa2-Illustration-1.webp' | relative_url }}" alt="Overview image for When Bigger Prices Really Pay More | Making Money From Cr F649 Af High Ticket Low Cost" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_commission_maths_hig_a03aa2-Illustration-1.webp' | relative_url }}" alt="Overview image for When Bigger Prices Really Pay More" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Commission Maths</span>
@@ -4101,7 +4101,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-high-ticket-low-cost-44dde4-checkout-friction-ex-d96bf6" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'checkout-risk/' | relative_url }}" title="Why Expensive Clicks Fail at Checkout | Should Affiliate Sites Chase Expensive Products? | Making Money From" aria-label="Open page: Why Expensive Clicks Fail at Checkout | Should Affiliate Sites Chase Expensive Products? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_checkout_friction_ex_d96bf6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Expensive Clicks Fail at Checkout | Making Money From Cr F649 Af High Ticket Low Cost" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_high_ticket_low_cost_44dde4_checkout_friction_ex_d96bf6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Expensive Clicks Fail at Checkout" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Checkout Risk</span>
@@ -4123,7 +4123,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-traffic-sources-c48968" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'traffic/' | relative_url }}" title="Where Can Affiliate Sites Get Reliable Traffic? | Making Money From" aria-label="Open page: Where Can Affiliate Sites Get Reliable Traffic? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968-overview.webp' | relative_url }}" alt="Overview image for Where Can Affiliate Sites Get Reliable Traffic? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968-overview.webp' | relative_url }}" alt="Overview image for Where Can Affiliate Sites Get Reliable Traffic?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Traffic</span>
@@ -4145,7 +4145,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-traffic-sources-c48968-price-drop-alerts-472392" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'price-alerts/' | relative_url }}" title="Can Price Alerts Bring Affiliate Readers Back? | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From" aria-label="Open page: Can Price Alerts Bring Affiliate Readers Back? | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_price_drop_alerts_472392-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Price Alerts Bring Affiliate Readers Back? | Making Money From Cr F649 Af Traffic Sources" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_price_drop_alerts_472392-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Price Alerts Bring Affiliate Readers Back?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Price Alerts</span>
@@ -4165,7 +4165,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-traffic-sources-c48968-community-research-r-6485f8" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'community-research/' | relative_url }}" title="What Buyers Ask Before They Search | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From" aria-label="Open page: What Buyers Ask Before They Search | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_community_research_r_6485f8-Illustration-1.webp' | relative_url }}" alt="Overview image for What Buyers Ask Before They Search | Making Money From Cr F649 Af Traffic Sources" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_community_research_r_6485f8-Illustration-1.webp' | relative_url }}" alt="Overview image for What Buyers Ask Before They Search" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Community Research</span>
@@ -4185,7 +4185,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-traffic-sources-c48968-affiliate-email-lead-255f10" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'lead-magnets/' | relative_url }}" title="What Makes Readers Join an Affiliate Newsletter? | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From" aria-label="Open page: What Makes Readers Join an Affiliate Newsletter? | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_affiliate_email_lead_255f10-Illustration-1.webp' | relative_url }}" alt="Overview image for What Makes Readers Join an Affiliate Newsletter? | Making Money From Cr F649 Af Traffic Sources" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_affiliate_email_lead_255f10-Illustration-1.webp' | relative_url }}" alt="Overview image for What Makes Readers Join an Affiliate Newsletter?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Lead Magnets</span>
@@ -4205,7 +4205,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-traffic-sources-c48968-pinterest-visual-aff-fa68e3" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'pinterest/' | relative_url }}" title="When Pinterest Beats Search for Affiliate Traffic | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From" aria-label="Open page: When Pinterest Beats Search for Affiliate Traffic | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_pinterest_visual_aff_fa68e3-Illustration-1.webp' | relative_url }}" alt="Overview image for When Pinterest Beats Search for Affiliate Traffic | Making Money From Cr F649 Af Traffic Sources" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_pinterest_visual_aff_fa68e3-Illustration-1.webp' | relative_url }}" alt="Overview image for When Pinterest Beats Search for Affiliate Traffic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Pinterest</span>
@@ -4225,7 +4225,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-traffic-sources-c48968-affiliate-disclosure-8ecefe" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'disclosure/' | relative_url }}" title="Where Should Affiliate Disclosures Appear? | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From" aria-label="Open page: Where Should Affiliate Disclosures Appear? | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_affiliate_disclosure_8ecefe-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Should Affiliate Disclosures Appear? | Making Money From Cr F649 Af Traffic Sources" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_affiliate_disclosure_8ecefe-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Should Affiliate Disclosures Appear?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Disclosure</span>
@@ -4245,7 +4245,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-traffic-sources-c48968-reddit-affiliate-tra-c5f15b" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'reddit-risk/' | relative_url }}" title="Why Reddit Traffic Rewards Patience | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From" aria-label="Open page: Why Reddit Traffic Rewards Patience | Where Can Affiliate Sites Get Reliable Traffic? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_reddit_affiliate_tra_c5f15b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Reddit Traffic Rewards Patience | Making Money From Cr F649 Af Traffic Sources" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_traffic_sources_c48968_reddit_affiliate_tra_c5f15b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Reddit Traffic Rewards Patience" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Reddit Risk</span>
@@ -4267,7 +4267,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-video-reviews-affili-42f434" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'video/' | relative_url }}" title="Can Video Reviews Drive Affiliate Sales? | Making Money From" aria-label="Open page: Can Video Reviews Drive Affiliate Sales? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434-overview.webp' | relative_url }}" alt="Overview image for Can Video Reviews Drive Affiliate Sales? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434-overview.webp' | relative_url }}" alt="Overview image for Can Video Reviews Drive Affiliate Sales?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Video</span>
@@ -4289,7 +4289,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-video-reviews-affili-42f434-short-form-product-c-593e4c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'short-clips/' | relative_url }}" title="Can Short Product Videos Really Sell? | Can Video Reviews Drive Affiliate Sales? | Making Money From" aria-label="Open page: Can Short Product Videos Really Sell? | Can Video Reviews Drive Affiliate Sales? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_short_form_product_c_593e4c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Short Product Videos Really Sell? | Making Money From Cr F649 Af Video Reviews Affili" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_short_form_product_c_593e4c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Short Product Videos Really Sell?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Short Clips</span>
@@ -4309,7 +4309,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-video-reviews-affili-42f434-youtube-affiliate-di-262846" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'disclosures-ba73e8/' | relative_url }}" title="Do Video Affiliate Links Need Clear Disclosures? | Can Video Reviews Drive Affiliate Sales? | Making Money From" aria-label="Open page: Do Video Affiliate Links Need Clear Disclosures? | Can Video Reviews Drive Affiliate Sales? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Video Affiliate Links Need Clear Disclosures? | Making Money From Cr F649 Af Video Reviews Affili" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_affiliate_di_262846-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Video Affiliate Links Need Clear Disclosures?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Disclosures</span>
@@ -4329,7 +4329,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-video-reviews-affili-42f434-real-product-demos-67115c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'demo-proof/' | relative_url }}" title="What Should an Affiliate Video Actually Show? | Can Video Reviews Drive Affiliate Sales? | Making Money From" aria-label="Open page: What Should an Affiliate Video Actually Show? | Can Video Reviews Drive Affiliate Sales? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_real_product_demos_67115c-Illustration-1.webp' | relative_url }}" alt="Overview image for What Should an Affiliate Video Actually Show? | Making Money From Cr F649 Af Video Reviews Affili" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_real_product_demos_67115c-Illustration-1.webp' | relative_url }}" alt="Overview image for What Should an Affiliate Video Actually Show?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Demo Proof</span>
@@ -4349,7 +4349,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-video-reviews-affili-42f434-youtube-link-intent-4666cb" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'link-intent/' | relative_url }}" title="Where Should Affiliate Links Go in a Video? | Can Video Reviews Drive Affiliate Sales? | Making Money From" aria-label="Open page: Where Should Affiliate Links Go in a Video? | Can Video Reviews Drive Affiliate Sales? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_link_intent_4666cb-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Should Affiliate Links Go in a Video? | Making Money From Cr F649 Af Video Reviews Affili" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_youtube_link_intent_4666cb-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Should Affiliate Links Go in a Video?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Link Intent</span>
@@ -4369,7 +4369,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-video-reviews-affili-42f434-video-review-website-d93947" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'video-plus-site/' | relative_url }}" title="Why Affiliate Videos Still Need a Website | Can Video Reviews Drive Affiliate Sales? | Making Money From" aria-label="Open page: Why Affiliate Videos Still Need a Website | Can Video Reviews Drive Affiliate Sales? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_video_review_website_d93947-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Affiliate Videos Still Need a Website | Making Money From Cr F649 Af Video Reviews Affili" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_video_review_website_d93947-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Affiliate Videos Still Need a Website" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Video Plus Site</span>
@@ -4389,7 +4389,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-video-reviews-affili-42f434-side-by-side-video-t-69e73c" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'comparisons-4ccdb6/' | relative_url }}" title="Why Side by Side Tests Make Reviews More Believable | Can Video Reviews Drive Affiliate Sales? | Making Money From" aria-label="Open page: Why Side by Side Tests Make Reviews More Believable | Can Video Reviews Drive Affiliate Sales? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_side_by_side_video_t_69e73c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Side by Side Tests Make Reviews More Believable | Making Money From Cr F649 Af Video Reviews Affili" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_video_reviews_affili_42f434_side_by_side_video_t_69e73c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Side by Side Tests Make Reviews More Believable" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Comparisons</span>
@@ -4411,7 +4411,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-making-money-from-cr-f649af-wirecutter-model-9c7db6" data-node-kind="branch" data-semantic-level="l1">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'wirecutter/' | relative_url }}" title="What Can Beginners Learn From Wirecutter? | Making Money From" aria-label="Open page: What Can Beginners Learn From Wirecutter? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6-overview.webp' | relative_url }}" alt="Overview image for What Can Beginners Learn From Wirecutter? | Making Money From" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6-overview.webp' | relative_url }}" alt="Overview image for What Can Beginners Learn From Wirecutter?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Wirecutter</span>
@@ -4433,7 +4433,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-wirecutter-model-9c7db6-editorial-commerce-s-7fccf2" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'separation/' | relative_url }}" title="Can Affiliate Reviews Stay Editorially Honest? | What Can Beginners Learn From Wirecutter? | Making Money From" aria-label="Open page: Can Affiliate Reviews Stay Editorially Honest? | What Can Beginners Learn From Wirecutter? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_editorial_commerce_s_7fccf2-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Affiliate Reviews Stay Editorially Honest? | Making Money From Cr F649 Af Wirecutter Model" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_editorial_commerce_s_7fccf2-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Affiliate Reviews Stay Editorially Honest?" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Separation</span>
@@ -4453,7 +4453,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-wirecutter-model-9c7db6-wirecutter-disclosur-48d0ed" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'disclosure-487c02/' | relative_url }}" title="Disclosure Is Not the Same as Trust | What Can Beginners Learn From Wirecutter? | Making Money From" aria-label="Open page: Disclosure Is Not the Same as Trust | What Can Beginners Learn From Wirecutter? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_disclosur_48d0ed-Illustration-1.webp' | relative_url }}" alt="Overview image for Disclosure Is Not the Same as Trust | Making Money From Cr F649 Af Wirecutter Model" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_disclosur_48d0ed-Illustration-1.webp' | relative_url }}" alt="Overview image for Disclosure Is Not the Same as Trust" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Disclosure</span>
@@ -4473,7 +4473,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-wirecutter-model-9c7db6-wirecutter-deal-filt-a53366" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'deal-filtering/' | relative_url }}" title="The Hidden Labor Behind Trusted Deals | What Can Beginners Learn From Wirecutter? | Making Money From" aria-label="Open page: The Hidden Labor Behind Trusted Deals | What Can Beginners Learn From Wirecutter? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_deal_filt_a53366-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Labor Behind Trusted Deals | Making Money From Cr F649 Af Wirecutter Model" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_deal_filt_a53366-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Labor Behind Trusted Deals" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Deal Filtering</span>
@@ -4493,7 +4493,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-wirecutter-model-9c7db6-wirecutter-subscript-416427" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'subscriptions/' | relative_url }}" title="Why Affiliate Revenue Needed a Backup Plan | What Can Beginners Learn From Wirecutter? | Making Money From" aria-label="Open page: Why Affiliate Revenue Needed a Backup Plan | What Can Beginners Learn From Wirecutter? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_subscript_416427-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Affiliate Revenue Needed a Backup Plan | Making Money From Cr F649 Af Wirecutter Model" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_subscript_416427-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Affiliate Revenue Needed a Backup Plan" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Subscriptions</span>
@@ -4513,7 +4513,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-wirecutter-model-9c7db6-wirecutter-best-pick-e97927" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'best-picks/' | relative_url }}" title="Why One Clear Pick Builds More Trust | What Can Beginners Learn From Wirecutter? | Making Money From" aria-label="Open page: Why One Clear Pick Builds More Trust | What Can Beginners Learn From Wirecutter? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_best_pick_e97927-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Clear Pick Builds More Trust | Making Money From Cr F649 Af Wirecutter Model" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_wirecutter_best_pick_e97927-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Clear Pick Builds More Trust" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Best Picks</span>
@@ -4533,7 +4533,7 @@ site_image_description: A laptop on a desk shows product comparison cards beside
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-making-money-from-cr-f649af-wirecutter-model-9c7db6-living-review-pages-bf4ebd" data-node-kind="child" data-semantic-level="l2">
 <a class="ct-node-link home-vertical-primary-link" href="{{ 'living-pages/' | relative_url }}" title="Why Product Reviews Cannot Stay Frozen | What Can Beginners Learn From Wirecutter? | Making Money From" aria-label="Open page: Why Product Reviews Cannot Stay Frozen | What Can Beginners Learn From Wirecutter? | Making Money From">
 <div class="ct-node-thumb">
-<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_living_review_pages_bf4ebd-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Product Reviews Cannot Stay Frozen | Making Money From Cr F649 Af Wirecutter Model" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ 'assets/images/making_money_from_cr_f649af_wirecutter_model_9c7db6_living_review_pages_bf4ebd-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Product Reviews Cannot Stay Frozen" loading="lazy" decoding="async" fetchpriority="low">
 </div>
 <span class="ct-node-content">
 <span class="ct-node-label">Living Pages</span>
