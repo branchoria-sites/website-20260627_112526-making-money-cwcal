@@ -272,6 +272,7 @@ next_link:
   short_title: Early Research
   heading_title: Why Trust Starts Before Product Reviews
 date: '2026-06-27 11:17:21 '
+last_modified_at: '2026-06-27 11:17:21 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_decision_matrices_879bf0-Illustration-1-social.jpg
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_decision_matrices_879bf0-Illustration-1.webp

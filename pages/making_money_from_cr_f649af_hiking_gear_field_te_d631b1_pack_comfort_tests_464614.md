@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-27 00:59:38'
+last_modified_at: '2026-06-27 00:59:38'
 parent_title: Why Hiking Gear Reviews Need Real Conditions
 parent_permalink: /hiking-gear/
 parent_nav_short_title: Hiking Gear

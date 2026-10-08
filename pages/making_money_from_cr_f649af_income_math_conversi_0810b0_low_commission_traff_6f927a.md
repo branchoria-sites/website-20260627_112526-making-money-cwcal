@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-27 05:04:13'
+last_modified_at: '2026-06-27 05:04:13'
 parent_title: Why Traffic Is Only Half the Affiliate Money Story
 parent_permalink: /income-math/
 parent_nav_short_title: Income Math

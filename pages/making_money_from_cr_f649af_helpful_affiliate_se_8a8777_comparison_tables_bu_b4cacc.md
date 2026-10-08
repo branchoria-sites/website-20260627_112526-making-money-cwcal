@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 16:12:24'
+last_modified_at: '2026-06-26 16:12:24'
 parent_title: What Makes Affiliate SEO Helpful Enough?
 parent_permalink: /seo-guides/
 parent_nav_short_title: SEO Guides

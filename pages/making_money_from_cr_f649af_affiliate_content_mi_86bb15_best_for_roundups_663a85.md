@@ -272,6 +272,7 @@ next_link:
   short_title: Decision Matrix
   heading_title: The Simple Grid That Makes Reviews Useful
 date: '2026-06-27 11:17:20 '
+last_modified_at: '2026-06-27 11:17:20 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_best_for_roundups_663a85-Illustration-1-social.jpg
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_best_for_roundups_663a85-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Editorial Filter
   heading_title: How to Turn a Search Into a Shortlist
 date: '2026-06-27 11:19:16 '
+last_modified_at: '2026-06-27 11:19:16 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_constraint_query_tra_27ed05-Illustration-1-social.jpg
   preview_image: /assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_constraint_query_tra_27ed05-Illustration-1.webp

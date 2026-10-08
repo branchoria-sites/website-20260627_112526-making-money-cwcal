@@ -266,6 +266,7 @@ next_link:
   short_title: Best For Picks
   heading_title: Stop Writing Best Lists Like Leaderboards
 date: '2026-06-27 11:18:21 '
+last_modified_at: '2026-06-27 11:18:21 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_air_fryer_content_cl_217897-Illustration-1-social.jpg
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_air_fryer_content_cl_217897-Illustration-1.webp
