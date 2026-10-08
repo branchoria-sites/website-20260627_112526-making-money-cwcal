@@ -272,6 +272,7 @@ next_link:
   short_title: Thin Pages
   heading_title: When Affiliate Content Starts Looking Thin
 date: '2026-06-27 11:18:22 '
+last_modified_at: '2026-06-27 11:18:22 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_post_purchase_suppor_a8fda6-Illustration-1-social.jpg
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15_post_purchase_suppor_a8fda6-Illustration-1.webp

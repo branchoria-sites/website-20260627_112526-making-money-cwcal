@@ -272,6 +272,7 @@ next_link:
   short_title: Objections
   heading_title: When the Best Answer Is Do Not Buy
 date: '2026-06-27 11:19:18 '
+last_modified_at: '2026-06-27 11:19:18 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_editorial_filter_pag_3f4d4e-Illustration-1-social.jpg
   preview_image: /assets/images/making_money_from_cr_f649af_long_tail_buying_que_1f52a4_editorial_filter_pag_3f4d4e-Illustration-1.webp

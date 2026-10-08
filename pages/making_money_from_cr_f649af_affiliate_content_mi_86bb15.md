@@ -439,6 +439,7 @@ next_link:
   short_title: Deals
   heading_title: Why Do Deal Sites Convert So Well?
 date: '2026-06-27 11:16:18 '
+last_modified_at: '2026-06-27 11:16:18 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15-overview-social.jpg
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_content_mi_86bb15-overview.webp

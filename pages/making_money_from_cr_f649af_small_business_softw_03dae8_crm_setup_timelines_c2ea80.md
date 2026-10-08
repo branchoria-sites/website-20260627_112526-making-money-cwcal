@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-27 02:30:31'
+last_modified_at: '2026-06-27 02:30:31'
 parent_title: Can Small Business Software Be a Better Affiliate Niche?
 parent_permalink: /business-tools/
 parent_nav_short_title: Business Tools

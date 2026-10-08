@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-27 08:49:36'
+last_modified_at: '2026-06-27 08:49:36'
 parent_title: Should Affiliate Sites Recommend Waiting or Buying Cheaper?
 parent_permalink: /price-help/
 parent_nav_short_title: Price Help

@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 21:28:33'
+last_modified_at: '2026-06-26 21:28:33'
 parent_title: Can Expertise Beat Bigger Affiliate Sites?
 parent_permalink: /authority/
 parent_nav_short_title: Authority

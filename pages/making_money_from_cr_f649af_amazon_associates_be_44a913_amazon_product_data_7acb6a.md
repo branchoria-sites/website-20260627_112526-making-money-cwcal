@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-26 22:53:10'
+last_modified_at: '2026-06-26 22:53:10'
 parent_title: Is Amazon Associates Still Good for Beginners?
 parent_permalink: /amazon/
 parent_nav_short_title: Amazon
