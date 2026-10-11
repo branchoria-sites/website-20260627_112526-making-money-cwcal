@@ -279,7 +279,7 @@ A **“Best Overall”** label can help readers make a faster decision, but only
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_best_overall_ranking_0dc98d-Illustration-1-dark.svg" | relative_url }}" alt="Best Overall illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_best_overall_ranking_0dc98d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_best_overall_ranking_0dc98d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem begins when publishers present a universal winner without showing how they reached that judgement. Readers increasingly recognise affiliate business models, and regulators expect commercial influence to be disclosed rather than hidden. A comparison page that explains *why* one product is the best default choice, while openly identifying where competitors outperform it, is more persuasive than one that claims every visitor should buy the same product.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsFTC&#x27;s Endorsement Guides: This brochure from FTC staff gives tips on when a...</span></span></span>
+The problem begins when publishers present a universal winner without showing how they reached that judgement. Readers increasingly recognise affiliate business models, and regulators expect commercial influence to be disclosed rather than hidden. A comparison page that explains *why* one product is the best default choice, while openly identifying where competitors outperform it, is more persuasive than one that claims every visitor should buy the same product.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsFTC&#x27;s Endorsement Guides: This brochure from FTC staff gives tips on when a...</span></span></span>
 
 ## When does a "Best Overall" label actually help?
 
@@ -402,7 +402,7 @@ A balanced recommendation should identify at least a few realistic limitations, 
 
 The greatest credibility risk occurs when [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}) appear to influence rankings.
 
-Consumer protection authorities have repeatedly stressed that material commercial relationships should be disclosed clearly and that endorsements must not mislead consumers about their independence. Simply publishing an affiliate disclosure does not justify recommendations that are presented as impartial if commercial incentives materially shape the rankings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsFTC&#x27;s Endorsement Guides: This brochure from FTC staff gives tips on when a...</span></span></span>
+Consumer protection authorities have repeatedly stressed that material commercial relationships should be disclosed clearly and that endorsements must not mislead consumers about their independence. Simply publishing an affiliate disclosure does not justify recommendations that are presented as impartial if commercial incentives materially shape the rankings.<span class="citation-link-wrap">[Federal Trade Commission+2Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsFTC&#x27;s Endorsement Guides: This brochure from FTC staff gives tips on when a...</span></span></span>
 
 Readers may never know the commission structure, but they often notice indirect signals such as:
 
@@ -833,13 +833,13 @@ A "Best Overall" label therefore works best when it is presented as a carefully 
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionEndorsements, Influencers, and ReviewsFTC&#x27;s Endorsement Guides: This brochure from FTC staff gives tips on when a...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</p></details>
 
 ### Additional References

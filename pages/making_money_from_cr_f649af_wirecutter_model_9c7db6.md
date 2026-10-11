@@ -489,7 +489,7 @@ Affiliate marketing creates an obvious conflict: the publisher earns money when 
 
 That separation is not a cosmetic detail. Columbia Journalism Review quoted Wirecutter leadership saying that writers and editors should not make decisions while knowing whether the publication has a monetary relationship with a business partner. AdExchanger reported a similar principle after the Times acquisition: the organisation was willing to leave money on the table if that was the right outcome for the reader.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cjr.org/business_of_news/product-review-verticals-strategist-wirecutter.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[cjr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">Under Review</span><span class="citation-popover-snippet">Under Review</span></span></span>
 
-This matters because disclosure alone is a low bar. Regulators care about whether readers understand when a financial relationship exists. The US Federal Trade Commission says endorsement relationships need clear disclosure, and its guidance warns that vague labels such as “affiliate link” may not be enough because consumers may not understand that the publisher earns money from purchases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+This matters because disclosure alone is a low bar. Regulators care about whether readers understand when a financial relationship exists. The US Federal Trade Commission says endorsement relationships need clear disclosure, and its guidance warns that vague labels such as “affiliate link” may not be enough because consumers may not understand that the publisher earns money from purchases.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 UK guidance points in the same direction. The Advertising Standards Authority says affiliate content can appear alongside genuinely editorial material, but the parts containing affiliate links or brand promotion may fall under advertising rules and need to be identifiable as such.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span>
 
@@ -1028,12 +1028,12 @@ In affiliate publishing, Wirecutter’s central lesson is simple: the commission
 
 17.<a id="endnote-17"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 18.<a id="endnote-18"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 19.<a id="endnote-19"></a>
    Source: news.ycombinator.com  

@@ -504,7 +504,7 @@ The clearest models show their testing culture openly. RTINGS says each product 
 
 ## Affiliate disclosure is part of the review, not a footer
 
-Affiliate disclosure is not just a legal formality. It is part of the trust contract with the reader. In the UK, the Advertising Standards [Authority]({{ 'authority/' | relative_url }}) says affiliate marketing must be obviously identifiable as marketing, and that commercial intent must be clear where it is not apparent from the context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span> In the US, the Federal Trade Commission’s endorsement guidance requires disclosure of material connections between advertisers and endorsers, including relationships that could affect how consumers evaluate the endorsement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Affiliate disclosure is not just a legal formality. It is part of the trust contract with the reader. In the UK, the Advertising Standards [Authority]({{ 'authority/' | relative_url }}) says affiliate marketing must be obviously identifiable as marketing, and that commercial intent must be clear where it is not apparent from the context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span> In the US, the Federal Trade Commission’s endorsement guidance requires disclosure of material connections between advertisers and endorsers, including relationships that could affect how consumers evaluate the endorsement.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 For a review site, the practical rule is simple: tell readers near the point of influence that the site may earn money from links, and explain what that does and does not affect. A buried disclosure on a separate legal page is weaker than a plain statement near the top of the article and near buying links. The wording should be understandable. “We may earn a commission if you buy through our links, but our recommendations are based on testing and editorial judgement” is clearer than vague language about “partnerships” or “support”.
 
@@ -1039,7 +1039,7 @@ The strongest product review sites make the reader feel that someone has done th
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 12.<a id="endnote-12"></a>
    Source: arxiv.org  
@@ -1097,7 +1097,7 @@ The strongest product review sites make the reader feel that someone has done th
 24.<a id="endnote-24"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 25.<a id="endnote-25"></a>
    Source: reddit.com  

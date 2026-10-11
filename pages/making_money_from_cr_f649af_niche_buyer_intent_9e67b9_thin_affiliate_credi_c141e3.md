@@ -394,7 +394,7 @@ That does not make these niches impossible. It means they require a much stronge
 
 Trust also depends on explaining the commercial relationship.
 
-Readers should be able to recognise when recommendations generate [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}). Consumer protection authorities, including the US Federal Trade Commission, require material commercial relationships to be disclosed clearly so that endorsements are not misleading. Transparent disclosure strengthens credibility because it allows readers to evaluate recommendations with full knowledge of the financial incentive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Readers should be able to recognise when recommendations generate [affiliate commissions]({{ 'disclosure-967c81/' | relative_url }}). Consumer protection authorities, including the US Federal Trade Commission, require material commercial relationships to be disclosed clearly so that endorsements are not misleading. Transparent disclosure strengthens credibility because it allows readers to evaluate recommendations with full knowledge of the financial incentive.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 Disclosure alone, however, cannot rescue weak content. A page that openly admits it earns commission but contributes no independent value still fails the credibility test.
 
@@ -839,7 +839,7 @@ When evaluating potential affiliate opportunities, the most important question i
 
 12.<a id="endnote-12"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 13.<a id="endnote-13"></a>
    Source: Wikipedia  
@@ -848,7 +848,7 @@ When evaluating potential affiliate opportunities, the most important question i
 
 14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingHere are answers to some of the most frequently asked questions from advertisers, ad agen...</p></details>
 
 15.<a id="endnote-15"></a>

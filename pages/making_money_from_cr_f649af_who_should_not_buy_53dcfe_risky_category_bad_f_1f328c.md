@@ -446,7 +446,7 @@ Useful safeguards include:
 
 </div>
 
-Transparent affiliate disclosures also matter. Readers should understand that commissions may be earned while still receiving balanced information about who should not purchase the product. Regulatory guidance on endorsements consistently stresses that commercial relationships should be clearly disclosed and that endorsements must reflect honest opinions rather than misleading marketing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Transparent affiliate disclosures also matter. Readers should understand that commissions may be earned while still receiving balanced information about who should not purchase the product. Regulatory guidance on endorsements consistently stresses that commercial relationships should be clearly disclosed and that endorsements must reflect honest opinions rather than misleading marketing.<span class="citation-link-wrap">[Federal Trade Commission+2Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ijnT5SfjknM" title="Achieve 77x Growth in 1 Year with Topical Authority: YMYL SEO for Health Industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ijnT5SfjknM" target="_blank" rel="noopener noreferrer">Achieve 77x Growth in 1 Year with Topical Authority: YMYL SEO for Health Industry</a></p><p class="youtube-embed-meta">Channel: Koray Tuğberk GÜBÜR</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ijnT5SfjknM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ijnT5SfjknM">Open on YouTube</a></p></div></div></div>
@@ -861,7 +861,7 @@ In categories involving health, finance, childcare, electrical safety, or privac
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 3.<a id="endnote-3"></a>
    Source: ftc.gov  

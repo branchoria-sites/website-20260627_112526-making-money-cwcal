@@ -285,7 +285,7 @@ Affiliate comparison pages can be both genuinely useful and commercially success
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2-Illustration-1-dark.svg" | relative_url }}" alt="Disclosure illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_sites_786008_affiliate_commission_ff4cf2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Modern consumer protection guidance increasingly focuses on transparency rather than banning affiliate marketing outright. Regulators generally accept that publishers can earn commission from recommendations, provided readers receive clear, timely information about those financial relationships before they rely on rankings or click affiliate links. The strongest comparison pages therefore treat disclosure as part of the editorial experience rather than as a legal afterthought.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Another principle in the Guides applies to ads that...</span></span></span>
+Modern consumer protection guidance increasingly focuses on transparency rather than banning affiliate marketing outright. Regulators generally accept that publishers can earn commission from recommendations, provided readers receive clear, timely information about those financial relationships before they rely on rankings or click affiliate links. The strongest comparison pages therefore treat disclosure as part of the editorial experience rather than as a legal afterthought.<span class="citation-link-wrap">[Federal Trade Commission+2Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Another principle in the Guides applies to ads that...</span></span></span>
 
 ## Can Readers Trust Affiliate Rankings?
 
@@ -343,7 +343,7 @@ A useful disclosure should communicate:
 
 </div>
 
-Regulators consistently emphasise that disclosures should be **clear and conspicuous**. They should appear where readers encounter recommendations or affiliate links, not hidden in a footer, separate policy page or terms and conditions. Language should be understandable to ordinary readers rather than relying on technical expressions such as "affiliate relationship" alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Another principle in the Guides applies to ads that...</span></span></span>
+Regulators consistently emphasise that disclosures should be **clear and conspicuous**. They should appear where readers encounter recommendations or affiliate links, not hidden in a footer, separate policy page or terms and conditions. Language should be understandable to ordinary readers rather than relying on technical expressions such as "affiliate relationship" alone.<span class="citation-link-wrap">[Federal Trade Commission+2Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Another principle in the Guides applies to ads that...</span></span></span>
 
 For comparison pages specifically, disclosure is most useful near the beginning of the page or immediately above the comparison table, where readers first begin evaluating [alternatives]({{ 'alternatives/' | relative_url }}).
 
@@ -759,12 +759,12 @@ When readers understand both **how the comparison was produced** and **how the p
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Another principle in the Guides applies to ads that...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews  
 
 3.<a id="endnote-3"></a>
    Source: kelleydrye.com  

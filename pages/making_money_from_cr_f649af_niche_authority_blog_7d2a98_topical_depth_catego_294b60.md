@@ -491,7 +491,7 @@ Every maintenance guide, troubleshooting article and educational explanation rei
 
 When readers eventually reach a review page, they have already seen evidence of practical expertise. The affiliate recommendation therefore appears as part of an informed editorial judgement rather than an isolated commercial incentive.
 
-That distinction has become increasingly important as search engines reward people-first content and as advertising regulations continue to require transparent disclosure of affiliate relationships. Trust is built not only by clear disclosures but by consistently demonstrating useful knowledge across the entire product category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">FTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth-in-advertising principle...</span></span></span>
+That distinction has become increasingly important as search engines reward people-first content and as advertising regulations continue to require transparent disclosure of affiliate relationships. Trust is built not only by clear disclosures but by consistently demonstrating useful knowledge across the entire product category.<span class="citation-link-wrap">[ftc.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">FTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth-in-advertising principle...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -895,7 +895,7 @@ That distinction has become increasingly important as search engines reward peop
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth-in-advertising principle...</p></details>
 
 3.<a id="endnote-3"></a>

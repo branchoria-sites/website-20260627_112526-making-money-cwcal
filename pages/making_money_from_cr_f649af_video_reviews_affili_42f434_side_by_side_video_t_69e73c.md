@@ -463,7 +463,7 @@ Practical trust signals include:
 
 </div>
 
-Regulatory guidance consistently emphasises that material relationships should be disclosed clearly and conspicuously so viewers understand when a reviewer may earn a commission. Studies of affiliate disclosures have also found that clear explanatory disclosures improve audience understanding compared with vague labels alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Manatt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsOne key is to make a good disclosure of your relationship to the brand...</span></span></span>
+Regulatory guidance consistently emphasises that material relationships should be disclosed clearly and conspicuously so viewers understand when a reviewer may earn a commission. Studies of affiliate disclosures have also found that clear explanatory disclosures improve audience understanding compared with vague labels alone.<span class="citation-link-wrap">[Federal Trade Commission+2Manatt]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsOne key is to make a good disclosure of your relationship to the brand...</span></span></span>
 
 For affiliate publishers, the comparison itself becomes the evidence. Instead of asking viewers to trust a verdict, it lets them watch two products compete under the same conditions and reach an informed decision based on what they can see.
 
@@ -879,7 +879,7 @@ For affiliate publishers, the comparison itself becomes the evidence. Instead of
 
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionEndorsements, Influencers, and ReviewsOne key is to make a good disclosure of your relationship to the brand...</p></details>
 
 5.<a id="endnote-5"></a>

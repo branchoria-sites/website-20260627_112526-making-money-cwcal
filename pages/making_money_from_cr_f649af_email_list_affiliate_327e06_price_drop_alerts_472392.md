@@ -425,7 +425,7 @@ Price alerts should reinforce editorial trust rather than replace it.
 
 That means occasionally telling readers not to buy. If a product drops in price but has since been overtaken by a better alternative, the email should explain that openly. Short-term commission is less valuable than long-term credibility.
 
-Transparency also extends to affiliate relationships. Where alerts contain affiliate links or lead to pages containing affiliate recommendations, disclosures should be clear and easy for readers to understand. Consumer protection guidance continues to emphasise that affiliate relationships should be disclosed conspicuously rather than hidden or implied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Transparency also extends to affiliate relationships. Where alerts contain affiliate links or lead to pages containing affiliate recommendations, disclosures should be clear and easy for readers to understand. Consumer protection guidance continues to emphasise that affiliate relationships should be disclosed conspicuously rather than hidden or implied.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 Readers who believe alerts are selected because they genuinely help them save money are more likely to remain subscribed, revisit the site and rely on its recommendations for future purchases.
 
@@ -837,7 +837,7 @@ The strongest implementations combine accurate price monitoring, restrained send
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</p></details>
    Published: September 7, 2017  
 

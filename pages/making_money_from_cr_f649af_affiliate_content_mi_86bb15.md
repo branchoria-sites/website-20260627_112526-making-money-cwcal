@@ -1238,7 +1238,7 @@ Affiliate content works best when the mix reflects the buyer’s actual uncertai
 
 41.<a id="endnote-41"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 42.<a id="endnote-42"></a>
    Source: youtube.com  

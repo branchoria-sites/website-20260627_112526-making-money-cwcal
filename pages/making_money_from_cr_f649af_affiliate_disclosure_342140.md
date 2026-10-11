@@ -456,7 +456,7 @@ This matters because affiliate websites depend on trust. A disclosure is not jus
 
 ## What Readers Need to Know
 
-A reader does not need a lecture on affiliate tracking, cookie windows, or commission rates. They do need to know the fact that could change how they interpret the page: the publisher may be paid if the reader clicks or buys. That is the “material connection” regulators care about. The FTC frames this broadly: if a connection between an endorser and a company might affect the weight or [credibility]({{ 'credibility/' | relative_url }}) people give to the endorsement, it should be disclosed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">You may also be liable if</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Advertisers shouldn&#x27;t encourage...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+A reader does not need a lecture on affiliate tracking, cookie windows, or commission rates. They do need to know the fact that could change how they interpret the page: the publisher may be paid if the reader clicks or buys. That is the “material connection” regulators care about. The FTC frames this broadly: if a connection between an endorser and a company might affect the weight or [credibility]({{ 'credibility/' | relative_url }}) people give to the endorsement, it should be disclosed.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">You may also be liable if</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Advertisers shouldn&#x27;t encourage...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 For an affiliate website, the useful disclosure answers three practical questions:
 
@@ -1005,7 +1005,7 @@ For readers, the main signal is not whether a site earns commission. Many high-q
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: You may also be liable if  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Advertisers shouldn&#x27;t encourage...</p></details>
    Published: September 7, 2017  
 
@@ -1048,7 +1048,7 @@ For readers, the main signal is not whether a site earns commission. Many high-q
 10.<a id="endnote-10"></a>
    Source: ftc.gov  
    Title: releases advertising disclosures guidance online influencers  
-   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers</a>  
+   Link:https://www.ftc.gov/news-events/news/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers  
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
@@ -1063,7 +1063,7 @@ For readers, the main signal is not whether a site earns commission. Many high-q
 13.<a id="endnote-13"></a>
    Source: bulkorder.ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link:<a href="https://www.bulkorder.ftc.gov/publications/disclosures-101-social-media-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.bulkorder.ftc.gov/publications/disclosures-101-social-media-influencers</a>  
+   Link:https://www.bulkorder.ftc.gov/publications/disclosures-101-social-media-influencers  
 
 14.<a id="endnote-14"></a>
    Source: ftc.gov  

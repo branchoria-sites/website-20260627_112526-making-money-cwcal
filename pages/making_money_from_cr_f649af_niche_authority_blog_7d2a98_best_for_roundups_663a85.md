@@ -435,7 +435,7 @@ Readers leave with a clearer understanding of why one recommendation suits them 
 
 From a search perspective, this also creates richer, more original content. Instead of reproducing the same generic "top ten" rankings found across countless affiliate sites, the article demonstrates judgement, practical experience and audience awareness. Those qualities closely match Google's published guidance for high-quality product reviews, which encourages original analysis, comparisons, discussion of trade-offs and recommendations tailored to different user needs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWhen writing reviews, focus on the quality and originality of your reviews, not the length...</span></span></span>
 
-Finally, remember that these recommendations are commercial content. If affiliate links generate commissions, that relationship should be disclosed clearly where readers will see it, rather than hidden on a separate disclosure page, helping maintain transparency and comply with advertising guidance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Finally, remember that these recommendations are commercial content. If affiliate links generate commissions, that relationship should be disclosed clearly where readers will see it, rather than hidden on a separate disclosure page, helping maintain transparency and comply with advertising guidance.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HKVQdlHM_Mo" title="4 Types of Affiliate Content that Convert (Make $100k+ Without Being an &quot;Influencer&quot;)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HKVQdlHM_Mo" target="_blank" rel="noopener noreferrer">4 Types of Affiliate Content that Convert (Make $100k+ Without Being an &quot;Influencer&quot;)</a></p><p class="youtube-embed-meta">Channel: Design by Laney</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HKVQdlHM_Mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HKVQdlHM_Mo">Open on YouTube</a></p></div></div></div>
@@ -858,12 +858,12 @@ Finally, remember that these recommendations are commercial content. If affiliat
 
 5.<a id="endnote-5"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 6.<a id="endnote-6"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides are intended to give insight into what the FTC thinks about vari...</p></details>
 
 ### Additional References

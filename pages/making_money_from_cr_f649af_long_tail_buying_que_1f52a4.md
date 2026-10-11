@@ -583,7 +583,7 @@ The editorial rule is simple: split pages by decision logic, not by keyword vari
 
 Long-tail pages often look more personal because they speak to a reader’s exact situation. That can make them persuasive, but it also increases the need for transparency. If a page recommends a product through affiliate links, the reader should be able to tell that the site may earn money.
 
-In the UK, the Advertising Standards Authority says affiliate marketing can fall within the CAP Code when an affiliate is paid for sales, clicks, or other results, and that marketing communications must be obviously identifiable as such.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASAOnline Affiliate Marketing</span><span class="citation-popover-snippet">ASAOnline Affiliate Marketing</span></span></span> In the US, the Federal Trade Commission’s endorsement guidance is built on the principle that endorsements must be honest and not misleading, and that people evaluating a recommendation would want to know if the recommender has a paid relationship with the seller.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+In the UK, the Advertising Standards Authority says affiliate marketing can fall within the CAP Code when an affiliate is paid for sales, clicks, or other results, and that marketing communications must be obviously identifiable as such.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASAOnline Affiliate Marketing</span><span class="citation-popover-snippet">ASAOnline Affiliate Marketing</span></span></span> In the US, the Federal Trade Commission’s endorsement guidance is built on the principle that endorsements must be honest and not misleading, and that people evaluating a recommendation would want to know if the recommender has a paid relationship with the seller.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 Trust is also practical. Baymard’s usability testing found that 95% of users relied on reviews to evaluate products or learn more about them, and that users sometimes relied on review content more than product descriptions or spec sheets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://baymard.com/ecommerce-design-examples/44-user-reviews-section" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute729 ‘User Reviews Section’ Design Examples – Baymard</span><span class="citation-popover-snippet">Institute729 ‘User Reviews Section’ Design Examples – Baymard</span></span></span> An affiliate page that summarises review patterns honestly can add value, especially when it separates recurring issues from one-off complaints. For example, “many buyers mention difficult assembly” is more useful than “great reviews”; “complaints mainly concern delivery damage rather than product failure” is more useful than a star rating.
 
@@ -1200,11 +1200,11 @@ The winning approach is not to chase every phrase with a separate page. It is to
 
 45.<a id="endnote-45"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 46.<a id="endnote-46"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 47.<a id="endnote-47"></a>
    Source: nngroup.com  
@@ -1255,7 +1255,7 @@ The winning approach is not to chase every phrase with a separate page. It is to
 57.<a id="endnote-57"></a>
    Source: seozoom.com  
    Title: google reviews system the algorithm on product reviews  
-   Link:<a href="https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/</a>  
+   Link:https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/  
 
 58.<a id="endnote-58"></a>
    Source: upwardengine.com  

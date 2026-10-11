@@ -291,7 +291,7 @@ The real challenge is not whether to disclose affiliate links, but how to do so 
 
 Affiliate marketing introduces a potential conflict of interest. A publisher may earn money when a reader purchases through a recommendation, creating a reasonable question: was this product chosen because it is the best option or because it pays the highest commission?
 
-Consumer protection authorities treat this as a "material connection" that readers deserve to know about before making a purchasing decision. In the United States, the Federal Trade Commission (FTC) requires clear and conspicuous disclosure of material relationships between publishers and advertisers. Similar principles apply under UK advertising rules, which require commercial intent to be made obvious where consumers might otherwise be misled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Consumer protection authorities treat this as a "material connection" that readers deserve to know about before making a purchasing decision. In the United States, the Federal Trade Commission (FTC) requires clear and conspicuous disclosure of material relationships between publishers and advertisers. Similar principles apply under UK advertising rules, which require commercial intent to be made obvious where consumers might otherwise be misled.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 For authority blogs, disclosure is therefore more than a legal obligation. It signals confidence. Publishers who are comfortable explaining how they make money appear less defensive than those who hide disclosures in footers or legal pages.
 
@@ -313,7 +313,7 @@ Good [placement]({{ 'placement/' | relative_url }}) typically includes:
 
 </div>
 
-Simply placing a disclosure in a website footer or terms page is generally insufficient because many readers will never see it. The FTC repeatedly emphasises that disclosures should be clear, unavoidable and located where consumers are likely to notice them before acting on a recommendation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Simply placing a disclosure in a website footer or terms page is generally insufficient because many readers will never see it. The FTC repeatedly emphasises that disclosures should be clear, unavoidable and located where consumers are likely to notice them before acting on a recommendation.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 Clarity also depends on language. Statements such as:
 
@@ -338,7 +338,7 @@ Authority blogs can reduce perceived bias by adopting visible editorial standard
 
 These practices demonstrate that recommendations follow evidence rather than commission rates.
 
-Google's guidance for high-quality product reviews reinforces many of these same principles. It encourages first-hand experience, meaningful comparisons, evidence of testing, discussion of trade-offs and explanations of which users will benefit from particular products. While Google's guidance is aimed at search quality rather than advertising law, the same characteristics also make affiliate recommendations appear more trustworthy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Google's guidance for high-quality product reviews reinforces many of these same principles. It encourages first-hand experience, meaningful comparisons, evidence of testing, discussion of trade-offs and explanations of which users will benefit from particular products. While Google's guidance is aimed at search quality rather than advertising law, the same characteristics also make affiliate recommendations appear more trustworthy.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42-Illustration-2-dark.svg" | relative_url }}" alt="Disclosure illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_niche_authority_blog_7d2a98_affiliate_disclosure_249c42-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -767,11 +767,11 @@ In that context, the disclosure no longer feels like a legal warning. Instead, i
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingYou should disclose the affiliate relationship both in the videos and in the description...</p></details>
 
 3.<a id="endnote-3"></a>
@@ -787,7 +787,7 @@ In that context, the disclosure no longer feels like a legal warning. Instead, i
 5.<a id="endnote-5"></a>
    Source: consumer.ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>ftc.govFTC&#x27;s Endorsement Guides: What People Are AskingAdvertisers shouldn&#x27;t encourage endorsements using features that don&#x27;t allow for c...</p></details>
 
 ### Additional References

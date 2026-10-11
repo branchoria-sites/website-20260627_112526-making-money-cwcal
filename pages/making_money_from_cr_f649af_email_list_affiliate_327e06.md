@@ -534,7 +534,7 @@ Over-promotion creates three problems. First, readers stop opening. Second, they
 
 A healthier pattern is to set an editorial ratio. For example, a weekly affiliate newsletter might include one main useful idea, one practical recommendation, and one link to a deeper guide. A monthly buying newsletter might focus heavily on products, but only because the reader signed up for buying help in the first place. The commercial intensity should match the promise made at sign-up.
 
-Affiliate email also needs clear disclosure. In the UK, the Advertising Standards Authority says affiliate marketing may need to be identifiable as advertising, depending on the content and arrangement, and its guidance includes emails among the forms where affiliate marketing has been considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">get yourself affiliated with the rules on affiliate marketing</span></span></span> In the US, the Federal Trade Commission says consumers may not understand vague wording such as “affiliate link” by itself, while clearer wording such as “paid link” beside an affiliate link can be adequate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span></span></span>
+Affiliate email also needs clear disclosure. In the UK, the Advertising Standards Authority says affiliate marketing may need to be identifiable as advertising, depending on the content and arrangement, and its guidance includes emails among the forms where affiliate marketing has been considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">get yourself affiliated with the rules on affiliate marketing</span></span></span> In the US, the Federal Trade Commission says consumers may not understand vague wording such as “affiliate link” by itself, while clearer wording such as “paid link” beside an affiliate link can be adequate.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span></span></span>
 
 A practical disclosure inside an email can be plain: “Some links in this email are paid links, which means we may earn a commission if you buy through them.” The disclosure should appear before the reader encounters the affiliate links, not hidden only on a separate website page.
 
@@ -1125,7 +1125,7 @@ That makes email powerful but unforgiving. The list should be built around permi
 25.<a id="endnote-25"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 26.<a id="endnote-26"></a>
    Source: sona.com  
@@ -1144,7 +1144,7 @@ That makes email powerful but unforgiving. The list should be built around permi
 
 29.<a id="endnote-29"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews  
 
 30.<a id="endnote-30"></a>
    Source: goup.co.uk  

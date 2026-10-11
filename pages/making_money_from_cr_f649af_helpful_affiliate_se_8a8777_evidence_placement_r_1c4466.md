@@ -881,7 +881,7 @@ For affiliate publishers, the objective is not to accumulate as much evidence as
 4.<a id="endnote-4"></a>
    Source: seozoom.com  
    Title: google reviews system the algorithm on product reviews  
-   Link:<a href="https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/</a>  
+   Link:https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Reviews System: the algorithm on product reviews17 Apr 2023 — Guide to Reviews system, the Google algorithm evaluating reviews, an...</p></details>
 
 5.<a id="endnote-5"></a>
