@@ -1125,7 +1125,6 @@ That makes email powerful but unforgiving. The list should be built around permi
 25.<a id="endnote-25"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 26.<a id="endnote-26"></a>
    Source: sona.com  
@@ -1144,7 +1143,6 @@ That makes email powerful but unforgiving. The list should be built around permi
 
 29.<a id="endnote-29"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews  
 
 30.<a id="endnote-30"></a>
    Source: goup.co.uk  

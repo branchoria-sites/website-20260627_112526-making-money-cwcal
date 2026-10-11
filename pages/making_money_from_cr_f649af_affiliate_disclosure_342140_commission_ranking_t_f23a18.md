@@ -839,7 +839,6 @@ When readers understand not only **that** a site earns commissions but also **wh
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingHere are answers to some of the most frequently asked questions f...</p></details>
 
 2.<a id="endnote-2"></a>
@@ -895,7 +894,6 @@ When readers understand not only **that** a site earns commissions but also **wh
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsAnswers to questions people are asking about the FTC&#x27;s Endorsement Guides, including information ab...</p></details>
 
 12.<a id="endnote-12"></a>

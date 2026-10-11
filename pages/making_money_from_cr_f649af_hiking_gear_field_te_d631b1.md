@@ -1261,7 +1261,6 @@ The strongest hiking affiliate sites make recommendations feel earned. They do n
 
 56.<a id="endnote-56"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 57.<a id="endnote-57"></a>
    Source: ftc.gov  

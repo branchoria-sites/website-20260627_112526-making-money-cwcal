@@ -833,13 +833,11 @@ For an affiliate website supported by YouTube reviews, clear disclosure should t
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link:https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>This brochure from FTC staff gives tips on when and how to make good disclosures.Read more...</p></details>
 
 4.<a id="endnote-4"></a>

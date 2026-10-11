@@ -1050,7 +1050,6 @@ For websites built around affiliate income, comparison pages are therefore one o
 6.<a id="endnote-6"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 7.<a id="endnote-7"></a>
    Source: arxiv.org  
@@ -1142,7 +1141,6 @@ For websites built around affiliate income, comparison pages are therefore one o
 27.<a id="endnote-27"></a>
    Source: ftc.gov  
    Title: Endorsements, Influencers, and Reviews  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 28.<a id="endnote-28"></a>
    Source: youtube.com  

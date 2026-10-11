@@ -1005,7 +1005,6 @@ For readers, the main signal is not whether a site earns commission. Many high-q
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: You may also be liable if  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Advertisers shouldn&#x27;t encourage...</p></details>
    Published: September 7, 2017  
 
@@ -1048,7 +1047,6 @@ For readers, the main signal is not whether a site earns commission. Many high-q
 10.<a id="endnote-10"></a>
    Source: ftc.gov  
    Title: releases advertising disclosures guidance online influencers  
-   Link:https://www.ftc.gov/news-events/news/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers  
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
@@ -1063,7 +1061,6 @@ For readers, the main signal is not whether a site earns commission. Many high-q
 13.<a id="endnote-13"></a>
    Source: bulkorder.ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link:https://www.bulkorder.ftc.gov/publications/disclosures-101-social-media-influencers  
 
 14.<a id="endnote-14"></a>
    Source: ftc.gov  

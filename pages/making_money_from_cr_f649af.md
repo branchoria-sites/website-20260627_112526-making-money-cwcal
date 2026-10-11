@@ -991,7 +991,6 @@ The winning formula is not “add affiliate links to articles”. It is: choose 
 7.<a id="endnote-7"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 8.<a id="endnote-8"></a>
    Source: asa.org.uk  
@@ -1125,7 +1124,6 @@ The winning formula is not “add affiliate links to articles”. It is: choose 
 
 37.<a id="endnote-37"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/online-advertising-marketing  
 
 38.<a id="endnote-38"></a>
    Source: reddit.com  
@@ -1190,7 +1188,6 @@ The winning formula is not “add affiliate links to articles”. It is: choose 
 
 51.<a id="endnote-51"></a>
    Source: businessinsider.com  
-   Link:https://www.businessinsider.com/influencers-social-other-affiliate-marketers-drove-us-cyber-monday-revenue  
 
 52.<a id="endnote-52"></a>
    Source: amazon.co.uk  

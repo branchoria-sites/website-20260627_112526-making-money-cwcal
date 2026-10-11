@@ -1090,7 +1090,6 @@ That is the core of affiliate SEO for helpful buying guides: connect purchase-re
 
 7.<a id="endnote-7"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 8.<a id="endnote-8"></a>
    Source: asa.org.uk  

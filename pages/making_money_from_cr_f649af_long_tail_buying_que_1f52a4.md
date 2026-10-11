@@ -1200,11 +1200,9 @@ The winning approach is not to chase every phrase with a separate page. It is to
 
 45.<a id="endnote-45"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 46.<a id="endnote-46"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 47.<a id="endnote-47"></a>
    Source: nngroup.com  
@@ -1255,7 +1253,6 @@ The winning approach is not to chase every phrase with a separate page. It is to
 57.<a id="endnote-57"></a>
    Source: seozoom.com  
    Title: google reviews system the algorithm on product reviews  
-   Link:https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/  
 
 58.<a id="endnote-58"></a>
    Source: upwardengine.com  

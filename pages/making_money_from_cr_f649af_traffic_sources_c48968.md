@@ -1013,7 +1013,6 @@ The strongest affiliate traffic strategy is not “SEO versus social” or “fr
 6.<a id="endnote-6"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 7.<a id="endnote-7"></a>
    Source: asa.org.uk  
@@ -1082,7 +1081,6 @@ The strongest affiliate traffic strategy is not “SEO versus social” or “fr
 22.<a id="endnote-22"></a>
    Source: ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link:https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers  
 
 23.<a id="endnote-23"></a>
    Source: reddit.com  

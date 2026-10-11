@@ -1039,7 +1039,6 @@ The strongest product review sites make the reader feel that someone has done th
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 12.<a id="endnote-12"></a>
    Source: arxiv.org  
@@ -1097,7 +1096,6 @@ The strongest product review sites make the reader feel that someone has done th
 24.<a id="endnote-24"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 25.<a id="endnote-25"></a>
    Source: reddit.com  

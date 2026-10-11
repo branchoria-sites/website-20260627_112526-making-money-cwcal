@@ -839,7 +839,6 @@ When evaluating potential affiliate opportunities, the most important question i
 
 12.<a id="endnote-12"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 13.<a id="endnote-13"></a>
    Source: Wikipedia  
@@ -848,7 +847,6 @@ When evaluating potential affiliate opportunities, the most important question i
 
 14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingHere are answers to some of the most frequently asked questions from advertisers, ad agen...</p></details>
 
 15.<a id="endnote-15"></a>

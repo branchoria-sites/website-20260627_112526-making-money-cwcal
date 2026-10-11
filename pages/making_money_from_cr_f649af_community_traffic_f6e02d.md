@@ -1273,7 +1273,6 @@ The non-spam path is slower than link dropping, but it compounds. A publisher wh
 68.<a id="endnote-68"></a>
    Source: ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link:https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers  
 
 69.<a id="endnote-69"></a>
    Source: searchengineland.com  

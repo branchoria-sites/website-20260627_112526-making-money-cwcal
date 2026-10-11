@@ -825,12 +825,10 @@ For affiliate websites built around product roundups, stronger ad labelling is t
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingHere are answers to some of the most frequently asked questions f...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsThis brochure from FTC staff gives tips on when and how to make good disclosures.... FTC&#x27;s Endorse...</p></details>
 
 3.<a id="endnote-3"></a>

@@ -987,7 +987,6 @@ The commercial upside is indirect but real. A reader who saves £50 because a si
 7.<a id="endnote-7"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 8.<a id="endnote-8"></a>
    Source: arxiv.org  

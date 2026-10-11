@@ -881,7 +881,6 @@ For affiliate websites, this creates a practical advantage. A retailer can publi
 5.<a id="endnote-5"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — An endorsement must reflect the honest opinion of t...</p></details>
 
 ### Additional References
@@ -893,7 +892,6 @@ For affiliate websites, this creates a practical advantage. A retailer can publi
 
 7.<a id="endnote-7"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 8.<a id="endnote-8"></a>
    Source: federalregister.gov  

@@ -805,7 +805,6 @@ When disclosures appear before the first affiliate link and are repeated where b
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Advertisers shouldn&#x27;t encourage endorsements using...</p></details>
 
 2.<a id="endnote-2"></a>

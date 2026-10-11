@@ -1060,7 +1060,6 @@ For an affiliate website, that is the durable advantage. Commission income depen
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 12.<a id="endnote-12"></a>
    Source: researchgate.net  
@@ -1072,12 +1071,10 @@ For an affiliate website, that is the durable advantage. Commission income depen
 
 14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 15.<a id="endnote-15"></a>
    Source: ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link:https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers  
 
 16.<a id="endnote-16"></a>
    Source: asa.org.uk  

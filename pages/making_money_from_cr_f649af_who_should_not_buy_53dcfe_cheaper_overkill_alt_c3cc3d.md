@@ -854,13 +854,11 @@ For affiliate publishers, that reputation becomes a competitive advantage. Indiv
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — An endorsement must reflect the...</p></details>
    Published: September 7, 2017  
 
 5.<a id="endnote-5"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsThe FTC&#x27;s Rule on the Use of Consumer Reviews and Testimonials addresses the persistent problem of...</p></details>
 
 6.<a id="endnote-6"></a>

@@ -1198,7 +1198,6 @@ The safest rule is to treat paid affiliate traffic as a margin-tested mechanism,
 
 35.<a id="endnote-35"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 36.<a id="endnote-36"></a>
    Source: trackmastersroi.com  
@@ -1216,7 +1215,6 @@ The safest rule is to treat paid affiliate traffic as a margin-tested mechanism,
 
 39.<a id="endnote-39"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing  
 
 40.<a id="endnote-40"></a>
    Source: postaffiliatepro.com  

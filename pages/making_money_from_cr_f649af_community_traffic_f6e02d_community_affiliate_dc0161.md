@@ -822,7 +822,6 @@ That approach satisfies the underlying purpose of disclosure guidance from adver
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link:https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>This brochure from FTC staff gives tips on when and how to make good disclosures.Read more...</p></details>
 
 2.<a id="endnote-2"></a>

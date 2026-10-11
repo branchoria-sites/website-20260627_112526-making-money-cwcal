@@ -926,7 +926,6 @@ Regulators have increasingly focused on authentic endorsements, genuine reviews,
 
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</p></details>
 
 ### Additional References

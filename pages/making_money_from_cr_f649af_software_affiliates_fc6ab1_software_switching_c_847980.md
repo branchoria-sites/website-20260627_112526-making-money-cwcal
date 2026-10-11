@@ -910,7 +910,6 @@ In software affiliate publishing, credibility is not simply an ethical advantage
 13.<a id="endnote-13"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Even an incentive with no financial value might affect the weight or credib...</p></details>
 
 14.<a id="endnote-14"></a>

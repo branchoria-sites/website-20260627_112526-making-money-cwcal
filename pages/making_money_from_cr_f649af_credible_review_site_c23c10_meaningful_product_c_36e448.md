@@ -892,13 +892,11 @@ Readers remember reviews that help them avoid expensive mistakes far longer than
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</p></details>
    Published: September 7, 2017  
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</p></details>
 
 3.<a id="endnote-3"></a>

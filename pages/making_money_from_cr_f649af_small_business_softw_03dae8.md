@@ -1096,7 +1096,6 @@ Small-business software can be a better affiliate niche when the website has eno
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 12.<a id="endnote-12"></a>
    Source: cms.law  
