@@ -479,7 +479,7 @@ This practical framing helps readers decide whether the extra investment matches
 
 Readers naturally question whether an expensive recommendation is influenced by commission.
 
-Clear disclosure helps address that concern rather than hiding it. Affiliate relationships should be disclosed prominently, and reviews should accurately represent genuine experience rather than implying testing that never occurred. Regulators emphasise that endorsements should reflect honest opinions and that material financial relationships should be disclosed clearly and conspicuously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Clear disclosure helps address that concern rather than hiding it. Affiliate relationships should be disclosed prominently, and reviews should accurately represent genuine experience rather than implying testing that never occurred. Regulators emphasise that endorsements should reflect honest opinions and that material financial relationships should be disclosed clearly and conspicuously.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 Transparency can also include explaining:
 
@@ -903,7 +903,7 @@ When expensive reviews consistently answer these questions with original evidenc
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</p></details>
    Published: September 7, 2017  
 

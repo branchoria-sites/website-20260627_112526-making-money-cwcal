@@ -562,7 +562,7 @@ The search value comes from specificity. A page with original data, photos, comp
 
 First-hand testing can build trust only if the page is transparent about the limits of that testing. A short trial is not the same as long-term ownership. A gifted sample is not the same as an anonymous retail purchase. A single-person comfort judgement is not universal. A home measurement is not a certified lab result. A good affiliate review explains these limits plainly.
 
-Disclosure is part of that trust. In the UK, [affiliate content]({{ 'content-mix/' | relative_url }}) must be identifiable as marketing when affiliate links are included, and the ASA’s guidance makes clear that commercial intent should not be hidden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Rule 2.1 of the CAP Code requires that marketing communications are obviously identifiable as suc...</span></span></span> In the US, the FTC says that if someone receives free products or other perks with the expectation that they will promote or discuss an advertiser’s products, the FTC Act applies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span> Clear disclosure does not weaken a good review; it prevents the reader from feeling tricked.
+Disclosure is part of that trust. In the UK, [affiliate content]({{ 'content-mix/' | relative_url }}) must be identifiable as marketing when affiliate links are included, and the ASA’s guidance makes clear that commercial intent should not be hidden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Rule 2.1 of the CAP Code requires that marketing communications are obviously identifiable as suc...</span></span></span> In the US, the FTC says that if someone receives free products or other perks with the expectation that they will promote or discuss an advertiser’s products, the FTC Act applies.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span> Clear disclosure does not weaken a good review; it prevents the reader from feeling tricked.
 
 Affiliate pages should also avoid common testing claims that sound impressive but are hard to trust:
 
@@ -1060,7 +1060,7 @@ For an affiliate website, that is the durable advantage. Commission income depen
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 12.<a id="endnote-12"></a>
    Source: researchgate.net  
@@ -1072,12 +1072,12 @@ For an affiliate website, that is the durable advantage. Commission income depen
 
 14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 15.<a id="endnote-15"></a>
    Source: ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers  
 
 16.<a id="endnote-16"></a>
    Source: asa.org.uk  

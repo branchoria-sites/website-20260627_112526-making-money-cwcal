@@ -480,7 +480,7 @@ Good practice includes explaining:
 * whether affiliate commissions influence rankings
 * how products were selected for testing
 
-Regulators similarly expect endorsements to reflect genuine opinions and require material commercial relationships, including affiliate commissions where relevant, to be disclosed clearly and prominently rather than hidden away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</span></span></span>
+Regulators similarly expect endorsements to reflect genuine opinions and require material commercial relationships, including affiliate commissions where relevant, to be disclosed clearly and prominently rather than hidden away.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</span></span></span>
 
 Transparency complements first-hand testing because both communicate the same message: the recommendation is supported by observable evidence rather than hidden commercial incentives.
 
@@ -894,7 +894,7 @@ That consistency becomes part of the site's authority. Instead of asking readers
 
 3.<a id="endnote-3"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</p></details>
 
 4.<a id="endnote-4"></a>

@@ -390,7 +390,7 @@ Notice that the recommendation focuses on the missing capability rather than aut
 
 One reason many affiliate reviews fail is that they avoid mentioning genuine deal-breakers. Every omission appears minor because the page is written to maximise clicks rather than improve buying decisions.
 
-Consumer protection guidance around endorsements consistently stresses that endorsements should reflect honest opinions rather than create misleading impressions. Likewise, Google's review guidance rewards reviews that explain meaningful drawbacks alongside strengths instead of functioning as disguised advertisements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Consumer protection guidance around endorsements consistently stresses that endorsements should reflect honest opinions rather than create misleading impressions. Likewise, Google's review guidance rewards reviews that explain meaningful drawbacks alongside strengths instead of functioning as disguised advertisements.<span class="citation-link-wrap">[Federal Trade Commission+2Federal Register]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 For affiliate publishers, that creates an important editorial principle:
 
@@ -798,7 +798,7 @@ Readers generally remember the reviewer who stopped them making an expensive mis
 
 7.<a id="endnote-7"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 8.<a id="endnote-8"></a>
    Source: federalregister.gov  
@@ -815,7 +815,7 @@ Readers generally remember the reviewer who stopped them making an expensive mis
 10.<a id="endnote-10"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — When the review has a clear and conspicuous disclosure of your relationship...</p></details>
 
 11.<a id="endnote-11"></a>

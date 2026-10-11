@@ -525,7 +525,7 @@ That is why software affiliate sites need stronger evidence than “we like this
 
 Google’s spam policies are relevant here because [thin affiliate pages]({{ 'thin-pages/' | relative_url }}) can lose visibility if they mostly reproduce merchant descriptions without adding value. Google specifically warns against spammy practices that can cause pages or sites to rank lower or be omitted from Search, and its policies include “thin affiliate” pages that provide little added value beyond the original merchant or network content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
 
-Disclosure is also part of credibility, not just compliance. The FTC’s endorsement guidance says material connections between advertisers and endorsers should be disclosed, and its FAQ is aimed at advertisers, bloggers, influencers, and others using endorsements. Academic research has repeatedly found that affiliate disclosure practices are weak: a 2018 study of more than 500,000 YouTube videos and 2.1 million Pinterest pins found that only about one-tenth of affiliate content contained any disclosure, and shorter non-explanatory disclosures often failed to help users understand the relationship.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+Disclosure is also part of credibility, not just compliance. The FTC’s endorsement guidance says material connections between advertisers and endorsers should be disclosed, and its FAQ is aimed at advertisers, bloggers, influencers, and others using endorsements. Academic research has repeatedly found that affiliate disclosure practices are weak: a 2018 study of more than 500,000 YouTube videos and 2.1 million Pinterest pins found that only about one-tenth of affiliate content contained any disclosure, and shorter non-explanatory disclosures often failed to help users understand the relationship.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 For software affiliate sites, clear disclosure can be a trust signal rather than a conversion killer. A reader evaluating payroll, analytics, CRM, accounting, or customer-support software already expects commercial incentives to exist. What they need is confidence that the commission has not replaced judgement.
 
@@ -598,7 +598,7 @@ The second failure is treating B2B software like a consumer impulse buy. Many so
 
 The third failure is publishing pages that age badly. A software review can become misleading within months if pricing, plan limits, integrations, or product quality change. This is more serious than a stale product photo: a reader may make a business decision based on outdated information.
 
-The fourth failure is hiding incentives. When a site recommends only products with affiliate programmes, never explains its testing process, and avoids naming drawbacks, readers notice. Regulators and platforms notice too. The FTC’s guidance on material connections and Google’s stance on low-value affiliate content both point in the same direction: the affiliate relationship must not be disguised, and the page should add value beyond the merchant’s sales copy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+The fourth failure is hiding incentives. When a site recommends only products with affiliate programmes, never explains its testing process, and avoids naming drawbacks, readers notice. Regulators and platforms notice too. The FTC’s guidance on material connections and Google’s stance on low-value affiliate content both point in the same direction: the affiliate relationship must not be disguised, and the page should add value beyond the merchant’s sales copy.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 ## What makes software affiliates capable of out-earning product reviews
 
@@ -1082,7 +1082,7 @@ That is the central reason software affiliates can earn more: they are not merel
 
 17.<a id="endnote-17"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 18.<a id="endnote-18"></a>
    Source: partnerstack.com  
@@ -1170,7 +1170,7 @@ That is the central reason software affiliates can earn more: they are not merel
 36.<a id="endnote-36"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 37.<a id="endnote-37"></a>
    Source: impact.com  

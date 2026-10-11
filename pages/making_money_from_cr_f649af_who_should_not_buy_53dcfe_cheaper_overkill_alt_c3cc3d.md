@@ -390,7 +390,7 @@ Readers increasingly recognise this behaviour.
 
 Google's product review guidance encourages reviewers to explain differences between products, discuss limitations and provide evidence-based comparisons rather than simply promoting one option. Pages that include realistic [alternatives]({{ 'alternatives/' | relative_url }}) generally align better with that philosophy than pages that recommend the same premium choice to every visitor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.motioninvest.com/googles-product-reviews-update-a-full-analysis-for-affiliate-marketers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: motioninvest.com">[motioninvest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">motioninvest.com</span><span class="citation-popover-title">3) Compare the Product to Other Options.Read more</span><span class="citation-popover-snippet">Google&#x27;s Product Reviews Update: A Full Analysis...It was designed to reward product review content that provides “insightful analysis a...</span></span></span>
 
-Trust is also reinforced through honest endorsements. Regulatory guidance from the US Federal Trade Commission states that endorsements should reflect genuine opinions and honest experiences rather than marketing claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — An endorsement must reflect the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Trust is also reinforced through honest endorsements. Regulatory guidance from the US Federal Trade Commission states that endorsements should reflect genuine opinions and honest experiences rather than marketing claims.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — An endorsement must reflect the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 When readers repeatedly discover that your cheaper recommendation genuinely fits their needs, they become more confident that future premium recommendations are equally sincere.
 
@@ -854,13 +854,13 @@ For affiliate publishers, that reputation becomes a competitive advantage. Indiv
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — An endorsement must reflect the...</p></details>
    Published: September 7, 2017  
 
 5.<a id="endnote-5"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsThe FTC&#x27;s Rule on the Use of Consumer Reviews and Testimonials addresses the persistent problem of...</p></details>
 
 6.<a id="endnote-6"></a>

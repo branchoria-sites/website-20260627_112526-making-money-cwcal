@@ -293,7 +293,7 @@ An editorial newsletter resembles the work of a specialist magazine or experienc
 
 That distinction changes both the tone and structure of the email. Rather than presenting ten unrelated products, an editorial email might explain why one product category has improved, compare two competing approaches or identify common purchasing mistakes before recommending specific options.
 
-Readers quickly recognise whether recommendations are based on genuine judgement or whether every paragraph exists to generate clicks. Transparency about affiliate relationships supports this trust rather than weakening it. Regulatory guidance also requires clear disclosure whenever affiliate links create a financial relationship with the publisher. Disclosures should appear before or alongside relevant links using straightforward language rather than obscure legal [wording]({{ 'wording/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2SEQ Legal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Is “commissionable link” a good</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — “Paid link” right next to an af...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Readers quickly recognise whether recommendations are based on genuine judgement or whether every paragraph exists to generate clicks. Transparency about affiliate relationships supports this trust rather than weakening it. Regulatory guidance also requires clear disclosure whenever affiliate links create a financial relationship with the publisher. Disclosures should appear before or alongside relevant links using straightforward language rather than obscure legal [wording]({{ 'wording/' | relative_url }}).<span class="citation-link-wrap">[Federal Trade Commission+2SEQ Legal]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Is “commissionable link” a good</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — “Paid link” right next to an af...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 An editorial voice therefore depends on three connected principles:
 
@@ -421,7 +421,7 @@ Independent criticism signals that recommendations are based on reader outcomes 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_editorial_affiliate_f2ef2b-Illustration-3-dark.svg" | relative_url }}" alt="Editorial Email illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_editorial_affiliate_f2ef2b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_email_list_affiliate_327e06_editorial_affiliate_f2ef2b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Transparency Strengthens Rather Than Weakens Credibility
 
-Some publishers worry that prominent affiliate disclosures discourage clicks. Research and regulatory guidance instead suggest that clear explanations help readers understand the commercial relationship while reducing the likelihood of deception or confusion. The most effective disclosures use plain language and appear before readers encounter affiliate links rather than being hidden elsewhere in the email.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2SEQ Legal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Is “commissionable link” a good</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — “Paid link” right next to an af...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Some publishers worry that prominent affiliate disclosures discourage clicks. Research and regulatory guidance instead suggest that clear explanations help readers understand the commercial relationship while reducing the likelihood of deception or confusion. The most effective disclosures use plain language and appear before readers encounter affiliate links rather than being hidden elsewhere in the email.<span class="citation-link-wrap">[Federal Trade Commission+2SEQ Legal]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Is “commissionable link” a good</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — “Paid link” right next to an af...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 A concise disclosure can comfortably fit an editorial tone:
 
@@ -829,7 +829,7 @@ That balance is precisely what makes future affiliate recommendations more persu
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: Is “commissionable link” a good  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — “Paid link” right next to an af...</p></details>
    Published: September 7, 2017  
 
@@ -841,7 +841,7 @@ That balance is precisely what makes future affiliate recommendations more persu
 
 3.<a id="endnote-3"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 ### Additional References
 

@@ -435,7 +435,7 @@ Some affiliate sites attempt to compensate for limited access by rewriting speci
 
 Google explicitly encourages review content that demonstrates original insight and practical knowledge rather than summarising information already available elsewhere. Reviews that merely aggregate publicly available specifications provide limited additional value for users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers+2Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsLearn how to write high quality reviews and see how they can help shoppers discover your r...</span></span></span>
 
-Regulators also expect endorsements to reflect genuine opinions and experiences. The US Federal Trade Commission's Endorsement Guides state that endorsements must represent the honest opinions, findings or experiences of the endorser, and any material connection—such as affiliate compensation or gifted products—should be disclosed clearly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">In addition,</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAn endorsement must reflect the honest opinion of the endorser an...</span></span></span>
+Regulators also expect endorsements to reflect genuine opinions and experiences. The US Federal Trade Commission's Endorsement Guides state that endorsements must represent the honest opinions, findings or experiences of the endorser, and any material connection—such as affiliate compensation or gifted products—should be disclosed clearly.<span class="citation-link-wrap">[Federal Trade Commission+2Federal Register]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">In addition,</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAn endorsement must reflect the honest opinion of the endorser an...</span></span></span>
 
 Even outside jurisdictions where FTC rules apply directly, these principles align with broader expectations of transparency that influence reader trust and industry best practice.
 
@@ -873,12 +873,12 @@ In practical terms, the commission potential of high-ticket products should neve
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
    Title: In addition,  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAn endorsement must reflect the honest opinion of the endorser an...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsThis brochure from FTC staff gives tips on when and how to make good disclosures. Featuring Online...</p></details>
 
 6.<a id="endnote-6"></a>

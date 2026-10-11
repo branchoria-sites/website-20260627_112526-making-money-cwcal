@@ -510,7 +510,7 @@ None of these prove a reviewer lacks first-hand experience individually, but tog
 
 Original images do not remove the need for clear affiliate disclosures, but they complement transparent reviewing practices. When readers can see genuine evidence of ownership alongside honest discussion of strengths and weaknesses, the review becomes more credible than one built entirely from marketing assets.
 
-Regulators have increasingly focused on authentic endorsements, genuine reviews, and transparent commercial relationships. Demonstrating real experience through original photography supports the broader principle that recommendations should reflect genuine use rather than manufactured impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</span></span></span>
+Regulators have increasingly focused on authentic endorsements, genuine reviews, and transparent commercial relationships. Demonstrating real experience through original photography supports the broader principle that recommendations should reflect genuine use rather than manufactured impressions.<span class="citation-link-wrap">[Federal Trade Commission+2gov.uk]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -926,7 +926,7 @@ Regulators have increasingly focused on authentic endorsements, genuine reviews,
 
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionEndorsements, Influencers, and ReviewsGet plain language guidance from the FTC related to reviews, social media i...</p></details>
 
 ### Additional References

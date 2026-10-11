@@ -608,7 +608,7 @@ The commercial method is to connect each flaw to a buying decision rather than l
 
 </div>
 
-This is better than pretending every recommended product is perfect. The FTC says endorsements must reflect the honest opinion of the endorser and cannot be used to make claims the marketer could not legally make.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">s endorsement guides what people are asking</span></span></span> In the UK, the ASA explains that affiliate marketing is performance-based marketing, and its social media guidance says content referring to a product with an affiliate link or code will typically count as advertising.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span> A transparent affiliate page should therefore disclose commercial links clearly and keep the review independent enough that the reader can see the downsides.
+This is better than pretending every recommended product is perfect. The FTC says endorsements must reflect the honest opinion of the endorser and cannot be used to make claims the marketer could not legally make.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">s endorsement guides what people are asking</span></span></span> In the UK, the ASA explains that affiliate marketing is performance-based marketing, and its social media guidance says content referring to a product with an affiliate link or code will typically count as advertising.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span> A transparent affiliate page should therefore disclose commercial links clearly and keep the review independent enough that the reader can see the downsides.
 
 Research on affiliate disclosures also shows why clarity matters. A Princeton-led study of YouTube and Pinterest affiliate content found that only around one-tenth of affiliate content contained disclosures, and that users often failed to understand short, non-explanatory disclosures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Although that study focused on social platforms rather than kitchen appliance websites, the lesson carries over: readers should not have to decode whether a recommendation is commercially linked.
 
@@ -1120,7 +1120,7 @@ For this niche, real-use flaws are not decoration. They are the content moat. No
 12.<a id="endnote-12"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 13.<a id="endnote-13"></a>
    Source: asa.org.uk  
@@ -1194,7 +1194,7 @@ For this niche, real-use flaws are not decoration. They are the content moat. No
 
 29.<a id="endnote-29"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 30.<a id="endnote-30"></a>
    Source: schoolsweb.buckinghamshire.gov.uk  

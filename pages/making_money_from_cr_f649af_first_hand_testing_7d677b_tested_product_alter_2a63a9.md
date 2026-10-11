@@ -404,7 +404,7 @@ Conversely, explain when premium improvements become marginal.
 
 Statements such as "the extra £250 buys slightly nicer materials but produces almost identical results in everyday use" are far more valuable than generic praise.
 
-Balanced recommendations also align with regulatory expectations that endorsements reflect genuine opinions and that commercial relationships are disclosed clearly rather than influencing supposedly independent advice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Balanced recommendations also align with regulatory expectations that endorsements reflect genuine opinions and that commercial relationships are disclosed clearly rather than influencing supposedly independent advice.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_tested_product_alter_2a63a9-Illustration-3-dark.svg" | relative_url }}" alt="Alternatives illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_tested_product_alter_2a63a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_first_hand_testing_7d677b_tested_product_alter_2a63a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -859,7 +859,7 @@ When those recommendations come from products you have actually tested under com
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</p></details>
    Published: September 7, 2017  
 

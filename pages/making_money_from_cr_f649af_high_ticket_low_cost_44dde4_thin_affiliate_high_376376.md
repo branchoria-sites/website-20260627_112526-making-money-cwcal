@@ -389,7 +389,7 @@ Publishers strengthen trust when they:
 
 </div>
 
-Transparent disclosure also aligns with advertising guidance requiring material relationships to be made clear so readers understand the commercial connection behind recommendations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Transparent disclosure also aligns with advertising guidance requiring material relationships to be made clear so readers understand the commercial connection behind recommendations.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 Counterintuitively, acknowledging weaknesses often increases credibility. A review that concludes an expensive product is unsuitable for many buyers may earn fewer immediate commissions but is more likely to build long-term audience trust than a page presenting every premium product as an obvious purchase.
 
@@ -858,7 +858,7 @@ For expensive affiliate products, the commission size raises both the commercial
 14.<a id="endnote-14"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</p></details>
    Published: September 7, 2017  
 

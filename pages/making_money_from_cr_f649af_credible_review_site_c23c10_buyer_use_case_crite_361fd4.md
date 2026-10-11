@@ -485,7 +485,7 @@ That transparency reduces the appearance that [affiliate commissions]({{ 'disclo
 
 ## Align recommendations with editorial trust
 
-Affiliate reviews inevitably create a commercial relationship between publisher and retailer. Regulatory guidance therefore emphasises that readers should understand when recommendations may involve compensation, while Google encourages review content that demonstrates genuine experience, meaningful comparisons and evidence supporting recommendations rather than unsupported rankings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — The Guides are intended to give...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Affiliate reviews inevitably create a commercial relationship between publisher and retailer. Regulatory guidance therefore emphasises that readers should understand when recommendations may involve compensation, while Google encourages review content that demonstrates genuine experience, meaningful comparisons and evidence supporting recommendations rather than unsupported rankings.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — The Guides are intended to give...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 Review criteria become part of that trust signal.
 
@@ -902,7 +902,7 @@ For readers, that makes purchasing decisions easier. For affiliate publishers, i
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — The Guides are intended to give...</p></details>
    Published: September 7, 2017  
 

@@ -293,7 +293,7 @@ The trust problem is not that affiliate commissions exist. It is that readers ca
 
 Imagine two products that perform similarly. One pays a 3% commission and another pays 10%. Without an explanation of the site's review process, readers may reasonably suspect that the higher-paying product will appear first, regardless of quality.
 
-That suspicion matters because [affiliate content]({{ 'content-mix/' | relative_url }}) often presents itself as independent editorial advice rather than advertising. Consumer protection guidance from regulators such as the US Federal Trade Commission (FTC) focuses on ensuring readers understand material financial relationships that could affect the [credibility]({{ 'credibility/' | relative_url }}) they assign to recommendations. The UK Advertising Standards Authority (ASA) similarly requires commercial intent to be obvious where it is not already apparent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingHere are answers to some of the most frequently asked questions f...</span></span></span>
+That suspicion matters because [affiliate content]({{ 'content-mix/' | relative_url }}) often presents itself as independent editorial advice rather than advertising. Consumer protection guidance from regulators such as the US Federal Trade Commission (FTC) focuses on ensuring readers understand material financial relationships that could affect the [credibility]({{ 'credibility/' | relative_url }}) they assign to recommendations. The UK Advertising Standards Authority (ASA) similarly requires commercial intent to be obvious where it is not already apparent.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingHere are answers to some of the most frequently asked questions f...</span></span></span>
 
 A clear explanation therefore answers a practical question:
 
@@ -839,7 +839,7 @@ When readers understand not only **that** a site earns commissions but also **wh
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingHere are answers to some of the most frequently asked questions f...</p></details>
 
 2.<a id="endnote-2"></a>
@@ -895,7 +895,7 @@ When readers understand not only **that** a site earns commissions but also **wh
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsAnswers to questions people are asking about the FTC&#x27;s Endorsement Guides, including information ab...</p></details>
 
 12.<a id="endnote-12"></a>

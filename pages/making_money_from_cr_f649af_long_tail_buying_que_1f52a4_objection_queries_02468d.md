@@ -422,7 +422,7 @@ This framing avoids exaggerating weaknesses while still giving readers permissio
 
 Retailers are naturally incentivised to minimise purchase friction. Manufacturers understandably focus on strengths. Independent affiliate publishers can fill a different role by helping readers recognise when a product is wrong for them.
 
-That creates content that is difficult for product pages to replace because it answers questions that buyers often hesitate to ask until the final moments before purchase. It also aligns with advertising and affiliate guidance that endorsements should be truthful, transparent and not misleading, including clear disclosure of affiliate relationships where applicable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov+2ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">FT C&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">FTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the most frequently asked q...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+That creates content that is difficult for product pages to replace because it answers questions that buyers often hesitate to ask until the final moments before purchase. It also aligns with advertising and affiliate guidance that endorsements should be truthful, transparent and not misleading, including clear disclosure of affiliate relationships where applicable.<span class="citation-link-wrap">[ftc.gov+2ftc.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">FT C&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">FTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the most frequently asked q...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vGGVYrb-UhI" title="How To Write Honest Product Reviews" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vGGVYrb-UhI" target="_blank" rel="noopener noreferrer">How To Write Honest Product Reviews</a></p><p class="youtube-embed-meta">Channel: Narrato</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vGGVYrb-UhI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vGGVYrb-UhI">Open on YouTube</a></p></div></div></div>
@@ -814,13 +814,13 @@ That creates content that is difficult for product pages to replace because it a
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: FT C's Endorsement Guides: What People Are Asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the most frequently asked q...</p></details>
    Published: September 7, 2017  
 
 3.<a id="endnote-3"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsAnswers to questions people are asking about the FTC&#x27;s Endorsement Guides, including information ab...</p></details>
 
 ### Additional References

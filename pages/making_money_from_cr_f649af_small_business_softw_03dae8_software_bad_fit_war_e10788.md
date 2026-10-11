@@ -505,7 +505,7 @@ Affiliate publishers sometimes worry that highlighting weaknesses will reduce co
 
 In practice, the opposite can happen.
 
-Readers who see transparent limitations are more likely to believe the positive recommendations as well. Clear disclosures, balanced endorsements and honest discussion of drawbacks are also consistent with advertising guidance that expects affiliate relationships to be transparent and endorsements not to mislead consumers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Capterra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
+Readers who see transparent limitations are more likely to believe the positive recommendations as well. Clear disclosures, balanced endorsements and honest discussion of drawbacks are also consistent with advertising guidance that expects affiliate relationships to be transparent and endorsements not to mislead consumers.<span class="citation-link-wrap">[Federal Trade Commission+2Capterra]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</span><span class="citation-popover-meta">Published: September 7, 2017</span></span></span>
 
 From a business perspective, accurate "do-not-choose" advice can also reduce dissatisfied referrals. Someone who purchases software despite a clearly explained warning is making an informed decision, while someone who avoids an unsuitable product may return later for recommendations better matched to their needs.
 
@@ -927,7 +927,7 @@ The strongest software affiliate reviews therefore avoid presenting products as 
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Here are answers to some of the...</p></details>
    Published: September 7, 2017  
 

@@ -579,9 +579,9 @@ The safest reading of paid-search rules is not “PPC allowed” or “PPC banne
 
 Paid traffic does not remove the need for affiliate disclosure. In fact, it can make disclosure more important because the visitor has arrived through an advert and may be moving quickly through a commercial funnel.
 
-The US Federal Trade Commission’s endorsement guidance states that endorsements must be honest and not misleading, and that material connections affecting the weight or [credibility]({{ 'credibility/' | relative_url }}) of an endorsement should be disclosed. Amazon Associates also tells participants that whenever they share an affiliate link, they should disclose that relationship and identify themselves as an Amazon Associate in the required form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+The US Federal Trade Commission’s endorsement guidance states that endorsements must be honest and not misleading, and that material connections affecting the weight or [credibility]({{ 'credibility/' | relative_url }}) of an endorsement should be disclosed. Amazon Associates also tells participants that whenever they share an affiliate link, they should disclose that relationship and identify themselves as an Amazon Associate in the required form.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
-A paid affiliate landing page should therefore avoid burying the commercial relationship in a footer. A plain disclosure near the top of the page is better for readers and safer for compliance. In UK-facing contexts, the Advertising Standards Authority also treats affiliate marketing as a form of advertising where commercial intent must be clear when content is directly connected to payment by clicks, sales, or other outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+A paid affiliate landing page should therefore avoid burying the commercial relationship in a footer. A plain disclosure near the top of the page is better for readers and safer for compliance. In UK-facing contexts, the Advertising Standards Authority also treats affiliate marketing as a form of advertising where commercial intent must be clear when content is directly connected to payment by clicks, sales, or other outcomes.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 The commercial reason is just as important as the legal one. Thin affiliate pages already face a trust gap: the reader may suspect that the recommendation exists only because of commission. Clear disclosure does not destroy conversion if the page genuinely helps the reader. It can filter out low-trust clicks and reduce the risk of misleading ad journeys.
 
@@ -1198,7 +1198,7 @@ The safest rule is to treat paid affiliate traffic as a margin-tested mechanism,
 
 35.<a id="endnote-35"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 36.<a id="endnote-36"></a>
    Source: trackmastersroi.com  
@@ -1216,7 +1216,7 @@ The safest rule is to treat paid affiliate traffic as a margin-tested mechanism,
 
 39.<a id="endnote-39"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing</a>  
+   Link:https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing  
 
 40.<a id="endnote-40"></a>
    Source: postaffiliatepro.com  
