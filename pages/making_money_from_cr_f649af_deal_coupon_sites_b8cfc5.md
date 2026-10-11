@@ -1003,11 +1003,9 @@ The strongest version of the model treats discounts as information, not bait. It
 
 10.<a id="endnote-10"></a>
    Source: consumer.ftc.gov  
-   Link:https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 12.<a id="endnote-12"></a>
    Source: impact.com  

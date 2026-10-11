@@ -1028,12 +1028,10 @@ In affiliate publishing, Wirecutter’s central lesson is simple: the commission
 
 17.<a id="endnote-17"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 18.<a id="endnote-18"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 19.<a id="endnote-19"></a>
    Source: news.ycombinator.com  

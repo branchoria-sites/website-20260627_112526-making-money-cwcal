@@ -834,13 +834,11 @@ For publishers building traffic beyond Google Search, consistent disclosure acro
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingHere are answers to some of the most frequently asked questions f...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission Endorsements, Influencers, and Reviews  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionEndorsements, Influencers, and Reviews - Federal Trade CommissionAnswers to questions people are asking about the...</p></details>
 
 13.<a id="endnote-13"></a>

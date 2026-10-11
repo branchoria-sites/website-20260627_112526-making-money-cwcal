@@ -1219,12 +1219,10 @@ The commercial payoff comes from combining trust and intent. Video earns trust b
 52.<a id="endnote-52"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 53.<a id="endnote-53"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission Disclosures 101 for Social Media Influencers  
-   Link:https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers  
 
 54.<a id="endnote-54"></a>
    Source: washingtonpost.com  

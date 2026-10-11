@@ -873,12 +873,10 @@ In practical terms, the commission potential of high-ticket products should neve
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
    Title: In addition,  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAn endorsement must reflect the honest opinion of the endorser an...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsThis brochure from FTC staff gives tips on when and how to make good disclosures. Featuring Online...</p></details>
 
 6.<a id="endnote-6"></a>

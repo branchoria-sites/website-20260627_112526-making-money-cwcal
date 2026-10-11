@@ -861,7 +861,6 @@ In categories involving health, finance, childcare, electrical safety, or privac
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 3.<a id="endnote-3"></a>
    Source: ftc.gov  

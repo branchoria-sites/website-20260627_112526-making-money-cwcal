@@ -1015,7 +1015,6 @@ That is why “real buyer intent” is more than a keyword trick. It connects th
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 12.<a id="endnote-12"></a>
    Source: arxiv.org  

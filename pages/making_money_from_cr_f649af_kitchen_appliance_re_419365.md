@@ -1120,7 +1120,6 @@ For this niche, real-use flaws are not decoration. They are the content moat. No
 12.<a id="endnote-12"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 13.<a id="endnote-13"></a>
    Source: asa.org.uk  
@@ -1194,7 +1193,6 @@ For this niche, real-use flaws are not decoration. They are the content moat. No
 
 29.<a id="endnote-29"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 30.<a id="endnote-30"></a>
    Source: schoolsweb.buckinghamshire.gov.uk  

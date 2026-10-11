@@ -858,12 +858,10 @@ Finally, remember that these recommendations are commercial content. If affiliat
 
 5.<a id="endnote-5"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 6.<a id="endnote-6"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides are intended to give insight into what the FTC thinks about vari...</p></details>
 
 ### Additional References

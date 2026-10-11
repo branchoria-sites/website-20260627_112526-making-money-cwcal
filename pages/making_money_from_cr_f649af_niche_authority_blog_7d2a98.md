@@ -1272,7 +1272,6 @@ The opportunity is not to disguise a sales site as a blog. It is to build a spec
 49.<a id="endnote-49"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 50.<a id="endnote-50"></a>
    Source: seriouseats.com  
@@ -1324,7 +1323,6 @@ The opportunity is not to disguise a sales site as a blog. It is to build a spec
 
 60.<a id="endnote-60"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 61.<a id="endnote-61"></a>
    Source: GOV.UK  

@@ -1042,7 +1042,6 @@ The best baby travel affiliate content does not frighten parents or pretend that
 10.<a id="endnote-10"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 11.<a id="endnote-11"></a>
    Source: developers.google.com  

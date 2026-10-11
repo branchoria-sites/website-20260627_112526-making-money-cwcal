@@ -902,7 +902,6 @@ For readers, that makes purchasing decisions easier. For affiliate publishers, i
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — The Guides are intended to give...</p></details>
    Published: September 7, 2017  
 

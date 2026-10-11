@@ -982,7 +982,6 @@ That is the real mechanism. “Who should not buy” advice turns an affiliate r
 9.<a id="endnote-9"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 10.<a id="endnote-10"></a>
    Source: asa.org.uk  
@@ -1063,7 +1062,6 @@ That is the real mechanism. “Who should not buy” advice turns an affiliate r
 
 27.<a id="endnote-27"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 28.<a id="endnote-28"></a>
    Source: ftc.gov  

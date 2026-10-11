@@ -1082,7 +1082,6 @@ That is the central reason software affiliates can earn more: they are not merel
 
 17.<a id="endnote-17"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 18.<a id="endnote-18"></a>
    Source: partnerstack.com  
@@ -1170,7 +1169,6 @@ That is the central reason software affiliates can earn more: they are not merel
 36.<a id="endnote-36"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 37.<a id="endnote-37"></a>
    Source: impact.com  

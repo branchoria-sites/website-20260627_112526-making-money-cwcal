@@ -879,7 +879,6 @@ For affiliate publishers, the comparison itself becomes the evidence. Instead of
 
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionEndorsements, Influencers, and ReviewsOne key is to make a good disclosure of your relationship to the brand...</p></details>
 
 5.<a id="endnote-5"></a>

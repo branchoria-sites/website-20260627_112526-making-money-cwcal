@@ -767,11 +767,9 @@ In that context, the disclosure no longer feels like a legal warning. Instead, i
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingYou should disclose the affiliate relationship both in the videos and in the description...</p></details>
 
 3.<a id="endnote-3"></a>
@@ -787,7 +785,6 @@ In that context, the disclosure no longer feels like a legal warning. Instead, i
 5.<a id="endnote-5"></a>
    Source: consumer.ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>ftc.govFTC&#x27;s Endorsement Guides: What People Are AskingAdvertisers shouldn&#x27;t encourage endorsements using features that don&#x27;t allow for c...</p></details>
 
 ### Additional References

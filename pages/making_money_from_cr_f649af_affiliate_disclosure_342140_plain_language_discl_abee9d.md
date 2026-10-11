@@ -839,7 +839,6 @@ then the wording has achieved its purpose. The strongest affiliate disclosures a
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAs for where to place a disclosure, the guiding principle is that...</p></details>
 
 2.<a id="endnote-2"></a>

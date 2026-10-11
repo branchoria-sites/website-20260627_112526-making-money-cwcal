@@ -829,7 +829,6 @@ That balance is precisely what makes future affiliate recommendations more persu
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: Is “commissionable link” a good  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — “Paid link” right next to an af...</p></details>
    Published: September 7, 2017  
 
@@ -841,7 +840,6 @@ That balance is precisely what makes future affiliate recommendations more persu
 
 3.<a id="endnote-3"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 ### Additional References
 

@@ -798,7 +798,6 @@ Readers generally remember the reviewer who stopped them making an expensive mis
 
 7.<a id="endnote-7"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 8.<a id="endnote-8"></a>
    Source: federalregister.gov  
@@ -815,7 +814,6 @@ Readers generally remember the reviewer who stopped them making an expensive mis
 10.<a id="endnote-10"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — When the review has a clear and conspicuous disclosure of your relationship...</p></details>
 
 11.<a id="endnote-11"></a>
